@@ -92,3 +92,11 @@ flutter build apk --debug
 On macOS, use the same project, run `flutter pub get`, install the iOS pods if required, open `ios/Runner.xcworkspace`, use your existing signing configuration, and build a new TestFlight build with an unused build number. Do not reuse the original ZIP's build number `+6` for an upload already accepted by App Store Connect. Existing store releases are unchanged.
 
 TestFlight acceptance checks: complete ten free practice questions, review forward/back without score changes; buy each plan with a sandbox tester; confirm the expected entitlement and paid practice/mock access; restart the app; restore after reinstall; test cancellation and network failures; test login/logout and a second account; check all six languages including RTL layouts and missing-translation fallbacks.
+
+## Android emulator runtime verification
+
+The updated debug build was installed and launched successfully on the existing `melovibe` emulator. Firebase fetched 854 cloud questions and RevenueCat returned the expected product identifiers. Purchasable product retrieval failed with `BILLING_UNAVAILABLE`: this emulator has `PlayStore.enabled = no` and uses a Google APIs system image. It cannot validate Google Play purchases. This Android emulator result does not establish the cause of the separate iOS/TestFlight purchase problem.
+
+## Independent CDX repository
+
+This audited source is maintained separately as `PrepCivic-CDX`. The original app source/ZIP and original GitHub repository are not modified by creation of this copy. Application/store identifiers remain unchanged so Codemagic can build updates for the existing PrepCivic app.
