@@ -1,0 +1,281 @@
+type,text,placeholder,is_correct,level
+question,Quel numéro d'urgence permet d'appeler le SAMU ? ?) [What emergency number allows you to call the SAMU (emergency medical services)? ?)],,,lvl1
+answer,17 [17],,0.0,
+answer,15 [15],,1.0,
+answer,18 [18],,0.0,
+question,Quel numéro d'urgence permet d'appeler les pompiers ? ?) [What emergency number allows you to call the fire department? ?)],,,lvl1
+answer,15 [15],,0.0,
+answer,18 [18],,1.0,
+answer,17 [17],,0.0,
+question,"Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ? [After obtaining a driver's license, what must be done to be able to drive one's car?]",,,lvl1
+answer,Faire refaire sa carte d'identité. [Have one's identity card redone.],,0.0,
+answer,Faire assurer son véhicule (assurance obligatoire).।) [Insure one's vehicle (mandatory insurance).।)],,1.0,
+answer,Apposer un drapeau français sur la voiture. [Affix a French flag on the car.],,0.0,
+question,À quelles conditions un mariage est-il reconnu juridiquement ? [Under what conditions is a marriage legally recognized?],,,lvl1
+answer,Seulement s'il est célébré par une autorité religieuse. [Only if it is celebrated by a religious authority.],,0.0,
+answer,Seulement s'il est célébré à la mairie par une autorité civile. [Only if it is celebrated at the town hall by a civil authority.],,1.0,
+answer,S'il est célébré par l'Ambassade. [If it is celebrated by the Embassy.],,0.0,
+question,Quand faut-il déclarer son enfant au service d'état civil de la mairie ? ?) [When must one register one's child with the civil registry office of the town hall? ?)],,,lvl1
+answer,Dans les 30 jours après la naissance. [Within 30 days after birth.],,0.0,
+answer,Dans les 5 jours après la naissance (délai de 8 jours dans certaines communes).।) [Within 5 days after birth (8-day period in some municipalities).।)],,1.0,
+answer,Dans l'année suivant la naissance. [Within the year following birth.],,0.0,
+question,Le travail non déclaré est : [Undeclared work is:],,,lvl1
+answer,Autorisé s'il ne dépasse pas 10 heures par semaine. [Authorized if it does not exceed 10 hours per week.],,0.0,
+answer,Interdit et puni par la loi (travail dissimulé).।) [Prohibited and punished by law (concealed work).।)],,1.0,
+answer,Toléré pour les emplois de courte durée. [Tolerated for short-term jobs.],,0.0,
+question,Que doit faire un employeur pour fixer un salaire ? [What must an employer do to set a salary?],,,lvl1
+answer,Le fixer librement sans contrainte. [Set it freely without constraint.],,0.0,
+answer,Respecter le salaire minimum légal (SMIC) et les conventions collectives. ।) [Respect the legal minimum wage (SMIC) and collective agreements. ।)],,1.0,
+answer,Se baser uniquement sur le salaire d'autres pays. [Base it solely on the salary of other countries.],,0.0,
+question,Qu'est-ce que le SMIC ? [What is the SMIC?],,,lvl1
+answer,Le service militaire civique. [The civic military service.],,0.0,
+answer,Le salaire maximum en France. [The maximum salary in France.],,0.0,
+answer,Le salaire minimum légal que l'employeur doit payer. [The legal minimum wage that the employer must pay.],,1.0,
+question,Quelle est la première démarche à réaliser pour chercher un emploi ? [What is the first step to take when looking for a job?],,,lvl1
+answer,Acheter un costume de marque. [Buy a designer suit.],,0.0,
+answer,"S'inscrire auprès du service public de l'emploi (Pôle emploi, ou France Travail). ।) [Register with the public employment service (Pôle emploi, or France Travail). ।)]",,1.0,
+answer,Attendre qu'une entreprise vous appelle. [Wait for a company to call you.],,0.0,
+question,Quelle est la durée légale du temps de travail par semaine ? [What is the legal weekly working time?],,,lvl1
+answer,39 heures [39 hours],,0.0,
+answer,35 heures [35 hours],,1.0,
+answer,45 heures [45 hours],,0.0,
+question,Qui est aidé par France Travail ? ?) [Who is helped by France Travail? ?)],,,lvl1
+answer,Uniquement les étrangers. [Only foreigners.],,0.0,
+answer,Uniquement les jeunes de moins de 25 ans. [Only young people under 25.],,0.0,
+answer,"Toute personne en recherche d’emploi (travailleurs, salariés, demandeurs d'emploi...).।) [Anyone looking for a job (workers, employees, job seekers...).।)]",,1.0,
+question,Une personne étrangère en situation régulière peut créer son entreprise : [A foreign person in a regular situation can create their business:],,,lvl1
+answer,Seulement si elle est mariée à un(e) Français(e). [Only if they are married to a French person.],,0.0,
+answer,"Oui, sous les mêmes conditions qu’un citoyen français. [Yes, under the same conditions as a French citizen.]",,1.0,
+answer,"Non, ce droit est réservé aux nationaux. [No, this right is reserved for nationals.]",,0.0,
+question,Une femme peut-elle créer son entreprise ? [Can a woman create her own business?],,,lvl1
+answer,"Oui, mais seulement avec l'accord de son mari. [Yes, but only with her husband's agreement.]",,0.0,
+answer,"Non, si elle est mère. [No, if she is a mother.]",,0.0,
+answer,"Oui, elle a les mêmes droits que l'homme de créer et gérer une entreprise. [Yes, she has the same rights as a man to create and manage a business.]",,1.0,
+question,À partir de quel âge un mineur peut-il travailler ? [From what age can a minor work?],,,lvl1
+answer,À partir de 14 ans sans aucune condition. [From 14 years old without any condition.],,0.0,
+answer,À partir de 16 ans (ou 14 ans pour certains travaux légers ou stages).।) [From 16 years old (or 14 years old for certain light work or internships).।)],,1.0,
+answer,À partir de 18 ans seulement. [From 18 years old only.],,0.0,
+question,Auprès de quel organisme faut-il demander le remboursement des frais de santé ? [To which organization should one request reimbursement for health expenses?],,,lvl1
+answer,Auprès de la préfecture. [To the prefecture.],,0.0,
+answer,Auprès de l'Assurance Maladie (Caisse Primaire d'Assurance Maladie - CPAM). ।) [To the Health Insurance (Primary Health Insurance Fund - CPAM). ।)],,1.0,
+answer,Auprès de la banque. [To the bank.],,0.0,
+question,Qu’est-ce qu’un numéro d’urgence ? [What is an emergency number?],,,lvl1
+answer,Un numéro de téléphone pour commander de la nourriture. [A phone number to order food.],,0.0,
+answer,"Un numéro gratuit permettant d'appeler les secours (police, pompiers, SAMU) pour un danger immédiat. ।) [A free number to call emergency services (police, fire department, EMS) for immediate danger. ।)]",,1.0,
+answer,Un numéro de service client. [A customer service number.],,0.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? [Concerning access to healthcare, which statement is correct?]",,,lvl1
+answer,Seuls les Français peuvent être soignés. [Only French people can be treated.],,0.0,
+answer,Toute personne résidant en France a droit à une prise en charge de ses frais de santé (sous certaines conditions).।) [Any person residing in France has the right to coverage of their health expenses (under certain conditions).।)],,1.0,
+answer,Il faut payer la totalité de l'hospitalisation sans remboursement possible. [You must pay the entire cost of hospitalization without any possible reimbursement.],,0.0,
+question,"En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ? [In case of a non-urgent health problem, who should you contact first?]",,,lvl1
+answer,Aux urgences de l'hôpital [The hospital emergency room],,0.0,
+answer,Au médecin traitant (médecin généraliste déclaré). ।) [The attending physician (declared general practitioner). ।)],,1.0,
+answer,Aux pompiers [The fire department],,0.0,
+question,Quel est le rôle du médecin traitant ? ?) [What is the role of the attending physician? ?)],,,lvl1
+answer,Il assure le suivi régulier du patient et l'oriente vers des spécialistes (parcours de soins coordonnés).।) [They ensure the regular follow-up of the patient and refer them to specialists (coordinated care pathway).।)],,1.0,
+answer,Il distribue les médicaments gratuitement. [They distribute medicines for free.],,0.0,
+answer,Il donne des conseils pour trouver un emploi. [They give advice on finding a job.],,0.0,
+question,Dans quelles situations doit-on se rendre aux urgences de l'hôpital ? [In what situations should one go to the hospital emergency room?],,,lvl1
+answer,Pour un simple rhume. [For a simple cold.],,0.0,
+answer,Pour faire renouveler une ordonnance. [To get a prescription renewed.],,0.0,
+answer,"En cas d'urgence vitale (AVC, infarctus, blessure grave...) ou lorsque le médecin traitant n'est pas disponible et que l'état de santé le nécessite. ।) [In case of a vital emergency (stroke, heart attack, serious injury...) or when the attending physician is unavailable and the health condition requires it. ।)]",,1.0,
+question,Quel est l’objectif des vaccinations obligatoires ? [What is the objective of mandatory vaccinations?],,,lvl1
+answer,Réduire le nombre d'enfants dans les écoles. [To reduce the number of children in schools.],,0.0,
+answer,Protéger l'enfant et l'ensemble de la population (immunité collective).।) [To protect the child and the entire population (herd immunity).।)],,1.0,
+answer,Augmenter les revenus des médecins. [To increase doctors' incomes.],,0.0,
+question,À quoi sert la carte Vitale ? ?) [What is the Carte Vitale used for? ?)],,,lvl1
+answer,À payer ses impôts. [To pay taxes.],,0.0,
+answer,À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. ।) [To certify one's rights to Health Insurance and facilitate the reimbursement of care. ।)],,1.0,
+answer,À prouver son identité. [To prove one's identity.],,0.0,
+question,À quoi sert une mutuelle santé ? ?) [What is a mutual health insurance used for? ?)],,,lvl1
+answer,À remplacer l'Assurance Maladie. [To replace Health Insurance.],,0.0,
+answer,À compléter le remboursement des frais de santé non couverts par l'Assurance Maladie. [To supplement the reimbursement of health expenses not covered by Health Insurance.],,1.0,
+answer,À payer l'école des enfants. [To pay for children's school.],,0.0,
+question,Jusqu'à quel âge l'école est-elle obligatoire ? [Until what age is school mandatory?],,,lvl1
+answer,Jusqu'à 14 ans. [Until 14 years old.],,0.0,
+answer,De 3 ans à 16 ans. [From 3 to 16 years old.],,1.0,
+answer,Jusqu'à 18 ans. [Until 18 years old.],,0.0,
+question,L'autorité parentale prévoit l'obligation : [Parental authority provides for the obligation to:],,,lvl1
+answer,D'envoyer son enfant travailler. [Send one's child to work.],,0.0,
+answer,"De protéger son enfant, de l'éduquer et de subvenir à ses besoins. [Protect one's child, educate them, and provide for their needs.]",,1.0,
+answer,De laisser l'enfant choisir tout seul son école dès 6 ans. [Let the child choose their own school from age 6.],,0.0,
+question,Pour qui l'école est-elle obligatoire ? [For whom is school mandatory?],,,lvl1
+answer,Seulement pour les enfants de nationalité française. [Only for children of French nationality.],,0.0,
+answer,Pour tous les enfants (français et étrangers) résidant sur le territoire français de 3 à 16 ans. ।) [For all children (French and foreign) residing on French territory from 3 to 16 years old. ।)],,1.0,
+answer,Seulement pour les garçons. [Only for boys.],,0.0,
+question,Quel diplôme obtient-on à la fin du lycée ? [What diploma is obtained at the end of high school?],,,lvl1
+answer,Le Brevet des collèges [The Brevet des collèges],,0.0,
+answer,Le Baccalauréat (BAC)) [The Baccalauréat (BAC))],,1.0,
+answer,Le Certificat d'études primaires [The Certificate of Primary Education],,0.0,
+question,Dans quels établissements scolaires vont les élèves après l'école élémentaire ? [Which schools do students go to after elementary school?],,,lvl1
+answer,À l'université [To university],,0.0,
+answer,Au collège [To middle school],,1.0,
+answer,Au lycée [To high school],,0.0,
+question,Quel établissement scolaire accueille les enfants de 6 à 11 ans ? [Which school welcomes children aged 6 to 11?],,,lvl1
+answer,L'école maternelle [Nursery school],,0.0,
+answer,L'école élémentaire [Elementary school],,1.0,
+answer,Le lycée professionnel [Vocational high school],,0.0,
+question,Un enfant inscrit à l'école : [A child enrolled in school:],,,lvl1
+answer,Peut faire ce qu'il veut pendant les cours. [Can do whatever they want during class.],,0.0,
+answer,Doit respecter les règles de l'école (règlement intérieur) et le principe de laïcité. ।) [Must respect the school rules (internal regulations) and the principle of secularism. ।)],,1.0,
+answer,N'a pas besoin de respecter les enseignants. [Does not need to respect the teachers.],,0.0,
+question,Les enfants qui ne parlent pas français : [Children who do not speak French:],,,lvl1
+answer,Ne peuvent pas aller à l'école. [Cannot go to school.],,0.0,
+answer,Sont accueillis à l'école et peuvent bénéficier de dispositifs pour l'apprentissage du français. [Are welcomed at school and can benefit from systems for learning French.],,1.0,
+answer,Doivent apprendre le français seuls avant de venir en classe. [Must learn French on their own before coming to class.],,0.0,
+question,Quel mariage est reconnu par l'État ? [Which marriage is recognized by the State?],,,lvl2
+answer,Le mariage religieux. [Religious marriage.],,0.0,
+answer,Le mariage civil (célébré à la mairie).।) [Civil marriage (celebrated at the town hall).।)],,1.0,
+answer,Le mariage fait à l'étranger sans transcription. [Marriage done abroad without transcription.],,0.0,
+question,Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ? [At which institution can parents enroll their child in public school?],,,lvl2
+answer,Auprès de la préfecture. [At the prefecture.],,0.0,
+answer,Auprès de la mairie de leur commune de résidence. [At the town hall of their municipality of residence.],,1.0,
+answer,Auprès du tribunal. [At the court.],,0.0,
+question,"En cas de divorce, qui exerce l'autorité parentale ? [In case of divorce, who exercises parental authority?]",,,lvl2
+answer,Seulement le parent qui a la garde des enfants. [Only the parent who has custody of the children.],,0.0,
+answer,Les deux parents en commun (sauf décision contraire du juge). [Both parents jointly (unless decided otherwise by the judge).],,1.0,
+answer,Uniquement la mère. [Only the mother.],,0.0,
+question,Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ? [What aid allows people with financial difficulties to have a lawyer?],,,lvl2
+answer,L'aide au logement. [Housing aid.],,0.0,
+answer,L'aide juridictionnelle.।) [Legal aid.।)],,1.0,
+answer,L'allocation chômage. [Unemployment benefit.],,0.0,
+question,Où faut-il déclarer la naissance d'un enfant ? [Where must the birth of a child be declared?],,,lvl2
+answer,Auprès de la police. [To the police.],,0.0,
+answer,Auprès de l'état civil de la mairie du lieu de naissance. ।) [To the civil registry of the town hall of the place of birth. ।)],,1.0,
+answer,Auprès du consulat. [To the consulate.],,0.0,
+question,Quelle est l'une des conditions pour passer l'examen du permis de conduire ? [What is one of the conditions for taking the driving test?],,,lvl2
+answer,Avoir déjà possédé une voiture. [To have already owned a car.],,0.0,
+answer,Être âgé d'au moins 18 ans (sauf conduite accompagnée).।) [To be at least 18 years old (except for accompanied driving).।)],,1.0,
+answer,Parler couramment le français. [To speak fluent French.],,0.0,
+question,Un bail locatif est valide s'il est : [A rental lease is valid if it is:],,,lvl2
+answer,Seulement oral. [Only oral.],,0.0,
+answer,Écrit et signé par le locataire et le propriétaire (ou agence). ।) [Written and signed by the tenant and the landlord (or agency). ।)],,1.0,
+answer,Seulement visé par le tribunal. [Only endorsed by the court.],,0.0,
+question,Où peut-on déposer un lave-vaisselle cassé ? [Where can a broken dishwasher be disposed of?],,,lvl2
+answer,Dans les poubelles de la rue. [In the street bins.],,0.0,
+answer,À la déchetterie (ou par la collecte des encombrants).।) [At the recycling center (or via bulky waste collection).।)],,1.0,
+answer,Dans la forêt. [In the forest.],,0.0,
+question,Quel numéro d'urgence permet d'appeler la police ? [What emergency number allows you to call the police?],,,lvl2
+answer,18 [18],,0.0,
+answer,15 [15],,0.0,
+answer,17 [17],,1.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? [Concerning access to healthcare, which statement is correct?]",,,lvl2
+answer,L'accès aux soins est réservé aux Français. [Access to care is reserved for French people.],,0.0,
+answer,Toute personne résidant régulièrement en France a droit à la protection sociale pour la santé. [Anyone legally residing in France has the right to social protection for health.],,1.0,
+answer,Il faut payer la totalité des frais de santé soi-même. [You must pay all health costs yourself.],,0.0,
+question,À qui est accessible la contraception ? ?) [To whom is contraception accessible? ?)],,,lvl2
+answer,Seulement aux femmes mariées. [Only to married women.],,0.0,
+answer,"À toute personne (homme ou femme), et gratuite pour les mineures et les moins de 26 ans. , ।) [To any person (man or woman), and free for minors and those under 26. , ।)]",,1.0,
+answer,Seulement avec l'accord des parents pour les personnes majeures. [Only with parental consent for adults.],,0.0,
+question,Qu’est-ce que le principe de confidentialité dans le domaine de la santé ? [What is the principle of confidentiality in the healthcare field?],,,lvl2
+answer,L'obligation d'informer sa famille de sa maladie. [The obligation to inform one's family of one's illness.],,0.0,
+answer,L'interdiction pour les professionnels de santé de révéler les informations sur la santé du patient. [The prohibition for healthcare professionals to reveal information about the patient's health.],,1.0,
+answer,L'obligation pour le patient de ne parler de sa maladie à personne. [The obligation for the patient not to speak of their illness to anyone.],,0.0,
+question,L'inscription à l'Assurance maladie est : :) [Registration with Health Insurance is: :)],,,lvl2
+answer,Facultative pour les salariés. [Optional for employees.],,0.0,
+answer,Obligatoire pour les personnes qui travaillent ou résident régulièrement en France. [Mandatory for people who work or legally reside in France.],,1.0,
+answer,Uniquement pour les personnes nées en France. [Only for people born in France.],,0.0,
+question,Qui peut demander un congé parental d'éducation ? ?) [Who can request parental leave for education? ?)],,,lvl2
+answer,"Le père et la mère (ou l'un des deux), sous certaines conditions liées à l'ancienneté., ।) [The father and mother (or either of them), under certain conditions related to seniority., ।)]",,1.0,
+answer,Uniquement la mère si elle est salariée. [Only the mother if she is an employee.],,0.0,
+answer,Uniquement la grand-mère. [Only the grandmother.],,0.0,
+question,Quelles sont les affaires traitées par le conseil de prud'hommes ? ?) [What cases are handled by the labor court (conseil de prud'hommes)? ?)],,,lvl2
+answer,Les litiges entre voisins. [Disputes between neighbors.],,0.0,
+answer,"Les litiges individuels entre un employeur et un salarié (contrat de travail, licenciement...).।) [Individual disputes between an employer and an employee (employment contract, dismissal...).।)]",,1.0,
+answer,Les infractions au code de la route. [Traffic offenses.],,0.0,
+question,Travailler sans être déclaré est : [Working undeclared is:],,,lvl2
+answer,Un moyen normal de gagner de l'argent. [A normal way to earn money.],,0.0,
+answer,Un délit (travail dissimulé) puni par la loi.।) [An offense (concealed work) punished by law.।)],,1.0,
+answer,Un droit pour les personnes qui cherchent un emploi. [A right for people looking for a job.],,0.0,
+question,Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : [When an employer wants an employee to work longer than the duration specified in the employment contract:],,,lvl2
+answer,C'est interdit. [It is prohibited.],,0.0,
+answer,Le salarié doit le faire gratuitement. [The employee must do it for free.],,0.0,
+answer,"Il peut lui demander de faire des heures supplémentaires, qui doivent être payées (ou compensées) selon la loi. , ।) [They can ask them to work overtime, which must be paid (or compensated) according to the law. , ।)]",,1.0,
+question,Quelle est la mission de France Travail ? ?) [What is the mission of France Travail? ?)],,,lvl2
+answer,Accompagner les demandeurs d'emploi et indemniser les chômeurs. [Support job seekers and compensate the unemployed.],,1.0,
+answer,Rédiger les contrats de travail. [Draft employment contracts.],,0.0,
+answer,Payer les loyers des demandeurs d'emploi. [Pay the rent of job seekers.],,0.0,
+question,"Dans une entreprise, le droit syndical permet : [In a company, trade union rights allow:]",,,lvl2
+answer,D'interdire les réunions de salariés. [Prohibiting employee meetings.],,0.0,
+answer,Aux salariés de créer une organisation pour défendre leurs droits (syndicat). ।) [Employees to create an organization to defend their rights (trade union). ।)],,1.0,
+answer,Au patron d'augmenter les salaires sans l'accord des salariés. [The boss to increase salaries without the employees' agreement.],,0.0,
+question,"Dans une entreprise, le droit de grève autorise : [In a company, the right to strike authorizes:]",,,lvl2
+answer,Les salariés à refuser d'aller travailler sans prévenir. [Employees to refuse to go to work without warning.],,0.0,
+answer,L'arrêt collectif et concerté du travail pour la défense des intérêts professionnels. [The collective and concerted stoppage of work to defend professional interests.],,1.0,
+answer,Le chef d'entreprise à licencier tous les grévistes. [The business head to fire all strikers.],,0.0,
+question,Quelles sont les conditions pour toucher les allocations chômage ? [What are the conditions to receive unemployment benefits?],,,lvl2
+answer,Avoir plus de 60 ans. [To be over 60 years old.],,0.0,
+answer,Être inscrit à France Travail et justifier d'une période de travail suffisante. [To be registered with France Travail and justify a sufficient working period.],,1.0,
+answer,Avoir démissionné de son dernier emploi. [To have resigned from one's last job.],,0.0,
+question,Qu'est-ce que l'école maternelle ? ?) [What is nursery school? ?)],,,lvl2
+answer,Un lieu de garde pour les bébés. [A daycare center for babies.],,0.0,
+answer,L'école des 6-11 ans. [The school for 6-11 year olds.],,0.0,
+answer,La première étape de l'enseignement (pour les enfants de 3 à 6 ans).।) [The first stage of education (for children from 3 to 6 years old).।)],,1.0,
+question,Comment s'appelle le diplôme passé par les élèves à la fin du collège ? [What is the name of the diploma taken by students at the end of middle school?],,,lvl2
+answer,Le Baccalauréat [The Baccalaureate],,0.0,
+answer,Le Diplôme National du Brevet (DNB) ou Brevet des collèges. ।) [The National Diploma of the Brevet (DNB) or Brevet des collèges. ।)],,1.0,
+answer,Le permis de conduire [The driver's license],,0.0,
+question,Les parents d'élève ont le droit de : [Parents of students have the right to:],,,lvl2
+answer,D'interdire l'enseignement de certaines matières. [Prohibit the teaching of certain subjects.],,0.0,
+answer,D'être informés sur la scolarité de leur enfant et de participer à la vie de l'école (droit d'association et de réunion).।) [Be informed about their child's schooling and participate in school life (right of association and meeting).।)],,1.0,
+answer,De choisir eux-mêmes les professeurs de leur enfant. [Choose their child's teachers themselves.],,0.0,
+question,Qui peut manger à la cantine scolaire ? [Who can eat in the school canteen?],,,lvl2
+answer,Uniquement les élèves de l'école élémentaire. [Only elementary school students.],,0.0,
+answer,"Tous les élèves inscrits, dans le respect des règles de laïcité et du règlement de la cantine. [All enrolled students, respecting the rules of secularism and the canteen regulations.]",,1.0,
+answer,Seulement les enfants dont les parents sont en difficulté financière. [Only children whose parents are in financial difficulty.],,0.0,
+question,À quel âge commence l'instruction obligatoire des enfants ? [At what age does compulsory education for children begin?],,,lvl2
+answer,À 6 ans [At 6 years old],,0.0,
+answer,À 3 ans [At 3 years old],,1.0,
+answer,À 11 ans [At 11 years old],,0.0,
+question,Quel est l'âge de la majorité ? [What is the age of majority?],,,lvl2
+answer,21 ans [21 years old],,0.0,
+answer,18 ans [18 years old],,1.0,
+answer,16 ans [16 years old],,0.0,
+question,"À l'école, il est interdit aux parents de : [At school, parents are forbidden to:]",,,lvl2
+answer,Devenir représentants des parents d'élèves. [Become student parent representatives.],,0.0,
+answer,Porter des signes religieux ostentatoires (en tant qu'accompagnateurs de sorties scolaires par exemple).।) [Wear ostentatious religious symbols (as chaperones on school trips, for example).।)],,1.0,
+answer,Demander un rendez-vous à l'enseignant. [Ask for an appointment with the teacher.],,0.0,
+question,Quel motif d'absence est accepté par l'école ? [What reason for absence is accepted by the school?],,,lvl2
+answer,La maladie de l'enfant (justifiée par un certificat médical si l'absence est longue).।) [The child's illness (justified by a medical certificate if the absence is long).।)],,1.0,
+answer,Un voyage familial imprévu. [An unplanned family trip.],,0.0,
+answer,Une activité sportive ou culturelle non organisée par l'école. [A sporting or cultural activity not organized by the school.],,0.0,
+question,Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ? [Parents fail to comply with the compulsory education requirement for their children. What maximum penalty do they face?],,,lvl2
+answer,Une amende de 10 euros. [A 10 euro fine.],,0.0,
+answer,Une amende maximale de 7 500 euros et 6 mois de prison (en cas d'opposition aux contrôles).।) [A maximum fine of 7,500 euros and 6 months in prison (in case of opposition to checks).।)],,1.0,
+answer,Le retrait de leur droit de vote. [The withdrawal of their right to vote.],,0.0,
+question,Quand ont lieu les vacances scolaires de Noël ? [When are the Christmas school holidays?],,,lvl2
+answer,En février. [In February.],,0.0,
+answer,En décembre. [In December.],,1.0,
+answer,En juillet et août. [In July and August.],,0.0,
+question,"À l'école, un enfant en situation de handicap : [At school, a child with a disability:]",,,lvl2
+answer,Ne peut pas être inscrit à l'école publique. [Cannot be enrolled in a public school.],,0.0,
+answer,A le droit d'être scolarisé et de bénéficier d'un accompagnement adapté (AESH). ।) [Has the right to attend school and receive adapted support (AESH). ।)],,1.0,
+answer,Est obligé de rester à la maison. [Is forced to stay at home.],,0.0,
+question,"À l’école, il est interdit aux parents de : [At school, parents are forbidden to:]",,,lvl3
+answer,Contester l’autorité des enseignants dans l’établissement. [Challenge the authority of teachers in the establishment.],,1.0,
+answer,Dialoguer avec l’école. [Dialogue with the school.],,0.0,
+answer,Participer aux réunions. [Attend meetings.],,0.0,
+question,Qui peut demander un congé parental d’éducation ? [Who can request parental leave for education?],,,lvl3
+answer,Les étudiants. [Students.],,0.0,
+answer,Les employeurs. [Employers.],,0.0,
+answer,Les parents salariés. [Employed parents.],,1.0,
+question,À qui est accessible la contraception ? [To whom is contraception accessible?],,,lvl3
+answer,Aux personnes mariées uniquement. [To married people only.],,0.0,
+answer,Aux personnes majeures seulement. [To adult people only.],,0.0,
+answer,"À toutes les personnes, majeures ou mineures. [To all people, adult or minor.]",,1.0,
+question,"Dans une entreprise, le droit syndical permet : [In a company, trade union rights allow:]",,,lvl3
+answer,De diriger l’entreprise. [To run the company.],,0.0,
+answer,De fixer les salaires. [To set salaries.],,0.0,
+answer,De créer ou rejoindre un syndicat. [To create or join a union.],,1.0,
+question,Quel motif d’absence est accepté par l’école ? [What reason for absence is accepted by the school?],,,lvl3
+answer,La maladie de l’enfant. [The child's illness.],,1.0,
+answer,Les vacances hors calendrier. [Vacations outside the calendar.],,0.0,
+answer,Le refus d’aller en cours. [Refusal to attend class.],,0.0,
+question,Lorsqu’un employeur veut qu’un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : [When an employer wants an employee to work longer than the duration specified in the employment contract:],,,lvl3
+answer,Il doit respecter la loi et payer les heures supplémentaires. [He must respect the law and pay overtime.],,1.0,
+answer,Il peut l’imposer librement. [He can impose it freely.],,0.0,
+answer,Aucune règle ne s’applique. [No rule applies.],,0.0,
+question,"Dans une entreprise, le droit de grève autorise : [In a company, the right to strike authorizes:]",,,lvl3
+answer,À empêcher les non-grévistes de travailler. [To prevent non-strikers from working.],,0.0,
+answer,À bloquer l’entreprise indéfiniment. [To blockade the company indefinitely.],,0.0,
+answer,À cesser collectivement le travail pour défendre des revendications. [To collectively stop work to defend demands.],,1.0,

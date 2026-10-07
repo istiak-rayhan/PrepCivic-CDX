@@ -1,0 +1,893 @@
+type,text,placeholder,is_correct,level
+question,"En quelle année a débuté la Révolution française ? (ফরাসি বিপ্লব কোন বছর শুরু হয়েছিল?)",,,lvl1
+answer,"1815 (১৮১৫)",,0,
+answer,"1789 (১৭৮৯)",,1,
+answer,"1944 (১৯৪৪)",,0,
+question,"Qui était Napoléon Ier ? (নেপোলিয়ন প্রথম কে ছিলেন?)",,,lvl1
+answer,"Un roi de France (ফ্রান্সের একজন রাজা)",,0,
+answer,"L'Empereur des Français (ফরাসিদের সম্রাট)",,1,
+answer,"Un philosophe du 18e siècle (১৮শ শতকের একজন দার্শনিক)",,0,
+question,"Lequel de ces personnages historiques est français ? (এই ঐতিহাসিক ব্যক্তিত্বদের মধ্যে কে ফরাসি?)",,,lvl1
+answer,"Albert Einstein",,0,
+answer,"Marie Curie",,1,
+answer,"Isaac Newton",,0,
+question,"Dans quelle République est-on aujourd'hui ? (আজ আমরা কোন প্রজাতন্ত্রে আছি?)",,,lvl1
+answer,"La Troisième République (তৃতীয় প্রজাতন্ত্র)",,0,
+answer,"La Cinquième République (পঞ্চম প্রজাতন্ত্র)",,1,
+answer,"La Sixième République (ষষ্ঠ প্রজাতন্ত্র)",,0,
+question,"Qu'est-ce que la Shoah ? (শোয়া (Shoah) কী?)",,,lvl1
+answer,"La guerre entre la France et l'Allemagne (ফ্রান্স ও জার্মানির মধ্যে যুদ্ধ)",,0,
+answer,"Le génocide des Juifs pendant la Seconde Guerre mondiale. (দ্বিতীয় বিশ্বযুদ্ধের সময় ইহুদিদের গণহত্যা।)",,1,
+answer,"La période de la colonisation française (ফরাসি উপনিবেশের সময়কাল)",,0,
+question,"Quel pays ou région du monde a été colonisé par la France ? (বিশ্বের কোন দেশ বা অঞ্চল ফ্রান্স দ্বারা উপনিবেশিত হয়েছিল?)",,,lvl1
+answer,"Le Japon (জাপান)",,0,
+answer,"L'Algérie (আলজেরিয়া)",,1,
+answer,"La Chine (চীন)",,0,
+question,"Qui a rendu l’école gratuite, laïque et obligatoire ? (কে স্কুলকে বিনামূল্যে, ধর্মনিরপেক্ষ ও বাধ্যতামূলক করেছিলেন?)",,,lvl1
+answer,"Napoléon III",,0,
+answer,"Jules Ferry",,1,
+answer,"Le Général de Gaulle",,0,
+question,"Quand a eu lieu la Seconde Guerre mondiale ? (দ্বিতীয় বিশ্বযুদ্ধ কখন হয়েছিল?)",,,lvl1
+answer,"De 1914 à 1918 (১৯১৪ থেকে ১৯১৮ সাল পর্যন্ত)",,0,
+answer,"De 1930 à 1935 (১৯৩০ থেকে ১৯৩৫ সাল পর্যন্ত)",,0,
+answer,"De 1939 à 1945 (১৯৩৯ থেকে ১৯৪৫ সাল পর্যন্ত)",,1,
+question,"Quand a eu lieu la Première Guerre mondiale ? (প্রথম বিশ্বযুদ্ধ কখন হয়েছিল?)",,,lvl1
+answer,"De 1870 à 1871 (১৮৭০ থেকে ১৮৭১ সাল পর্যন্ত)",,0,
+answer,"De 1914 à 1918 (১৯১৪ থেকে ১৯১৮ সাল পর্যন্ত)",,1,
+answer,"De 1940 à 1945 (১৯৪০ থেকে ১৯৪৫ সাল পর্যন্ত)",,0,
+question,"En quelle année a été créée la Communauté Économique Européenne (CEE) ? (ইউরোপীয় অর্থনৈতিক সম্প্রদায় (CEE) কোন বছর প্রতিষ্ঠিত হয়েছিল?)",,,lvl1
+answer,"1945 (১৯৪৫)",,0,
+answer,"1957 (১৯৫৭)",,1,
+answer,"1992 (১৯৯২)",,0,
+question,"Le 11 novembre est un jour férié. À quoi correspond cette date ? (১১ই নভেম্বর একটি ছুটির দিন। এই তারিখটি কিসের সাথে সম্পর্কিত?)",,,lvl1
+answer,"La Fête de la Victoire de 1945. (১৯৪৫ সালের বিজয় উৎসব।)",,0,
+answer,"L'Armistice de 1918 (fin de la Première Guerre mondiale). (১৯১৮ সালের যুদ্ধবিরতি (প্রথম বিশ্বযুদ্ধের সমাপ্তি)।)",,1,
+answer,"La Fête Nationale. (জাতীয় উৎসব।)",,0,
+question,"Qui a été le premier Président élu sous la Ve République ? (কে পঞ্চম প্রজাতন্ত্রের অধীনে নির্বাচিত প্রথম রাষ্ট্রপতি ছিলেন?)",,,lvl1
+answer,"François Mitterrand",,0,
+answer,"Charles de Gaulle",,1,
+answer,"Georges Pompidou",,0,
+question,"En quelle année l'esclavage a-t-il été aboli définitivement en France ? (ফ্রান্সে দাসপ্রথা কোন বছর চূড়ান্তভাবে বিলুপ্ত হয়েছিল?)",,,lvl1
+answer,"1789 (১৭৮৯)",,0,
+answer,"1905 (১৯০৫)",,0,
+answer,"1848 (১৮৪৮)",,1,
+question,"Depuis quelle année l'école publique est-elle gratuite ? (কোন বছর থেকে পাবলিক স্কুল বিনামূল্যে হয়েছে?)",,,lvl1
+answer,"1804 (১৮০৪)",,0,
+answer,"1881 (১৮৮১)",,1,
+answer,"1958 (১৯৫৮)",,0,
+question,"Combien y a-t-il eu de républiques en France ? (ফ্রান্সে কয়টি প্রজাতন্ত্র হয়েছে?)",,,lvl1
+answer,"Trois (তিনটি)",,0,
+answer,"Quatre (চারটি)",,0,
+answer,"Cinq (পাঁচটি)",,1,
+question,"Qui était le roi de France au moment de la Révolution française ? (ফরাসি বিপ্লবের সময় ফ্রান্সের রাজা কে ছিলেন?)",,,lvl1
+answer,"Henri IV (অঁরি চতুর্থ)",,0,
+answer,"Louis XVI (ষোড়শ লুই)",,1,
+answer,"Louis XIV (চতুর্দশ লুই)",,0,
+question,"Qui a fondé la Ve République ? (কে পঞ্চম প্রজাতন্ত্র প্রতিষ্ঠা করেছিলেন?)",,,lvl1
+answer,"François Mitterrand",,0,
+answer,"Le Général de Gaulle",,1,
+answer,"Georges Clemenceau",,0,
+question,"Que célèbre-t-on le 14 juillet ? (১৪ই জুলাই কী উদযাপন করা হয়?)",,,lvl1
+answer,"La prise de la Bastille (et la Fête de la Fédération). (বাস্তিল দুর্গের পতন (এবং ফেডারেশন উৎসব)।)",,1,
+answer,"La fin de la Seconde Guerre mondiale (দ্বিতীয় বিশ্বযুদ্ধের সমাপ্তি)",,0,
+answer,"L'abolition de l'esclavage (দাসপ্রথা বিলোপ)",,0,
+question,"Quelle guerre a eu lieu entre 1914 et 1918 ? (১৯১৪ থেকে ১৯১৮ সালের মধ্যে কোন যুদ্ধ হয়েছিল?)",,,lvl1
+answer,"La guerre franco-prussienne (ফ্রাঙ্কো-প্রুশিয়ান যুদ্ধ)",,0,
+answer,"La Seconde Guerre mondiale (দ্বিতীয় বিশ্বযুদ্ধ)",,0,
+answer,"La Première Guerre mondiale (প্রথম বিশ্বযুদ্ধ)",,1,
+question,"Pourquoi l’année 1958 est importante pour la France ? (কেন ১৯৫৮ সাল ফ্রান্সের জন্য গুরুত্বপূর্ণ?)",,,lvl1
+answer,"Fin de la Seconde Guerre mondiale (দ্বিতীয় বিশ্বযুদ্ধের সমাপ্তি)",,0,
+answer,"Adoption de la Constitution de la Ve République (পঞ্চম প্রজাতন্ত্রের সংবিধান গ্রহণ)",,1,
+answer,"Vote de la loi de séparation des Églises et de l'État (গির্জা ও রাষ্ট্র পৃথকীকরণ আইনের ভোট)",,0,
+question,"Quel fleuve coule en France ? (কোন নদী ফ্রান্সে প্রবাহিত হয়েছে?)",,,lvl1
+answer,"Le Danube",,0,
+answer,"La Seine",,1,
+answer,"Le Rhin",,0,
+question,"Quelle ville est française ? (কোন শহরটি ফরাসি?)",,,lvl1
+answer,"Genève (জেনেভা)",,0,
+answer,"Lyon (লিওঁ)",,1,
+answer,"Barcelone (বার্সেলোনা)",,0,
+question,"Quel océan borde la côte ouest française ? (ফ্রান্সের পশ্চিম উপকূলের সাথে কোন মহাসাগর যুক্ত?)",,,lvl1
+answer,"L'océan Indien (ভারত মহাসাগর)",,0,
+answer,"L'océan Atlantique (আটলান্টিক মহাসাগর)",,1,
+answer,"L'océan Pacifique (প্রশান্ত মহাসাগর)",,0,
+question,"Qu'est-ce que Paris ? (প্যারিস কী?)",,,lvl1
+answer,"Un département d'outre-mer (একটি বিদেশী দেপার্তমঁ)",,0,
+answer,"Une région (একটি অঞ্চল)",,0,
+answer,"La capitale de la France (ফ্রান্সের রাজধানী)",,1,
+question,"Quelle est la capitale de la France ? (ফ্রান্সের রাজধানী কী?)",,,lvl1
+answer,"Marseille (মার্সেই)",,0,
+answer,"Paris (প্যারিস)",,1,
+answer,"Bordeaux (বোর্দো)",,0,
+question,"Sur quel continent se situe la France métropolitaine ? (মূল ভূখণ্ড ফ্রান্স কোন মহাদেশে অবস্থিত?)",,,lvl1
+answer,"L'Afrique (আফ্রিকা)",,0,
+answer,"L'Europe (ইউরোপ)",,1,
+answer,"L'Asie (এশিয়া)",,0,
+question,"Quelle île est un département d'outre-mer français ? (কোন দ্বীপটি একটি ফরাসি বিদেশী দেপার্তমঁ (département d'outre-mer)?)",,,lvl1
+answer,"La Sicile (সিসিলি)",,0,
+answer,"La Martinique (মার্তিনিক)",,1,
+answer,"La Corse (কর্শিকা)",,0,
+question,"Combien y a-t-il de régions en France métropolitaine ? (মূল ভূখণ্ড ফ্রান্সে কতগুলি অঞ্চল (régions) আছে?)",,,lvl1
+answer,"5 (৫টি)",,0,
+answer,"13 (১৩টি)",,1,
+answer,"22 (২২টি)",,0,
+question,"Quelle ville est un grand port maritime ? (কোন শহরটি একটি বড় সমুদ্র বন্দর?)",,,lvl1
+answer,"Strasbourg (স্ট্রাসবুর্গ)",,0,
+answer,"Marseille (মার্সেই)",,1,
+answer,"Dijon (ডিজোঁ)",,0,
+question,"Quelle est la mer au sud de la France métropolitaine ? (মূল ভূখণ্ড ফ্রান্সের দক্ষিণে কোন সাগর?)",,,lvl1
+answer,"La Manche (ইংলিশ চ্যানেল)",,0,
+answer,"La mer du Nord (উত্তর সাগর)",,0,
+answer,"La mer Méditerranée (ভূমধ্যসাগর)",,1,
+question,"Quelle ville est située au bord de la mer Méditerranée ? (কোন শহরটি ভূমধ্যসাগরের তীরে অবস্থিত?)",,,lvl1
+answer,"Nantes (নাঁত)",,0,
+answer,"Nice (নিস)",,1,
+answer,"Lille (লিল)",,0,
+question,"Où se situe la Corse ? (কর্শিকা কোথায় অবস্থিত?)",,,lvl1
+answer,"Dans l'océan Atlantique (আটলান্টিক মহাসাগরে)",,0,
+answer,"Dans la mer du Nord (উত্তর সাগরে)",,0,
+answer,"Dans la mer Méditerranée (ভূমধ্যসাগরে)",,1,
+question,"Quelle chaîne de montagnes est située entre la France et l'Italie ? (ফ্রান্স ও ইতালির মধ্যে কোন পর্বতশ্রেণী অবস্থিত?)",,,lvl1
+answer,"Les Pyrénées (পীরেনিজ)",,0,
+answer,"Les Alpes (আল্পস)",,1,
+answer,"Les Vosges (ভোজ)",,0,
+question,"Qui était Molière ? (মলিয়ের কে ছিলেন?)",,,lvl1
+answer,"Un peintre (একজন চিত্রশিল্পী)",,0,
+answer,"Un dramaturge (auteur de théâtre) du 17e siècle. (১৭শ শতকের একজন নাট্যকার (নাট্যলেখক)।)",,1,
+answer,"Un général de l'armée (সেনাবাহিনীর একজন জেনারেল)",,0,
+question,"Qui était Charles Baudelaire ? (শার্ল বোদলেয়ার কে ছিলেন?)",,,lvl1
+answer,"Un chef d'orchestre (একজন অর্কেস্ট্রা পরিচালক)",,0,
+answer,"Un poète français du 19e siècle (auteur des Fleurs du Mal). (১৯শ শতকের একজন ফরাসি কবি (লে ফ্লেয়ার্স দু ম্যাল এর লেখক)।)",,1,
+answer,"Un architecte (একজন স্থপতি)",,0,
+question,"Qui était George Sand ? (জর্জ সঁদ কে ছিলেন?)",,,lvl1
+answer,"Une mathématicienne (একজন গণিতজ্ঞ)",,0,
+answer,"Une écrivaine romantique française du 19e siècle. (১৯শ শতকের একজন ফরাসি রোমান্টিক লেখিকা।)",,1,
+answer,"Une chanteuse d'opéra (একজন অপেরা গায়িকা)",,0,
+question,"Qui était Simone de Beauvoir ? (সিমোন দ্য বোভোয়ার কে ছিলেন?)",,,lvl1
+answer,"Une actrice célèbre (একজন বিখ্যাত অভিনেত্রী)",,0,
+answer,"Une écrivaine et philosophe du 20e siècle (figure majeure du féminisme). (২০শ শতকের একজন লেখিকা ও দার্শনিক (নারীবাদী আন্দোলনের প্রধান ব্যক্তিত্ব)।)",,1,
+answer,"Une reine de France (ফ্রান্সের একজন রাণী)",,0,
+question,"Qui était Albert Camus ? (আলবেয়ার কামু কে ছিলেন?)",,,lvl1
+answer,"Un explorateur (একজন পরিব্রাজক)",,0,
+answer,"Un sculpteur (একজন ভাস্কর)",,0,
+answer,"Un écrivain et philosophe français (prix Nobel de littérature). (একজন ফরাসি লেখক ও দার্শনিক (সাহিত্যে নোবেল পুরস্কার বিজয়ী)।)",,1,
+question,"Qui était Paul Cézanne ? (পোল সেজান কে ছিলেন?)",,,lvl1
+answer,"Un inventeur (একজন আবিষ্কারক)",,0,
+answer,"Un peintre post-impressionniste français. (একজন ফরাসি উত্তর-প্রভাববাদী চিত্রশিল্পী।)",,1,
+answer,"Un homme politique (একজন রাজনীতিবিদ)",,0,
+question,"Qui était Marc Chagall ? (মার্ক শাগাল কে ছিলেন?)",,,lvl1
+answer,"Un mathématicien (একজন গণিতবিদ)",,0,
+answer,"Un peintre et graveur français d'origine biélorusse. (বেলারুশীয় বংশোদ্ভূত একজন ফরাসি চিত্রশিল্পী ও খোদাইকারী।)",,1,
+answer,"Un compositeur de musique (একজন সঙ্গীত সুরকার)",,0,
+question,"Qui était Joséphine Baker ? (জোসেফাইন বেকার কে ছিলেন?)",,,lvl1
+answer,"Une mathématicienne (একজন গণিতজ্ঞ)",,0,
+answer,"Une artiste de music-hall et résistante française (panthéonisée). (একজন মিউজিক-হলের শিল্পী এবং ফরাসি প্রতিরোধ যোদ্ধা (প্যান্থিয়নে সমাধিস্থ)।)",,1,
+answer,"Une femme politique (একজন রাজনীতিবিদ)",,0,
+question,"Qui était une chanteuse française célèbre ? (কে একজন বিখ্যাত ফরাসি গায়িকা ছিলেন?)",,,lvl1
+answer,"Marie Curie (মারি কুরি)",,0,
+answer,"Édith Piaf (এদিথ পিয়াফ)",,1,
+answer,"George Sand (জর্জ সঁদ)",,0,
+question,"Qu'est-ce que le Louvre ? (ল্যুভর কী?)",,,lvl1
+answer,"Le siège de l'Assemblée Nationale (জাতীয় পরিষদের সদর দপ্তর)",,0,
+answer,"Le plus grand musée du monde (situé à Paris). (বিশ্বের বৃহত্তম জাদুঘর (প্যারিসে অবস্থিত)।)",,1,
+answer,"Un grand magasin (একটি ডিপার্টমেন্টাল স্টোর)",,0,
+question,"Qui était Jean de la Fontaine ? (জাঁ দ্য লা ফঁতেন কে ছিলেন?)",,,lvl1
+answer,"Un peintre (একজন চিত্রশিল্পী)",,0,
+answer,"Un poète français, célèbre pour ses fables. (একজন ফরাসি কবি, যিনি তার নীতিগল্পের (fables) জন্য বিখ্যাত।)",,1,
+answer,"Un explorateur (একজন পরিব্রাজক)",,0,
+question,"Quel écrivain est français ? (কোন লেখক ফরাসি?)",,,lvl1
+answer,"William Shakespeare (উইলিয়াম শেক্সপিয়র)",,0,
+answer,"Victor Hugo (ভিক্টর হুগো)",,1,
+answer,"Jane Austen (জেন অস্টেন)",,0,
+question,"Dans quelle ville se trouve la tour Eiffel ? (আইফেল টাওয়ার কোন শহরে অবস্থিত?)",,,lvl1
+answer,"Lyon (লিওঁ)",,0,
+answer,"Paris (প্যারিস)",,1,
+answer,"Marseille (মার্সেই)",,0,
+question,"Quand célèbre-t-on Noël ? (কবে ক্রিসমাস (Noël) উদযাপন করা হয়?)",,,lvl2
+answer,"Le 1er janvier (১লা জানুয়ারি)",,0,
+answer,"Le 14 juillet (১৪ই জুলাই)",,0,
+answer,"Le 25 décembre (২৫শে ডিসেম্বর)",,1,
+question,"Quel était le surnom de Louis XIV ? (ষোড়শ লুই-এর ডাকনাম কী ছিল?)",,,lvl2
+answer,"Le Bon Roi (ভালো রাজা)",,0,
+answer,"Le Roi Soleil (সূর্য রাজা)",,1,
+answer,"Le Petit Roi (ছোট রাজা)",,0,
+question,"Quel roi de France a été exécuté pendant la Révolution française ? (ফরাসি বিপ্লবের সময় ফ্রান্সের কোন রাজাকে মৃত্যুদণ্ড দেওয়া হয়েছিল?)",,,lvl2
+answer,"Louis XV (পঞ্চদশ লুই)",,0,
+answer,"Louis XVI (ষোড়শ লুই)",,1,
+answer,"Henri IV (অঁরি চতুর্থ)",,0,
+question,"En quelle année Napoléon Ier est-il devenu empereur ? (নেপোলিয়ন প্রথম কোন বছর সম্রাট হয়েছিলেন?)",,,lvl2
+answer,"1789 (১৭৮৯)",,0,
+answer,"1800 (১৮০০)",,0,
+answer,"1804 (১৮০৪)",,1,
+question,"Lequel de ces personnages a un lien avec la République française ? (এই ব্যক্তিত্বদের মধ্যে কার ফরাসি প্রজাতন্ত্রের সাথে একটি সংযোগ আছে?)",,,lvl2
+answer,"La Reine Victoria",,0,
+answer,"Le Tsar Nicolas II",,0,
+answer,"Georges Clemenceau",,1,
+question,"De quand date l'appel à la résistance du général de Gaulle ? (জেনারেল দ্য গলের প্রতিরোধের আহ্বান কখন হয়েছিল?)",,,lvl2
+answer,"Le 6 juin 1944 (৬ই জুন ১৯৪৪)",,0,
+answer,"Le 18 juin 1940 (১৮ই জুন ১৯৪০)",,1,
+answer,"Le 11 novembre 1918 (১১ই নভেম্বর ১৯১৮)",,0,
+question,"Pourquoi la Shoah est-elle étudiée à l'école ? (কেন স্কুলে শোয়া (Shoah) অধ্যয়ন করা হয়?)",,,lvl2
+answer,"Pour réviser l'Histoire ancienne. (প্রাচীন ইতিহাস পুনর্বিবেচনা করার জন্য।)",,0,
+answer,"Pour transmettre le souvenir du génocide des Juifs et lutter contre le racisme. (ইহুদিদের গণহত্যার স্মৃতি সঞ্চারিত করতে এবং বর্ণবাদের বিরুদ্ধে লড়াই করার জন্য।)",,1,
+answer,"Pour glorifier les héros de guerre. (যুদ্ধের বীরদের মহিমান্বিত করার জন্য।)",,0,
+question,"Quel pays a été colonisé par la France ? (কোন দেশ ফ্রান্স দ্বারা উপনিবেশিত হয়েছিল?)",,,lvl2
+answer,"Le Brésil (ব্রাজিল)",,0,
+answer,"Le Sénégal (সেনেগাল)",,1,
+answer,"L'Australie (অস্ট্রেলিয়া)",,0,
+question,"Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ? (কবে থেকে ফরাসিরা সরাসরি সর্বজনীন ভোটাধিকারের মাধ্যমে প্রজাতন্ত্রের রাষ্ট্রপতি নির্বাচন করে আসছে?)",,,lvl2
+answer,"1945 (১৯৪৫)",,0,
+answer,"1962 (১৯৬২)",,1,
+answer,"1981 (১৯৮১)",,0,
+question,"Quelle est la première étape de la construction européenne en 1951 ? (১৯৫১ সালে ইউরোপীয় গঠনের প্রথম ধাপ কী?)",,,lvl2
+answer,"La création de l'Euro. (ইউরো সৃষ্টি।)",,0,
+answer,"La création de la Communauté européenne du charbon et de l'acier (CECA). (ইউরোপীয় কয়লা ও ইস্পাত সম্প্রদায় (CECA) সৃষ্টি।)",,1,
+answer,"La fin de la Seconde Guerre mondiale. (দ্বিতীয় বিশ্বযুদ্ধের সমাপ্তি।)",,0,
+question,"Durant le mandat de quel président la peine de mort a-t-elle été abolie ? (কোন রাষ্ট্রপতির মেয়াদের সময় মৃত্যুদণ্ড বিলুপ্ত হয়েছিল?)",,,lvl2
+answer,"Charles de Gaulle",,0,
+answer,"Valéry Giscard d'Estaing",,0,
+answer,"François Mitterrand",,1,
+question,"Quel régime politique a été mis en place pendant la Révolution française en 1792 ? (১৭৯২ সালে ফরাসি বিপ্লবের সময় কোন রাজনৈতিক ব্যবস্থা প্রতিষ্ঠিত হয়েছিল?)",,,lvl2
+answer,"L'Empire (সাম্রাজ্য)",,0,
+answer,"La Première République (প্রথম প্রজাতন্ত্র)",,1,
+answer,"La monarchie constitutionnelle (সাংবিধানিক রাজতন্ত্র)",,0,
+question,"Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ? (দ্বিতীয় বিশ্বযুদ্ধের সময় ফরাসি প্রতিরোধের একজন ব্যক্তিত্ব কে ছিলেন?)",,,lvl2
+answer,"Napoléon Ier",,0,
+answer,"Jean Moulin",,1,
+answer,"Victor Hugo",,0,
+question,"En 1944, qu'est-ce qui a changé pour les femmes ? (১৯৪৪ সালে মহিলাদের জন্য কী পরিবর্তিত হয়েছিল?)",,,lvl2
+answer,"Elles ont eu le droit de travailler. (তারা কাজ করার অধিকার পেয়েছিল।)",,0,
+answer,"Elles ont obtenu le droit de vote. (তারা ভোট দেওয়ার অধিকার পেয়েছিল।)",,1,
+answer,"Elles sont devenues éligibles au Sénat. (তারা সেনেটে নির্বাচিত হওয়ার যোগ্য হয়েছিল।)",,0,
+question,"Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ? (দ্বিতীয় বিশ্বযুদ্ধের পর ১৯৪৫ সালে কোন আন্তর্জাতিক সংস্থা তৈরি হয়েছিল?)",,,lvl2
+answer,"L'Union Européenne (ইউরোপীয় ইউনিয়ন)",,0,
+answer,"L'Organisation des Nations unies (ONU) (জাতিসংঘ (ONU))",,1,
+answer,"L'OTAN (NATO) (ন্যাটো)",,0,
+question,"Quelle peine a été supprimée en 1981 ? (১৯৮১ সালে কোন শাস্তি বাতিল করা হয়েছিল?)",,,lvl2
+answer,"L'emprisonnement à vie (আজীবন কারাদণ্ড)",,0,
+answer,"La peine de mort (মৃত্যুদণ্ড)",,1,
+answer,"L'amende pour stationnement (পার্কিং-এর জন্য জরিমানা)",,0,
+question,"En quelle année l'euro est-elle devenue la monnaie utilisée en France ? (কোন বছর ইউরো ফ্রান্সে ব্যবহৃত মুদ্রা হয়েছিল?)",,,lvl2
+answer,"1999 (১৯৯৯)",,0,
+answer,"2002 (২০০২)",,1,
+answer,"2007 (২০০৭)",,0,
+question,"En quelle année a commencé la Première Guerre mondiale ? (কোন বছর প্রথম বিশ্বযুদ্ধ শুরু হয়েছিল?)",,,lvl2
+answer,"1939 (১৯৩৯)",,0,
+answer,"1914 (১৯১৪)",,1,
+answer,"1940 (১৯৪০)",,0,
+question,"Où a eu lieu le débarquement en 1944 ? (১৯৪৪ সালে অবতরণ (débarquement) কোথায় হয়েছিল?)",,,lvl2
+answer,"Sur les côtes de la Méditerranée",,0,
+answer,"En Normandie",,1,
+answer,"Dans le Nord de la France",,0,
+question,"Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ? (দ্বিতীয় বিশ্বযুদ্ধের পর ফরাসি উপনিবেশ অবসানের ক্ষেত্রে কোন মহাদেশটি সবচেয়ে বেশি সংশ্লিষ্ট ছিল?)",,,lvl2
+answer,"L'Amérique (আমেরিকা)",,0,
+answer,"L'Afrique (আফ্রিকা)",,1,
+answer,"L'Océanie (ওশেনিয়া)",,0,
+question,"Que fête-t-on le 8 mai ? (৮ই মে কী উদযাপন করা হয়?)",,,lvl2
+answer,"La prise de la Bastille (বাস্তিল দুর্গের পতন)",,0,
+answer,"La Victoire des Alliés sur l'Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe). (১৯৪৫ সালে নাৎসি জার্মানির উপর মিত্রবাহিনীর বিজয় (ইউরোপে দ্বিতীয় বিশ্বযুদ্ধের সমাপ্তি)।)",,1,
+answer,"La Fête du Travail (শ্রমিক দিবস)",,0,
+question,"Quelle mer ou océan borde la France métropolitaine ? (কোন সাগর বা মহাসাগর মূল ভূখণ্ড ফ্রান্সকে বেষ্টন করে আছে?)",,,lvl2
+answer,"La mer Noire (কৃষ্ণ সাগর)",,0,
+answer,"La mer Méditerranée (ভূমধ্যসাগর)",,1,
+answer,"La mer Baltique (বাল্টিক সাগর)",,0,
+question,"Quel pays a une frontière terrestre avec la France métropolitaine ? (কোন দেশের মূল ভূখণ্ড ফ্রান্সের সাথে স্থল সীমান্ত আছে?)",,,lvl2
+answer,"Le Royaume-Uni (যুক্তরাজ্য)",,0,
+answer,"L'Espagne (স্পেন)",,1,
+answer,"La Norvège (নরওয়ে)",,0,
+question,"Quelle ville française est un port maritime ? (কোন ফরাসি শহরটি একটি সমুদ্র বন্দর?)",,,lvl2
+answer,"Toulouse",,0,
+answer,"Bordeaux",,1,
+answer,"Clermont-Ferrand",,0,
+question,"Quelle mer se situe entre la France et l'Angleterre ? (ফ্রান্স ও ইংল্যান্ডের মাঝে কোন সাগর অবস্থিত?)",,,lvl2
+answer,"La mer Baltique (বাল্টিক সাগর)",,0,
+answer,"La Manche (ইংলিশ চ্যানেল)",,1,
+answer,"La mer Noire (কৃষ্ণ সাগর)",,0,
+question,"Qu'est-ce que la France d'outre-mer ? (বিদেশের ফ্রান্স (France d'outre-mer) কী?)",,,lvl2
+answer,"Les pays qui ont été colonisés par la France. (যে দেশগুলি ফ্রান্স দ্বারা উপনিবেশিত হয়েছিল।)",,0,
+answer,"Les territoires français situés en dehors du continent européen. (ইউরোপীয় মহাদেশের বাইরে অবস্থিত ফরাসি অঞ্চলগুলি।)",,1,
+answer,"Les pays membres de l'Union européenne. (ইউরোপীয় ইউনিয়নের সদস্য দেশগুলি।)",,0,
+question,"Quelle chaîne de montagnes est située entre la France et l’Espagne ? (ফ্রান্স ও স্পেনের মাঝে কোন পর্বতশ্রেণী অবস্থিত?)",,,lvl2
+answer,"Les Alpes",,0,
+answer,"Les Pyrénées",,1,
+answer,"Les Vosges",,0,
+question,"Quelle île française se trouve dans l'océan Indien ? (কোন ফরাসি দ্বীপটি ভারত মহাসাগরে অবস্থিত?)",,,lvl2
+answer,"La Guadeloupe (গুয়াদলুপ)",,0,
+answer,"La Réunion (লা রেউনিওঁ)",,1,
+answer,"La Martinique (মার্তিনিক)",,0,
+question,"Quelle est la population approximative de la France en 2025 ? (২০২৫ সালে ফ্রান্সের আনুমানিক জনসংখ্যা কত?)",,,lvl2
+answer,"Environ 50 millions d'habitants (প্রায় ৫০ মিলিয়ন বাসিন্দা)",,0,
+answer,"Environ 68 millions d'habitants (প্রায় ৬৮ মিলিয়ন বাসিন্দা)",,1,
+answer,"Plus de 100 millions d'habitants (১০০ মিলিয়নের বেশি বাসিন্দা)",,0,
+question,"Quel fleuve traverse Paris ? (কোন নদী প্যারিসের মধ্য দিয়ে প্রবাহিত হয়েছে?)",,,lvl2
+answer,"Le Rhône (রোন)",,0,
+answer,"La Seine (লা সেন)",,1,
+answer,"La Loire (লা লোয়ার)",,0,
+question,"Lequel de ces pays partage des frontières terrestres avec la France ? (এই দেশগুলির মধ্যে কোনটি ফ্রান্সের সাথে স্থল সীমান্ত ভাগ করে নেয়?)",,,lvl2
+answer,"La Suède (সুইডেন)",,0,
+answer,"Le Danemark (ডেনমার্ক)",,0,
+answer,"La Belgique (বেলজিয়াম)",,1,
+question,"Quel pays a une frontière avec la France métropolitaine au nord-est ? (কোন দেশের মূল ভূখণ্ড ফ্রান্সের সাথে উত্তর-পূর্বে সীমান্ত আছে?)",,,lvl2
+answer,"L'Espagne (স্পেন)",,0,
+answer,"L'Allemagne (জার্মানি)",,1,
+answer,"L'Italie (ইতালি)",,0,
+question,"Où se trouvent les principales activités économiques en France ? (ফ্রান্সে প্রধান অর্থনৈতিক কার্যকলাপগুলি কোথায় অবস্থিত?)",,,lvl2
+answer,"Uniquement dans les régions rurales. (শুধুমাত্র গ্রামীণ অঞ্চলে।)",,0,
+answer,"Principalement dans les zones montagneuses. (প্রধানত পাহাড়ি অঞ্চলে।)",,0,
+answer,"Dans les grandes métropoles et les régions transfrontalières (Paris, Lyon, frontières allemande et suisse). (প্রধানত বড় মহানগর এবং আন্তঃসীমান্ত অঞ্চলে (প্যারিস, লিওঁ, জার্মান ও সুইস সীমান্ত)।)",,1,
+question,"Parmi ces pays, lequel attire le plus de visiteurs chaque année ? (এই দেশগুলির মধ্যে কোনটি প্রতি বছর সবচেয়ে বেশি সংখ্যক পর্যটককে আকর্ষণ করে?)",,,lvl2
+answer,"L'Espagne (স্পেন)",,0,
+answer,"La France (ফ্রান্স)",,1,
+answer,"L'Italie (ইতালি)",,0,
+question,"Où habite la majorité des Français ? (অধিকাংশ ফরাসিরা কোথায় বাস করে?)",,,lvl2
+answer,"Dans les zones de montagne. (পাহাড়ি অঞ্চলে।)",,0,
+answer,"Dans les zones urbaines et les grandes agglomérations. (শহুরে অঞ্চল এবং বড় মহানগরগুলিতে।)",,1,
+answer,"Dans les campagnes isolées. (বিচ্ছিন্ন গ্রামাঞ্চলে।)",,0,
+question,"Quelle région est la plus peuplée ? (কোন অঞ্চলটি সবচেয়ে জনবহুল?)",,,lvl2
+answer,"La Nouvelle-Aquitaine",,0,
+answer,"L'Île-de-France (région parisienne)",,1,
+answer,"La Bretagne",,0,
+question,"Quelle ville française fait partie des 10 plus grandes métropoles du pays ? (কোন ফরাসি শহরটি দেশের ১০টি বৃহত্তম মহানগরীর মধ্যে একটি?)",,,lvl2
+answer,"La Rochelle",,0,
+answer,"Toulouse",,1,
+answer,"Avignon",,0,
+question,"Lequel de ces départements de France est le plus touristique ? (ফ্রান্সের এই দেপার্তমঁগুলির (départements) মধ্যে কোনটি সবচেয়ে বেশি পর্যটন আকর্ষণ করে?)",,,lvl2
+answer,"La Creuse",,0,
+answer,"Le Finistère",,0,
+answer,"Paris",,1,
+question,"Quand peut-on visiter gratuitement des lieux culturels en France ? (কবে ফ্রান্সে সাংস্কৃতিক স্থানগুলি বিনামূল্যে পরিদর্শন করা যেতে পারে?)",,,lvl2
+answer,"Tous les jours fériés. (সকল ছুটির দিনে।)",,0,
+answer,"Lors des Journées européennes du Patrimoine (en septembre). (ইউরোপীয় ঐতিহ্য দিবসগুলির সময় (সেপ্টেম্বরে)।)",,1,
+answer,"Uniquement en janvier. (শুধুমাত্র জানুয়ারিতে।)",,0,
+question,"Combien de personnes parlent français dans le monde ? (বিশ্বে কতজন মানুষ ফরাসি ভাষায় কথা বলে?)",,,lvl2
+answer,"Environ 50 millions (প্রায় ৫০ মিলিয়ন)",,0,
+answer,"Environ 150 millions (প্রায় ১৫০ মিলিয়ন)",,0,
+answer,"Plus de 320 millions (৩২০ মিলিয়নের বেশি)",,1,
+question,"Qui était Marguerite Yourcenar ? (মার্গারিট ইয়ুরসেনার কে ছিলেন?)",,,lvl2
+answer,"Une mathématicienne (একজন গণিতজ্ঞ)",,0,
+answer,"Une écrivaine française (première femme élue à l'Académie française). (একজন ফরাসি লেখিকা (ফরাসি একাডেমিতে নির্বাচিত প্রথম মহিলা)।)",,1,
+answer,"Une chanteuse d'opéra (একজন অপেরা গায়িকা)",,0,
+question,"Quel peintre est français ? (কোন চিত্রশিল্পী ফরাসি?)",,,lvl2
+answer,"Salvador Dalí",,0,
+answer,"Pablo Picasso",,0,
+answer,"Claude Monet",,1,
+question,"Quel musée est situé à Paris ? (কোন জাদুঘরটি প্যারিসে অবস্থিত?)",,,lvl2
+answer,"Le Musée du Prado",,0,
+answer,"Le Centre Pompidou",,1,
+answer,"Le British Museum",,0,
+question,"Qui était Auguste Rodin ? (অগাস্ট রঁদ্যা কে ছিলেন?)",,,lvl2
+answer,"Un compositeur (একজন সুরকার)",,0,
+answer,"Un sculpteur français du 19e siècle (auteur du Penseur). (১৯শ শতকের একজন ফরাসি ভাস্কর (চিন্তাবিদ-এর লেখক)।)",,1,
+answer,"Un explorateur (একজন পরিব্রাজক)",,0,
+question,"Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ? (বিশ্বের সবচেয়ে বেশি কথ্য ভাষাগুলির মধ্যে ফরাসি ভাষার স্থান কত?)",,,lvl2
+answer,"La deuxième langue (দ্বিতীয় ভাষা)",,0,
+answer,"La cinquième langue (পঞ্চম ভাষা)",,1,
+answer,"La dixième langue (দশম ভাষা)",,0,
+question,"Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ? (২০১৯ সালে কোন বিখ্যাত ক্যাথেড্রাল আংশিকভাবে আগুনে ধ্বংস হয়েছিল?)",,,lvl2
+answer,"La Cathédrale de Reims",,0,
+answer,"Notre-Dame de Paris",,1,
+answer,"La Cathédrale de Strasbourg",,0,
+question,"Qui était une écrivaine française célèbre ? (কে একজন বিখ্যাত ফরাসি লেখিকা ছিলেন?)",,,lvl2
+answer,"Marie Curie",,0,
+answer,"Simone Veil",,1,
+answer,"Marie-Madeleine Fourcade",,0,
+question,"Qui était un célèbre musicien français ? (কে একজন বিখ্যাত ফরাসি সঙ্গীতজ্ঞ ছিলেন?)",,,lvl2
+answer,"Wolfgang Amadeus Mozart",,0,
+answer,"Claude Debussy",,1,
+answer,"Johann Sebastian Bach",,0,
+question,"Qui était Auguste Renoir ? (অগাস্ট রেনোয়া কে ছিলেন?)",,,lvl2
+answer,"Un architecte (একজন স্থপতি)",,0,
+answer,"Un peintre impressionniste français. (একজন ফরাসি ইমপ্রেশনিস্ট চিত্রশিল্পী।)",,1,
+answer,"Un dramaturge (একজন নাট্যকার)",,0,
+question,"Quelle fête est française ? (কোন উৎসব ফরাসি?)",,,lvl2
+answer,"L'Oktoberfest",,0,
+answer,"La Saint-Patrick",,0,
+answer,"Le 14 juillet (Fête Nationale) (১৪ই জুলাই (জাতীয় উৎসব))",,1,
+question,"Sur quel fleuve est situé le château d’Amboise? (আঁবোয়াজ দুর্গ (Château d’Amboise) কোন নদীর তীরে অবস্থিত?)",,,lvl3
+answer,"Sur la Seine (সেন নদীর তীরে)",,0,
+answer,"Sur le Rhône (রোন নদীর তীরে)",,0,
+answer,"Sur la Loire (লোয়ার নদীর তীরে)",,1,
+question,"Qu’a mené Napoléon Ier en Europe? (নেপোলিয়ন প্রথম ইউরোপে কী চালিয়েছিলেন?)",,,lvl3
+answer,"La Révolution industrielle (শিল্প বিপ্লব)",,0,
+answer,"De nombreuses guerres (অনেক যুদ্ধ)",,1,
+answer,"La colonisation de l’Afrique (আফ্রিকার উপনিবেশিকতা)",,0,
+question,"Qui a été le chef de la Résistance française contre l’occupation allemande? (জার্মান দখলের বিরুদ্ধে ফরাসি প্রতিরোধ (Résistance) এর নেতা কে ছিলেন?)",,,lvl3
+answer,"Philippe Pétain",,0,
+answer,"Georges Clemenceau",,0,
+answer,"Charles de Gaulle",,1,
+question,"Quelle religion Clovis adopte-t-il? (ক্লোভিস কোন ধর্ম গ্রহণ করেন?)",,,lvl3
+answer,"La religion musulmane (ইসলাম ধর্ম)",,0,
+answer,"Le judaïsme (ইহুদি ধর্ম)",,0,
+answer,"La religion chrétienne (খ্রিস্ট ধর্ম)",,1,
+question,"Quel dictateur nazi a déclenché la Seconde Guerre mondiale? (কোন নাৎসি স্বৈরশাসক দ্বিতীয় বিশ্বযুদ্ধ শুরু করেছিলেন?)",,,lvl3
+answer,"Joseph Staline",,0,
+answer,"Benito Mussolini",,0,
+answer,"Adolf Hitler",,1,
+question,"Que concentre Louis XIV sous son règne? (চতুর্দশ লুই তার রাজত্বকালে কী কেন্দ্রীভূত করেন?)",,,lvl3
+answer,"Uniquement le pouvoir militaire (শুধুমাত্র সামরিক ক্ষমতা)",,0,
+answer,"Tous les pouvoirs (সমস্ত ক্ষমতা)",,1,
+answer,"Uniquement le pouvoir religieux (শুধুমাত্র ধর্মীয় ক্ষমতা)",,0,
+question,"Quel est le rôle du tourisme dans l’économie française? (ফরাসি অর্থনীতিতে পর্যটনের ভূমিকা কী?)",,,lvl3
+answer,"Un secteur marginal (একটি প্রান্তিক খাত)",,0,
+answer,"Un élément essentiel (একটি অপরিহার্য উপাদান)",,1,
+answer,"Une activité en déclin (একটি হ্রাসপ্রাপ্ত কার্যকলাপ)",,0,
+question,"Que symbolisent les 12 étoiles du drapeau européen? (ইউরোপীয় পতাকার ১২টি তারা কীসের প্রতীক?)",,,lvl3
+answer,"Les idéaux d’unité et d’harmonie entre les Européens (ইউরোপীয়দের মধ্যে ঐক্য ও সম্প্রীতির আদর্শ)",,1,
+answer,"Les 12 mois de l’année (বছরের ১২ মাস)",,0,
+answer,"Les 12 pays fondateurs (১২টি প্রতিষ্ঠাতা দেশ)",,0,
+question,"En quelle année l’esclavage a-t-il été aboli en France? (ফ্রান্সে কত সালে দাসপ্রথা বিলুপ্ত হয়?)",,,lvl3
+answer,"En 1789 (১৭৮৯ সালে)",,0,
+answer,"En 1918 (১৯১৮ সালে)",,0,
+answer,"En 1848 (১৮৪৮ সালে)",,1,
+question,"Contre quoi Victor Hugo s’est-il engagé? (ভিক্টর হুগো কিসের বিরুদ্ধে লড়াই করেছিলেন?)",,,lvl3
+answer,"La monarchie absolue (নিরঙ্কুশ রাজতন্ত্র)",,0,
+answer,"La colonisation (উপনিবেশিকতা)",,0,
+answer,"Les inégalités sociales et la peine de mort (সামাজিক বৈষম্য এবং মৃত্যুদণ্ড)",,1,
+question,"De quelle origine est Valérie Benguigui? (ভ্যালেরি বেঙ্গুইগুইয়ের (Valérie Benguigui) উৎস কী?)",,,lvl3
+answer,"Italienne (ইতালীয়)",,0,
+answer,"Américaine (আমেরিকান)",,0,
+answer,"Algérienne (আলজেরীয়)",,1,
+question,"Quel est le plus long fleuve français? (ফ্রান্সের দীর্ঘতম নদী কোনটি?)",,,lvl3
+answer,"Le Rhône (রোন)",,0,
+answer,"La Seine (সেন)",,0,
+answer,"La Loire (লোয়ার)",,1,
+question,"Où se trouve l’une des plus importantes grottes préhistoriques de France? (ফ্রান্সের অন্যতম গুরুত্বপূর্ণ প্রাগৈতিহাসিক গুহা কোথায় অবস্থিত?)",,,lvl3
+answer,"À Marseille",,0,
+answer,"À Chartres",,0,
+answer,"À Lascaux",,1,
+question,"Entre quelles dates se situent les peintures de la grotte de Lascaux? (লাস্কো গুহার চিত্রকর্মগুলি কোন তারিখগুলির মধ্যেকার?)",,,lvl3
+answer,"Entre 2000 et 1500 ap. J.-C. (খ্রিস্টাব্দ ২০০০ থেকে ১৫০০ এর মধ্যে)",,0,
+answer,"Entre 18 000 et 15 000 av. J.-C. (খ্রিস্টপূর্ব ১৮,০০০ থেকে ১৫,০০০ এর মধ্যে)",,1,
+answer,"Entre 500 et 200 av. J.-C. (খ্রিস্টপূর্ব ৫০০ থেকে ২০০ এর মধ্যে)",,0,
+question,"Quels modes de transport sont connectés au port de Nantes-Saint-Nazaire? (Nantes-Saint-Nazaire বন্দরের সাথে কোন পরিবহন পদ্ধতিগুলি সংযুক্ত?)",,,lvl3
+answer,"Routier, fluvial, spatial et aérien (সড়ক, নদী, মহাকাশ এবং বিমান)",,0,
+answer,"Maritime, fluvial, ferroviaire, terrestre et aérien (সামুদ্রিক, নদী, রেল, স্থল ও বিমান)",,1,
+answer,"Maritime, spatial, cycliste et aérien (সামুদ্রিক, মহাকাশ, সাইকেল এবং বিমান)",,0,
+question,"À quelle période historique correspond l’installation des Romains? (রোমানদের বসতি স্থাপনের সময়কাল কোন ঐতিহাসিক যুগের সাথে মিলে যায়?)",,,lvl3
+answer,"À l’Antiquité (প্রাচীন যুগের)",,1,
+answer,"À la Préhistoire (প্রাগৈতিহাসিক যুগের)",,0,
+answer,"Au Moyen Âge (মধ্যযুগের)",,0,
+question,"À quelle période appartiennent les peintures de la grotte de Lascaux? (লাস্কো গুহার চিত্রকর্মগুলি কোন সময়ের অন্তর্গত?)",,,lvl3
+answer,"À la Préhistoire (প্রাগৈতিহাসিক যুগের)",,1,
+answer,"Au Moyen Âge (মধ্যযুগের)",,0,
+answer,"À l’Antiquité (প্রাচীন যুগের)",,0,
+question,"Où se situe le Mont-Saint-Michel? (Mont-Saint-Michel কোথায় অবস্থিত?)",,,lvl3
+answer,"En Bretagne",,0,
+answer,"En Provence",,0,
+answer,"En Normandie",,1,
+question,"Quelle nationalité d’origine avait Joséphine Baker? (Joséphine Baker এর আদি জাতীয়তা কী ছিল?)",,,lvl3
+answer,"Italienne (ইতালীয়)",,0,
+answer,"Algérienne (আলজেরীয়)",,0,
+answer,"Américaine (আমেরিকান)",,1,
+question,"De quelle origine est Romain Gary? (Romain Gary এর উৎস কী?)",,,lvl3
+answer,"Égyptienne (মিশরীয়)",,0,
+answer,"Polonaise (পোলিশ)",,0,
+answer,"Russe (রুশ)",,1,
+question,"Quel était l’objectif du traité de Rome? (রোম চুক্তির উদ্দেশ্য কী ছিল?)",,,lvl3
+answer,"Supprimer toutes les frontières intérieures immédiatement (অবিলম্বে সমস্ত অভ্যন্তরীণ সীমান্ত তুলে দেওয়া)",,0,
+answer,"Créer une armée commune (একটি সাধারণ সেনাবাহিনী তৈরি করা)",,0,
+answer,"Établir une union étroite entre les peuples européens (ইউরোপীয় জনগণের মধ্যে একটি ঘনিষ্ঠ ঐক্য প্রতিষ্ঠা করা)",,1,
+question,"Quelle est l’altitude du Mont-Blanc? (মঁ ব্লাঁ (Mont-Blanc) এর উচ্চতা কত?)",,,lvl3
+answer,"3 200 m (৩,২০০ মিটার)",,0,
+answer,"5 500 m (৫,৫০০ মিটার)",,0,
+answer,"4 810 m (৪,৮১০ মিটার)",,1,
+question,"Quel peintre d’origine russe a décoré le plafond de l’Opéra Garnier de Paris? (কোন রুশ বংশোদ্ভূত চিত্রশিল্পী প্যারিসের অপেরা গার্নিয়ের (Opéra Garnier) ছাদ সজ্জিত করেছিলেন?)",,,lvl3
+answer,"Pablo Picasso (পাবলো পিকাসো)",,0,
+answer,"Claude Monet (ক্লোদ মোনে)",,0,
+answer,"Marc Chagall (মার্ক শাগাল)",,1,
+question,"Pour quelle raison la grotte de Lascaux est-elle célèbre? (লাস্কো গুহা কী কারণে বিখ্যাত?)",,,lvl3
+answer,"Pour la qualité de ses peintures (এর চিত্রকর্মের গুণগত মানের জন্য)",,1,
+answer,"Pour ses poteries anciennes (এর প্রাচীন মৃৎশিল্পের জন্য)",,0,
+answer,"Pour ses sculptures en pierre (এর পাথরের ভাস্কর্যের জন্য)",,0,
+question,"Quel mouvement social éclate en mai 1968? (১৯৬৮ সালের মে মাসে কোন সামাজিক আন্দোলন শুরু হয়?)",,,lvl3
+answer,"Un mouvement initié par les étudiants, étendu aux salariés et ouvriers (শিক্ষার্থীদের দ্বারা শুরু হওয়া একটি আন্দোলন, যা কর্মচারী ও শ্রমিকদের মধ্যে ছড়িয়ে পড়েছিল)",,1,
+answer,"Une réforme constitutionnelle (একটি সাংবিধানিক সংস্কার)",,0,
+answer,"Une révolution armée (একটি সশস্ত্র বিপ্লব)",,0,
+question,"Qui est Alain Mimoun? (আঁলা মিমু (Alain Mimoun) কে?)",,,lvl3
+answer,"Un peintre d’origine russe (রুশ বংশোদ্ভূত একজন চিত্রশিল্পী)",,0,
+answer,"Un chanteur franco-égyptien (একজন ফ্রাঙ্কো-মিশরীয় গায়ক)",,0,
+answer,"Un athlète d’origine algérienne, ancien combattant de la Seconde Guerre mondiale (আলজেরীয় বংশোদ্ভূত একজন ক্রীড়াবিদ, যিনি দ্বিতীয় বিশ্বযুদ্ধের প্রাক্তন যোদ্ধা)",,1,
+question,"Quelle caractéristique politique la IIIᵉ République a-t-elle apportée? (তৃতীয় প্রজাতন্ত্র (IIIᵉ République) কোন রাজনৈতিক বৈশিষ্ট্য এনেছিল?)",,,lvl3
+answer,"Le retour de l’Empire (সাম্রাজ্যের প্রত্যাবর্তন)",,0,
+answer,"La forme républicaine stable du Gouvernement (সরকারের স্থিতিশীল প্রজাতান্ত্রিক রূপ)",,1,
+answer,"L’instauration d’une monarchie parlementaire (সংসদীয় রাজতন্ত্রের প্রতিষ্ঠা)",,0,
+question,"Par quels moyens la France a-t-elle constitué son empire colonial au 19ᵉ siècle? (১৯শ শতকে ফ্রান্স কোন উপায়ে তার ঔপনিবেশিক সাম্রাজ্য গড়ে তুলেছিল?)",,,lvl3
+answer,"Par des guerres de conquêtes (বিজয় যুদ্ধের মাধ্যমে)",,1,
+answer,"Par des élections locales (স্থানীয় নির্বাচনের মাধ্যমে)",,0,
+answer,"Par des accords commerciaux pacifiques (শান্তিপূর্ণ বাণিজ্যিক চুক্তির মাধ্যমে)",,0,
+question,"Quel exploit sportif Alain Mimoun a-t-il réalisé en 1956? (Alain Mimoun ১৯৫৬ সালে কোন ক্রীড়া কৃতিত্ব অর্জন করেন?)",,,lvl3
+answer,"Il a gagné le Tour de France (তিনি ট্যুর দে ফ্রান্স জিতেছিলেন)",,0,
+answer,"Il a remporté le marathon des Jeux olympiques (তিনি অলিম্পিক গেমসের ম্যারাথন জিতেছিলেন)",,1,
+answer,"Il a battu le record du monde de saut en longueur (তিনি লং জাম্পের বিশ্ব রেকর্ড ভেঙেছিলেন)",,0,
+question,"Où repose Marie Curie? (মারি কুরি কোথায় শায়িত?)",,,lvl3
+answer,"À Versailles",,0,
+answer,"Au Panthéon",,1,
+answer,"Au Louvre",,0,
+question,"Quel physicien d’origine polonaise a reçu le prix Nobel de physique en 1992? (কোন পোলিশ বংশোদ্ভূত পদার্থবিজ্ঞানী ১৯৯২ সালে পদার্থবিজ্ঞানে নোবেল পুরস্কার পেয়েছিলেন?)",,,lvl3
+answer,"Louis de Broglie",,0,
+answer,"Pierre Curie",,0,
+answer,"Georges Charpak",,1,
+question,"Comment était qualifié le régime de Vichy? (ভিষি (Vichy) শাসনকে কীভাবে বর্ণনা করা হয়েছিল?)",,,lvl3
+answer,"Non démocratique (অ-গণতান্ত্রিক)",,1,
+answer,"Parlementaire (সংসদীয়)",,0,
+answer,"Républicain (প্রজাতান্ত্রিক)",,0,
+question,"Combien de morts la Seconde Guerre mondiale a-t-elle causés selon les historiens? (ইতিহাসবিদদের মতে দ্বিতীয় বিশ্বযুদ্ধে কতজন মারা গিয়েছিলেন?)",,,lvl3
+answer,"Moins de 5 millions (৫ মিলিয়নের কম)",,0,
+answer,"Plus de 50 millions (৫০ মিলিয়নের বেশি)",,1,
+answer,"Plus de 9 millions (৯ মিলিয়নের বেশি)",,0,
+question,"Dans quels secteurs l’économie française a-t-elle des pôles d’excellence? (ফরাসি অর্থনীতির কোন ক্ষেত্রগুলিতে শ্রেষ্ঠত্বের কেন্দ্র (pôles d'excellence) রয়েছে?)",,,lvl3
+answer,"L’aéronautique et le luxe (বিমান চালনা এবং বিলাসপণ্য)",,1,
+answer,"L’agriculture et la pêche (কৃষি এবং মৎস্য চাষ)",,0,
+answer,"Le textile et la sidérurgie (বস্ত্র এবং ইস্পাত শিল্প)",,0,
+question,"Pour quel roman Romain Gary a-t-il reçu le prix Goncourt en 1956? (রোম্যাঁ গারি ১৯৫৬ সালে কোন উপন্যাসের জন্য গোঁকুর পুরস্কার (prix Goncourt) পেয়েছিলেন?)",,,lvl3
+answer,"Notre-Dame de",,0,
+answer,"Les Racines du ciel",,1,
+answer,"La Vie devant soi",,0,
+question,"Qui est Léon Gambetta? (লেওঁ গামবেত্তা (Léon Gambetta) কে?)",,,lvl3
+answer,"Un fervent républicain, l’un des pères de la IIIᵉ République (একজন কট্টর প্রজাতন্ত্রী, তৃতীয় প্রজাতন্ত্রের অন্যতম জনক)",,1,
+answer,"Un roi de France (ফ্রান্সের একজন রাজা)",,0,
+answer,"Un empereur romain (একজন রোমান সম্রাট)",,0,
+question,"Qui unifie les royaumes des peuples francs au 5e siècle? (৫ম শতকে ফ্রাঙ্ক জনগণের রাজ্যগুলিকে কে একত্রিত করেছিলেন?)",,,lvl3
+answer,"Louis XIV (চতুর্দশ লুই)",,0,
+answer,"Charlemagne (শার্লমাইন)",,0,
+answer,"Clovis (ক্লোভিস)",,1,
+question,"Qui a préparé la loi sur l’interruption volontaire de grossesse de 1975? (কে ১৯৭৫ সালের স্বেচ্ছায় গর্ভাবস্থা সমাপ্তির (IVG) আইন প্রস্তুত করেছিলেন?)",,,lvl3
+answer,"Charles de Gaulle",,0,
+answer,"François Mitterrand",,0,
+answer,"Simone Veil",,1,
+question,"Qui est l’auteur de «Alcools»? («আলকুলস» (Alcools) এর লেখক কে?)",,,lvl3
+answer,"Guillaume Apollinaire",,1,
+answer,"Paul Valéry",,0,
+answer,"Jacques Prévert",,0,
+question,"Quel écrivain d’origine russe a reçu deux fois le prix Goncourt, dont une sous le nom d’Émile Ajar? (কোন রুশ বংশোদ্ভূত লেখক দুবার গোঁকুর পুরস্কার পেয়েছিলেন, যার মধ্যে একবার এমিল আজার (Émile Ajar) ছদ্মনামে?)",,,lvl3
+answer,"Albert Camus",,0,
+answer,"Romain Gary",,1,
+answer,"Victor Hugo",,0,
+question,"Quelle chanson est associée à Miriam Makeba? (Miriam Makeba সাথে কোন গানটি যুক্ত?)",,,lvl3
+answer,"Bambino",,0,
+answer,"Pata Pata",,1,
+answer,"L’Avare",,0,
+question,"Qui est l’auteur de Les Misérables? (Les Misérables এর লেখক কে?)",,,lvl3
+answer,"Victor Hugo (ভিক্টর হুগো)",,1,
+answer,"Voltaire (ভলতেয়ার)",,0,
+answer,"Molière (মলিয়ের)",,0,
+question,"Quels sont deux ouvrages célèbres de Victor Hugo? (ভিক্টর হুগোর দুটি বিখ্যাত কাজ কী?)",,,lvl3
+answer,"Germinal et Madame Bovary",,0,
+answer,"Les Misérables et Notre-Dame de Paris",,1,
+answer,"L’Avare et Le Cid",,0,
+question,"Quel traité fonde la Communauté économique européenne en 1957? (১৯৫৭ সালে কোন চুক্তি ইউরোপীয় অর্থনৈতিক সম্প্রদায় প্রতিষ্ঠা করে?)",,,lvl3
+answer,"Le traité de Versailles (ভার্সাই চুক্তি)",,0,
+answer,"Le traité de Maastricht (মাষ্ট্রিখট চুক্তি)",,0,
+answer,"Le traité de Rome (রোম চুক্তি)",,1,
+question,"Qui est l’auteur de «Calligrammes»? (Calligrammes এর লেখক কে?)",,,lvl3
+answer,"Victor Hugo",,0,
+answer,"Guillaume Apollinaire",,1,
+answer,"André Breton",,0,
+question,"Sous quel pseudonyme Romain Gary a-t-il reçu le prix Goncourt en 1975? (Romain Gary ১৯৭৫ সালে কোন ছদ্মনামে গোঁকুর পুরস্কার পেয়েছিলেন?)",,,lvl3
+answer,"André Gide",,0,
+answer,"Paul Valéry",,0,
+answer,"Émile Ajar",,1,
+question,"À quelle période historique appartient Clovis? (ক্লোভিস কোন ঐতিহাসিক সময়ের অন্তর্গত?)",,,lvl3
+answer,"À la Renaissance (16e siècle) (রেনেসাঁস (১৬শ শতক))",,0,
+answer,"À l’Antiquité (1er siècle) (প্রাচীন যুগ (১ম শতক))",,0,
+answer,"Au Moyen Âge (5e siècle) (মধ্যযুগ (৫ম শতক))",,1,
+question,"Où la décolonisation française a-t-elle débuté? (ফরাসি উপনিবেশমুক্তকরণ (décolonisation) কোথায় শুরু হয়েছিল?)",,,lvl3
+answer,"En Amérique (আমেরিকায়)",,0,
+answer,"En Asie (এশিয়ায়)",,1,
+answer,"En Europe (ইউরোপে)",,0,
+question,"Où se trouvait la capitale du régime de Vichy? (ভিষি (Vichy) শাসনের রাজধানী কোথায় ছিল?)",,,lvl3
+answer,"À Lyon",,0,
+answer,"À Bordeaux",,0,
+answer,"À Vichy",,1,
+question,"Quel magazine Françoise Giroud a-t-elle cofondé? (ফ্রাঁসোয়া জিরু (Françoise Giroud) কোন ম্যাগাজিনটির সহ-প্রতিষ্ঠাতা ছিলেন?)",,,lvl3
+answer,"Paris Match",,0,
+answer,"L’Express",,1,
+answer,"Le Monde",,0,
+question,"Quand la IIIᵉ République a-t-elle été instaurée? (তৃতীয় প্রজাতন্ত্র (IIIᵉ République) কখন প্রতিষ্ঠিত হয়েছিল?)",,,lvl3
+answer,"En 1875 (১৮৭৫ সালে)",,1,
+answer,"En 1958 (১৯৫৮ সালে)",,0,
+answer,"En 1848 (১৮৪৮ সালে)",,0,
+question,"Quelles entreprises ont leur siège social à Paris La Défense? (প্যারিস লা ডিফেন্সে (Paris La Défense) কোন সংস্থাগুলির প্রধান কার্যালয় রয়েছে?)",,,lvl3
+answer,"Les plus grosses entreprises du CAC 40 (CAC 40 এর বৃহত্তম সংস্থাগুলি)",,1,
+answer,"Des PME locales (স্থানীয় ক্ষুদ্র ও মাঝারি উদ্যোগ)",,0,
+answer,"Des start-ups étrangères (বিদেশী স্টার্ট-আপ)",,0,
+question,"Quels événements sportifs Léon Zitrone a-t-il commentés? (Léon Zitrone কোন ক্রীড়া ইভেন্টগুলিতে মন্তব্য করেছিলেন?)",,,lvl3
+answer,"Le Tour de France et les Jeux olympiques",,1,
+answer,"La Coupe du monde de rugby et le Dakar",,0,
+answer,"Le marathon de Paris et Roland-Garros",,0,
+question,"Quel prix international Miriam Makeba a-t-elle obtenu? (মিরিয়াম মেকাবা কোন আন্তর্জাতিক পুরস্কার পেয়েছিলেন?)",,,lvl3
+answer,"Un Grammy Award (একটি গ্র্যামি অ্যাওয়ার্ড)",,1,
+answer,"Un Oscar (একটি অস্কার)",,0,
+answer,"Un prix Nobel de la paix (শান্তিতে নোবেল পুরস্কার)",,0,
+question,"Pour quel événement la tour Eiffel a-t-elle été construite? (আইফেল টাওয়ারটি (tour Eiffel) কোন ইভেন্টের জন্য নির্মিত হয়েছিল?)",,,lvl3
+answer,"La Révolution française (ফরাসি বিপ্লব)",,0,
+answer,"L’Exposition universelle de 1889 (১৮৮৯ সালের বিশ্ব প্রদর্শনী)",,1,
+answer,"Les Jeux olympiques de 1924 (১৯২৪ সালের অলিম্পিক গেমস)",,0,
+question,"Qui est Miriam Makeba? (Miriam Makeba কে?)",,,lvl3
+answer,"Une poétesse née en Égypte (মিশরে জন্মগ্রহণকারী একজন কবি)",,0,
+answer,"Une actrice d’origine algérienne (আলজেরীয় বংশোদ্ভূত একজন অভিনেত্রী)",,0,
+answer,"Une chanteuse sud-africaine engagée contre l’apartheid (বর্ণবৈষম্যবাদের বিরুদ্ধে লড়াই করা একজন দক্ষিণ আফ্রিকান গায়িকা)",,1,
+question,"En quelle année Joseph Kessel est-il élu à l’Académie française? (Joseph Kessel কোন বছর আকাদেমি ফ্রঁসেজে (Académie française) নির্বাচিত হন?)",,,lvl3
+answer,"1956 (১৯৫৬)",,0,
+answer,"1975 (১৯৭৫)",,0,
+answer,"1962 (১৯৬২)",,1,
+question,"Quel statut possède le Mont-Saint-Michel? (মঁ-সাঁ-মিশেল (Mont-Saint-Michel) এর কী মর্যাদা রয়েছে?)",,,lvl3
+answer,"Monument historique national uniquement (শুধুমাত্র জাতীয় ঐতিহাসিক স্মৃতিস্তম্ভ)",,0,
+answer,"Patrimoine mondial de l’UNESCO (ইউনেস্কোর বিশ্ব ঐতিহ্য)",,1,
+answer,"Site naturel protégé uniquement (শুধুমাত্র সুরক্ষিত প্রাকৃতিক স্থান)",,0,
+question,"Quelle opération militaire a eu lieu le 6 juin 1944 en Normandie? (১৯৪৪ সালের ৬ই জুন নরম্যান্ডিতে কোন সামরিক অভিযান হয়েছিল?)",,,lvl3
+answer,"La prise de la Bastille (বাস্তিল দখল)",,0,
+answer,"Le débarquement des alliés (মিত্রশক্তির অবতরণ)",,1,
+answer,"L’armistice de 1918 (১৯১৮ সালের যুদ্ধবিরতি)",,0,
+question,"Où est née la poétesse Andrée Chedid? (Andrée Chedid কোথায় জন্মগ্রহণ করেছিলেন?)",,,lvl3
+answer,"En Pologne (পোল্যান্ডে)",,0,
+answer,"En Russie (রাশিয়াতে)",,0,
+answer,"En Égypte (মিশরে)",,1,
+question,"De quoi le régime de Vichy est-il en partie responsable? (Vichy শাসনের অংশত কিসের জন্য দায়ী?)",,,lvl3
+answer,"De la colonisation de l’Algérie (আলজেরিয়ার উপনিবেশিকতার জন্য)",,0,
+answer,"De l’armistice de 1918 (১৯১৮ সালের যুদ্ধবিরতির জন্য)",,0,
+answer,"De la déportation des Juifs (ইহুদিদের নির্বাসনের জন্য)",,1,
+question,"Qui conduit les troupes françaises pendant la guerre de Cent Ans contre l’Angleterre? (ইংল্যান্ডের বিরুদ্ধে শত বছরের যুদ্ধে ফরাসি সৈন্যের নেতৃত্ব কে দিয়েছিলেন?)",,,lvl3
+answer,"Marie-Antoinette (মারি-আঁতোয়ানেত)",,0,
+answer,"Catherine de Médicis (ক্যাথরিন দে মেদিসি)",,0,
+answer,"Jeanne d’Arc (জোয়ান অফ আর্ক)",,1,
+question,"Quel est l’effet principal de l’édit de Nantes? (নাঁত আদেশের (édit de Nantes) প্রধান প্রভাব কী ছিল?)",,,lvl3
+answer,"Le rétablissement de la paix religieuse (ধর্মীয় শান্তি পুনঃপ্রতিষ্ঠা)",,1,
+answer,"L’abolition de la monarchie (রাজতন্ত্রের বিলুপ্তি)",,0,
+answer,"Le début de la guerre de Cent Ans (শত বছরের যুদ্ধের শুরু)",,0,
+question,"Dans quelle vallée se trouve le théâtre romain d’Orange? (théâtre romain d’Orange কোন উপত্যকায় অবস্থিত?)",,,lvl3
+answer,"Dans la vallée de la Seine (সেন উপত্যকায়)",,0,
+answer,"Dans la vallée du Rhône (রোন উপত্যকায়)",,1,
+answer,"Dans la vallée de la Loire (লোয়ার উপত্যকায়)",,0,
+question,"Quel roi de France règne de 1643 à 1715? (ফ্রান্সের কোন রাজা ১৬৪৩ থেকে ১৭১৫ সাল পর্যন্ত রাজত্ব করেছিলেন?)",,,lvl3
+answer,"François Ier (প্রথম ফ্রাঁসোয়া)",,0,
+answer,"Louis XVI (ষোড়শ লুই)",,0,
+answer,"Louis XIV (চতুর্দশ লুই)",,1,
+question,"Dans quels domaines Léon Zitrone s’est-il illustré? (লেওঁ জিত্রোন কোন কোন ক্ষেত্রে তার দক্ষতা দেখিয়েছিলেন?)",,,lvl3
+answer,"Littérature et poésie (সাহিত্য এবং কবিতা)",,0,
+answer,"Télévision et grands événements sportifs (টেলিভিশন এবং প্রধান ক্রীড়া ইভেন্ট)",,1,
+answer,"Cinéma et théâtre (চলচ্চিত্র এবং থিয়েটার)",,0,
+question,"Quels sont des exemples de talents français issus de l’immigration? (অভিবাসন থেকে আসা ফরাসি প্রতিভার উদাহরণ কী?)",,,lvl3
+answer,"Molière, Corneille, Racine, La Fontaine",,0,
+answer,"Michel Platini, Zinédine Zidane, Jamel Debbouze, Marie N’Diaye",,1,
+answer,"Victor Hugo, Louis XIV, Jeanne d’Arc, Napoléon Ier",,0,
+question,"Quelle était l’origine sociale de Jeanne d’Arc? (জেন আর্কের সামাজিক উৎস কী ছিল?)",,,lvl3
+answer,"Une princesse (একজন রাজকুমারী)",,0,
+answer,"Une bourgeoise de Paris (প্যারিসের একজন বিত্তবান মহিলা)",,0,
+answer,"Une jeune paysanne (একজন অল্পবয়সী কৃষক নারী)",,1,
+question,"Qui a animé l’émission télévisée «Intervilles»? (কে «ইন্তেরভিল» (Intervilles) টেলিভিশন অনুষ্ঠানটি হোস্ট করেছিলেন?)",,,lvl3
+answer,"Alain Mimoun (আঁলা মিমু)",,0,
+answer,"Léon Zitrone (লেওঁ জিত্রোন)",,1,
+answer,"Georges Moustaki (জর্জ মুস্তাকি)",,0,
+question,"Quel est le domaine scientifique de Marie Curie? (মারি কুরি-র বৈজ্ঞানিক ক্ষেত্র কোনটি?)",,,lvl3
+answer,"La biologie (জীববিদ্যা)",,0,
+answer,"La géologie (ভূতত্ত্ব)",,0,
+answer,"La physique (পদার্থবিদ্যা)",,1,
+question,"Qui a mis en place le régime de Vichy après la défaite française? (ফরাসিদের পরাজয়ের পর ভিষি (Vichy) শাসন কে প্রতিষ্ঠা করেছিলেন?)",,,lvl3
+answer,"Charles de Gaulle",,0,
+answer,"Napoléon III",,0,
+answer,"Le maréchal Pétain",,1,
+question,"Quelle est une des comédies les plus connues de Molière? (Molière সবচেয়ে পরিচিত কমেডিগুলির মধ্যে একটি কোনটি?)",,,lvl3
+answer,"Le Cid",,0,
+answer,"L’Avare",,1,
+answer,"Les Misérables",,0,
+question,"Que s’est-il passé en 1848 en France? (ফ্রান্সে ১৮৪৮ সালে কী ঘটেছিল?)",,,lvl3
+answer,"La mort de Napoléon Ier (নেপোলিয়ন প্রথমের মৃত্যু)",,0,
+answer,"L’abolition de l’esclavage (দাসপ্রথার বিলুপ্তি)",,1,
+answer,"La naissance de la IIIᵉ République (তৃতীয় প্রজাতন্ত্রের জন্ম)",,0,
+question,"Quelle actrice d’origine algérienne a joué dans «Le Prénom» et «Avocats et associés»? (কোন আলজেরীয় বংশোদ্ভূত অভিনেত্রী «Le Prénom» et «Avocats et associés» তে অভিনয় করেছিলেন?)",,,lvl3
+answer,"Catherine Deneuve",,0,
+answer,"Isabelle Huppert",,0,
+answer,"Valérie Benguigui",,1,
+question,"Qui est Georges Moustaki? (জর্জ মুস্তাকি (Georges Moustaki) কে?)",,,lvl3
+answer,"Un chanteur d’origine italo-grecque (ইতালো-গ্রিক বংশোদ্ভূত একজন গায়ক)",,1,
+answer,"Un peintre d’origine russe (রুশ বংশোদ্ভূত একজন চিত্রশিল্পী)",,0,
+answer,"Un journaliste d’origine russe (রুশ বংশোদ্ভূত একজন সাংবাদিক)",,0,
+question,"À partir de quelle date les Romains s’installent-ils dans ce qui est aujourd’hui la France? (আজকের যে স্থানটি ফ্রান্স নামে পরিচিত, সেখানে রোমানরা কোন তারিখ থেকে বসতি স্থাপন শুরু করেছিল?)",,,lvl3
+answer,"50 av. J.-C. (খ্রিস্টপূর্ব ৫০)",,1,
+answer,"500 ap. J.-C. (খ্রিস্টাব্দ ৫০০)",,0,
+answer,"500 av. J.-C. (খ্রিস্টপূর্ব ৫০০)",,0,
+question,"À partir de quelle décennie Georges Moustaki s’impose-t-il comme un grand nom de la chanson française? (কোন দশক থেকে জর্জ মুস্তাকি (Georges Moustaki) ফরাসি গানের এক বড় নাম হিসেবে নিজেকে প্রতিষ্ঠা করেন?)",,,lvl3
+answer,"Années 1960 (১৯৬০-এর দশকে)",,1,
+answer,"Années 1980 (১৯৮০-এর দশকে)",,0,
+answer,"Années 1940 (১৯৪০-এর দশকে)",,0,
+question,"Le Rhône est… (রোন হল...)",,,lvl3
+answer,"Une chaîne de montagnes (একটি পর্বতমালা)",,0,
+answer,"Un fleuve (একটি নদী)",,1,
+answer,"Un lac (একটি হ্রদ)",,0,
+question,"La Garonne est… (গারন হল...)",,,lvl3
+answer,"Un volcan (একটি আগ্নেয়গিরি)",,0,
+answer,"Une montagne (একটি পর্বত)",,0,
+answer,"Un fleuve (একটি নদী)",,1,
+question,"Quelle poétesse née en Égypte est aussi une femme de lettres française? (মিশরে জন্মগ্রহণকারী কোন কবি একজন ফরাসি লেখিকাও বটে?)",,,lvl3
+answer,"George Sand (জর্জ সঁদ)",,0,
+answer,"Marguerite Duras (মার্গ্যুরিত দ্যুরাস)",,0,
+answer,"Andrée Chedid (আঁদ্রে শেদিদ)",,1,
+question,"Quel type d’État se met en place sous Louis XIV? (চতুর্দশ লুইয়ের অধীনে কোন ধরনের রাষ্ট্র প্রতিষ্ঠিত হয়েছিল?)",,,lvl3
+answer,"Un État faible et divisé (একটি দুর্বল ও বিভক্ত রাষ্ট্র)",,0,
+answer,"Un État puissant et centralisé (একটি শক্তিশালী ও কেন্দ্রীভূত রাষ্ট্র)",,1,
+answer,"Un État fédéral (একটি যুক্তরাষ্ট্রীয় রাষ্ট্র)",,0,
+question,"Quelle était l’origine de Haroun Tazieff? (Haroun Tazieff এর জন্মস্থান কোনটি ছিল?)",,,lvl3
+answer,"Varsovie",,1,
+answer,"Athènes",,0,
+answer,"Moscou",,0,
+question,"Qui étaient persécutés ou exterminés par les nazis? (নাৎসিদের দ্বারা কারা নির্যাতিত বা নির্মূল হয়েছিল?)",,,lvl3
+answer,"Juifs, Tziganes, homosexuels, handicapés et opposants politiques (ইহুদি, জিঙ্গানি, সমকামী, প্রতিবন্ধী এবং রাজনৈতিক বিরোধী)",,1,
+answer,"Seuls les militaires (শুধুমাত্র সামরিক বাহিনী)",,0,
+answer,"Nobles et prêtres (অভিজাত ও পুরোহিত)",,0,
+question,"Quelles sont les trois caractéristiques de l’école instaurée par Jules Ferry? (জুল ফেরি (Jules Ferry) দ্বারা প্রতিষ্ঠিত বিদ্যালয়ের তিনটি বৈশিষ্ট্য কী?)",,,lvl3
+answer,"Privée, payante et catholique (ব্যক্তিগত, বেতনভুক্ত এবং ক্যাথলিক)",,0,
+answer,"Obligatoire, militaire et religieuse (বাধ্যতামূলক, সামরিক এবং ধর্মীয়)",,0,
+answer,"Publique, gratuite et laïque (সরকারি, বিনামূল্যে এবং ধর্মনিরপেক্ষ)",,1,
+question,"Quelle fonction Françoise Giroud a-t-elle exercée dans la vie politique française? (ফ্রাঁসোয়া জিরু (Françoise Giroud) ফরাসি রাজনৈতিক জীবনে কোন পদে কাজ করেছিলেন?)",,,lvl3
+answer,"Ministre de la Défense (প্রতিরক্ষা মন্ত্রী)",,0,
+answer,"Deux fois Secrétaire d’État (দুইবার রাষ্ট্র সচিব)",,1,
+answer,"Première ministre (প্রধানমন্ত্রী)",,0,
+question,"Quelle discipline Haroun Tazieff a-t-il fait connaître au grand public? (হারুন তাজিফ কোন বিষয়টিকে সাধারণ জনগণের কাছে পরিচিত করেছিলেন?)",,,lvl3
+answer,"L’astronomie (জ্যোতির্বিদ্যা)",,0,
+answer,"La volcanologie (আগ্নেয়গিরি বিজ্ঞান)",,1,
+answer,"La météorologie (আবহাওয়াবিদ্যা)",,0,
+question,"Combien d’entreprises sont regroupées à Paris La Défense? (প্যারিস লা দেফন্স কতগুলি সংস্থা একত্রিত হয়েছে?)",,,lvl3
+answer,"500 (৫০০টি)",,1,
+answer,"5 000 (৫,০০০টি)",,0,
+answer,"50 (৫০টি)",,0,
+question,"Quel roi a lancé la construction du château de Versailles? (কোন রাজা ভার্সাই প্রাসাদ (château de Versailles) নির্মাণ শুরু করেছিলেন?)",,,lvl3
+answer,"Napoléon Ier (নেপোলিয়ন প্রথম)",,0,
+answer,"François Ier (প্রথম ফ্রাঁসোয়া)",,0,
+answer,"Louis XIV (চতুর্দশ লুই)",,1,
+question,"Quelle physicienne née en Pologne a découvert la radioactivité? (পোল্যান্ডে জন্মগ্রহণকারী কোন পদার্থবিজ্ঞানী তেজস্ক্রিয়তা আবিষ্কার করেছিলেন?)",,,lvl3
+answer,"Rosalind Franklin (রোজালিন্ড ফ্র্যাঙ্কলিন)",,0,
+answer,"Irène Joliot-Curie (ইভ জোলিও-কুরি)",,0,
+answer,"Marie Curie (মেরি কুরি)",,1,
+question,"Qui est Joseph Kessel? (জোসেফ কেসেল (Joseph Kessel) কে?)",,,lvl3
+answer,"Un journaliste d’origine russe (রুশ বংশোদ্ভূত একজন সাংবাদিক)",,0,
+answer,"Un chanteur d’origine italo-grecque (ইতালো-গ্রিক বংশোদ্ভূত একজন গায়ক)",,0,
+answer,"Un grand reporter et romancier né en Argentine (আর্জেন্টিনায় জন্মগ্রহণকারী একজন মহান রিপোর্টার এবং ঔপন্যাসিক)",,1,
+question,"Avec quelle République Léon Gambetta est-il associé? (লেওঁ গামবেত্তা (Léon Gambetta) কোন প্রজাতন্ত্রের সাথে যুক্ত?)",,,lvl3
+answer,"La Ve République (পঞ্চম প্রজাতন্ত্র)",,0,
+answer,"La IIIᵉ République (তৃতীয় প্রজাতন্ত্র)",,1,
+answer,"La Iʳᵉ République (প্রথম প্রজাতন্ত্র)",,0,
+question,"Avec quelle découverte Georges Charpak est-il associé? (জর্জ শারপাক (Georges Charpak) কোন আবিষ্কারের সাথে যুক্ত?)",,,lvl3
+answer,"La vaccination (টিকা আবিষ্কার)",,0,
+answer,"La détection des particules (কণা শনাক্তকরণ)",,1,
+answer,"La biologie cellulaire (কোষ জীববিজ্ঞান)",,0,
+question,"Quelle est la plus haute montagne d’Europe? (ইউরোপের সর্বোচ্চ পর্বত কোনটি?)",,,lvl3
+answer,"Le Mont-Blanc (মোঁ ব্লঁ)",,1,
+answer,"Le Kilimandjaro (কিলিমাঞ্জারো)",,0,
+answer,"L’Elbrouz (এলব্রুস)",,0,
+question,"Quel roi de France publie l’édit de Nantes en 1598? (ফ্রান্সের কোন রাজা ১৫৯৮ সালে নাঁত আদেশ (édit de Nantes) প্রকাশ করেন?)",,,lvl3
+answer,"Henri IV (চতুর্থ অঁরি)",,1,
+answer,"François Ier (প্রথম ফ্রাঁসোয়া)",,0,
+answer,"Louis XIII (ত্রয়োদশ লুই)",,0,
+question,"Combien de temps environ Napoléon Ier a-t-il dirigé la France? (নেপোলিয়ন প্রথম প্রায় কত দিন ফ্রান্স শাসন করেছিলেন?)",,,lvl3
+answer,"Près de 30 ans (প্রায় ৩০ বছর)",,0,
+answer,"Près de 5 ans (প্রায় ৫ বছর)",,0,
+answer,"Près de 15 ans (প্রায় ১৫ বছর)",,1,
+question,"Qui est considéré comme le père de la volcanologie contemporaine? (কাকে সমসাময়িক আগ্নেয়গিরি বিজ্ঞানের জনক হিসেবে বিবেচনা করা হয়?)",,,lvl3
+answer,"Haroun Tazieff (হারুন তাজিফ)",,1,
+answer,"Georges Charpak (জর্জ শারপাক)",,0,
+answer,"Joseph Kessel (জোসেফ কেসেল)",,0,
+question,"Combien d’agglomérations françaises comptent plus de 500 000 habitants? (ফ্রান্সের কয়টি মহানগরীতে ৫ লাখের বেশি জনসংখ্যা রয়েছে?)",,,lvl3
+answer,"17 (১৭টি)",,1,
+answer,"27 (২৭টি)",,0,
+answer,"10 (১০টি)",,0,
+question,"Combien de fois Romain Gary a-t-il reçu le prix Goncourt? (রোম্যাঁ গারি কতবার গোঁকুর পুরস্কার পেয়েছিলেন?)",,,lvl3
+answer,"Une fois (একবার)",,0,
+answer,"Trois fois (তিনবার)",,0,
+answer,"Deux fois (দুইবার)",,1,
+question,"Qui est Vassily Kandinsky? (Vassily Kandinsky) কে?)",,,lvl3
+answer,"Un journaliste d’origine russe (রুশ বংশোদ্ভূত একজন সাংবাদিক)",,0,
+answer,"Un écrivain né en Argentine (আর্জেন্টিনায় জন্মগ্রহণকারী একজন লেখক)",,0,
+answer,"Un peintre d’origine russe, fondateur de l’art abstrait (রুশ বংশোদ্ভূত একজন চিত্রশিল্পী, বিমূর্ত শিল্পের প্রতিষ্ঠাতা)",,1,
+question,"Dans quel film a joué Valérie Benguigui? (Valérie Benguigui কোন সিনেমাতে অভিনয় করেছিলেন?)",,,lvl3
+answer,"Le Prénom",,1,
+answer,"Les Misérables",,0,
+answer,"La Grande Vadrouille",,0,
+question,"Quelle est la superficie du territoire français (métropole et outre-mer)? (ফ্রান্সের মোট অঞ্চলের (মেট্রোপলিটন ও সামুদ্রিক অঞ্চল) আয়তন কত?)",,,lvl3
+answer,"1 million km² (১ মিলিয়ন বর্গ কিমি)",,0,
+answer,"450 000 km² (৪ লাখ ৫০ হাজার বর্গ কিমি)",,0,
+answer,"675 000 km² (৬ লাখ ৭৫ হাজার বর্গ কিমি)",,1,
+question,"Quelles guerres ont marqué la décolonisation française? (কোন যুদ্ধগুলি ফরাসি উপনিবেশমুক্তকরণকে চিহ্নিত করেছিল?)",,,lvl3
+answer,"Les guerres d’Indochine et d’Algérie (ইন্দোশিন এবং আলজেরিয়ার যুদ্ধ)",,1,
+answer,"La guerre de Crimée et la guerre de 1870 (ক্রিমিয়ার যুদ্ধ এবং ১৮৭০ সালের যুদ্ধ)",,0,
+answer,"La guerre de Corée et la guerre du Vietnam (কোরিয়ার যুদ্ধ এবং ভিয়েতনামের যুদ্ধ)",,0,
+question,"Combien de grands groupes de plus de 10 000 salariés compte la France? (ফ্রান্সে ১০,০০০ এর বেশি কর্মচারী আছে এমন বড় গ্রুপ কয়টি?)",,,lvl3
+answer,"Plusieurs milliers (কয়েক হাজার)",,0,
+answer,"Une centaine (প্রায় একশোটি)",,1,
+answer,"Une dizaine (প্রায় দশটি)",,0,
+question,"En quelles années a eu lieu la décolonisation française? (ফরাসি উপনিবেশমুক্তকরণ (décolonisation) কোন বছরগুলিতে সংঘটিত হয়েছিল?)",,,lvl3
+answer,"Entre 1914 et 1918 (১৯১৪ থেকে ১৯১৮ সালের মধ্যে)",,0,
+answer,"Entre 1950 et 1962 (১৯৫০ থেকে ১৯৬২ সালের মধ্যে)",,1,
+answer,"Entre 1981 et 1995 (১৯৮১ থেকে ১৯৯৫ সালের মধ্যে)",,0,
+question,"Qui est considéré comme le plus célèbre auteur de théâtre français du 17e siècle? (১৭শ শতকের সবচেয়ে বিখ্যাত ফরাসি নাট্যকার হিসেবে কাকে বিবেচনা করা হয়?)",,,lvl3
+answer,"Molière (মলিয়ের)",,1,
+answer,"Corneille ( কর্নেয়)",,0,
+answer,"Victor Hugo (ভিক্টর হুগো)",,0,
+question,"Combien de morts la Première Guerre mondiale a-t-elle faits environ? (প্রথম বিশ্বযুদ্ধে আনুমানিক কতজন মারা গিয়েছিল?)",,,lvl3
+answer,"Moins d’un million (১ মিলিয়নের কম)",,0,
+answer,"Plus de 9 millions (৯ মিলিয়নের বেশি)",,1,
+answer,"Plus de 50 millions (৫০ মিলিয়নের বেশি)",,0,
+question,"Comment est qualifiée la monarchie sous Louis XIV? (চতুর্দশ লুইয়ের অধীনে রাজতন্ত্রকে কী হিসেবে চিহ্নিত করা হয়?)",,,lvl3
+answer,"Une monarchie élective (একটি নির্বাচনী রাজতন্ত্র)",,0,
+answer,"Une monarchie absolue (একটি নিরঙ্কুশ রাজতন্ত্র)",,1,
+answer,"Une monarchie parlementaire (একটি সংসদীয় রাজতন্ত্র)",,0,
+question,"En quelle année l’âge de la majorité a-t-il été fixé à 18 ans? (কত সালে সংখ্যাগরিষ্ঠতার বয়স ১৮ বছর নির্ধারণ করা হয়েছিল?)",,,lvl3
+answer,"En 1981 (১৯৮১ সালে)",,0,
+answer,"En 1957 (১৯৫৭ সালে)",,0,
+answer,"En 1974 (১৯৭৪ সালে)",,1,
+question,"Quelle artiste d’origine américaine fut danseuse, chanteuse et résistante en France pendant la Seconde Guerre mondiale? (আমেরিকান বংশোদ্ভূত কোন শিল্পী দ্বিতীয় বিশ্বযুদ্ধের সময় ফ্রান্সে নৃত্যশিল্পী, গায়িকা এবং প্রতিরোধ যোদ্ধা (résistante) ছিলেন?)",,,lvl3
+answer,"Joséphine Baker",,1,
+answer,"Nina Simone",,0,
+answer,"Aretha Franklin",,0,
+question,"Quelle école artistique Vassily Kandinsky contribue-t-il à fonder? (ভাসিলি কান্দিনস্কি কোন শৈল্পিক ঘরানা প্রতিষ্ঠায় অবদান রেখেছিলেন?)",,,lvl3
+answer,"L’art abstrait (বিমূর্ত শিল্প)",,1,
+answer,"L’impressionnisme (ইমপ্রেশনিজম)",,0,
+answer,"Le cubisme (কিউবিজম)",,0,
+question,"Quelle République est proclamée en 1792? (১৭৯২ সালে কোন প্রজাতন্ত্র ঘোষিত হয়?)",,,lvl3
+answer,"La Première République (প্রথম প্রজাতন্ত্র)",,1,
+answer,"La Deuxième République (দ্বিতীয় প্রজাতন্ত্র)",,0,
+answer,"La Cinquième République (পঞ্চম প্রজাতন্ত্র)",,0,
+question,"Au temps de quel roi Molière a-t-il vécu? (মলিয়ের (Molière) কোন রাজার সময়ে বেঁচে ছিলেন?)",,,lvl3
+answer,"Louis XIV (চতুর্দশ লুই)",,1,
+answer,"Louis XVI (ষোড়শ লুই)",,0,
+answer,"Napoléon Ier (নেপোলিয়ন প্রথম)",,0,
+question,"Dans quelles régions du monde la France a-t-elle constitué un empire colonial au 19ᵉ siècle? (১৯শ শতকে ফ্রান্স বিশ্বের কোন অঞ্চলগুলিতে ঔপনিবেশিক সাম্রাজ্য গঠন করেছিল?)",,,lvl3
+answer,"En Océanie et en Amérique du Nord (ওশেনিয়া এবং উত্তর আমেরিকায়)",,0,
+answer,"En Scandinavie et au Moyen-Orient (স্ক্যান্ডিনেভিয়া এবং মধ্যপ্রাচ্যে)",,0,
+answer,"Aux Antilles, en Afrique et en Asie (অঁতি, আফ্রিকা এবং এশিয়ায়)",,1,
+question,"Qu’adoptent les populations locales après l’installation des Romains? (রোমানদের বসতি স্থাপনের পর স্থানীয় জনগণ কী গ্রহণ করেছিল?)",,,lvl3
+answer,"Leur mode de vie et la culture latine (তাদের জীবনধারা এবং লাতিন সংস্কৃতি)",,1,
+answer,"Leur organisation viking (তাদের ভাইকিং সংগঠন)",,0,
+answer,"Leur langue grecque (তাদের গ্রিক ভাষা)",,0,
+question,"Quel pays Adolf Hitler a-t-il envahi notamment? (অ্যাডলফ হিটলার বিশেষত কোন দেশটি আক্রমণ করেছিলেন?)",,,lvl3
+answer,"La France (ফ্রান্স)",,1,
+answer,"Les États-Unis (মার্কিন যুক্তরাষ্ট্র)",,0,
+answer,"Le Royaume-Uni (যুক্তরাজ্য)",,0,
+question,"Qu’est-ce qui s’élève sur le Mont-Saint-Michel? (মঁ-সাঁ-মিশেল (Mont-Saint-Michel) এর উপরে কী দাঁড়িয়ে আছে?)",,,lvl3
+answer,"Une abbaye (একটি অ্যাবে)",,1,
+answer,"Un palais royal (একটি রাজকীয় প্রাসাদ)",,0,
+answer,"Un château fort (একটি দুর্গ)",,0,
+question,"Où la décolonisation française s’est-elle poursuivie après l’Asie? (এশিয়ার পরে ফরাসি উপনিবেশমুক্তকরণ কোথায় অব্যাহত ছিল?)",,,lvl3
+answer,"En Afrique (আফ্রিকায়)",,1,
+answer,"En Amérique du Sud (দক্ষিণ আমেরিকায়)",,0,
+answer,"En Océanie (ওশেনিয়ায়)",,0,
+question,"Quelle importance a l’action de Clovis dans l’histoire de France? (ফ্রান্সের ইতিহাসে ক্লোভিসের কাজের গুরুত্ব কী?)",,,lvl3
+answer,"Elle divise définitivement le territoire (এটি অঞ্চলটিকে চূড়ান্তভাবে বিভক্ত করে)",,0,
+answer,"Elle constitue une étape vers l’unité du territoire français (এটি ফরাসি অঞ্চলের ঐক্যের দিকে একটি পদক্ষেপ গঠন করে)",,1,
+answer,"Elle entraîne la disparition de la royauté (এটি রাজতন্ত্রের বিলুপ্তি ঘটায়)",,0,
+question,"Quelle expression décrit Joséphine Baker? (Joséphine Baker কোন অভিব্যক্তিটি বর্ণনা করে ?)",,,lvl3
+answer,"Poétesse symboliste",,0,
+answer,"Actrice comique",,0,
+answer,"Meneuse de revue noire",,1,
+question,"Quels philosophes du 18e siècle ont combattu pour la tolérance et la liberté de pensée? (১৮শ শতকের কোন দার্শনিকরা সহনশীলতা এবং চিন্তার স্বাধীনতার জন্য লড়াই করেছিলেন?)",,,lvl3
+answer,"Rousseau, Voltaire, Diderot (রুসো, ভলতেয়ার, দিদেরো)",,1,
+answer,"Montesquieu, Balzac, Hugo (মঁতেস্কিয়ে, বালজাক, হুগো)",,0,
+answer,"Pasteur, Descartes, Zola (পাস্তুর, দেকার্ত, জোলা)",,0,
+question,"Quelle chanteuse d’origine égyptienne a connu de grands succès populaires comme «Bambino» ou «Laissez-moi danser»? (কোন মিশরীয় বংশোদ্ভূত গায়িকা «Bambino» ou «Laissez-moi danser» এর মতো দুর্দান্ত জনপ্রিয়তা পেয়েছিলেন?)",,,lvl3
+answer,"Barbara (বারবারা)",,0,
+answer,"Dalida (দালিদা)",,1,
+answer,"Edith Piaf (এদিত পিয়াফ)",,0,
+question,"Quel est le premier quartier d’affaires d’Europe? (ইউরোপের প্রথম ব্যবসায়িক জেলা কোনটি?)",,,lvl3
+answer,"La City de Londres (লন্ডন সিটি)",,0,
+answer,"Paris La Défense (প্যারিস লা ডিফেন্স)",,1,
+answer,"Francfort (ফ্রাঙ্কফুর্ট)",,0,
+question,"À quel siècle a vécu Diderot? (দিদেরো (Diderot) কোন শতকে বেঁচে ছিলেন?)",,,lvl3
+answer,"Au 19ᵉ siècle (১৯শ শতকে)",,0,
+answer,"Au 15ᵉ siècle (১৫শ শতকে)",,0,
+answer,"Au 18ᵉ siècle (১৮শ শতকে)",,1,
+question,"Dans quels domaines de transport la France est-elle un leader mondial? (পরিবহনের কোন ক্ষেত্রগুলিতে ফ্রান্স বিশ্ব নেতা?)",,,lvl3
+answer,"Transport maritime et ferroviaire (সামুদ্রিক এবং রেলপথ পরিবহন)",,1,
+answer,"Transport spatial et fluvial (মহাকাশ এবং নদীপথ পরিবহন)",,0,
+answer,"Transport routier et aérien (সড়ক এবং বিমান পরিবহন)",,0,
+question,"À quel siècle a vécu Voltaire? (ভলতেয়ার (Voltaire) কোন শতকে বেঁচে ছিলেন?)",,,lvl3
+answer,"Au 18ᵉ siècle (১৮শ শতকে)",,1,
+answer,"Au 16ᵉ siècle (১৬শ শতকে)",,0,
+answer,"Au 20ᵉ siècle (২০শ শতকে)",,0,
+question,"À quel siècle a vécu Rousseau? (রুসো (Rousseau) কোন শতকে বেঁচে ছিলেন?)",,,lvl3
+answer,"Au 18ᵉ siècle (১৮শ শতকে)",,1,
+answer,"Au 17ᵉ siècle (১৭শ শতকে)",,0,
+answer,"Au 19ᵉ siècle (১৯শ শতকে)",,0,
+question,"Combien de pays participaient à la CEE à sa création? (ইউরোপীয় অর্থনৈতিক সম্প্রদায় (CEE) প্রতিষ্ঠার সময় কতগুলি দেশ এতে অংশ নিয়েছিল?)",,,lvl3
+answer,"Six, dont la France (ফ্রান্সসহ ছয়টি)",,1,
+answer,"Douze (বারোটি)",,0,
+answer,"Vingt-sept (সাতাশটি)",,0,

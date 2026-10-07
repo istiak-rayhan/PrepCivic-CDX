@@ -1,0 +1,697 @@
+type,text,placeholder,is_correct,level
+question,Qui nomme le Premier ministre ?,,,lvl1
+answer,Le Président de l'Assemblée Nationale,,0.0,
+answer,Le Président du Sénat,,0.0,
+answer,Le Président de la République,,1.0,
+question,Le Parlement est composé :,,,lvl1
+answer,Du Président de la République et du Premier ministre,,0.0,
+answer,Du Gouvernement et du Conseil d'État,,0.0,
+answer,De l'Assemblée Nationale et du Sénat,,1.0,
+question,Qu'est-ce que le pouvoir exécutif ? Le pouvoir :,,,lvl1
+answer,Qui fait les lois,,0.0,
+answer,Qui juge et sanctionne les personnes,,0.0,
+answer,Qui met en œuvre les lois et conduit la politique de la Nation,,1.0,
+question,Les dirigeants sont élus par les citoyens dans :,,,lvl1
+answer,Une dictature,,0.0,
+answer,Une monarchie,,0.0,
+answer,Une démocratie,,1.0,
+question,A-t-on le droit de ne pas respecter une loi ?,,,lvl1
+answer,"Oui, si la loi est ancienne.",,0.0,
+answer,"Oui, si l'on n'est pas d'accord avec la loi.",,0.0,
+answer,"Non, la loi s'applique à tous et doit être respectée .",,1.0,
+question,Qui doit respecter la loi ?,,,lvl1
+answer,Uniquement les citoyens français.,,0.0,
+answer,Uniquement les fonctionnaires.,,0.0,
+answer,"Toutes les personnes résidant en France, y compris les visiteurs.",,1.0,
+question,Quel est le rôle de l'autorité judiciaire ?,,,lvl1
+answer,Faire la guerre et signer les traités internationaux.,,0.0,
+answer,Voter les lois.,,0.0,
+answer,Veiller au respect de la loi et sanctionner son non-respect.,,1.0,
+question,Quel pouvoir détient un juge ? Le pouvoir :,,,lvl1
+answer,Exécutif,,0.0,
+answer,Législatif,,0.0,
+answer,Judiciaire,,1.0,
+question,L'autorité judiciaire est exercée par :,,,lvl1
+answer,Le Gouvernement et les préfets.,,0.0,
+answer,Le Parlement et les maires.,,0.0,
+answer,Les magistrats (juges et procureurs).।),,1.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ?,,,lvl1
+answer,"Rien, car il est protégé par son statut.",,0.0,
+answer,Il est jugé par le Président de la République.,,0.0,
+answer,Il est jugé par la Cour de Justice de la République (CJR) ou les tribunaux ordinaires. ।),,1.0,
+question,Qui est élu lors des élections législatives ? ?),,,lvl1
+answer,Le Président de la République,,0.0,
+answer,Les députés à l'Assemblée Nationale),,1.0,
+answer,Les maires et leurs conseillers municipaux,,0.0,
+question,Combien de députés composent l’Assemblée nationale ? ?),,,lvl1
+answer,Environ 350,,0.0,
+answer,577,,1.0,
+answer,Environ 700,,0.0,
+question,Quand sont élus les sénateurs ?,,,lvl1
+answer,Au suffrage universel direct par tous les citoyens.,,0.0,
+answer,Lors des élections présidentielles.,,0.0,
+answer,"Au suffrage universel indirect par les ""grands électeurs"" (élus locaux). ।)",,1.0,
+question,Qui est élu lors des élections municipales ? ?),,,lvl1
+answer,Les conseillers régionaux et départementaux,,0.0,
+answer,Les maires et les conseillers municipaux,,1.0,
+answer,Les députés au Parlement européen,,0.0,
+question,Qui est élu lors des élections présidentielles ?,,,lvl1
+answer,Le Premier ministre,,0.0,
+answer,Le Président de la République,,1.0,
+answer,Le Président du Sénat,,0.0,
+question,À partir de quel âge a-t-on le droit de voter ?,,,lvl1
+answer,21 ans,,0.0,
+answer,16 ans,,0.0,
+answer,18 ans,,1.0,
+question,Pour combien de temps est élu le président de la République française ?,,,lvl1
+answer,7 ans,,0.0,
+answer,6 ans,,0.0,
+answer,5 ans,,1.0,
+question,Pour combien de temps sont élus les députés ? ?),,,lvl1
+answer,7 ans,,0.0,
+answer,6 ans,,0.0,
+answer,5 ans,,1.0,
+question,Pour combien de temps sont élus les sénateurs ?,,,lvl1
+answer,5 ans,,0.0,
+answer,6 ans,,1.0,
+answer,7 ans,,0.0,
+question,Qui possède le pouvoir exécutif ?,,,lvl1
+answer,Le Parlement (Parlement),,0.0,
+answer,Le Président de la République et le Gouvernement,,1.0,
+answer,La Cour de Cassation,,0.0,
+question,Quelle condition est nécessaire pour voter aux élections ?,,,lvl1
+answer,Être propriétaire d'un logement en France.,,0.0,
+answer,Être titulaire de la nationalité française depuis 10 ans.,,0.0,
+answer,Être âgé de 18 ans et être de nationalité française (pour la plupart des élections).।),,1.0,
+question,Qui peut voter aux élections en France ?,,,lvl1
+answer,Tous les résidents étrangers.,,0.0,
+answer,Tous les citoyens français majeurs (pour la plupart des élections).।),,1.0,
+answer,Uniquement les hommes majeurs.,,0.0,
+question,Que signifie « suffrage universel » ? ?),,,lvl1
+answer,Que seuls les hommes peuvent voter.,,0.0,
+answer,Que seuls les plus riches peuvent voter.,,0.0,
+answer,"Que tous les citoyens majeurs peuvent voter, sans distinction.",,1.0,
+question,"Concernant les partis politiques, quelle proposition est correcte ?",,,lvl1
+answer,Ils sont interdits par la Constitution française.,,0.0,
+answer,Un seul parti est autorisé par l'État.,,0.0,
+answer,Ils sont libres de se créer et d'exercer leur activité dans le respect de la loi.,,1.0,
+question,Quel est le rôle des députés ? ?),,,lvl1
+answer,Exécuter les lois et gérer l'administration.,,0.0,
+answer,Voter les lois et contrôler l'action du Gouvernement.,,1.0,
+answer,Juger les crimes et délits.,,0.0,
+question,La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?,,,lvl1
+answer,"Le pouvoir militaire, le pouvoir civil, le pouvoir religieux.",,0.0,
+answer,"Le pouvoir exécutif, le pouvoir législatif, le pouvoir judiciaire.",,1.0,
+answer,"Le pouvoir national, le pouvoir régional, le pouvoir local.",,0.0,
+question,Qui possède le pouvoir législatif ?,,,lvl1
+answer,Le Président de la République,,0.0,
+answer,Le Parlement (Assemblée Nationale et Sénat)),,1.0,
+answer,Les juges,,0.0,
+question,Qui sanctionne l'auteur d'un vol ?,,,lvl1
+answer,Le préfet,,0.0,
+answer,Le maire,,0.0,
+answer,L'autorité judiciaire (les tribunaux).।),,1.0,
+question,Qui élit les députés ? ?),,,lvl1
+answer,Le Président de la République,,0.0,
+answer,"Les ""grands électeurs""",,0.0,
+answer,Les citoyens français par vote direct.,,1.0,
+question,Qui vote les lois ?,,,lvl1
+answer,Le Gouvernement,,0.0,
+answer,Le Parlement (Assemblée Nationale et Sénat)),,1.0,
+answer,Le Conseil d'État,,0.0,
+question,Qui réside au palais de l'Élysée ? ?),,,lvl1
+answer,Le Premier ministre,,0.0,
+answer,Le Président de la République,,1.0,
+answer,Le Président de l'Assemblée Nationale,,0.0,
+question,Combien y a-t-il de départements en France ? ?),,,lvl1
+answer,Environ 50,,0.0,
+answer,101 (96 en métropole et 5 en Outre-mer au 1er janvier 2025).।),,1.0,
+answer,Environ 150,,0.0,
+question,Qui représente l'État dans un département ? ?),,,lvl1
+answer,Le Président du Conseil départemental,,0.0,
+answer,Le Préfet,,1.0,
+answer,Le Président de la Région,,0.0,
+question,Qui dirige la commune ? ?),,,lvl1
+answer,Le Préfet,,0.0,
+answer,Le Maire (et le Conseil Municipal)),,1.0,
+answer,Le Président de la Région,,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ?,,,lvl1
+answer,"Oui, il détient tous les pouvoirs exécutifs et législatifs.",,0.0,
+answer,"Non, les pouvoirs sont séparés entre l'Exécutif, le Législatif et le Judiciaire.",,1.0,
+answer,"Oui, car il est le chef des armées.",,0.0,
+question,Qui est le préfet ?,,,lvl1
+answer,L'élu local chargé de l'urbanisme.,,0.0,
+answer,Le représentant de l'État dans un département ou une région.,,1.0,
+answer,Le chef de la police municipale.,,0.0,
+question,Quel est le rôle du Parlement ?,,,lvl1
+answer,Diriger le pays et appliquer les lois.,,0.0,
+answer,"Voter les lois, contrôler l'action du Gouvernement et évaluer les politiques publiques.",,1.0,
+answer,Juger les crimes et délits les plus graves.,,0.0,
+question,Quel est le régime politique de la France aujourd'hui ?,,,lvl1
+answer,Une monarchie constitutionnelle,,0.0,
+answer,Une République démocratique,,1.0,
+answer,Une fédération de régions,,0.0,
+question,Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?,,,lvl1
+answer,26,,0.0,
+answer,27,,1.0,
+answer,28,,0.0,
+question,Quel État n'est pas membre de l'Union européenne ?,,,lvl1
+answer,L'Allemagne,,0.0,
+answer,L'Espagne,,0.0,
+answer,La Suisse,,1.0,
+question,Quelle condition est nécessaire pour voter aux élections européennes ? ?),,,lvl1
+answer,Être titulaire d'une carte de résident. ।),,0.0,
+answer,Être citoyen français ou citoyen d'un autre État membre de l'Union européenne résidant en France.,,1.0,
+answer,Avoir plus de 25 ans.,,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ?,,,lvl1
+answer,Tous les 4 ans,,0.0,
+answer,Tous les 5 ans,,1.0,
+answer,Tous les 7 ans,,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ?,,,lvl1
+answer,La Pologne,,0.0,
+answer,L'Allemagne,,1.0,
+answer,L'Espagne,,0.0,
+question,Quelle est la monnaie utilisée en France ?,,,lvl1
+answer,Le Franc,,0.0,
+answer,L'Euro,,1.0,
+answer,Le Dollar,,0.0,
+question,Qui élit les députés européens ? ?),,,lvl1
+answer,Les parlements nationaux.,,0.0,
+answer,Les citoyens européens par vote direct.,,1.0,
+answer,Le Conseil européen,,0.0,
+question,Quand célèbre-t-on la journée de l'Europe ?,,,lvl1
+answer,Le 1er janvier,,0.0,
+answer,Le 14 juillet,,0.0,
+answer,Le 9 mai,,1.0,
+question,Qu'est-ce que l'État de droit ? ?),,,lvl2
+answer,Un État dirigé par un monarque.,,0.0,
+answer,Un État où le chef a tous les pouvoirs.,,0.0,
+answer,Un État dans lequel la puissance publique est soumise au droit (à la loi). ।),,1.0,
+question,Le président de la République a commis un crime. Quelle proposition est correcte ?,,,lvl2
+answer,Il bénéficie d'une immunité totale à vie.,,0.0,
+answer,Il peut être jugé par une juridiction spéciale pour les actes commis en dehors de ses fonctions.,,1.0,
+answer,Seul le Parlement peut le juger.,,0.0,
+question,La loi est l'expression de :,,,lvl2
+answer,La volonté du Gouvernement.,,0.0,
+answer,La volonté du Président de la République.,,0.0,
+answer,La volonté générale (du peuple).।),,1.0,
+question,Quelle est la durée du mandat du conseil municipal et du maire ?,,,lvl2
+answer,5 ans,,0.0,
+answer,6 ans,,1.0,
+answer,7 ans,,0.0,
+question,Que garantit l’État de droit ? ?),,,lvl2
+answer,Que les lois peuvent changer sans contrôle.,,0.0,
+answer,Que l'administration est au-dessus des lois.,,0.0,
+answer,Que tous (citoyens et pouvoirs publics) sont soumis au respect du droit et de la loi. ।),,1.0,
+question,Une personne peut-elle voter à la place d'une autre ?,,,lvl2
+answer,"Oui, si elle présente la carte d'identité de l'autre personne.",,0.0,
+answer,"Non, le vote est personnel, sauf en cas de procuration dans les conditions fixées par la loi. ।)",,1.0,
+answer,"Oui, si la personne qui vote est de la même famille.",,0.0,
+question,Est-ce que le vote est obligatoire ?,,,lvl2
+answer,"Non, le vote est un droit et une liberté, mais il n'est pas obligatoire en France.",,1.0,
+answer,"Oui, il est obligatoire pour tous les citoyens de plus de 18 ans.",,0.0,
+answer,"Oui, sauf pour les élections européennes.",,0.0,
+question,"À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?",,,lvl2
+answer,"Oui, s'il a le soutien du Gouvernement.",,0.0,
+answer,"Non, il doit se représenter et être réélu par les citoyens.",,1.0,
+answer,"Oui, en cas de crise nationale grave.",,0.0,
+question,Qui dirige l'action du Gouvernement ?,,,lvl2
+answer,Le Président de l'Assemblée Nationale,,0.0,
+answer,Le Premier ministre,,1.0,
+answer,Le Président de la République,,0.0,
+question,Quelle est l'organisation administrative de la France ?,,,lvl2
+answer,Un État fédéral,,0.0,
+answer,"Un État unitaire décentralisé (Communes, Départements, Régions).।)",,1.0,
+answer,Une confédération d'États,,0.0,
+question,Pourquoi séparer les trois pouvoirs dans une démocratie ?,,,lvl2
+answer,Pour simplifier le travail du Gouvernement.,,0.0,
+answer,Pour donner plus d'autorité au Président.,,0.0,
+answer,Pour éviter l'abus de pouvoir et garantir les libertés des citoyens.,,1.0,
+question,Quel est le rôle du gouvernement ?,,,lvl2
+answer,Voter les lois et contrôler le Parlement.,,0.0,
+answer,Conduire la politique de la Nation et appliquer les lois votées par le Parlement.,,1.0,
+answer,Juger les crimes et les délits.,,0.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ?,,,lvl2
+answer,Il démissionne sans conséquence judiciaire.,,0.0,
+answer,Il est jugé par la Cour de Justice de la République (CJR) pour les actes commis dans l’exercice de ses fonctions. ।),,1.0,
+answer,Il est jugé par le Premier ministre.,,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ?,,,lvl2
+answer,"Oui, il est le chef de l'État et du Gouvernement.",,0.0,
+answer,"Non, le pouvoir est séparé entre trois organes (Exécutif, Législatif, Judiciaire).।)",,1.0,
+answer,"Oui, pendant les cinq ans de son mandat.",,0.0,
+question,Qui est le préfet ?,,,lvl2
+answer,L'élu à la tête du Conseil départemental.,,0.0,
+answer,Le chef de la police nationale.,,0.0,
+answer,Le représentant de l'État dans une région ou un département.,,1.0,
+question,Quelle condition est nécessaire pour voter aux élections ?,,,lvl2
+answer,Avoir plus de 21 ans.,,0.0,
+answer,Être majeur (18 ans) et de nationalité française. ।),,1.0,
+answer,Résider en France depuis au moins 5 ans.,,0.0,
+question,Qu'est-ce que l'Hôtel de Matignon ? ?),,,lvl2
+answer,La résidence officielle du Président de la République.,,0.0,
+answer,La résidence officielle et le bureau du Premier ministre.,,1.0,
+answer,Le siège de l'Assemblée Nationale.,,0.0,
+question,Le Parlement est composé :,,,lvl2
+answer,Du Président de la République et du Premier ministre.,,0.0,
+answer,Du Conseil d'État et de la Cour de Cassation.,,0.0,
+answer,De l'Assemblée Nationale et du Sénat.,,1.0,
+question,Quel est le rôle du président de la République ?,,,lvl2
+answer,Appliquer les lois et gérer le budget.,,0.0,
+answer,Garantir le bon fonctionnement des institutions et l'indépendance nationale.,,1.0,
+answer,Juger les crimes et délits.,,0.0,
+question,Quel est le rôle du Premier ministre ?,,,lvl2
+answer,"Diriger l'action du Gouvernement, responsable devant le Parlement.",,1.0,
+answer,Représenter la France dans le monde.,,0.0,
+answer,Contrôler les juges.,,0.0,
+question,Qui est le chef du Gouvernement ?,,,lvl2
+answer,Le Président de la République,,0.0,
+answer,Le Premier ministre,,1.0,
+answer,Le Président de la Région,,0.0,
+question,Combien y a-t-il de régions en France ? ?),,,lvl2
+answer,18 (13 en métropole et 5 en Outre-mer).।),,1.0,
+answer,22,,0.0,
+answer,96,,0.0,
+question,Quel est le rôle du Défenseur des droits ?,,,lvl2
+answer,Défendre le territoire national.,,0.0,
+answer,Veiller au respect des droits et libertés par les administrations et lutter contre les discriminations.,,1.0,
+answer,Rédiger les projets de loi du Gouvernement.,,0.0,
+question,Depuis quand l'euro est-elle la monnaie unique ?,,,lvl2
+answer,1999,,0.0,
+answer,2002,,1.0,
+answer,2007,,0.0,
+question,Quel est le rôle principal du département ? ?),,,lvl2
+answer,La défense nationale et la diplomatie.,,0.0,
+answer,"L’action sociale, la gestion des collèges et des routes départementales.",,1.0,
+answer,La politique étrangère et la monnaie.,,0.0,
+question,Quel est le rôle principal des communes ? ?),,,lvl2
+answer,L'enseignement supérieur et la défense nationale.,,0.0,
+answer,"L’état civil, l’urbanisme local et la gestion des écoles maternelles et primaires.",,1.0,
+answer,La politique étrangère et la monnaie.,,0.0,
+question,Combien de communes environ existe-t-il en France ? ?),,,lvl2
+answer,Environ 5 000,,0.0,
+answer,Environ 15 000,,0.0,
+answer,Plus de 34 000,,1.0,
+question,Quel traité concerne la construction de l'Union européenne ?,,,lvl2
+answer,Le traité de Versailles,,0.0,
+answer,Le traité de Paris,,0.0,
+answer,Le traité de Rome (signé en 1957).।),,1.0,
+question,Quel État a quitté l'Union européenne en 2020 ?,,,lvl2
+answer,La Norvège,,0.0,
+answer,Le Royaume-Uni,,1.0,
+answer,La Suisse,,0.0,
+question,Quelle est la devise de l’Union européenne ?,,,lvl2
+answer,"Liberté, Égalité, Fraternité",,0.0,
+answer,Unie dans la diversité,,1.0,
+answer,Paix et Prospérité,,0.0,
+question,Quel est l'hymne de l'Union européenne ?,,,lvl2
+answer,L'Ode à la joie (composée par Beethoven).,,1.0,
+answer,La Marseillaise,,0.0,
+answer,Le Chant du départ,,0.0,
+question,De quoi est composé le drapeau européen ?,,,lvl2
+answer,Un cercle de 27 étoiles de couleurs différentes.,,0.0,
+answer,Un cercle de 12 étoiles dorées sur fond bleu.,,1.0,
+answer,Un aigle impérial et des étoiles.,,0.0,
+question,De quelle couleur est le drapeau européen ?,,,lvl2
+answer,Vert et blanc,,0.0,
+answer,Rouge et or,,0.0,
+answer,Bleu et or (ou jaune).।),,1.0,
+question,"En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-elle été signé ?, , ?)",,,lvl2
+answer,1957,,0.0,
+answer,1989,,0.0,
+answer,1992,,1.0,
+question,Où est le siège du Parlement européen ?,,,lvl2
+answer,Bruxelles,,0.0,
+answer,Strasbourg,,1.0,
+answer,Berlin,,0.0,
+question,Où est le siège de la Commission européenne ?,,,lvl2
+answer,Strasbourg,,0.0,
+answer,Bruxelles,,1.0,
+answer,Luxembourg,,0.0,
+question,Quel État n'est pas membre de l'Union européenne ?,,,lvl2
+answer,L'Autriche,,0.0,
+answer,La Norvège,,1.0,
+answer,La Pologne,,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ?,,,lvl2
+answer,Tous les 4 ans,,0.0,
+answer,Tous les 5 ans,,1.0,
+answer,Tous les 6 ans,,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ?,,,lvl2
+answer,L'Irlande,,0.0,
+answer,L'Italie,,1.0,
+answer,La Grèce,,0.0,
+question,Dans combien de pays le français est-il parlé?,,,lvl3
+answer,27,,0.0,
+answer,18,,0.0,
+answer,70,,1.0,
+question,Que comprend l’état civil tenu par les communes? ?),,,lvl3
+answer,"Les naissances, mariages et décès",,1.0,
+answer,Les résultats électoraux,,0.0,
+answer,Les jugements judiciaires,,0.0,
+question,Les Terres australes et antarctiques françaises sont…,,,lvl3
+answer,Une collectivité d’outre-mer,,1.0,
+answer,Un département et région d’outre-mer,,0.0,
+answer,Une «commune d’outre-mer»,,0.0,
+question,Quelle est la durée du mandat des sénateurs en France?,,,lvl3
+answer,7 ans,,0.0,
+answer,6 ans,,1.0,
+answer,5 ans,,0.0,
+question,Qui est responsable des collèges?,,,lvl3
+answer,La commune,,0.0,
+answer,Le département,,1.0,
+answer,La région,,0.0,
+question,Qui administre une région en France? ?),,,lvl3
+answer,Le conseil départemental,,0.0,
+answer,Le conseil régional,,1.0,
+answer,Le préfet,,0.0,
+question,Quelle est la capitale de la région Hauts-de-France? ?),,,lvl3
+answer,Arras,,0.0,
+answer,Amiens,,0.0,
+answer,Lille,,1.0,
+question,Mayotte est… ...),,,lvl3
+answer,Un conseil d’outre-mer,,0.0,
+answer,Un département et région d’outre-mer,,1.0,
+answer,Une collectivité d’outre-mer,,0.0,
+question,Saint-Martin est… ...),,,lvl3
+answer,Une collectivité d’outre-mer,,1.0,
+answer,Un conseil d’outre-mer,,0.0,
+answer,Un département et région d’outre-mer,,0.0,
+question,Quel est le principe de la démocratie française?,,,lvl3
+answer,"Le gouvernement des élites, pour les élites",,0.0,
+answer,Le gouvernement par l’armée,,0.0,
+answer,"Le gouvernement du peuple, par le peuple et pour le peuple",,1.0,
+question,Quelle est la capitale de la Martinique?,,,lvl3
+answer,Saint-Pierre,,0.0,
+answer,Fort-de-France,,1.0,
+answer,Le Lamentin,,0.0,
+question,Quelle est la capitale de La Réunion? ?),,,lvl3
+answer,Saint-Denis,,1.0,
+answer,Mamoudzou,,0.0,
+answer,Saint-Pierre,,0.0,
+question,Que peuvent faire librement les partis politiques en France?,,,lvl3
+answer,Se former et exercer leur activité,,1.0,
+answer,Exister seulement s’ils sont religieux,,0.0,
+answer,Être autorisés uniquement par le président,,0.0,
+question,Saint-Barthélemy est…,,,lvl3
+answer,Une «commune d’outre-mer»,,0.0,
+answer,Une collectivité d’outre-mer,,1.0,
+answer,Un département et région d’outre-mer,,0.0,
+question,À quoi est soumis le pouvoir politique en France?,,,lvl3
+answer,À la volonté d’un seul chef,,0.0,
+answer,À la loi,,1.0,
+answer,À la religion dominante,,0.0,
+question,De quoi les départements sont-ils responsables? ?),,,lvl3
+answer,De la défense nationale,,0.0,
+answer,"Des collèges, de la protection de l’enfance, de l’aide aux personnes âgées",,1.0,
+answer,De la politique étrangère,,0.0,
+question,Quelle est la capitale de la Guadeloupe?,,,lvl3
+answer,Saint-François,,0.0,
+answer,Basse-Terre,,1.0,
+answer,Pointe-à-Pitre,,0.0,
+question,La Guyane est… ...),,,lvl3
+answer,Un département et région d’outre-mer,,1.0,
+answer,Un conseil d’outre-mer,,0.0,
+answer,Une collectivité d’outre-mer,,0.0,
+question,Qui est responsable des écoles primaires?,,,lvl3
+answer,La région,,0.0,
+answer,La commune,,1.0,
+answer,Le département,,0.0,
+question,La Nouvelle-Calédonie est… ...),,,lvl3
+answer,Une «commune d’outre-mer»,,0.0,
+answer,Un département et région d’outre-mer,,0.0,
+answer,Une collectivité d’outre-mer,,1.0,
+question,Tous les combien d’années ont lieu les élections législatives pour élire les députés?,,,lvl3
+answer,Tous les 5 ans,,1.0,
+answer,Tous les 4 ans,,0.0,
+answer,Tous les 6 ans,,0.0,
+question,Quelle est la capitale de la région Occitanie? ?),,,lvl3
+answer,Toulouse,,1.0,
+answer,Nîmes,,0.0,
+answer,Montpellier,,0.0,
+question,Quelle place occupe la France à l’ONU? ?),,,lvl3
+answer,Membre permanent du Conseil de sécurité,,1.0,
+answer,Secrétaire général,,0.0,
+answer,Membre non permanent du Conseil de sécurité,,0.0,
+question,Quelle est la capitale de la région Grand Est? ?),,,lvl3
+answer,Strasbourg,,1.0,
+answer,Metz,,0.0,
+answer,Nancy,,0.0,
+question,Que partagent les États membres de l’Union européenne?,,,lvl3
+answer,Des principes démocratiques,,1.0,
+answer,Une même langue,,0.0,
+answer,Une même armée,,0.0,
+question,Quelle est la capitale de Mayotte? ?),,,lvl3
+answer,Mamoudzou,,1.0,
+answer,Koungou,,0.0,
+answer,Dzaoudzi,,0.0,
+question,Qui est responsable de la formation professionnelle? ?),,,lvl3
+answer,Le département,,0.0,
+answer,La commune,,0.0,
+answer,La région,,1.0,
+question,Que sanctionne la justice en France?,,,lvl3
+answer,Les choix religieux,,0.0,
+answer,Les infractions aux règles de droit,,1.0,
+answer,Les opinions politiques,,0.0,
+question,En quelle année a été adoptée la Charte des droits fondamentaux de l’Union européenne?,,,lvl3
+answer,2000,,1.0,
+answer,1992,,0.0,
+answer,1957,,0.0,
+question,Quelle est la capitale de Wallis-et-Futuna?,,,lvl3
+answer,Wallis,,0.0,
+answer,Mata-Utu,,1.0,
+answer,Futuna,,0.0,
+question,De quoi les communes sont-elles responsables? ?),,,lvl3
+answer,"Des écoles maternelles et primaires, des activités sportives et culturelles, de la voirie communale, de l’état civil)",,1.0,
+answer,Des impôts nationaux,,0.0,
+answer,Des universités et de la recherche,,0.0,
+question,Tous les combien d’années ont lieu les élections du Parlement européen?,,,lvl3
+answer,Tous les 6 ans,,0.0,
+answer,Tous les 10 ans,,0.0,
+answer,Tous les 5 ans,,1.0,
+question,La Réunion est… ...),,,lvl3
+answer,Un département et région d’outre-mer,,1.0,
+answer,Une collectivité d’outre-mer,,0.0,
+answer,Une «commune d’outre-mer»,,0.0,
+question,Qui est responsable des transports publics régionaux?,,,lvl3
+answer,La commune,,0.0,
+answer,Le département,,0.0,
+answer,La région,,1.0,
+question,Quelles peines peuvent être prononcées par la justice?,,,lvl3
+answer,"Emprisonnement, amende",,1.0,
+answer,Déchéance automatique de nationalité,,0.0,
+answer,Travail bénévole obligatoire,,0.0,
+question,Par qui la justice est-elle rendue en France?,,,lvl3
+answer,Par les députés,,0.0,
+answer,Par les juges,,1.0,
+answer,Par le Président,,0.0,
+question,Donne trois exemples de collectivités d’outre-mer françaises.,,,lvl3
+answer,"Luxembourg, Andorre, Suisse",,0.0,
+answer,"Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna",,1.0,
+answer,"Corse, Provence, Bretagne",,0.0,
+question,Qui est responsable de la construction des lycées? ?),,,lvl3
+answer,Le département,,0.0,
+answer,La région,,1.0,
+answer,La commune,,0.0,
+question,Comment les lois traitent-elles les citoyens?,,,lvl3
+answer,Selon leur origine sociale,,0.0,
+answer,Selon leur religion,,0.0,
+answer,De façon égale,,1.0,
+question,Quelle est la capitale de la Nouvelle-Calédonie? ?),,,lvl3
+answer,Papeete,,0.0,
+answer,Koné,,0.0,
+answer,Nouméa,,1.0,
+question,Quelle est la capitale de Saint-Pierre-et-Miquelon? ?),,,lvl3
+answer,Miquelon,,0.0,
+answer,Saint-Denis,,0.0,
+answer,Saint-Pierre,,1.0,
+question,La Guadeloupe est…,,,lvl3
+answer,Une «commune d’outre-mer»,,0.0,
+answer,Un département et région d’outre-mer,,1.0,
+answer,Une collectivité d’outre-mer,,0.0,
+question,Selon quel texte le pouvoir politique doit-il fonctionner?,,,lvl3
+answer,Les traditions religieuses,,0.0,
+answer,Les coutumes locales,,0.0,
+answer,La Constitution et la loi,,1.0,
+question,Wallis-et-Futuna est… ...),,,lvl3
+answer,Une «commune d’outre-mer»,,0.0,
+answer,Un département et région d’outre-mer,,0.0,
+answer,Une collectivité d’outre-mer,,1.0,
+question,Quelle est la capitale de la région Centre-Val de Loire? ?),,,lvl3
+answer,Tours,,0.0,
+answer,Orléans,,1.0,
+answer,Blois,,0.0,
+question,Quelle est la capitale de Saint-Martin? ?),,,lvl3
+answer,Marigot,,1.0,
+answer,Gustavia,,0.0,
+answer,Phillipsburg,,0.0,
+question,Quels droits sont associés à la citoyenneté européenne?,,,lvl3
+answer,"Circuler, travailler, étudier, s’installer dans les autres pays de l’Union",,1.0,
+answer,Être exempté d’impôts,,0.0,
+answer,Avoir automatiquement deux nationalités,,0.0,
+question,Dans combien de pays européens l’euro est-il utilisé avec la France?,,,lvl3
+answer,27,,0.0,
+answer,20,,1.0,
+answer,12,,0.0,
+question,Quelle est la capitale de la région Corse? ?),,,lvl3
+answer,Bastia,,0.0,
+answer,Calvi,,0.0,
+answer,Ajaccio,,1.0,
+question,Quelle est la capitale de la région Normandie? ?),,,lvl3
+answer,Rouen,,1.0,
+answer,Caen,,0.0,
+answer,Le Havre,,0.0,
+question,Quelle autorité enregistre les décès?,,,lvl3
+answer,Le département,,0.0,
+answer,La commune,,1.0,
+answer,La région,,0.0,
+question,Par quel mode de scrutin est élu le Président de la République?,,,lvl3
+answer,Au suffrage universel indirect,,0.0,
+answer,Au suffrage universel direct,,1.0,
+answer,Par nomination du Parlement,,0.0,
+question,Pour combien de temps le maire est-il élu?,,,lvl3
+answer,4 ans,,0.0,
+answer,6 ans,,1.0,
+answer,5 ans,,0.0,
+question,Pour combien de temps les conseillers régionaux sont-ils élus? ?),,,lvl3
+answer,6 ans,,1.0,
+answer,5 ans,,0.0,
+answer,7 ans,,0.0,
+question,Comment les communes sont-elles regroupées? ?),,,lvl3
+answer,En départements,,0.0,
+answer,En régions,,0.0,
+answer,"En intercommunalités (communautés de communes, métropoles, etc.)",,1.0,
+question,Comment sont élus les sénateurs en France?,,,lvl3
+answer,Au suffrage universel indirect,,1.0,
+answer,Par le Président de la République,,0.0,
+answer,Au suffrage universel direct,,0.0,
+question,Qui est responsable de la voirie communale? ?),,,lvl3
+answer,La région,,0.0,
+answer,La commune,,1.0,
+answer,Le département,,0.0,
+question,Qui peut représenter l’État dans certaines collectivités d’outre-mer? ?),,,lvl3
+answer,Les hauts-commissaires,,1.0,
+answer,Les gouverneurs élus,,0.0,
+answer,Les ambassadeurs,,0.0,
+question,Quelle est la capitale de la région Auvergne-Rhône-Alpes? ?),,,lvl3
+answer,Chambéry,,0.0,
+answer,Grenoble,,0.0,
+answer,Lyon,,1.0,
+question,. Qui administre les départements? ?),,,lvl3
+answer,Les maires,,0.0,
+answer,Les conseils départementaux,,1.0,
+answer,Les conseils régionaux,,0.0,
+question,Qu’est-ce qui est garanti concernant la justice en France?,,,lvl3
+answer,Son indépendance,,1.0,
+answer,Sa dépendance au gouvernement,,0.0,
+answer,Sa soumission aux partis politiques,,0.0,
+question,Que règle la justice en France?,,,lvl3
+answer,Les élections présidentielles,,0.0,
+answer,"Les litiges entre particuliers, entreprises et citoyens avec l’administration",,1.0,
+answer,Les décisions économiques du Gouvernement,,0.0,
+question,Qui administre les régions?,,,lvl3
+answer,Les préfets,,0.0,
+answer,Le Sénat,,0.0,
+answer,Les conseils régionaux,,1.0,
+question,Depuis quelle année les citoyens français sont-ils aussi citoyens européens?,,,lvl3
+answer,1957,,0.0,
+answer,1992,,1.0,
+answer,2000,,0.0,
+question,Qui est responsable de l’aide aux personnes âgées?,,,lvl3
+answer,La région,,0.0,
+answer,Le département,,1.0,
+answer,La commune,,0.0,
+question,Quel texte définit l’organisation de l’État en France? ?),,,lvl3
+answer,Le Code civil,,0.0,
+answer,La Constitution,,1.0,
+answer,La Déclaration des droits de l’homme et du citoyen,,0.0,
+question,Quels sont les cinq départements-régions d’outre-mer? ?),,,lvl3
+answer,"Guadeloupe, Guyane, Martinique, Mayotte, La Réunion",,1.0,
+answer,"Corse, Monaco, Andorre, Luxembourg, Sardaigne",,0.0,
+answer,"Polynésie française, Wallis-et-Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon",,0.0,
+question,Que garantit la Charte des droits fondamentaux de l’Union européenne?,,,lvl3
+answer,L’unité monétaire,,0.0,
+answer,Les droits des personnes,,1.0,
+answer,La politique étrangère commune,,0.0,
+question,De quelle majorité politique le Premier ministre est-il issu?,,,lvl3
+answer,De la majorité au Sénat,,0.0,
+answer,De la majorité présidentielle uniquement,,0.0,
+answer,De la majorité aux élections législatives,,1.0,
+question,Quelle est la capitale de la région Nouvelle-Aquitaine?,,,lvl3
+answer,Limoges,,0.0,
+answer,Bordeaux,,1.0,
+answer,Pau,,0.0,
+question,Quelle est la capitale de la région Provence-Alpes-Côte d’Azur? ?),,,lvl3
+answer,Marseille,,1.0,
+answer,Toulon,,0.0,
+answer,Nice,,0.0,
+question,Qui est responsable de la protection de l’enfance?,,,lvl3
+answer,La région,,0.0,
+answer,Le département,,1.0,
+answer,La commune,,0.0,
+question,De quoi les régions sont-elles responsables?,,,lvl3
+answer,"Des transports publics, de la formation professionnelle, de la construction et de l’entretien des lycées",,1.0,
+answer,Des écoles maternelles,,0.0,
+answer,Des hôpitaux militaires,,0.0,
+question,Quelle est la capitale de la région Bourgogne-Franche-Comté?,,,lvl3
+answer,Mâcon,,0.0,
+answer,Besançon,,0.0,
+answer,Dijon,,1.0,
+question,Quelle est la capitale de la Polynésie française? ?),,,lvl3
+answer,Raiatea,,0.0,
+answer,Papeete,,1.0,
+answer,Nouméa,,0.0,
+question,Qui est responsable des activités culturelles locales?,,,lvl3
+answer,La région,,0.0,
+answer,Le département,,0.0,
+answer,La commune,,1.0,
+question,Quelle est la place économique de la France dans le monde?,,,lvl3
+answer,Dixième puissance mondiale,,0.0,
+answer,Sixième puissance mondiale,,1.0,
+answer,Première puissance mondiale,,0.0,
+question,Saint-Pierre-et-Miquelon est…,,,lvl3
+answer,Un département et région d’outre-mer,,0.0,
+answer,Un conseil d’outre-mer,,0.0,
+answer,Une collectivité d’outre-mer,,1.0,
+question,Qui est responsable de l’entretien des lycées? ?),,,lvl3
+answer,La commune,,0.0,
+answer,La région,,1.0,
+answer,Le département,,0.0,
+question,Quelle est la capitale de la Guyane française? ?),,,lvl3
+answer,Fort-de-France,,0.0,
+answer,Cayenne,,1.0,
+answer,Mamoudzou,,0.0,
+question,Combien de collectivités d’outre-mer la France compte-t-elle? ?),,,lvl3
+answer,7,,1.0,
+answer,12,,0.0,
+answer,5,,0.0,
+question,Quelle est la capitale de Saint-Barthélemy? ?),,,lvl3
+answer,Marigot,,0.0,
+answer,Saint-Martin,,0.0,
+answer,Gustavia,,1.0,
+question,Qui représente l’État dans les départements et régions?,,,lvl3
+answer,Le député,,0.0,
+answer,Le maire,,0.0,
+answer,Le préfet,,1.0,
+question,Combien de chambres composent le Parlement français?,,,lvl3
+answer,Trois,,0.0,
+answer,Une,,0.0,
+answer,Deux,,1.0,
+question,Quelle proportion de la population mondiale représentent les Français?,,,lvl3
+answer,1 %,,1.0,
+answer,10 %,,0.0,
+answer,5 %,,0.0,
+question,Quelle est la capitale de la région Bretagne? ?),,,lvl3
+answer,Vannes,,0.0,
+answer,Quimper,,0.0,
+answer,Rennes,,1.0,
+question,La Polynésie française est… ...),,,lvl3
+answer,Un conseil d’outre-mer,,0.0,
+answer,Une collectivité d’outre-mer,,1.0,
+answer,Un département et région d’outre-mer,,0.0,
+question,Combien de territoires d’outre-mer la France compte-t-elle au total?,,,lvl3
+answer,5,,0.0,
+answer,12,,1.0,
+answer,7,,0.0,
+question,Que peuvent faire les citoyens français installés dans un autre pays de l’Union?,,,lvl3
+answer,Être automatiquement fonctionnaires de ce pays,,0.0,
+answer,Voter aux élections locales de ce pays,,1.0,
+answer,Se présenter à la présidence de ce pays,,0.0,

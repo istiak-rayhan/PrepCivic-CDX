@@ -1,0 +1,697 @@
+type,text,placeholder,is_correct,level
+question,"Qui nomme le Premier ministre ? (وزیراعظم کا تقرر کون کرتا ہے؟)",,,lvl1
+answer,"Le Président de l'Assemblée Nationale (نیشنل اسمبلی کا صدر)",,0.0,
+answer,"Le Président du Sénat (سینیٹ کا صدر)",,0.0,
+answer,"Le Président de la République (جمہوریہ کا صدر)",,1.0,
+question,"Le Parlement est composé : (پارلیمنٹ مشتمل ہے:)",,,lvl1
+answer,"Du Président de la République et du Premier ministre (صدر جمہوریہ اور وزیراعظم پر)",,0.0,
+answer,"Du Gouvernement et du Conseil d'État (حکومت اور کونسل آف اسٹیٹ پر)",,0.0,
+answer,"De l'Assemblée Nationale et du Sénat (نیشنل اسمبلی اور سینیٹ پر)",,1.0,
+question,"Qu'est-ce que le pouvoir exécutif ? Le pouvoir : (قوتِ نافذہ (ایگزیکٹو پاور) کیا ہے؟ وہ طاقت جو:)",,,lvl1
+answer,"Qui fait les lois (قوانین بناتی ہے)",,0.0,
+answer,"Qui juge et sanctionne les personnes (لوگوں کا فیصلہ کرتی ہے اور سزا دیتی ہے)",,0.0,
+answer,"Qui met en œuvre les lois et conduit la politique de la Nation (قوانین کو نافذ کرتی ہے اور ملک کی پالیسی چلاتی ہے)",,1.0,
+question,"Les dirigeants sont élus par les citoyens dans : (حکمرانوں کا انتخاب شہریوں کے ذریعے ہوتا ہے:)",,,lvl1
+answer,"Une dictature (آمریت میں)",,0.0,
+answer,"Une monarchie (بادشاہت میں)",,0.0,
+answer,"Une démocratie (جمہوریت میں)",,1.0,
+question,"A-t-on le droit de ne pas respecter une loi ? (کیا کسی قانون کا احترام نہ کرنے کا حق ہے؟)",,,lvl1
+answer,"Oui, si la loi est ancienne. (جی ہاں، اگر قانون پرانا ہو۔)",,0.0,
+answer,"Oui, si l'on n'est pas d'accord avec la loi. (جی ہاں، اگر آپ قانون سے متفق نہ ہوں۔)",,0.0,
+answer,"Non, la loi s'applique à tous et doit être respectée . (نہیں، قانون سب پر لاگو ہوتا ہے اور اس کا احترام ضروری ہے۔)",,1.0,
+question,"Qui doit respecter la loi ? (قانون کا احترام کسے کرنا چاہیے؟)",,,lvl1
+answer,"Uniquement les citoyens français. (صرف فرانسیسی شہریوں کو۔)",,0.0,
+answer,"Uniquement les fonctionnaires. (صرف سرکاری ملازمین کو۔)",,0.0,
+answer,"Toutes les personnes résidant en France, y compris les visiteurs. (فرانس میں رہنے والے تمام افراد بشمول سیاحوں کو۔)",,1.0,
+question,"Quel est le rôle de l'autorité judiciaire ? (عدالتی اتھارٹی کا کیا کردار ہے؟)",,,lvl1
+answer,"Faire la guerre et signer les traités internationaux. (جنگ کرنا اور بین الاقوامی معاہدوں پر دستخط کرنا۔)",,0.0,
+answer,"Voter les lois. (قوانین کے لیے ووٹ دینا۔)",,0.0,
+answer,"Veiller au respect de la loi et sanctionner son non-respect. (قانون کے احترام کی نگرانی کرنا اور اس کی خلاف ورزی پر سزا دینا۔)",,1.0,
+question,"Quel pouvoir détient un juge ? Le pouvoir : (جج کے پاس کون سا اختیار ہوتا ہے؟ اختیار:)",,,lvl1
+answer,"Exécutif (انتظامی)",,0.0,
+answer,"Législatif (قانون سازی)",,0.0,
+answer,"Judiciaire (عدالتی)",,1.0,
+question,"L'autorité judiciaire est exercée par : (عدالتی اختیار استعمال کیا جاتا ہے بذریعہ:)",,,lvl1
+answer,"Le Gouvernement et les préfets. (حکومت اور پریفیکٹس کے ذریعے)۔",,0.0,
+answer,"Le Parlement et les maires. (پارلیمنٹ اور میئرز کے ذریعے)۔",,0.0,
+answer,"Les magistrats (juges et procureurs). (مجسٹریٹس (ججز اور پراسیکیوٹرز) کے ذریعے)۔",,1.0,
+question,"Que se passe-t-il si un ministre ne respecte pas la loi ? (اگر کوئی وزیر قانون کا احترام نہ کرے تو کیا ہوتا ہے؟)",,,lvl1
+answer,"Rien, car il est protégé par son statut. (کچھ نہیں، کیونکہ وہ اپنے عہدے کی وجہ سے محفوظ ہے۔)",,0.0,
+answer,"Il est jugé par le Président de la République. (اس کا فیصلہ صدر جمہوریہ کرتا ہے۔)",,0.0,
+answer,"Il est jugé par la Cour de Justice de la République (CJR) ou les tribunaux ordinaires. (اس کا فیصلہ جمہوریہ کی عدالت انصاف (CJR) یا عام عدالتوں میں ہوتا ہے۔)",,1.0,
+question,"Qui est élu lors des élections législatives ? (قانون ساز اسمبلی کے انتخابات میں کون منتخب ہوتا ہے؟)",,,lvl1
+answer,"Le Président de la République (صدر جمہوریہ)",,0.0,
+answer,"Les députés à l'Assemblée Nationale (نیشنل اسمبلی کے ارکان/ڈپٹیز)",,1.0,
+answer,"Les maires et leurs conseillers municipaux (میئرز اور ان کے بلدیاتی کونسلرز)",,0.0,
+question,"Combien de députés composent l’Assemblée nationale ? (نیشنل اسمبلی کتنے ارکان پر مشتمل ہے؟)",,,lvl1
+answer,"Environ 350 (تقریباً 350)",,0.0,
+answer,"577 (577)",,1.0,
+answer,"Environ 700 (تقریباً 700)",,0.0,
+question,"Quand sont élus les sénateurs ? (سینیٹرز کا انتخاب کب ہوتا ہے؟)",,,lvl1
+answer,"Au suffrage universel direct par tous les citoyens. (تمام شہریوں کے براہ راست ووٹ کے ذریعے۔)",,0.0,
+answer,"Lors des élections présidentielles. (صدارتی انتخابات کے دوران۔)",,0.0,
+answer,"Au suffrage universel indirect par les ""grands électeurs"" (élus locaux). (بلدیاتی نمائندوں (گرینڈ الیکٹرز) کے ذریعے بالواسطہ ووٹنگ سے۔)",,1.0,
+question,"Qui est élu lors des élections municipales ? (بلدیاتی انتخابات میں کون منتخب ہوتا ہے؟)",,,lvl1
+answer,"Les conseillers régionaux et départementaux (علاقائی اور محکمانہ کونسلرز)",,0.0,
+answer,"Les maires et les conseillers municipaux (میئرز اور بلدیاتی کونسلرز)",,1.0,
+answer,"Les députés au Parlement européen (یورپی پارلیمنٹ کے ارکان)",,0.0,
+question,"Qui est élu lors des élections présidentielles ? (صدارتی انتخابات میں کون منتخب ہوتا ہے؟)",,,lvl1
+answer,"Le Premier ministre (وزیراعظم)",,0.0,
+answer,"Le Président de la République (جمہوریہ کا صدر)",,1.0,
+answer,"Le Président du Sénat (سینیٹ کا صدر)",,0.0,
+question,"À partir de quel âge a-t-on le droit de voter ? (ووٹ دینے کا حق کس عمر سے حاصل ہوتا ہے؟)",,,lvl1
+answer,"21 ans (21 سال)",,0.0,
+answer,"16 ans (16 سال)",,0.0,
+answer,"18 ans (18 سال)",,1.0,
+question,"Pour combien de temps est élu le président de la République française ? (فرانسیسی جمہوریہ کا صدر کتنے عرصے کے لیے منتخب ہوتا ہے؟)",,,lvl1
+answer,"7 ans (7 سال)",,0.0,
+answer,"6 ans (6 سال)",,0.0,
+answer,"5 ans (5 سال)",,1.0,
+question,"Pour combien de temps sont élus les députés ? (ارکان اسمبلی (ڈپٹیز) کتنے عرصے کے لیے منتخب ہوتے ہیں؟)",,,lvl1
+answer,"7 ans (7 سال)",,0.0,
+answer,"6 ans (6 سال)",,0.0,
+answer,"5 ans (5 سال)",,1.0,
+question,"Pour combien de temps sont élus les sénateurs ? (سینیٹرز کتنے عرصے کے لیے منتخب ہوتے ہیں؟)",,,lvl1
+answer,"5 ans (5 سال)",,0.0,
+answer,"6 ans (6 سال)",,1.0,
+answer,"7 ans (7 سال)",,0.0,
+question,"Qui possède le pouvoir exécutif ? (انتظامی اختیار کس کے پاس ہے؟)",,,lvl1
+answer,"Le Parlement (پارلیمنٹ)",,0.0,
+answer,"Le Président de la République et le Gouvernement (صدر جمہوریہ اور حکومت کے پاس)",,1.0,
+answer,"La Cour de Cassation (عدالتِ عالیہ/کورٹ آف کیسیشن)",,0.0,
+question,"Quelle condition est nécessaire pour voter aux élections ? (انتخابات میں ووٹ دینے کے لیے کون سی شرط ضروری ہے؟)",,,lvl1
+answer,"Être propriétaire d'un logement en France. (فرانس میں گھر کا مالک ہونا۔)",,0.0,
+answer,"Être titulaire de la nationalité française depuis 10 ans. (10 سال سے فرانسیسی شہریت رکھنا۔)",,0.0,
+answer,"Être âgé de 18 ans et être de nationalité française (pour la plupart des élections). (18 سال کی عمر اور فرانسیسی شہریت ہونا (زیادہ تر انتخابات کے لیے)۔)",,1.0,
+question,"Qui peut voter aux élections en France ? (فرانس میں انتخابات میں کون ووٹ دے سکتا ہے؟)",,,lvl1
+answer,"Tous les résidents étrangers. (تمام غیر ملکی رہائشی۔)",,0.0,
+answer,"Tous les citoyens français majeurs (pour la plupart des élections). (تمام بالغ فرانسیسی شہری (زیادہ تر انتخابات کے لیے)۔)",,1.0,
+answer,"Uniquement les hommes majeurs. (صرف بالغ مرد۔)",,0.0,
+question,"Que signifie « suffrage universel » ? (عام رائے دہی (Suffrage Universel) کا کیا مطلب ہے؟)",,,lvl1
+answer,"Que seuls les hommes peuvent voter. (کہ صرف مرد ووٹ دے سکتے ہیں۔)",,0.0,
+answer,"Que seuls les plus riches peuvent voter. (کہ صرف امیر ترین لوگ ووٹ دے سکتے ہیں۔)",,0.0,
+answer,"Que tous les citoyens majeurs peuvent voter, sans distinction. (کہ تمام بالغ شہری بغیر کسی امتیاز کے ووٹ دے سکتے ہیں۔)",,1.0,
+question,"Concernant les partis politiques, quelle proposition est correcte ? (سیاسی جماعتوں کے بارے میں کون سی تجویز درست ہے؟)",,,lvl1
+answer,"Ils sont interdits par la Constitution française. (وہ فرانسیسی آئین کے تحت ممنوع ہیں۔)",,0.0,
+answer,"Un seul parti est autorisé par l'État. (ریاست کی طرف سے صرف ایک جماعت کی اجازت ہے۔)",,0.0,
+answer,"Ils sont libres de se créer et d'exercer leur activité dans le respect de la loi. (وہ قانون کے احترام میں بننے اور اپنی سرگرمیاں انجام دینے کے لیے آزاد ہیں۔)",,1.0,
+question,"Quel est le rôle des députés ? (ارکانِ اسمبلی (ڈپٹیز) کا کیا کردار ہے؟)",,,lvl1
+answer,"Exécuter les lois et gérer l'administration. (قوانین نافذ کرنا اور انتظامیہ کو سنبھالنا۔)",,0.0,
+answer,"Voter les lois et contrôler l'action du Gouvernement. (قوانین کے لیے ووٹ دینا اور حکومتی کارروائیوں کی نگرانی کرنا۔)",,1.0,
+answer,"Juger les crimes et délits. (جرائم اور خلاف ورزیوں کا فیصلہ کرنا۔)",,0.0,
+question,"La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ? (اختیارات کی علیحدگی ایک بنیادی اصول ہے۔ اس میں شامل تین طاقتیں کون سی ہیں؟)",,,lvl1
+answer,"Le pouvoir militaire, le pouvoir civil, le pouvoir religieux. (فوجی طاقت، شہری طاقت، مذہبی طاقت۔)",,0.0,
+answer,"Le pouvoir exécutif, le pouvoir législatif, le pouvoir judiciaire. (انتظامی اختیار، قانون ساز اختیار، عدالتی اختیار۔)",,1.0,
+answer,"Le pouvoir national, le pouvoir régional, le pouvoir local. (قومی طاقت، علاقائی طاقت، مقامی طاقت۔)",,0.0,
+question,"Qui possède le pouvoir législatif ? (قانون سازی کا اختیار کس کے پاس ہے؟)",,,lvl1
+answer,"Le Président de la République (صدر جمہوریہ کے پاس)",,0.0,
+answer,"Le Parlement (Assemblée Nationale et Sénat) (پارلیمنٹ (نیشنل اسمبلی اور سینیٹ) کے پاس)",,1.0,
+answer,"Les juges (ججوں کے پاس)",,0.0,
+question,"Qui sanctionne l'auteur d'un vol ? (چوری کرنے والے کو سزا کون دیتا ہے؟)",,,lvl1
+answer,"Le préfet (پریفیکٹ)",,0.0,
+answer,"Le maire (میئر)",,0.0,
+answer,"L'autorité judiciaire (les tribunaux). (عدالتی اتھارٹی (عدالتیں)۔)",,1.0,
+question,"Qui élit les députés ? (ارکانِ اسمبلی کا انتخاب کون کرتا ہے؟)",,,lvl1
+answer,"Le Président de la République (صدر جمہوریہ)",,0.0,
+answer,"Les ""grands électeurs"" (گرینڈ الیکٹرز)",,0.0,
+answer,"Les citoyens français par vote direct. (فرانسیسی شہری براہ راست ووٹ کے ذریعے۔)",,1.0,
+question,"Qui vote les lois ? (قوانین کون منظور کرتا ہے؟)",,,lvl1
+answer,"Le Gouvernement (حکومت)",,0.0,
+answer,"Le Parlement (Assemblée Nationale et Sénat) (پارلیمنٹ (نیشنل اسمبلی اور سینیٹ))",,1.0,
+answer,"Le Conseil d'État (کونسل آف اسٹیٹ)",,0.0,
+question,"Qui réside au palais de l'Élysée ? (ایلیسی محل (Palais de l'Élysée) میں کون رہتا ہے؟)",,,lvl1
+answer,"Le Premier ministre (وزیراعظم)",,0.0,
+answer,"Le Président de la République (جمہوریہ کا صدر)",,1.0,
+answer,"Le Président de l'Assemblée Nationale (نیشنل اسمبلی کا صدر)",,0.0,
+question,"Combien y a-t-il de départements en France ? (فرانس میں کتنے محکمے (Departments) ہیں؟)",,,lvl1
+answer,"Environ 50 (تقریباً 50)",,0.0,
+answer,"101 (96 en métropole et 5 en Outre-mer au 1er janvier 2025). (101 (96 سرزمین فرانس میں اور 5 سمندر پار)۔)",,1.0,
+answer,"Environ 150 (تقریباً 150)",,0.0,
+question,"Qui représente l'État dans un département ? (محکمے میں ریاست کی نمائندگی کون کرتا ہے؟)",,,lvl1
+answer,"Le Président du Conseil départemental (محکمانہ کونسل کا صدر)",,0.0,
+answer,"Le Préfet (پریفیکٹ)",,1.0,
+answer,"Le Président de la Région (خطے کا صدر)",,0.0,
+question,"Qui dirige la commune ? (کمیون (بلدیہ) کی سربراہی کون کرتا ہے؟)",,,lvl1
+answer,"Le Préfet (پریفیکٹ)",,0.0,
+answer,"Le Maire (et le Conseil Municipal) (میئر (اور بلدیاتی کونسل))",,1.0,
+answer,"Le Président de la Région (خطے کا صدر)",,0.0,
+question,"Est-ce que le président de la République a tous les pouvoirs ? (کیا صدر جمہوریہ کے پاس تمام اختیارات ہیں؟)",,,lvl1
+answer,"Oui, il détient tous les pouvoirs exécutifs et législatifs. (جی ہاں، اس کے پاس تمام انتظامی اور قانون ساز اختیارات ہیں۔)",,0.0,
+answer,"Non, les pouvoirs sont séparés entre l'Exécutif, le Législatif et le Judiciaire. (نہیں، اختیارات انتظامیہ، قانون سازی اور عدلیہ کے درمیان تقسیم ہیں۔)",,1.0,
+answer,"Oui, car il est le chef des armées. (جی ہاں، کیونکہ وہ افواج کا سربراہ ہے۔)",,0.0,
+question,"Qui est le préfet ? (پریفیکٹ کون ہے؟)",,,lvl1
+answer,"L'élu local chargé de l'urbanisme. (شہری منصوبہ بندی کا انچارج منتخب نمائندہ۔)",,0.0,
+answer,"Le représentant de l'État dans un département ou une région. (محکمے یا خطے میں ریاست کا نمائندہ۔)",,1.0,
+answer,"Le chef de la police municipale. (بلدیاتی پولیس کا سربراہ۔)",,0.0,
+question,"Quel est le rôle du Parlement ? (پارلیمنٹ کا کیا کردار ہے؟)",,,lvl1
+answer,"Diriger le pays et appliquer les lois. (ملک کو چلانا اور قوانین نافذ کرنا۔)",,0.0,
+answer,"Voter les lois, contrôler l'action du Gouvernement et évaluer les politiques publiques. (قوانین منظور کرنا، حکومت کی نگرانی کرنا اور عوامی پالیسیوں کا جائزہ لینا۔)",,1.0,
+answer,"Juger les crimes et délits les plus graves. (سنگین جرائم اور خلاف ورزیوں کا فیصلہ کرنا۔)",,0.0,
+question,"Quel est le régime politique de la France aujourd'hui ? (آج فرانس کا سیاسی نظام کیا ہے؟)",,,lvl1
+answer,"Une monarchie constitutionnelle (آئینی بادشاہت)",,0.0,
+answer,"Une République démocratique (ایک جمہوری جمہوریہ)",,1.0,
+answer,"Une fédération de régions (خطوں کی ایک فیڈریشن)",,0.0,
+question,"Combien d'États font partie de l'Union européenne au 1er janvier 2025 ? (یکم جنوری 2025 تک یورپی یونین میں کتنے ممالک شامل ہیں؟)",,,lvl1
+answer,"26 (26)",,0.0,
+answer,"27 (27)",,1.0,
+answer,"28 (28)",,0.0,
+question,"Quel État n'est pas membre de l'Union européenne ? (کون سا ملک یورپی یونین کا رکن نہیں ہے؟)",,,lvl1
+answer,"L'Allemagne (جرمنی)",,0.0,
+answer,"L'Espagne (اسپین)",,0.0,
+answer,"La Suisse (سوئٹزرلینڈ)",,1.0,
+question,"Quelle condition est nécessaire pour voter aux élections européennes ? (یورپی انتخابات میں ووٹ دینے کے لیے کون سی شرط ضروری ہے؟)",,,lvl1
+answer,"Être titulaire d'une carte de résident. (رہائشی کارڈ کا حامل ہونا۔)",,0.0,
+answer,"Être citoyen français ou citoyen d'un autre État membre de l'Union européenne résidant en France. (فرانسیسی شہری یا فرانس میں مقیم یورپی یونین کے کسی دوسرے ملک کا شہری ہونا۔)",,1.0,
+answer,"Avoir plus de 25 ans. (عمر 25 سال سے زیادہ ہونا۔)",,0.0,
+question,"À quelle fréquence les élections européennes sont-elles organisées ? (یورپی انتخابات کتنے عرصے بعد منعقد ہوتے ہیں؟)",,,lvl1
+answer,"Tous les 4 ans (ہر 4 سال بعد)",,0.0,
+answer,"Tous les 5 ans (ہر 5 سال بعد)",,1.0,
+answer,"Tous les 7 ans (ہر 7 سال بعد)",,0.0,
+question,"Quel pays est un pays fondateur de l'Union européenne ? (کون سا ملک یورپی یونین کا بانی ملک ہے؟)",,,lvl1
+answer,"La Pologne (پولینڈ)",,0.0,
+answer,"L'Allemagne (جرمنی)",,1.0,
+answer,"L'Espagne (اسپین)",,0.0,
+question,"Quelle est la monnaie utilisée en France ? (فرانس میں کون سی کرنسی استعمال ہوتی ہے؟)",,,lvl1
+answer,"Le Franc (فرانک)",,0.0,
+answer,"L'Euro (یورو)",,1.0,
+answer,"Le Dollar (ڈالر)",,0.0,
+question,"Qui élit les députés européens ? (یورپی ارکانِ پارلیمنٹ کا انتخاب کون کرتا ہے؟)",,,lvl1
+answer,"Les parlements nationaux. (قومی پارلیمنٹس۔)",,0.0,
+answer,"Les citoyens européens par vote direct. (یورپی شہری براہ راست ووٹ کے ذریعے۔)",,1.0,
+answer,"Le Conseil européen (یورپی کونسل)",,0.0,
+question,"Quand célèbre-t-on la journée de l'Europe ? (یومِ یورپ کب منایا جاتا ہے؟)",,,lvl1
+answer,"Le 1er janvier (یکم جنوری)",,0.0,
+answer,"Le 14 juillet (14 جولائی)",,0.0,
+answer,"Le 9 mai (9 مئی)",,1.0,
+question,"Qu'est-ce que l'État de droit ? (قانون کی حکمرانی (ایٹ ڈی ڈروئٹ) کیا ہے؟)",,,lvl2
+answer,"Un État dirigé par un monarque. (بادشاہ کے زیرِ انتظام ریاست۔)",,0.0,
+answer,"Un État où le chef a tous les pouvoirs. (ایسی ریاست جہاں سربراہ کے پاس تمام اختیارات ہوں۔)",,0.0,
+answer,"Un État dans lequel la puissance publique est soumise au droit (à la loi). (ایسی ریاست جس میں حکومتی طاقت قانون کے تابع ہو۔)",,1.0,
+question,"Le président de la République a commis un crime. Quelle proposition est correcte ? (صدر جمہوریہ نے کوئی جرم کیا ہے۔ کون سی تجویز درست ہے؟)",,,lvl2
+answer,"Il bénéficie d'une immunité totale à vie. (اسے تاحیات مکمل استثنیٰ حاصل ہے۔)",,0.0,
+answer,"Il peut être jugé par une juridiction spéciale pour les actes commis en dehors de ses fonctions. (اپنے فرائض سے باہر کیے گئے کاموں کے لیے اس پر خصوصی عدالت میں مقدمہ چلایا جا سکتا ہے۔)",,1.0,
+answer,"Seul le Parlement peut le juger. (صرف پارلیمنٹ اس کا فیصلہ کر سکتی ہے۔)",,0.0,
+question,"La loi est l'expression de : (قانون کس کا اظہار ہے:)",,,lvl2
+answer,"La volonté du Gouvernement. (حکومت کی مرضی کا۔)",,0.0,
+answer,"La volonté du Président de la République. (صدر جمہوریہ کی مرضی کا۔)",,0.0,
+answer,"La volonté générale (du peuple). (عوامی مرضی کا۔)",,1.0,
+question,"Quelle est la durée du mandat du conseil municipal et du maire ? (بلدیاتی کونسل اور میئر کی مدت ملازمت کتنی ہے؟)",,,lvl2
+answer,"5 ans (5 سال)",,0.0,
+answer,"6 ans (6 سال)",,1.0,
+answer,"7 ans (7 سال)",,0.0,
+question,"Que garantit l’État de droit ? (قانون کی حکمرانی کس بات کی ضمانت دیتی ہے؟)",,,lvl2
+answer,"Que les lois peuvent changer sans contrôle. (کہ قوانین بغیر کسی نگرانی کے بدل سکتے ہیں۔)",,0.0,
+answer,"Que l'administration est au-dessus des lois. (کہ انتظامیہ قوانین سے بالاتر ہے۔)",,0.0,
+answer,"Que tous (citoyens et pouvoirs publics) sont soumis au respect du droit et de la loi. (کہ تمام (شہری اور حکومتی ادارے) قانون کے احترام کے پابند ہیں۔)",,1.0,
+question,"Une person peut-elle voter à la place d'une autre ? (کیا کوئی شخص دوسرے کی جگہ ووٹ دے سکتا ہے؟)",,,lvl2
+answer,"Oui, si elle présente la carte d'identité de l'autre person. (جی ہاں، اگر وہ دوسرے شخص کا شناختی کارڈ پیش کرے۔)",,0.0,
+answer,"Non, le vote est personnel, sauf en cas de procuration dans les conditions fixées par la loi. (نہیں، ووٹ ذاتی ہے، سوائے اس کے کہ قانون کے مطابق کسی کو ووٹ کا اختیار (پروکوریشن) دیا گیا ہو۔)",,1.0,
+answer,"Oui, si la person qui vote est de la même famille. (جی ہاں، اگر ووٹ دینے والا شخص اسی خاندان سے ہو۔)",,0.0,
+question,"Est-ce que le vote est obligatoire ? (کیا ووٹ دینا لازمی ہے؟)",,,lvl2
+answer,"Non, le vote est un droit et une liberté, mais il n'est pas obligatoire en France. (نہیں، ووٹ دینا ایک حق اور آزادی ہے، لیکن فرانس میں یہ لازمی نہیں ہے۔)",,1.0,
+answer,"Oui, il est obligatoire pour tous les citoyens de plus de 18 ans. (جی ہاں، یہ 18 سال سے زائد عمر کے تمام شہریوں کے لیے لازمی ہے۔)",,0.0,
+answer,"Oui, sauf pour les élections européennes. (جی ہاں، سوائے یورپی انتخابات کے۔)",,0.0,
+question,"À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ? (اپنی مدت کے اختتام پر، کیا صدر جمہوریہ اقتدار میں رہنے کا فیصلہ کر سکتا ہے؟)",,,lvl2
+answer,"Oui, s'il a le soutien du Gouvernement. (جی ہاں، اگر اسے حکومت کی حمایت حاصل ہو۔)",,0.0,
+answer,"Non, il doit se représenter et être réélu par les citoyens. (نہیں، اسے دوبارہ انتخاب لڑنا ہوگا اور شہریوں سے منتخب ہونا ہوگا۔)",,1.0,
+answer,"Oui, en cas de crise nationale grave. (جی ہاں، شدید قومی بحران کی صورت میں۔)",,0.0,
+question,"Qui dirige l'action du Gouvernement ? (حکومتی اقدامات کی رہنمائی کون کرتا ہے؟)",,,lvl2
+answer,"Le Président de l'Assemblée Nationale (نیشنل اسمبلی کا صدر)",,0.0,
+answer,"Le Premier ministre (وزیراعظم)",,1.0,
+answer,"Le Président de la République (جمہوریہ کا صدر)",,0.0,
+question,"Quelle est l'organisation administrative de la France ? (فرانس کی انتظامی تنظیم کیسی ہے؟)",,,lvl2
+answer,"Un État fédéral (ایک وفاقی ریاست)",,0.0,
+answer,"Un État unitaire décentralisé (Communes, Départements, Régions). (ایک غیر مرکزی وحدانی ریاست (کمیونز، ڈیپارٹمنٹس، ریجنز)۔)",,1.0,
+answer,"Une confédération d'États (ریاستوں کا ایک کنفیڈریشن)",,0.0,
+question,"Pourquoi séparer les trois pouvoirs dans une démocratie ? (جمہوریت میں تینوں اختیارات کو الگ کیوں رکھا جاتا ہے؟)",,,lvl2
+answer,"Pour simplifier le travail du Gouvernement. (حکومت کے کام کو آسان بنانے کے لیے۔)",,0.0,
+answer,"Pour donner plus d'autorité au Président. (صدر کو زیادہ اختیار دینے کے لیے۔)",,0.0,
+answer,"Pour éviter l'abus de pouvoir et garantir les libertés des citoyens. (اختیار کے غلط استعمال سے بچنے اور شہریوں کی آزادیوں کی ضمانت کے لیے۔)",,1.0,
+question,"Quel est le rôle du gouvernement ? (حکومت کا کیا کردار ہے؟)",,,lvl2
+answer,"Voter les lois et contrôler le Parlement. (قوانین منظور کرنا اور پارلیمنٹ کی نگرانی کرنا۔)",,0.0,
+answer,"Conduire la politique de la Nation et appliquer les lois votées par le Parlement. (ملک کی پالیسی چلانا اور پارلیمنٹ کے منظور کردہ قوانین کو نافذ کرنا।)",,1.0,
+answer,"Juger les crimes et les délits. (جرائم اور خلاف ورزیوں کا فیصلہ کرنا।)",,0.0,
+question,"Que se passe-t-il si un ministre ne respecte pas la loi ? (اگر کوئی وزیر قانون کا احترام نہ کرے تو کیا ہوتا ہے؟)",,,lvl2
+answer,"Il démissionne sans conséquence judiciaire. (وہ عدالتی کارروائی کے بغیر استعفیٰ دے دیتا ہے۔)",,0.0,
+answer,"Il est jugé par la Cour de Justice de la République (CJR) pour les actes commis dans l’exercice de ses fonctions. (اپنے فرائض کی انجام دہی کے دوران کیے گئے کاموں کے لیے اس پر کورٹ آف جسٹس آف دی ریپبلک (CJR) میں مقدمہ چلایا جاتا ہے۔)",,1.0,
+answer,"Il est jugé par le Premier ministre. (اس کا فیصلہ وزیراعظم کرتا ہے۔)",,0.0,
+question,"Est-ce que le président de la République a tous les pouvoirs ? (کیا صدر جمہوریہ کے پاس تمام اختیارات ہیں؟)",,,lvl2
+answer,"Oui, il est le chef de l'État et du Gouvernement. (جی ہاں، وہ ریاست اور حکومت کا سربراہ ہے۔)",,0.0,
+answer,"Non, le pouvoir est séparé entre trois organes (Exécutif, Législatif, Judiciaire). (نہیں، طاقت تین اداروں (انتظامیہ، قانون سازی، عدلیہ) کے درمیان تقسیم ہے۔)",,1.0,
+answer,"Oui, pendant les cinq ans de son mandat. (جی ہاں، اپنی پانچ سالہ مدت کے دوران۔)",,0.0,
+question,"Qui est le préfet ? (پریفیکٹ کون ہے؟)",,,lvl2
+answer,"L'élu à la tête du Conseil départemental. (محکمانہ کونسل کا منتخب سربراہ۔)",,0.0,
+answer,"Le chef de la police nationale. (نیشنل پولیس کا سربراہ۔)",,0.0,
+answer,"Le représentant de l'État dans une région ou un département. (کسی خطے یا محکمے میں ریاست کا نمائندہ۔)",,1.0,
+question,"Quelle condition est nécessaire pour voter aux élections ? (انتخابات میں ووٹ دینے کے لیے کون سی شرط ضروری ہے؟)",,,lvl2
+answer,"Avoir plus de 21 ans. (عمر 21 سال سے زیادہ ہونا۔)",,0.0,
+answer,"Être majeur (18 ans) et de nationalité française. (بالغ (18 سال) اور فرانسیسی شہریت ہونا۔)",,1.0,
+answer,"Résider en France depuis au moins 5 ans. (کم از کم 5 سال سے فرانس میں مقیم ہونا۔)",,0.0,
+question,"Qu'est-ce que l'Hôtel de Matignon ? (ہوٹل ڈی میٹگنن کیا ہے؟)",,,lvl2
+answer,"La résidence officielle du Président de la République. (صدر جمہوریہ کی سرکاری رہائش گاہ۔)",,0.0,
+answer,"La résidence officielle et le bureau du Premier ministre. (وزیراعظم کی سرکاری رہائش گاہ اور دفتر۔)",,1.0,
+answer,"Le siège de l'Assemblée Nationale. (نیشنل اسمبلی کا صدر دفتر۔)",,0.0,
+question,"Le Parlement est composé : (پارلیمنٹ مشتمل ہے:)",,,lvl2
+answer,"Du Président de la République et du Premier ministre. (صدر جمہوریہ اور وزیراعظم پر۔)",,0.0,
+answer,"Du Conseil d'État et de la Cour de Cassation. (کونسل آف اسٹیٹ اور کورٹ آف کیسیشن پر۔)",,0.0,
+answer,"De l'Assemblée Nationale et du Sénat. (نیشنل اسمبلی اور سینیٹ پر۔)",,1.0,
+question,"Quel est le rôle du président de la République ? (صدر جمہوریہ کا کیا کردار ہے؟)",,,lvl2
+answer,"Appliquer les lois et gérer le budget. (قوانین نافذ کرنا اور بجٹ کا انتظام کرنا۔)",,0.0,
+answer,"Garantir le bon fonctionnement des institutions et l'indépendance nationale. (اداروں کے درست کام اور قومی آزادی کی ضمانت دینا۔)",,1.0,
+answer,"Juger les crimes et délits. (جرائم اور خلاف ورزیوں کا فیصلہ کرنا۔)",,0.0,
+question,"Quel est le rôle du Premier ministre ? (وزیراعظم کا کیا کردار ہے؟)",,,lvl2
+answer,"Diriger l'action du Gouvernement, responsable devant le Parlement. (حکومتی کارروائیوں کی رہنمائی کرنا، وہ پارلیمنٹ کے سامنے جوابدہ ہے۔)",,1.0,
+answer,"Représenter la France dans le monde. (دنیا میں فرانس کی نمائندگی کرنا۔)",,0.0,
+answer,"Contrôler les juges. (ججوں کی نگرانی کرنا۔)",,0.0,
+question,"Qui est le chef du Gouvernement ? (حکومت کا سربراہ کون ہے؟)",,,lvl2
+answer,"Le Président de la République (صدر جمہوریہ)",,0.0,
+answer,"Le Premier ministre (وزیراعظم)",,1.0,
+answer,"Le Président de la Région (خطے کا صدر)",,0.0,
+question,"Combien y a-t-il de régions en France ? (فرانس میں کتنے خطے (Regions) ہیں؟)",,,lvl2
+answer,"18 (13 en métropole et 5 en Outre-mer). (18 (13 سرزمین فرانس میں اور 5 سمندر پار)۔)",,1.0,
+answer,"22 (22)",,0.0,
+answer,"96 (96)",,0.0,
+question,"Quel est le rôle du Défenseur des droits ? (ڈیفنسر آف رائٹس کا کیا کردار ہے؟)",,,lvl2
+answer,"Défendre le territoire national. (قومی سرزمین کا دفاع کرنا۔)",,0.0,
+answer,"Veiller au respect des droits et libertés par les administrations et lutter contre les discriminations. (انتظامیہ کے ذریعے حقوق و آزادیوں کے احترام کو یقینی بنانا اور امتیازی سلوک کے خلاف لڑنا۔)",,1.0,
+answer,"Rédiger les projets de loi du Gouvernement. (حکومت کے بلوں کے مسودے تیار کرنا۔)",,0.0,
+question,"Depuis quand l'euro est-elle la monnaie unique ? (یورو کب سے واحد کرنسی ہے؟)",,,lvl2
+answer,"1999 (1999)",,0.0,
+answer,"2002 (2002)",,1.0,
+answer,"2007 (2007)",,0.0,
+question,"Quel est le rôle principal du département ? (محکمے (ڈیپارٹمنٹ) کا بنیادی کردار کیا ہے؟)",,,lvl2
+answer,"La défense nationale et la diplomatie. (قومی دفاع اور سفارت کاری۔)",,0.0,
+answer,"L’action sociale, la gestion des collèges et des routes départementales. (سماجی اقدامات، مڈل اسکولوں (Colleges) کا انتظام اور محکمہ کی سڑکیں۔)",,1.0,
+answer,"La politique étrangère et la monnaie. (خارجہ پالیسی اور کرنسی۔)",,0.0,
+question,"Quel est le rôle principal des communes ? (کمیونز (بلدیات) کا بنیادی کردار کیا ہے؟)",,,lvl2
+answer,"L'enseignement supérieur et la défense nationale. (اعلیٰ تعلیم اور قومی دفاع۔)",,0.0,
+answer,"L’état civil, l’urbanisme local et la gestion des écoles maternelles et primaires. (سول اسٹیٹ، مقامی منصوبہ بندی اور نرسری و پرائمری اسکولوں کا انتظام۔)",,1.0,
+answer,"La politique étrangère et la monnaie. (خارجہ پالیسی اور کرنسی۔)",,0.0,
+question,"Combien de communes environ existe-t-il en France ? (فرانس میں تقریباً کتنے کمیونز (بلدیات) ہیں؟)",,,lvl2
+answer,"Environ 5 000 (تقریباً 5000)",,0.0,
+answer,"Environ 15 000 (تقریباً 15000)",,0.0,
+answer,"Plus de 34 000 (34000 سے زیادہ)",,1.0,
+question,"Quel traité concerne la construction de l'Union européenne ? (کون سا معاہدہ یورپی یونین کی تعمیر سے متعلق ہے؟)",,,lvl2
+answer,"Le traité de Versailles (معاہدہ ورسائی)",,0.0,
+answer,"Le traité de Paris (معاہدہ پیرس)",,0.0,
+answer,"Le traité de Rome (signé en 1957). (معاہدہ روم (1957 میں دستخط شدہ)۔)",,1.0,
+question,"Quel État a quitté l'Union européenne en 2020 ? (کس ملک نے 2020 میں یورپی یونین چھوڑی؟)",,,lvl2
+answer,"La Norvège (ناروے)",,0.0,
+answer,"Le Royaume-Uni (برطانیہ)",,1.0,
+answer,"La Suisse (سوئٹزرلینڈ)",,0.0,
+question,"Quelle est la devise de l’Union européenne ? (یورپی یونین کا نعرہ/قول کیا ہے؟)",,,lvl2
+answer,"Liberté, Égalité, Fraternité (آزادی، برابری، بھائی چارہ)",,0.0,
+answer,"Unie dans la diversité (تنوع میں اتحاد)",,1.0,
+answer,"Paix et Prospérité (امن اور خوشحالی)",,0.0,
+question,"Quel est l'hymne de l'Union européenne ? (یورپی یونین کا ترانہ کیا ہے؟)",,,lvl2
+answer,"L'Ode à la joie (composée par Beethoven). (اوڈ ٹو جوائے (بیتھوون کی ترتیب دی ہوئی)۔)",,1.0,
+answer,"La Marseillaise (لا مارسیلیز)",,0.0,
+answer,"Le Chant du départ (روانگی کا گیت)",,0.0,
+question,"De quoi est composé le drapeau européen ? (یورپی جھنڈا کس چیز پر مشتمل ہے؟)",,,lvl2
+answer,"Un cercle de 27 étoiles de couleurs différentes. (مختلف رنگوں کے 27 ستاروں کا ایک دائرہ۔)",,0.0,
+answer,"Un cercle de 12 étoiles dorées sur fond bleu. (نیلے پس منظر پر 12 سنہری ستاروں کا ایک دائرہ۔)",,1.0,
+answer,"Un aigle impérial et des étoiles. (ایک شاہی عقاب اور ستارے۔)",,0.0,
+question,"De quelle couleur est le drapeau européen ? (یورپی جھنڈے کا رنگ کیا ہے؟)",,,lvl2
+answer,"Vert et blanc (سفید اور سبز)",,0.0,
+answer,"Rouge et or (سرخ اور سنہری)",,0.0,
+answer,"Bleu et or (ou jaune). (نیلا اور سنہری (یا پیلا)۔)",,1.0,
+question,"En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-elle été signé ? (یورپی یونین کی بنیاد رکھنے والا معاہدہ ماسٹرخٹ کس سال دستخط کیا گیا؟)",,,lvl2
+answer,"1957 (1957)",,0.0,
+answer,"1989 (1989)",,0.0,
+answer,"1992 (1992)",,1.0,
+question,"Où est le siège du Parlement européen ? (یورپی پارلیمنٹ کا صدر دفتر کہاں ہے؟)",,,lvl2
+answer,"Bruxelles (برسلز)",,0.0,
+answer,"Strasbourg (اسٹراسبرگ)",,1.0,
+answer,"Berlin (برلن)",,0.0,
+question,"Où est le siège de la Commission européenne ? (یورپی کمیشن کا صدر دفتر کہاں ہے؟)",,,lvl2
+answer,"Strasbourg (اسٹراسبرگ)",,0.0,
+answer,"Bruxelles (برسلز)",,1.0,
+answer,"Luxembourg (لکسمبرگ)",,0.0,
+question,"Quel État n'est pas membre de l'Union européenne ? (کون سا ملک یورپی یونین کا رکن نہیں ہے؟)",,,lvl2
+answer,"L'Autriche (آسٹریا)",,0.0,
+answer,"La Norvège (ناروے)",,1.0,
+answer,"La Pologne (پولینڈ)",,0.0,
+question,"À quelle fréquence les élections européennes sont-elles organisées ? (یورپی انتخابات کتنے عرصے بعد ہوتے ہیں؟)",,,lvl2
+answer,"Tous les 4 ans (ہر 4 سال بعد)",,0.0,
+answer,"Tous les 5 ans (ہر 5 سال بعد)",,1.0,
+answer,"Tous les 6 ans (ہر 6 سال بعد)",,0.0,
+question,"Quel pays est un pays fondateur de l'Union européenne ? (کون سا ملک یورپی یونین کا بانی ملک ہے؟)",,,lvl2
+answer,"L'Irlande (آئرلینڈ)",,0.0,
+answer,"L'Italie (اٹلی)",,1.0,
+answer,"La Grèce (یونان)",,0.0,
+question,"Dans combien de pays le français est-il parlé? (فرانسیسی زبان کتنے ممالک میں بولی جاتی ہے؟)",,,lvl3
+answer,"27 (27)",,0.0,
+answer,"18 (18)",,0.0,
+answer,"70 (70)",,1.0,
+question,"Que comprend l’état civil tenu par les communes? (بلدیات کے زیرِ انتظام سول اسٹیٹ (رجسٹرار) میں کیا شامل ہوتا ہے؟)",,,lvl3
+answer,"Les naissances, mariages et décès (پیدائش، شادی اور وفات)",,1.0,
+answer,"Les résultats électoraux (انتخابی نتائج)",,0.0,
+answer,"Les jugements judiciaires (عدالتی فیصلے)",,0.0,
+question,"Les Terres australes et antarctiques françaises sont… (فرانسیسی جنوبی اور انٹارکٹک علاقے ہیں...)",,,lvl3
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی/کولیکٹیویٹی)",,1.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+answer,"Une «commune d’outre-mer» (ایک ""سمندر پار بلدیہ"")",,0.0,
+question,"Quelle est la durée du mandat des sénateurs en France? (فرانس میں سینیٹرز کی مدت ملازمت کتنی ہے؟)",,,lvl3
+answer,"7 ans (7 سال)",,0.0,
+answer,"6 ans (6 سال)",,1.0,
+answer,"5 ans (5 سال)",,0.0,
+question,"Qui est responsable des collèges? (مڈل اسکولوں (Collèges) کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La commune (بلدیہ/کمیون)",,0.0,
+answer,"Le département (محکمہ/ڈیپارٹمنٹ)",,1.0,
+answer,"La région (خطہ/ریجن)",,0.0,
+question,"Qui administre une région en France? (فرانس میں کسی خطے کا انتظام کون چلاتا ہے؟)",,,lvl3
+answer,"Le conseil départemental (محکمانہ کونسل)",,0.0,
+answer,"Le conseil régional (علاقائی کونسل)",,1.0,
+answer,"Le préfet (پریفیکٹ)",,0.0,
+question,"Quelle est la capitale de la région Hauts-de-France? (خطہ 'او-ڈی-فرانس' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Arras (اراس)",,0.0,
+answer,"Amiens (امیئنز)",,0.0,
+answer,"Lille (لیل)",,1.0,
+question,"Mayotte est… (میوٹ (Mayotte) ہے...)",,,lvl3
+answer,"Un conseil d’outre-mer (ایک سمندر پار کونسل)",,0.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,1.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,0.0,
+question,"Saint-Martin est… (سینٹ مارٹن ہے...)",,,lvl3
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,1.0,
+answer,"Un conseil d’outre-mer (ایک سمندر پار کونسل)",,0.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+question,"Quel est le principe de la démocratie française? (فرانسیسی جمہوریت کا اصول کیا ہے؟)",,,lvl3
+answer,"Le gouvernement des élites, pour les élites (اشرافیہ کی حکومت، اشرافیہ کے لیے)",,0.0,
+answer,"Le gouvernement par l’armée (فوج کے ذریعے حکومت)",,0.0,
+answer,"Le gouvernement du peuple, par le peuple et pour le peuple (عوام کی حکومت، عوام کے ذریعے اور عوام کے لیے)",,1.0,
+question,"Quelle est la capitale de la Martinique? (مارٹینیک کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Saint-Pierre (سینٹ پیئر)",,0.0,
+answer,"Fort-de-France (فورٹ ڈی فرانس)",,1.0,
+answer,"Le Lamentin (لی لامینٹن)",,0.0,
+question,"Quelle est la capitale de La Réunion? (لا ری یونین کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Saint-Denis (سینٹ ڈینس)",,1.0,
+answer,"Mamoudzou (مامودزو)",,0.0,
+answer,"Saint-Pierre (سینٹ پیئر)",,0.0,
+question,"Que peuvent faire librement les partis politiques en France? (فرانس میں سیاسی جماعتیں کیا کرنے کے لیے آزاد ہیں؟)",,,lvl3
+answer,"Se former et exercer leur activité (بننے اور اپنی سرگرمیاں انجام دینے کے لیے)",,1.0,
+answer,"Exister seulement s’ils sont religieux (صرف مذہبی ہونے کی صورت میں موجود رہنے کے لیے)",,0.0,
+answer,"Être autorisés uniquement par le président (صرف صدر سے اجازت لینے کے لیے)",,0.0,
+question,"Saint-Barthélemy est… (سینٹ بارتھلمی ہے...)",,,lvl3
+answer,"Une «commune d’outre-mer» (ایک ""سمندر پار بلدیہ"")",,0.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,1.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+question,"À quoi est soumis le pouvoir politique en France? (فرانس میں سیاسی طاقت کس کے تابع ہے؟)",,,lvl3
+answer,"À la volonté d’un seul chef (ایک ہی سربراہ کی مرضی کے)",,0.0,
+answer,"À la loi (قانون کے)",,1.0,
+answer,"À la religion dominante (غالب مذہب کے)",,0.0,
+question,"De quoi les départements sont-ils responsables? (محکمے (ڈیپارٹمنٹس) کس چیز کے ذمہ دار ہیں؟)",,,lvl3
+answer,"De la défense nationale (قومی دفاع کے)",,0.0,
+answer,"Des collèges, de la protection de l’enfance, de l’aide aux personnes âgées (مڈل اسکولوں، بچوں کے تحفظ اور بزرگوں کی امداد کے)",,1.0,
+answer,"De la politique étrangère (خارجہ پالیسی کے)",,0.0,
+question,"Quelle est la capitale de la Guadeloupe? (گواڈیلوپ کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Saint-François (سینٹ فرانسوا)",,0.0,
+answer,"Basse-Terre (باس-تیر)",,1.0,
+answer,"Pointe-à-Pitre (پوائنٹ-آ-پیترا)",,0.0,
+question,"La Guyane est… (فرانسیسی گیانا ہے...)",,,lvl3
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,1.0,
+answer,"Un conseil d’outre-mer (ایک سمندر پار کونسل)",,0.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,0.0,
+question,"Qui est responsable des écoles primaires? (پرائمری اسکولوں کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La région (خطہ)",,0.0,
+answer,"La commune (بلدیہ/کمیون)",,1.0,
+answer,"Le département (محکمہ)",,0.0,
+question,"La Nouvelle-Calédonie est… (نیو کیلیڈونیا ہے...)",,,lvl3
+answer,"Une «commune d’outre-mer» (ایک ""سمندر پار بلدیہ"")",,0.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی/خاص درجہ)",,1.0,
+question,"Tous les combien d’années ont lieu les élections législatives pour élire les députés? (ارکانِ اسمبلی منتخب کرنے کے لیے قانون ساز انتخابات کتنے سال بعد ہوتے ہیں؟)",,,lvl3
+answer,"Tous les 5 ans (ہر 5 سال بعد)",,1.0,
+answer,"Tous les 4 ans (ہر 4 سال بعد)",,0.0,
+answer,"Tous les 6 ans (ہر 6 سال بعد)",,0.0,
+question,"Quelle est la capitale de la région Occitanie? (خطہ 'اوکسی ٹانی' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Toulouse (ٹولوز)",,1.0,
+answer,"Nîmes (نیمز)",,0.0,
+answer,"Montpellier (مونٹ پیلیئر)",,0.0,
+question,"Quelle place occupe la France à l’ONU? (اقوام متحدہ میں فرانس کا کیا مقام ہے؟)",,,lvl3
+answer,"Membre permanent du Conseil de sécurité (سلامتی کونسل کا مستقل رکن)",,1.0,
+answer,"Secrétaire général (سیکرٹری جنرل)",,0.0,
+answer,"Membre non permanent du Conseil de sécurité (سلامتی کونسل کا غیر مستقل رکن)",,0.0,
+question,"Quelle est la capitale de la région Grand Est? (خطہ 'گرینڈ ایسٹ' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Strasbourg (اسٹراسبرگ)",,1.0,
+answer,"Metz (میٹز)",,0.0,
+answer,"Nancy (نینسی)",,0.0,
+question,"Que partagent les États membres de l’Union européenne? (یورپی یونین کے رکن ممالک کیا مشترک رکھتے ہیں؟)",,,lvl3
+answer,"Des principes démocratiques (جمہوری اصول)",,1.0,
+answer,"Une même langue (ایک ہی زبان)",,0.0,
+answer,"Une même armée (ایک ہی فوج)",,0.0,
+question,"Quelle est la capitale de Mayotte? (میوٹ کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Mamoudzou (مامودزو)",,1.0,
+answer,"Koungou (کونگو)",,0.0,
+answer,"Dzaoudzi (ڈزاؤڈزی)",,0.0,
+question,"Qui est responsable de la formation professionnelle? (پیشہ ورانہ تربیت (ووکیشنل ٹریننگ) کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"Le département (محکمہ)",,0.0,
+answer,"La commune (بلدیہ)",,0.0,
+answer,"La région (خطہ)",,1.0,
+question,"Que sanctionne la justice en France? (فرانس میں انصاف کس چیز کو سزا دیتا ہے؟)",,,lvl3
+answer,"Les choix religieux (مذہبی انتخاب کو)",,0.0,
+answer,"Les infractions aux règles de droit (قانونی قواعد کی خلاف ورزیوں کو)",,1.0,
+answer,"Les opinions politiques (سیاسی نظریات کو)",,0.0,
+question,"En quelle année a été adoptée la Charte des droits fondamentaux de l’Union européenne? (یورپی یونین کے بنیادی حقوق کا چارٹر کس سال منظور کیا گیا؟)",,,lvl3
+answer,"2000 (2000)",,1.0,
+answer,"1992 (1992)",,0.0,
+answer,"1957 (1957)",,0.0,
+question,"Quelle est la capitale de Wallis-et-Futuna? (والس اور فیوٹونا کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Wallis (والس)",,0.0,
+answer,"Mata-Utu (ماتا-اوتو)",,1.0,
+answer,"Futuna (فیوٹونا)",,0.0,
+question,"De quoi les communes sont-elles responsables? (کمیونز (بلدیات) کس چیز کی ذمہ دار ہیں؟)",,,lvl3
+answer,"Des écoles maternelles et primaires, des activités sportives et culturelles, de la voirie communale, de l’état civil) (نرسری اور پرائمری اسکول، کھیل اور ثقافت، سڑکیں اور سول اسٹیٹ)",,1.0,
+answer,"Des impôts nationaux (قومی ٹیکسوں کی)",,0.0,
+answer,"Des universités et de la recherche (یونیورسٹیوں اور تحقیق کی)",,0.0,
+question,"Tous les combien d’années ont lieu les élections du Parlement européen? (یورپی پارلیمنٹ کے انتخابات کتنے سال بعد ہوتے ہیں؟)",,,lvl3
+answer,"Tous les 6 ans (ہر 6 سال بعد)",,0.0,
+answer,"Tous les 10 ans (ہر 10 سال بعد)",,0.0,
+answer,"Tous les 5 ans (ہر 5 سال بعد)",,1.0,
+question,"La Réunion est… (لا ری یونین ہے...)",,,lvl3
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,1.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,0.0,
+answer,"Une «commune d’outre-mer» (ایک ""سمندر پار بلدیہ"")",,0.0,
+question,"Qui est responsable des transports publics régionaux? (علاقائی پبلک ٹرانسپورٹ کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La commune (بلدیہ)",,0.0,
+answer,"Le département (محکمہ)",,0.0,
+answer,"La région (خطہ)",,1.0,
+question,"Quelles peines peuvent être prononcées par la justice? (انصاف کے ذریعے کون سی سزائیں سنائی جا سکتی ہیں؟)",,,lvl3
+answer,"Emprisonnement, amende (قید، جرمانہ)",,1.0,
+answer,"Déchéance automatique de nationalité (شہریت کا خود بخود خاتمہ)",,0.0,
+answer,"Travail bénévole obligatoire (لازمی رضاکارانہ کام)",,0.0,
+question,"Par qui la justice est-elle rendue en France? (فرانس میں انصاف کون فراہم کرتا ہے؟)",,,lvl3
+answer,"Par les députés (ارکانِ اسمبلی کے ذریعے)",,0.0,
+answer,"Par les juges (ججوں کے ذریعے)",,1.0,
+answer,"Par le Président (صدر کے ذریعے)",,0.0,
+question,"Donne trois exemples de collectivités d’outre-mer françaises. (فرانسیسی سمندر پار کمیونٹیز کی تین مثالیں دیں۔)",,,lvl3
+answer,"Luxembourg, Andorre, Suisse (لکسمبرگ، اندورا، سوئٹزرلینڈ)",,0.0,
+answer,"Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna (نیو کیلیڈونیا، فرانسیسی پولینیشیا، والس اور فیوٹونا)",,1.0,
+answer,"Corse, Provence, Bretagne (کورسیکا، پروونس، بریٹانی)",,0.0,
+question,"Qui est responsable de la construction des lycées? (ہائی اسکولوں (Lycées) کی تعمیر کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"Le département (محکمہ)",,0.0,
+answer,"La région (خطہ)",,1.0,
+answer,"La commune (بلدیہ)",,0.0,
+question,"Comment les lois traitent-elles les citoyens? (قوانین شہریوں کے ساتھ کیسا سلوک کرتے ہیں؟)",,,lvl3
+answer,"Selon leur origine sociale (ان کے سماجی پس منظر کے مطابق)",,0.0,
+answer,"Selon leur religion (ان کے مذہب کے مطابق)",,0.0,
+answer,"De façon égale (برابری کی بنیاد پر)",,1.0,
+question,"Quelle est la capitale de la Nouvelle-Calédonie? (نیو کیلیڈونیا کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Papeete (پاپیتے)",,0.0,
+answer,"Koné (کونے)",,0.0,
+answer,"Nouméa (نومیا)",,1.0,
+question,"Quelle est la capitale de Saint-Pierre-et-Miquelon? (سینٹ پیئر اور میکیلون کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Miquelon (میکیلون)",,0.0,
+answer,"Saint-Denis (سینٹ ڈینس)",,0.0,
+answer,"Saint-Pierre (سینٹ پیئر)",,1.0,
+question,"La Guadeloupe est… (گواڈیلوپ ہے...)",,,lvl3
+answer,"Une «commune d’outre-mer» (ایک ""سمندر پار بلدیہ"")",,0.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,1.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,0.0,
+question,"Selon quel texte le pouvoir politique doit-il fonctionner? (سیاسی طاقت کو کس متن کے مطابق کام کرنا چاہیے؟)",,,lvl3
+answer,"Les traditions religieuses (مذہبی روایات کے مطابق)",,0.0,
+answer,"Les coutumes locales (مقامی رسم و رواج کے مطابق)",,0.0,
+answer,"La Constitution et la loi (آئین اور قانون کے مطابق)",,1.0,
+question,"Wallis-et-Futuna est… (والس اور فیوٹونا ہے...)",,,lvl3
+answer,"Une «commune d’outre-mer» (ایک ""سمندر پار بلدیہ"")",,0.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,1.0,
+question,"Quelle est la capitale de la région Centre-Val de Loire? (خطہ 'سینٹر-وال ڈی لوار' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Tours (ٹورز)",,0.0,
+answer,"Orléans (اورلینز)",,1.0,
+answer,"Blois (بلوئس)",,0.0,
+question,"Quelle est la capitale de Saint-Martin? (سینٹ مارٹن کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Marigot (ماریگوٹ)",,1.0,
+answer,"Gustavia (گستاویا)",,0.0,
+answer,"Phillipsburg (فلپس برگ)",,0.0,
+question,"Quels droits sont associés à la citoyenneté européenne? (یورپی شہریت سے کون سے حقوق وابستہ ہیں؟)",,,lvl3
+answer,"Circuler, travailler, étudier, s’installer dans les autres pays de l’Union (یونین کے دوسرے ممالک میں گھومنے، کام کرنے، پڑھنے اور بسنے کا حق)",,1.0,
+answer,"Être exempté d’impôts (ٹیکسوں سے چھوٹ)",,0.0,
+answer,"Avoir automatiquement deux nationalités (خود بخود دوہری شہریت ملنا)",,0.0,
+question,"Dans combien de pays européens l’euro est-il utilisé avec la France? (فرانس سمیت کتنے یورپی ممالک میں یورو استعمال ہوتا ہے؟)",,,lvl3
+answer,"27 (27)",,0.0,
+answer,"20 (20)",,1.0,
+answer,"12 (12)",,0.0,
+question,"Quelle est la capitale de la région Corse? (خطہ کورسیکا کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Bastia (بستیا)",,0.0,
+answer,"Calvi (کالوی)",,0.0,
+answer,"Ajaccio (اجاکیو)",,1.0,
+question,"Quelle est la capitale de la région Normandie? (خطہ نارمنڈی کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Rouen (روئن)",,1.0,
+answer,"Caen (کاں)",,0.0,
+answer,"Le Havre (لی ہاورے)",,0.0,
+question,"Quelle autorité enregistre les décès? (اموات کا اندراج کون سی اتھارٹی کرتی ہے؟)",,,lvl3
+answer,"Le département (محکمہ)",,0.0,
+answer,"La commune (بلدیہ/کمیون)",,1.0,
+answer,"La région (خطہ)",,0.0,
+question,"Par quel mode de scrutin est élu le Président de la République? (صدر جمہوریہ کا انتخاب کس ووٹنگ طریقے سے ہوتا ہے؟)",,,lvl3
+answer,"Au suffrage universel indirect (بالواسطہ عام رائے دہی سے)",,0.0,
+answer,"Au suffrage universel direct (براہ راست عام رائے دہی سے)",,1.0,
+answer,"Par nomination du Parlement (پارلیمنٹ کی نامزدگی سے)",,0.0,
+question,"Pour combien de temps le maire est-il élu? (میئر کتنے عرصے کے لیے منتخب ہوتا ہے؟)",,,lvl3
+answer,"4 ans (4 سال)",,0.0,
+answer,"6 ans (6 سال)",,1.0,
+answer,"5 ans (5 سال)",,0.0,
+question,"Pour combien de temps les conseillers régionaux sont-ils élus? (علاقائی کونسلرز کتنے عرصے کے لیے منتخب ہوتے ہیں؟)",,,lvl3
+answer,"6 ans (6 سال)",,1.0,
+answer,"5 ans (5 سال)",,0.0,
+answer,"7 ans (7 سال)",,0.0,
+question,"Comment les communes sont-elles regroupées? (بلدیات (کمیونز) کو کس طرح گروپ کیا جاتا ہے؟)",,,lvl3
+answer,"En départements (محکموں میں)",,0.0,
+answer,"En régions (خطوں میں)",,0.0,
+answer,"En intercommunalités (communautés de communes, métropoles, etc.) (انٹر کمیونیلٹیز (کمیونٹیز، میٹروپولیز وغیرہ) میں)۔",,1.0,
+question,"Comment sont élus les sénateurs en France? (فرانس میں سینیٹرز کیسے منتخب ہوتے ہیں؟)",,,lvl3
+answer,"Au suffrage universel indirect (بالواسطہ عام رائے دہی کے ذریعے)",,1.0,
+answer,"Par le Président de la République (صدر جمہوریہ کے ذریعے)",,0.0,
+answer,"Au suffrage universel direct (براہ راست عام رائے دہی کے ذریعے)",,0.0,
+question,"Qui est responsable de la voirie communale? (بلدیاتی سڑکوں (Voirie) کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La région (خطہ)",,0.0,
+answer,"La commune (بلدیہ/کمیون)",,1.0,
+answer,"Le département (محکمہ)",,0.0,
+question,"Qui peut représenter l’État dans certaines collectivités d’outre-mer? (کچھ سمندر پار کمیونٹیز میں ریاست کی نمائندگی کون کر سکتا ہے؟)",,,lvl3
+answer,"Les hauts-commissaires (ہائی کمشنرز)",,1.0,
+answer,"Les gouverneurs élus (منتخب گورنرز)",,0.0,
+answer,"Les ambassadeurs (سفیر)",,0.0,
+question,"Quelle est la capitale de la region Auvergne-Rhône-Alpes? (خطہ 'اوورن-رون-الپس' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Chambéry (شیمبیری)",,0.0,
+answer,"Grenoble (گرینوبل)",,0.0,
+answer,"Lyon (لیون)",,1.0,
+question,"Qui administre les départements? (محکموں (ڈیپارٹمنٹس) کا انتظام کون چلاتا ہے؟)",,,lvl3
+answer,"Les maires (میئرز)",,0.0,
+answer,"Les conseils départementaux (محکمانہ کونسلیں)",,1.0,
+answer,"Les conseils régionaux (علاقائی کونسلیں)",,0.0,
+question,"Qu’est-ce qui est garanti concernant la justice en France? (فرانس میں انصاف کے حوالے سے کس بات کی ضمانت دی گئی ہے؟)",,,lvl3
+answer,"Son indépendance (اس کی آزادی کی)",,1.0,
+answer,"Sa dépendance au gouvernement (حکومت پر اس کے انحصار کی)",,0.0,
+answer,"Sa soumission aux partis politiques (سیاسی جماعتوں کے سامنے اس کے جھکاؤ کی)",,0.0,
+question,"Que règle la justice en France? (فرانس میں انصاف کن معاملات کو حل کرتا ہے؟)",,,lvl3
+answer,"Les élections présidentielles (صدارتی انتخابات کو)",,0.0,
+answer,"Les litiges entre particuliers, entreprises et citoyens avec l’administration (افراد، کمپنیوں اور شہریوں کے انتظامیہ کے ساتھ تنازعات کو)",,1.0,
+answer,"Les décisions économiques du Gouvernement (حکومت کے معاشی فیصلوں کو)",,0.0,
+question,"Qui administre les régions? (خطوں (ریجنز) کا انتظام کون چلاتا ہے؟)",,,lvl3
+answer,"Les préfets (پریفیکٹس)",,0.0,
+answer,"Le Sénat (سینیٹ)",,0.0,
+answer,"Les conseils régionaux (علاقائی کونسلیں)",,1.0,
+question,"Depuis quelle année les citoyens français sont-ils aussi citoyens européens? (کس سال سے فرانسیسی شہری یورپی شہری بھی ہیں؟)",,,lvl3
+answer,"1957 (1957)",,0.0,
+answer,"1992 (1992)",,1.0,
+answer,"2000 (2000)",,0.0,
+question,"Qui est responsable de l’aide aux personnes âgées? (بزرگوں کی امداد کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La région (خطہ)",,0.0,
+answer,"Le département (محکمہ)",,1.0,
+answer,"La commune (بلدیہ)",,0.0,
+question,"Quel texte définit l’organisation de l’État en France? (کون سا متن فرانس میں ریاست کی تنظیم کی وضاحت کرتا ہے؟)",,,lvl3
+answer,"Le Code civil (سول کوڈ)",,0.0,
+answer,"La Constitution (آئین)",,1.0,
+answer,"La Déclaration des droits de l’homme et du citoyen (انسانی اور شہری حقوق کا اعلامیہ)",,0.0,
+question,"Quels sont les cinq départements-régions d’outre-mer? (پانچ سمندر پار محکمے-ریجنز کون سے ہیں؟)",,,lvl3
+answer,"Guadeloupe, Guyane, Martinique, Mayotte, La Réunion (گواڈیلوپ، گیانا، مارٹینیک، میوٹ، لا ری یونین)",,1.0,
+answer,"Corse, Monaco, Andorre, Luxembourg, Sardaigne (کورسیکا، موناکو، اندورا، لکسمبرگ، سارڈینیا)",,0.0,
+answer,"Polynésie française, Wallis-et-Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon (فرانسیسی پولینیشیا، والس، سینٹ بارتھلمی، سینٹ مارٹن، سینٹ پیئر)",,0.0,
+question,"Que garantit la Charte des droits fondamentaux de l’Union européenne? (یورپی یونین کے بنیادی حقوق کا چارٹر کس کی ضمانت دیتا ہے؟)",,,lvl3
+answer,"L’unité monétaire (مالیاتی اتحاد کی)",,0.0,
+answer,"Les droits des personnes (افراد کے حقوق کی)",,1.0,
+answer,"La politique étrangère commune (مشترکہ خارجہ پالیسی کی)",,0.0,
+question,"De quelle majorité politique le Premier ministre est-il issu? (وزیراعظم کس سیاسی اکثریت سے تعلق رکھتا ہے؟)",,,lvl3
+answer,"De la majorité au Sénat (سینیٹ کی اکثریت سے)",,0.0,
+answer,"De la majorité présidentielle uniquement (صرف صدارتی اکثریت سے)",,0.0,
+answer,"De la majorité aux élections législatives (قانون ساز اسمبلی کے انتخابات کی اکثریت سے)",,1.0,
+question,"Quelle est la capitale de la région Nouvelle-Aquitaine? (خطہ 'نوویل-ایکویٹین' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Limoges (لیموجز)",,0.0,
+answer,"Bordeaux (بورڈو)",,1.0,
+answer,"Pau (پو)",,0.0,
+question,"Quelle est la capitale de la région Provence-Alpes-Côte d’Azur? (خطہ 'پروونس-الپس-کوٹ ڈی ازور' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Marseille (مارسیل)",,1.0,
+answer,"Toulon (ٹولون)",,0.0,
+answer,"Nice (نیس)",,0.0,
+question,"Qui est responsable de la protection de l’enfance? (بچوں کے تحفظ کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La région (خطہ)",,0.0,
+answer,"Le département (محکمہ)",,1.0,
+answer,"La commune (بلدیہ)",,0.0,
+question,"De quoi les régions sont-elles responsables? (خطے (ریجنز) کس چیز کے ذمہ دار ہیں؟)",,,lvl3
+answer,"Des transports publics, de la formation professionnelle, de la construction et de l’entretien des lycées (پبلک ٹرانسپورٹ، پیشہ ورانہ تربیت، ہائی اسکولوں کی تعمیر اور دیکھ بھال)",,1.0,
+answer,"Des écoles maternelles (نرسری اسکولوں کے)",,0.0,
+answer,"Des hôpitaux militaires (فوجی ہسپتالوں کے)",,0.0,
+question,"Quelle est la capitale de la région Bourgogne-Franche-Comté? (خطہ 'برگوگن-فرانس-کومتے' کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Mâcon (ماکون)",,0.0,
+answer,"Besançon (بیزانسن)",,0.0,
+answer,"Dijon (ڈیجون)",,1.0,
+question,"Quelle est la capitale de la Polynésie française? (فرانسیسی پولینیشیا کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Raiatea (رائیتیا)",,0.0,
+answer,"Papeete (پاپیتے)",,1.0,
+answer,"Nouméa (نومیا)",,0.0,
+question,"Qui est responsable des activités culturelles locales? (مقامی ثقافتی سرگرمیوں کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La région (خطہ)",,0.0,
+answer,"Le département (محکمہ)",,0.0,
+answer,"La commune (بلدیہ/کمیون)",,1.0,
+question,"Quelle est la place économique de la France dans le monde? (دنیا میں فرانس کا معاشی مقام کیا ہے؟)",,,lvl3
+answer,"Dixième puissance mondiale (دسویں عالمی طاقت)",,0.0,
+answer,"Sixième puissance mondiale (چھٹی عالمی طاقت)",,1.0,
+answer,"Première puissance mondiale (پہلی عالمی طاقت)",,0.0,
+question,"Saint-Pierre-et-Miquelon est… (سینٹ پیئر اور میکیلون ہے...)",,,lvl3
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+answer,"Un conseil d’outre-mer (ایک سمندر پار کونسل)",,0.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,1.0,
+question,"Qui est responsable de l’entretien des lycées? (ہائی اسکولوں (Lycées) کی دیکھ بھال کا ذمہ دار کون ہے؟)",,,lvl3
+answer,"La commune (بلدیہ)",,0.0,
+answer,"La région (خطہ)",,1.0,
+answer,"Le département (محکمہ)",,0.0,
+question,"Quelle est la capitale de la Guyane française? (فرانسیسی گیانا کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Fort-de-France (فورٹ ڈی فرانس)",,0.0,
+answer,"Cayenne (کین)",,1.0,
+answer,"Mamoudzou (مامودزو)",,0.0,
+question,"Combien de collectivités d’outre-mer la France compte-t-elle? (فرانس میں کتنی سمندر پار کمیونٹیز (Collectivités) ہیں؟)",,,lvl3
+answer,"7 (7)",,1.0,
+answer,"12 (12)",,0.0,
+answer,"5 (5)",,0.0,
+question,"Quelle est la capitale de Saint-Barthélemy? (سینٹ بارتھلمی کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Marigot (ماریگوٹ)",,0.0,
+answer,"Saint-Martin (سینٹ مارٹن)",,0.0,
+answer,"Gustavia (گستاویا)",,1.0,
+question,"Qui représente l’État dans les départements et régions? (محکموں اور خطوں میں ریاست کی نمائندگی کون کرتا ہے؟)",,,lvl3
+answer,"Le député (ڈپٹی/رکن اسمبلی)",,0.0,
+answer,"Le maire (میئر)",,0.0,
+answer,"Le préfet (پریفیکٹ)",,1.0,
+question,"Combien de chambres composent le Parlement français? (فرانسیسی پارلیمنٹ کتنے ایوانوں پر مشتمل ہے؟)",,,lvl3
+answer,"Trois (تین)",,0.0,
+answer,"Une (ایک)",,0.0,
+answer,"Deux (دو)",,1.0,
+question,"Quelle proportion de la population mondiale représentent les Français? (دنیا کی آبادی میں فرانسیسیوں کا کتنا تناسب ہے؟)",,,lvl3
+answer,"1 % (1 %)",,1.0,
+answer,"10 % (10 %)",,0.0,
+answer,"5 % (5 %)",,0.0,
+question,"Quelle est la capitale de la région Bretagne? (خطہ بریٹانی کا دارالحکومت کیا ہے؟)",,,lvl3
+answer,"Vannes (وانس)",,0.0,
+answer,"Quimper (کیمپر)",,0.0,
+answer,"Rennes (رینز)",,1.0,
+question,"La Polynésie française est… (فرانسیسی پولینیشیا ہے...)",,,lvl3
+answer,"Un conseil d’outre-mer (ایک سمندر پار کونسل)",,0.0,
+answer,"Une collectivité d’outre-mer (ایک سمندر پار کمیونٹی)",,1.0,
+answer,"Un département et région d’outre-mer (ایک سمندر پار محکمہ اور خطہ)",,0.0,
+question,"Combien de territoires d’outre-mer la France compte-t-elle au total? (فرانس کے کل کتنے سمندر پار علاقے ہیں؟)",,,lvl3
+answer,"5 (5)",,0.0,
+answer,"12 (12)",,1.0,
+answer,"7 (7)",,0.0,
+question,"Que peuvent faire les citoyens français installés dans un autre pays de l’Union? (یونین کے کسی دوسرے ملک میں مقیم فرانسیسی شہری کیا کر سکتے ہیں؟)",,,lvl3
+answer,"Être automatiquement fonctionnaires de ce pays (اس ملک کے خود بخود سرکاری ملازم بننا)",,0.0,
+answer,"Voter aux élections locales de ce pays (اس ملک کے مقامی انتخابات میں ووٹ دینا)",,1.0,
+answer,"Se présenter à la présidence de ce pays (اس ملک کی صدارت کے لیے انتخاب لڑنا)",,0.0,

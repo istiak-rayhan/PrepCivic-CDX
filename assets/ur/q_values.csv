@@ -1,0 +1,501 @@
+Type,Text,Placeholder,IsCorrect,Level
+question,"Comment s’appelle la Constitution actuelle de la France ? (فرانس کے موجودہ آئین کا نام کیا ہے؟)",,,lvl1
+answer,"La Constitution de 1946 (1946 کا آئین)",,0.0,
+answer,"La Constitution de la Ve République (پانچویں جمہوریہ کا آئین)",,1.0,
+answer,"La Charte des droits fondamentaux (بنیادی حقوق کا چارٹر)",,0.0,
+question,"Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ? (اس متن کا نام کیا ہے جو فرانس میں رہنے والے افراد کے حقوق اور فرائض کو بیان کرتا ہے؟)",,,lvl1
+answer,"Le Code du travail (لیبر کوڈ)",,0.0,
+answer,"La Charte des droits fondamentaux de l'Union européenne (یورپی یونین کے بنیادی حقوق کا چارٹر)",,0.0,
+answer,"La Déclaration des droits de l'homme et du citoyen (انسانی اور شہری حقوق کا اعلامیہ)",,1.0,
+question,"Concernant les droits individuels, quelle proposition est correcte ? (انفرادی حقوق کے حوالے سے کون سی تجویز درست ہے؟)",,,lvl1
+answer,"Ils sont illimités. (وہ لامحدود ہیں۔)",,0.0,
+answer,"Ils sont subordonnés aux intérêts religieux. (وہ مذہبی مفادات کے تابع ہیں۔)",,0.0,
+answer,"Ils sont limités par la loi et ne doivent pas nuire aux autres. (وہ قانون کے ذریعے محدود ہیں اور دوسروں کو نقصان نہیں پہنچانا چاہیے۔)",,1.0,
+question,"De quelle année date la Déclaration des droits de l’homme et du citoyen ? (انسانی اور شہری حقوق کا اعلامیہ کس سال کا ہے؟)",,,lvl1
+answer,"1958 (1958)",,0.0,
+answer,"1789 (1789)",,1.0,
+answer,"1905 (1905)",,0.0,
+question,"Lequel de ces droits est un droit fondamental ? (ان میں سے کون سا حق بنیادی حق ہے؟)",,,lvl1
+answer,"Le droit d'ignorer la loi. (قانون کو نظر انداز کرنے کا حق۔)",,0.0,
+answer,"Le droit de propriété collective. (اجتماعی ملکیت کا حق۔)",,0.0,
+answer,"Le droit d'aller et venir (liberté de circulation). (آنے جانے کا حق (نقل و حرکت کی آزادی)۔)",,1.0,
+question,"Parmi ces textes, lequel garantit les droits et libertés en France ? (ان تحریروں میں سے کون سی فرانس میں حقوق اور آزادیوں کی ضمانت دیتی ہے؟)",,,lvl1
+answer,"Le Code pénal (تعزیرات ہند/پینل کوڈ)",,0.0,
+answer,"Le Bloc de constitutionnalité (DDHC 1789, Constitution...). (آئینی بلاک (DDHC 1789، آئین...)۔)",,1.0,
+answer,"La loi sur la presse (پریس سے متعلق قانون)",,0.0,
+question,"Qu’est-ce que la liberté d’expression ? (اظہار رائے کی آزادی کیا ہے؟)",,,lvl1
+answer,"Le droit de ne pas avoir à justifier ses propos. (اپنی بات کا جواز پیش نہ کرنے کا حق۔)",,0.0,
+answer,"Le droit de communiquer ses idées et opinions, dans le respect de la loi. (قانون کے احترام کے ساتھ اپنے خیالات اور آراء پہنچانے کا حق۔)",,1.0,
+answer,"Le droit d'insulter sans risque de sanction. (سزا کے خطرے کے بغیر توہین کرنے کا حق۔)",,0.0,
+question,"Quel droit permet à une person de se défendre devant la justice ? (کون سا حق کسی شخص کو انصاف کے سامنے اپنا دفاع کرنے کی اجازت دیتا ہے؟)",,,lvl1
+answer,"La liberté de culte (عبادت کی آزادی)",,0.0,
+answer,"Le droit de grève (ہڑتال کا حق)",,0.0,
+answer,"Le droit à un procès équitable (droit de la défense). (منصفانہ ٹرائل کا حق (دفاع کا حق)۔)",,1.0,
+question,"Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ? (فرانس میں ہر شہری کے حقوق اور فرائض قائم کرنے والی بنیادی تحریر کون سی ہے؟)",,,lvl1
+answer,"Le Code civil (سول کوڈ)",,0.0,
+answer,"La Déclaration des droits de l'homme et du citoyen de 1789 (DDHC). (1789 کا انسانی اور شہری حقوق کا اعلامیہ۔)",,1.0,
+answer,"La Charte de la laïcité (لائسیت کا چارٹر)",,0.0,
+question,"Quel texte a été adopté pendant la Révolution française ? (فرانسیسی انقلاب کے دوران کون سا متن اپنایا گیا تھا؟)",,,lvl1
+answer,"Le Traité de l'Élysée (ایلیسی معاہدہ)",,0.0,
+answer,"La Charte de l'environnement (ماحولیاتی چارٹر)",,0.0,
+answer,"La Déclaration des droits de l'homme et du citoyen (DDHC). (انسانی اور شہری حقوق کا اعلامیہ۔)",,1.0,
+question,"Quelle liberté permet à une personne de ne pas avoir de religion ? (کون سی آزادی کسی شخص کو مذہب نہ رکھنے کی اجازت دیتی ہے؟)",,,lvl1
+answer,"La liberté d'association (انجمن بنانے کی آزادی)",,0.0,
+answer,"La liberté de conscience (ou de croyance). (ضمیر کی آزادی (یا عقیدے کی آزادی)۔)",,1.0,
+answer,"La liberté d'expression (اظہار رائے کی آزادی)",,0.0,
+question,"Une femme peut avorter : (ایک عورت اسقاط حمل کر سکتی ہے:)",,,lvl1
+answer,"Seulement en cas de viol (صرف عصمت دری کی صورت میں)",,0.0,
+answer,"Seulement avec l'accord de son mari (صرف اپنے شوہر کی رضامندی سے)",,0.0,
+answer,"Dans les conditions et les délais fixés par la loi (IVG). (قانون کے ذریعے مقرر کردہ شرائط اور مدت کے اندر (IVG)۔)",,1.0,
+question,"Est-il toujours possible de divorcer ? (کیا طلاق لینا ہمیشہ ممکن ہے؟)",,,lvl1
+answer,"Non, seulement si l'un des conjoints est d'accord (نہیں، صرف اس صورت میں جب میاں بیوی میں سے کوئی ایک راضی ہو)",,0.0,
+answer,"Oui, selon les procédures prévues par la loi (avec ou sans juge). (جی ہاں، قانون کے فراہم کردہ طریقہ کار کے مطابق (جج کے ساتھ یا اس کے بغیر)۔)",,1.0,
+answer,"Non, seulement après 10 ans de mariage (نہیں، صرف شادی کے 10 سال بعد)",,0.0,
+question,"La peine de mort est : (سزائے موت ہے:)",,,lvl1
+answer,"Légale mais seulement en temps de guerre (قانونی لیکن صرف جنگ کے وقت)",,0.0,
+answer,"Abolie et interdite par la Constitution française. (فرانسیسی آئین کے ذریعے ختم اور ممنوع قرار دی گئی ہے۔)",,1.0,
+answer,"Autorisée seulement pour les crimes contre l'État (صرف ریاست کے خلاف جرائم کے لیے اجازت ہے)",,0.0,
+question,"Concernant les limites aux libertés individuelles, quelle proposition est correcte ? (انفرادی آزادیوں کی حدود کے بارے میں کون سی تجویز درست ہے؟)",,,lvl1
+answer,"Les libertés sont totales et sans aucune limite. (آزادیاں مکمل اور بغیر کسی حد کے ہیں۔)",,0.0,
+answer,"La loi seule fixe les limites nécessaires à l'exercice des libertés. (صرف قانون آزادیوں کے استعمال کے لیے ضروری حدود کا تعین کرتا ہے۔)",,1.0,
+answer,"Le Président de la République peut seul limiter les libertés. (صرف جمہوریہ کا صدر آزادیوں کو محدود کر سکتا ہے۔)",,0.0,
+question,"En France, est-ce légal d'être marié à plusieurs personnes en même temps ? (فرانس میں، کیا ایک ہی وقت میں کئی لوگوں سے شادی کرنا قانونی ہے؟)",,,lvl1
+answer,"Oui, sous certaines conditions religieuses (جی ہاں، کچھ مذہبی شرائط کے تحت)",,0.0,
+answer,"Non, la polygamie est interdite et sanctionnée par la loi. (نہیں، کثیر ازدواجی ممنوع ہے اور قانون کے تحت قابل سزا ہے۔)",,1.0,
+answer,"Oui, seulement pour les hommes (جی ہاں، صرف مردوں کے لیے)",,0.0,
+question,"Faut-il réduire ses déchets ? (کیا ہمیں اپنا کچرا کم کرنا چاہیے؟)",,,lvl1
+answer,"Non, les déchets sont recyclés en totalité (نہیں، کچرا مکمل طور پر ری سائیکل کیا جاتا ہے)",,0.0,
+answer,"Oui, c'est une responsabilité individuelle pour protéger l'environnement. (جی ہاں، یہ ماحول کے تحفظ کے لیے انفرادی ذمہ داری ہے۔)",,1.0,
+answer,"Seulement les déchets organiques (صرف نامیاتی کچرا)",,0.0,
+question,"Jeter une bouteille dans la rue est : (سڑک پر بوتل پھینکنا ہے:)",,,lvl1
+answer,"Un acte sans conséquence (ایک ایسا عمل جس کا کوئی نتیجہ نہیں)",,0.0,
+answer,"Une incivilité punie par la loi (amende). (قانون کے تحت قابل سزا بدتہذیبی (جرمانہ)۔)",,1.0,
+answer,"Seulement interdit dans les grandes villes (صرف بڑے شہروں میں ممنوع ہے)",,0.0,
+question,"Pourquoi les libertés individuelles peuvent-elles être limitées ? (انفرادی آزادیاں کیوں محدود کی جا سکتی ہیں؟)",,,lvl1
+answer,"Pour donner plus de pouvoir à l'État (ریاست کو زیادہ طاقت دینے کے لیے)",,0.0,
+answer,"Pour garantir la sûreté et les droits des autres citoyens. (دوسرے شہریوں کے تحفظ اور حقوق کی ضمانت کے لیے۔)",,1.0,
+answer,"Pour faire plaisir à la majorité (اکثریت کو خوش کرنے کے لیے)",,0.0,
+question,"Que doit faire une personne en cas d’accident ? (حادثے کی صورت میں کسی شخص کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"Partir et appeler les secours de chez elle (چلے جانا اور گھر سے امداد کے لیے فون کرنا)",,0.0,
+answer,"Secourir ou faire secourir la victime (obligation de porter assistance). (متاثرہ شخص کو بچانا یا اسے امداد فراہم کروانا (مدد فراہم کرنے کی ذمہ داری)۔)",,1.0,
+answer,"Ne rien faire, car cela pourrait entraîner des problèmes légaux (کچھ نہ کرنا، کیونکہ اس سے قانونی مسائل پیدا ہو سکتے ہیں)",,0.0,
+question,"Que permet la citoyenneté française ? (فرانسیسی شہریت کیا اجازت دیتی ہے؟)",,,lvl1
+answer,"Seulement le droit de vivre sur le territoire français. (صرف فرانسیسی سرزمین پر رہنے کا حق۔)",,0.0,
+answer,"Le droit de ne pas payer d'impôts. (ٹیکس ادا نہ کرنے کا حق۔)",,0.0,
+answer,"Le droit de vote et d'éligibilité, ainsi que l'accès aux emplois publics. (ووٹ دینے اور انتخاب لڑنے کا حق، نیز سرکاری ملازمتوں تک رسائی۔)",,1.0,
+question,"Que risque une personne qui ne respecte pas la loi ? (قانون کی پاسداری نہ کرنے والے شخص کو کس خطرے کا سامنا ہوتا ہے؟)",,,lvl1
+answer,"D'être expulsé du pays. (ملک سے نکالے جانے کا۔)",,0.0,
+answer,"D'être sanctionnée par la justice (amende ou peine de prison). (عدالت کی طرف سے سزا ملنے کا (جرمانہ یا قید کی سزا)۔)",,1.0,
+answer,"D'être privée de son droit de vote. (ووٹ کے حق سے محروم ہونے کا۔)",,0.0,
+question,"Quel est le rôle de la gendarmerie ? (جینڈرمیری کا کیا کردار ہے؟)",,,lvl1
+answer,"Assurer la sécurité et l'ordre public, principalement en zone rurale ou périurbaine. (بنیادی طور پر دیہی یا مضافاتی علاقوں میں سیکورٹی اور امن عامہ کو یقینی بنانا۔)",,1.0,
+answer,"Gérer les affaires de l'État civil. (سول اسٹیٹ کے معاملات کو سنبھالنا۔)",,0.0,
+answer,"Contrôler les frontières uniquement. (صرف سرحدوں کو کنٹرول کرنا۔)",,0.0,
+question,"Quel est le rôle de la police ? (پولیس کا کیا کردار ہے؟)",,,lvl1
+answer,"Assurer la sécurité et l'ordre public, principalement en zone urbaine. (بنیادی طور پر شہری علاقوں میں سیکورٹی اور امن عامہ کو یقینی بنانا۔)",,1.0,
+answer,"Rédiger les lois (قوانین لکھنا)",,0.0,
+answer,"Organiser les élections (انتخابات کا انعقاد کرنا)",,0.0,
+question,"Qu'est-ce qu'une infraction ? (خلاف ورزی کیا ہے؟)",,,lvl1
+answer,"Un acte interdit et puni par la loi (contravention, délit ou crime). (قانون کے ذریعے ممنوعہ اور قابل سزا عمل (خلاف ورزی، جرم یا سنگین جرم)۔)",,1.0,
+answer,"Un désaccord avec une administration (انتظامیہ کے ساتھ اختلاف)",,0.0,
+answer,"Une opinion politique non majoritaire (ایک ایسی سیاسی رائے جو اکثریت کی نہیں ہے)",,0.0,
+question,"Comment peut-on réduire ses déchets ? (ہم اپنا کچرا کیسے کم کر سکتے ہیں؟)",,,lvl1
+answer,"En brûlant les emballages. (پیکنگ کو جلا کر۔)",,0.0,
+answer,"En jetant les objets inutiles dans les égouts. (بیکار اشیاء کو نالیوں میں پھینک کر۔)",,0.0,
+answer,"En privilégiant le réemploi et le tri des emballages recyclables. (دوبارہ استعمال اور ری سائیکل ہونے والی پیکنگ کی چھانٹی کو ترجیح دے کر۔)",,1.0,
+question,"Déposer une machine à laver cassée sur le trottoir est : (ٹوٹے ہوئے واشنگ مشین کو فٹ پاتھ پر رکھنا ہے:)",,,lvl1
+answer,"Une façon normale de s'en débarrasser. (اس سے چھٹکارا پانے کا ایک عام طریقہ۔)",,0.0,
+answer,"Une infraction qui peut être sanctionnée par une amende (dépôt illégal de déchets). (ایک خلاف ورزی جس پر جرمانہ عائد کیا جا سکتا ہے (کچرے کا غیر قانونی جمع کرنا)۔)",,1.0,
+answer,"Un service gratuit pour les éboueurs. (صفائی کرنے والوں کے لیے ایک مفت سروس۔)",,0.0,
+question,"En quoi consiste la traite des êtres humains ? (انسانوں کی اسمگلنگ/تجارت کیا ہے؟)",,,lvl1
+answer,"À aider les migrants à traverser les frontières. (مہاجرین کو سرحدیں عبور کرنے میں مدد کرنا۔)",,0.0,
+answer,"À recruter, transporter et exploiter une personne par la contrainte ou la tromperie. (زبردستی یا دھوکہ دہی کے ذریعے کسی شخص کو بھرتی کرنا، منتقل کرنا اور اس کا استحصال کرنا۔)",,1.0,
+answer,"À organiser un voyage touristique à l'étranger. (بیرون ملک سیاحتی سفر کا اہتمام کرنا۔)",,0.0,
+question,"Que doit faire une victime de violences ? (تشدد کا شکار ہونے والے کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"Garder le silence pour éviter les problèmes. (مسائل سے بچنے کے لیے خاموش رہنا۔)",,0.0,
+answer,"Contacter la police/gendarmerie et/ou un professionnel de la santé ou une association d'aide. (پولیس/جینڈرمیری اور/یا صحت کے پیشہ ور یا کسی امدادی انجمن سے رابطہ کرنا۔)",,1.0,
+answer,"Se venger de son agresseur par ses propres moyens. (اپنے ذرائع سے اپنے حملہ آور سے بدلہ لینا۔)",,0.0,
+question,"Quelle est l'infraction la plus grave ? (سب سے سنگین خلاف ورزی کون سی ہے؟)",,,lvl1
+answer,"La contravention (معمولی خلاف ورزی)",,0.0,
+answer,"Le délit (جرم)",,0.0,
+answer,"Le crime (سنگین جرم)",,1.0,
+question,"À quelle liberté la PMA fait-elle référence ? (PMA کس آزادی کا حوالہ دیتا ہے؟)",,,lvl2
+answer,"La liberté de circulation (نقل و حرکت کی آزادی)",,0.0,
+answer,"La liberté de procréation (ou liberté de choix de la vie personnelle). (تولید کی آزادی (یا ذاتی زندگی کے انتخاب کی آزادی)۔)",,1.0,
+answer,"La liberté d'expression (اظہار رائے کی آزادی)",,0.0,
+question,"Au nom de quoi l'État justifie-t-il la restriction des droits ? (ریاست حقوق کی پابندی کا جواز کس بنیاد پر پیش کرتی ہے؟)",,,lvl2
+answer,"Au nom du confort personnel des élus. (منتخب نمائندوں کے ذاتی آرام کے نام پر۔)",,0.0,
+answer,"Au nom de l'ordre public, de la sécurité ou du respect des droits d'autrui. (امن عامہ، سیکورٹی یا دوسروں کے حقوق کے احترام کے نام پر۔)",,1.0,
+answer,"Au nom de la religion majoritaire. (اکثریتی مذہب کے نام پر۔)",,0.0,
+question,"Concernant le droit de se marier, quelle proposition est correcte ? (شادی کرنے کے حق کے بارے میں کون سی تجویز درست ہے؟)",,,lvl2
+answer,"Seuls les couples hétérosexuels peuvent se marier. (صرف مخالف جنس کے جوڑے ہی شادی کر سکتے ہیں۔)",,0.0,
+answer,"Le mariage est autorisé entre deux personnes, quel que soit leur sexe. (دو افراد کے درمیان شادی کی اجازت ہے، قطع نظر ان کی جنس کے۔)",,1.0,
+answer,"Le mariage est uniquement religieux. (شادی صرف مذہبی ہوتی ہے۔)",,0.0,
+question,"Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ? (ان میں سے کون سا اقتباس 1789 کے انسانی اور شہری حقوق کے اعلامیہ میں درج ہے؟)",,,lvl2
+answer,"« Le travail est la loi de la République. » (""کام جمہوریہ کا قانون ہے۔"")",,0.0,
+answer,"« La loi est l'expression de la volonté générale. » (""قانون عوامی مرضی کا اظہار ہے۔"")",,1.0,
+answer,"« La République française est indivisible, laïque, démocratique et sociale. » (""فرانسیسی جمہوریہ ناقابل تقسیم، سیکولر، جمہوری اور سماجی ہے۔"")",,0.0,
+question,"Le recours à l'avortement est-il autorisé ? (کیا اسقاط حمل کی اجازت ہے؟)",,,lvl2
+answer,"Non, seulement en cas de danger pour la mère. (نہیں، صرف ماں کی جان کو خطرے کی صورت میں۔)",,0.0,
+answer,"Oui, l'Interruption Volontaire de Grossesse (IVG) est un droit garanti par la loi. (جی ہاں، حمل کا رضاکارانہ خاتمہ (IVG) قانون کے ذریعے ضمانت یافتہ حق ہے۔)",,1.0,
+answer,"Non, sauf si le mariage a eu lieu il y a plus de 10 ans. (نہیں، سوائے اس کے کہ شادی 10 سال سے زیادہ پہلے ہوئی ہو۔)",,0.0,
+question,"Que contient la Constitution ? (آئین کیا ہے؟)",,,lvl2
+answer,"La liste de tous les codes civils et pénaux. (تمام سول اور فوجداری قوانین کی فہرست۔)",,0.0,
+answer,"La liste des impôts à payer. (ادا کیے جانے والے ٹیکسوں کی فہرست۔)",,0.0,
+answer,"Les principes fondamentaux de l'État et l'organisation des pouvoirs publics. (ریاست کے بنیادی اصول اور عوامی اختیارات کی تنظیم۔)",,1.0,
+question,"Que garantit la liberté de la presse ? (پریس کی آزادی کس بات کی ضمانت دیتی ہے؟)",,,lvl2
+answer,"Le droit de publier et de diffuser des informations sans censure préalable (sous réserve du respect de la loi). (پہلے سے سنسر شپ کے بغیر معلومات شائع کرنے اور پھیلانے کا حق (قانون کے احترام کے ساتھ)۔)",,1.0,
+answer,"L'interdiction de toute critique envers l'État. (ریاست پر ہر قسم کی تنقید کی ممانعت۔)",,0.0,
+answer,"Le droit d'avoir une opinion unique. (صرف ایک ہی رائے رکھنے کا حق۔)",,0.0,
+question,"Que prévoit la Charte de l'environnement ? (ماحولیاتی چارٹر کیا فراہم کرتا ہے؟)",,,lvl2
+answer,"L'interdiction de l'industrie. (صنعت کی ممانعت۔)",,0.0,
+answer,"Le droit de vivre dans un environnement sain et le devoir de prévenir les atteintes à l'environnement. (صحت مند ماحول میں رہنے کا حق اور ماحول کو پہنچنے والے نقصانات کو روکنے کا فرض۔)",,1.0,
+answer,"Le paiement de taxes supplémentaires pour la nature. (فطرت کے لیے اضافی ٹیکسوں کی ادائیگی۔)",,0.0,
+question,"Que signifie la dignité humaine ? (انسانی وقار کا کیا مطلب ہے؟)",,,lvl2
+answer,"L'interdiction d'utiliser les transports publics. (پبلک ٹرانسپورٹ استعمال کرنے کی ممانعت۔)",,0.0,
+answer,"Le respect inconditionnel dû à toute personne, et l'interdiction de la dégrader. (ہر شخص کا غیر مشروط احترام، اور اسے ذلیل کرنے کی ممانعت۔)",,1.0,
+answer,"Le droit de recevoir de l'argent de l'État. (ریاست سے رقم وصول کرنے کا حق۔)",,0.0,
+question,"Que signifie le droit de manifester ? (احتجاج کے حق کا کیا مطلب ہے؟)",,,lvl2
+answer,"L'obligation d'accepter toutes les décisions du gouvernement. (حکومت کے تمام فیصلوں کو قبول کرنے کی ذمہ داری۔)",,0.0,
+answer,"Le droit de faire grève dans son entreprise. (اپنی کمپنی میں ہڑتال کرنے کا حق۔)",,0.0,
+answer,"La liberté d’exprimer collectivement des idées ou des revendications dans l'espace public. (عوامی جگہوں پر اجتماعی طور پر خیالات یا مطالبات کے اظہار کی آزادی۔)",,1.0,
+question,"Que signifie PMA ? (PMA کا کیا مطلب ہے؟)",,,lvl2
+answer,"Prévention du Maintien Administratif (انتظامی دیکھ بھال کی روک تھام)",,0.0,
+answer,"Procréation Médicalement Assistée (طبی طور پر امدادی تولید)",,1.0,
+answer,"Police Militaire de l'Armée (آرمی کی ملٹری پولیس)",,0.0,
+question,"Quel texte est le plus difficile à modifier ? (کس متن میں ترمیم کرنا سب سے مشکل ہے؟)",,,lvl2
+answer,"Les lois ordinaires (عام قوانین)",,0.0,
+answer,"La Constitution (آئین)",,1.0,
+answer,"Les règlements municipaux (بلدیاتی قواعد و ضوابط)",,0.0,
+question,"Quelle liberté permet à une personne de croire en la religion de son choix ? (کون سی آزادی کسی شخص کو اپنی پسند کے مذہب پر یقین رکھنے کی اجازت دیتی ہے؟)",,,lvl2
+answer,"La liberté de la presse (پریس کی آزادی)",,0.0,
+answer,"La liberté d'association (انجمن بنانے کی آزادی)",,0.0,
+answer,"La liberté de conscience (ضمیر کی آزادی)",,1.0,
+question,"Qu'est-ce que le droit de grève ? (ہڑتال کا حق کیا ہے؟)",,,lvl2
+answer,"Un droit fondamental garanti par la Constitution, qui permet l'arrêt collectif et concerté du travail. (آئین کے ذریعے ضمانت یافتہ ایک بنیادی حق، جو اجتماعی طور پر کام روکنے کی اجازت دیتا ہے۔)",,1.0,
+answer,"Une infraction punie par la loi. (قانون کے تحت قابل سزا خلاف ورزی۔)",,0.0,
+answer,"Une obligation de l'employeur. (جرائم پیشہ صاحب عمل کی ایک ذمہ داری۔)",,0.0,
+question,"Qu'est-ce que la Constitution ? (آئین کیا ہے؟)",,,lvl2
+answer,"Le texte fondamental qui définit l'organisation des pouvoirs et les droits essentiels. (بنیادی متن جو اختیارات کی تنظیم اور ضروری حقوق کی وضاحت کرتا ہے۔)",,1.0,
+answer,"Le recueil de toutes les lois. (تمام قوانین کا مجموعہ۔)",,0.0,
+answer,"Un texte religieux. (ایک مذہبی متن۔)",,0.0,
+question,"Qui peut demander à avorter ? (اسقاط حمل کے لیے کون درخواست کر سکتا ہے؟)",,,lvl2
+answer,"Uniquement les femmes mariées (صرف شادی شدہ خواتین)",,0.0,
+answer,"Toute femme enceinte qui ne souhaite pas poursuivre sa grossesse (dans les délais légaux). (کوئی بھی حاملہ خاتون جو اپنا حمل جاری نہیں رکھنا چاہتی (قانونی مدت کے اندر)۔)",,1.0,
+answer,"Uniquement les femmes de nationalité française (صرف فرانسیسی شہریت رکھنے والی خواتین)",,0.0,
+question,"Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ? (کیا فرانسیسی شہریت رکھنے والی بالغ خاتون کو انتخابات میں ووٹ دینے کا حق ہے؟)",,,lvl2
+answer,"Non, uniquement si elle est mariée. (نہیں، صرف اس صورت میں جب وہ شادی شدہ ہو۔)",,0.0,
+answer,"Non, si elle est mère de famille. (نہیں، اگر وہ خاندان کی ماں ہو۔)",,0.0,
+answer,"Oui, le droit de vote est un droit civique garanti sans distinction de sexe. (جی ہاں، ووٹ دینے کا حق ایک شہری حق ہے جس کی ضمانت جنس کی تفریق کے بغیر دی گئی ہے۔)",,1.0,
+question,"Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ? (سوشل نیٹ ورکس کے استعمال کے بارے میں کون سی تجویز درست ہے؟)",,,lvl2
+answer,"On peut tout dire, c'est la liberté d'expression. (ہم سب کچھ کہہ سکتے ہیں، یہ اظہار رائے کی آزادی ہے۔)",,0.0,
+answer,"La publication de propos injurieux ou discriminatoires peut être punie par la loi. (توہین آمیز یا امتیازی کلمات کی اشاعت پر قانون کے تحت سزا دی جا سکتی ہے۔)",,1.0,
+answer,"Les lois sur la diffamation ne s'appliquent pas aux réseaux sociaux. (تہمت سے متعلق قوانین سوشل نیٹ ورکس پر لاگو نہیں ہوتے۔)",,0.0,
+question,"Jeter un mégot par terre est : (سگریٹ کا ٹکڑا زمین پر پھینکنا ہے:)",,,lvl2
+answer,"Autorisé, car les mégots sont biodégradables. (اجازت ہے، کیونکہ سگریٹ کے ٹکڑے قدرتی طور پر ختم ہو جاتے ہیں۔)",,0.0,
+answer,"Une incivilité punie par une amende. (ایک بدتہذیبی جس پر جرمانہ عائد کیا جاتا ہے۔)",,1.0,
+answer,"Seulement interdit à l'intérieur des bâtiments. (صرف عمارتوں کے اندر ممنوع ہے۔)",,0.0,
+question,"L'État peut-il limiter les droits et libertés ? (کیا ریاست حقوق اور آزادیوں کو محدود کر سکتی ہے؟)",,,lvl2
+answer,"Oui, mais seulement par la loi, pour des raisons de sécurité ou d'ordre public. (جی ہاں، لیکن صرف قانون کے ذریعے، سیکورٹی یا امن عامہ کی وجوہات کی بنا پر۔)",,1.0,
+answer,"Non, les droits et libertés sont absolus et illimités. (نہیں، حقوق اور آزادیاں مکمل اور لامحدود ہیں۔)",,0.0,
+answer,"Oui, par simple décision administrative du Préfet. (جی ہاں، پریفیکٹ کے محض ایک انتظامی فیصلے سے۔)",,0.0,
+question,"Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ? (ان کاموں میں سے کون سا ماحول کے لیے احترام والا رویہ اپنانے کی اجازت دیتا ہے؟)",,,lvl2
+answer,"Laisser son moteur tourner à l'arrêt. (کھڑی گاڑی کا انجن چلتا چھوڑ دینا۔)",,0.0,
+answer,"Privilégier les transports en commun ou le vélo. (پبلک ٹرانسپورٹ یا سائیکل کو ترجیح دینا۔)",,1.0,
+answer,"Acheter des produits suremballés. (زیادہ پیکنگ والی مصنوعات خریدنا۔)",,0.0,
+question,"Quelle proposition constitue une obligation ? (کون سی تجویز ایک فرض/ذمہ داری بنتی ہے؟)",,,lvl2
+answer,"Le droit de se marier. (شادی کرنے کا حق۔)",,0.0,
+answer,"La liberté de conscience. (ضمیر کی آزادی۔)",,0.0,
+answer,"L'obligation de payer ses impôts. (اپنے ٹیکس ادا کرنے کی ذمہ داری۔)",,1.0,
+question,"Pour quel motif peut-on limiter la liberté d'expression ? (کس بنیاد پر اظہار رائے کی آزادی کو محدود کیا جا سکتا ہے؟)",,,lvl2
+answer,"Pour éviter toute critique du Président. (صدر پر کسی بھی تنقید سے بچنے کے لیے۔)",,0.0,
+answer,"Diffamation, injure ou incitation à la haine (racisme, sexisme...). (تہمت، توہین یا نفرت انگیزی (نسل پرستی، صنفی امتیاز...)۔)",,1.0,
+answer,"Pour éviter des débats politiques. (سیاسی مباحثوں سے بچنے کے لیے۔)",,0.0,
+question,"Pourquoi doit-on trier ses déchets ? (ہمیں اپنے کچرے کی چھانٹی کیوں کرنی چاہیے؟)",,,lvl2
+answer,"Pour créer des emplois pour les éboueurs. (صفائی کرنے والوں کے لیے ملازمتیں پیدا کرنے کے لیے۔)",,0.0,
+answer,"Pour faciliter le recyclage et préserver les ressources naturelles. (ری سائیکلنگ کو آسان بنانے اور قدرتی وسائل کو محفوظ رکھنے کے لیے۔)",,1.0,
+answer,"C'est une obligation seulement pour les entreprises. (یہ صرف کمپنیوں کے لیے ایک ذمہ داری ہے۔)",,0.0,
+question,"Que doit faire une victime de violences ? (تشدد کا شکار ہونے والے کو کیا کرنا چاہیے؟)",,,lvl2
+answer,"Déménager immédiatement. (فوری طور پر گھر تبدیل کرنا۔)",,0.0,
+answer,"Alerter la police, la gendarmerie ou les services d'urgence (17, 112). (پولیس، جینڈرمیری یا ہنگامی خدمات (17، 112) کو مطلع کرنا۔)",,1.0,
+answer,"Attendre plusieurs semaines avant de parler. (بات کرنے سے پہلے کئی ہفتے انتظار کرنا۔)",,0.0,
+question,"Que doit-on faire face aux ordres des policiers ou gendarmes ? (پولیس یا جینڈرمز کے احکامات کا سامنا کیسے کرنا چاہیے؟)",,,lvl2
+answer,"Négocier et exprimer son désaccord. (مذاکرات کرنا اور اپنے اختلاف کا اظہار کرنا۔)",,0.0,
+answer,"Obéir, car ils représentent l'autorité publique, dans la limite de la loi. (اطاعت کرنا، کیونکہ وہ قانون کی حدود میں عوامی اتھارٹی کی نمائندگی کرتے ہیں۔)",,1.0,
+answer,"Simplement s'éloigner rapidement. (بس جلدی سے دور ہو جانا۔)",,0.0,
+question,"Quel est le rôle de la police ? (پولیس کا کیا کردار ہے؟)",,,lvl2
+answer,"Récolter les impôts. (ٹیکس جمع کرنا۔)",,0.0,
+answer,"Assurer la sécurité des personnes et des biens et maintenir l'ordre public. (افراد اور املاک کی حفاظت کو یقینی بنانا اور امن عامہ برقرار رکھنا۔)",,1.0,
+answer,"Rédiger la Constitution. (آئین تحریر کرنا۔)",,0.0,
+question,"Quel est un exemple d’assistance à personne en danger ? (خطرے میں گھرے شخص کی مدد کرنے کی ایک مثال کیا ہے؟)",,,lvl2
+answer,"Prier pour la person. (شخص کے لیے دعا کرنا۔)",,0.0,
+answer,"Ne rien faire, sauf si l'on est médecin. (کچھ نہ کرنا، سوائے اس کے کہ آپ ڈاکٹر ہوں۔)",,0.0,
+answer,"Alerter les secours (pompiers 18, SAMU 15) et si possible, sécuriser la zone. (امدادی ٹیموں کو مطلع کرنا (فائر فائٹرز 18، SAMU 15) اور اگر ممکن ہو تو علاقے کو محفوظ بنانا۔)",,1.0,
+question,"Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ? (عوامی مفاد کے تحفظ کے لیے آزادی کی حد بندی کی کون سی مثال ہے؟)",,,lvl2
+answer,"L'interdiction de manger certains aliments. (کچھ کھانے پینے کی اشیاء کی ممانعت۔)",,0.0,
+answer,"L'interdiction de manifester dans un lieu très fréquenté pour des raisons de sécurité. (سیکورٹی وجوہات کی بنا پر بہت پرہجوم جگہ پر احتجاج کرنے کی ممانعت۔)",,1.0,
+answer,"L'obligation d'avoir une religion. (مذہب رکھنے کی ذمہ داری۔)",,0.0,
+question,"Quelle est l’attitude à avoir lorsque qu'on est witness de violences ? (جب آپ تشدد کے گواہ ہوں تو کیا رویہ ہونا چاہیے؟)",,,lvl2
+answer,"Faire semblant de ne rien voir. (کچھ نہ دیکھنے کا بہانہ کرنا۔)",,0.0,
+answer,"Alerter les forces de l'ordre (Police 17 ou 112) et, si possible, porter assistance à la victime. (قانون نافذ کرنے والے اداروں کو مطلع کرنا (پولیس 17 یا 112) اور، اگر ممکن ہو تو، متاثرہ شخص کی مدد کرنا۔)",,1.0,
+answer,"Filmer la scène pour la mettre sur internet. (منظر کو انٹرنیٹ پر ڈالنے کے لیے فلم بنانا۔)",,0.0,
+question,"Quelle est l'infraction la plus grave ? (سب سے سنگین خلاف ورزی کون سی ہے؟)",,,lvl2
+answer,"Le vol simple (معمولی چوری)",,0.0,
+answer,"La diffamation (تہمت)",,0.0,
+answer,"Le crime (ex : meurtre ou viol). (سنگین جرم (مثلاً: قتل یا عصمت دری)۔)",,1.0,
+question,"Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ? (فرانس میں رہنے والے تمام افراد پر کون سی ذمہ داری لاگو ہوتی ہے، چاہے ان کی شہریت کچھ بھی ہو؟)",,,lvl2
+answer,"L'obligation de voter à toutes les élections. (تمام انتخابات میں ووٹ دینے کی ذمہ داری۔)",,0.0,
+answer,"L'obligation de respecter la loi française. (فرانسیسی قانون کے احترام کی ذمہ داری۔)",,1.0,
+answer,"L'obligation de s'engager dans le service militaire. (فوجی سروس میں شامل ہونے کی ذمہ داری۔)",,0.0,
+question,"Quelle proposition représente un exemple de crime ? (کون سی تجویز سنگین جرم کی مثال ہے؟)",,,lvl2
+answer,"Le stationnement illégal (غیر قانونی پارکنگ)",,0.0,
+answer,"Le vol à l'étalage (دکان سے چوری)",,0.0,
+answer,"Le viol (عصمت دری)",,1.0,
+question,"Quelle proposition représente un exemple de délit ? (کون سی تجویز جرم کی مثال ہے؟)",,,lvl2
+answer,"Un excès de vitesse de 10 km/h (10 کلومیٹر فی گھنٹہ کی تیز رفتاری)",,0.0,
+answer,"Le vol simple (معمولی چوری)",,1.0,
+answer,"Le meurtre (قتل)",,0.0,
+question,"Qui veille au maintien de l’ordre public ? (امن عامہ کی بحالی کا خیال کون رکھتا ہے؟)",,,lvl2
+answer,"Le Parlement (پارلیمنٹ)",,0.0,
+answer,"La Police et la Gendarmerie (sous l'autorité du Préfet). (پولیس اور جینڈرمیری (پریفیکٹ کی اتھارٹی کے تحت)۔)",,1.0,
+answer,"L'autorité judiciaire (عدالتی اتھارٹی)",,0.0,
+question,"S'agissant des déchets, quelle proposition est correcte ? (کچرے کے حوالے سے کون سی تجویز درست ہے؟)",,,lvl2
+answer,"Les jeter n'importe où est toléré. (انہیں کہیں بھی پھینک دینا جائز ہے۔)",,0.0,
+answer,"Le tri des déchets est une obligation de civisme. (کچرے کی چھانٹی ایک شہری ذمہ داری ہے۔)",,1.0,
+answer,"Seuls les produits chimiques doivent être triés. (صرف کیمیائی مصنوعات کی چھانٹی ہونی چاہیے۔)",,0.0,
+question,"Un citoyen inscrit sur les listes électorales ne souhaite plus voter « car cela ne change rien ». Quelle attitude conforme à ses devoirs civiques ? (انتخابی فہرستوں میں شامل ایک شہری اب ووٹ نہیں دینا چاہتا ""کیونکہ اس سے کچھ نہیں بدلتا""۔ اس کے شہری فرائض کے مطابق کون سا رویہ درست ہے؟)",,,lvl3
+answer,"Voter ou au moins s’informer : la participation exprime la souveraineté populaire. (ووٹ دینا یا کم از کم معلومات حاصل کرنا: شرکت عوامی خودمختاری کا اظہار کرتی ہے۔)",,1.0,
+answer,"Revendre sa carte d’électeur à un tiers. (اپنا ووٹر کارڈ کسی تیسرے شخص کو فروخت کر دینا۔)",,0.0,
+answer,"S’abstenir volontairement sans justification. (بغیر کسی جواز کے رضاکارانہ طور پر ووٹ سے دور رہنا۔)",,0.0,
+question,"Un habitant brûle ses déchets verts dans son jardin pour « gagner de la place ». Est-ce autorisé ? (ایک رہائشی اپنے باغ میں ""جگہ بنانے"" کے لیے سبز کچرا جلاتا ہے۔ کیا یہ جائز ہے؟)",,,lvl3
+answer,"Non, le brûlage à l’air libre est interdit. (نہیں، کھلی جگہ پر آگ لگانا ممنوع ہے۔)",,1.0,
+answer,"Oui, en période de pluie. (جی ہاں، بارش کے موسم میں۔)",,0.0,
+answer,"Oui, si cela ne gêne pas les voisins. (جی ہاں، اگر اس سے پڑوسیوں کو تکلیف نہ ہو۔)",,0.0,
+question,"Un restaurant refuse un client en fauteuil roulant pour « raisons de place ». Est-ce légal ? (ایک ریسٹورنٹ وہیل چیئر والے گاہک کو ""جگہ کی کمی"" کی وجہ سے انکار کر دیتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl3
+answer,"Oui, si le restaurant est petit. (جی ہاں، اگر ریسٹورنٹ چھوٹا ہے۔)",,0.0,
+answer,"Non, refuser un client en raison de son handicap est interdit. (نہیں، معذوری کی وجہ سے گاہک کو انکار کرنا ممنوع ہے۔)",,1.0,
+answer,"Oui, si le client vient seul. (جی ہاں، اگر گاہک اکیلا آئے۔)",,0.0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? (ایک پڑوسی اپنے باغ میں سبز کچرا جلاتا ہے جس سے بہت دھواں نکلتا ہے۔ شہری حقوق کے مطابق کیا ردعمل ہونا چاہیے؟)",,,lvl3
+answer,"Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. (اسے یاد دلانا کہ یہ عمل ممنوع ہے اور ضرورت پڑنے پر بلدیہ کو مطلع کرنا۔)",,1.0,
+answer,"L’imiter pour “équilibrer les nuisances” (اسی کی نقل کرنا تاکہ ""تکلیف برابر"" ہو جائے)",,0.0,
+answer,"Le laisser faire car c’est sa propriété. (اسے کرنے دینا کیونکہ یہ اس کی ملکیت ہے۔)",,0.0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? (کسی حادثے کے دوران، راہگیر مدد کرنے کے بجائے فلم بناتے ہیں۔ اخلاقی اور قانونی اصول کیا ہے؟)",,,lvl3
+answer,"Porter assistance en priorité. (ترجیحی بنیادوں پر مدد فراہم کرنا۔)",,1.0,
+answer,"Attendre que d’autres interviennent. (انتظار کرنا کہ دوسرے مداخلت کریں۔)",,0.0,
+answer,"Filmer pour les réseaux. (سوشل میڈیا کے لیے فلم بنانا۔)",,0.0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? (فرانس میں موٹر والی گاڑی کے مالک کے لیے کم از کم قانونی ذمہ داری کیا ہے، چاہے وہ گاڑی نہ چلتی ہو؟)",,,lvl3
+answer,"L’obligation de souscrire une assurance tous risques. (تمام خطرات سے متعلق انشورنس لینے کی ذمہ داری۔)",,0.0,
+answer,"Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. (اگر گاڑی نجی ملکیت میں کھڑی رہے تو کوئی ذمہ داری نہیں ہے۔)",,0.0,
+answer,"L’obligation de souscrire une assurance en responsabilité civile (au tiers). (تیسرے فریق کی ذمہ داری (تھرڈ پارٹی) انشورنس لینے کی ذمہ داری۔)",,1.0,
+question,"Dans la rue, vous voyez une person blessée et inconsciente. Que devez-vous faire ? (سڑک پر آپ ایک زخمی اور بے ہوش شخص کو دیکھتے ہیں۔ آپ کو کیا کرنا چاہیے؟)",,,lvl3
+answer,"Continuer votre chemin. (اپنا راستہ جاری رکھنا۔)",,0.0,
+answer,"Filmer pour garder une preuve. (ثبوت کے طور پر فلم بنانا۔)",,0.0,
+answer,"Alerter les secours et sécuriser les lieux . (امدادی ٹیموں کو مطلع کرنا اور جگہ کو محفوظ بنانا۔)",,1.0,
+question,"Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? (ایک آجر ملازم کے پیشہ ورانہ کمپیوٹر پر اس کے ذاتی ای میلز پڑھتا ہے۔ کیا یہ جائز ہے؟)",,,lvl3
+answer,"Non, les messages identifiés comme personnels sont protégés. (نہیں، وہ پیغامات جن کی شناخت ذاتی کے طور پر کی گئی ہے محفوظ ہیں۔)",,1.0,
+answer,"Oui, car le matériel appartient à l’entreprise. (جی ہاں، کیونکہ سامان کمپنی کا ہے۔)",,0.0,
+answer,"Oui, s’il ne les partage pas. (جی ہاں، اگر وہ انہیں شیئر نہ کرے۔)",,0.0,
+question,"Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? (ایک فارماسسٹ اپنے جیرانوں کو گاہک کی بیماری کے بارے میں بتاتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl3
+answer,"Oui, s’il veut prévenir les autres. (جی ہاں، اگر وہ دوسروں کو خبردار کرنا چاہتا ہے۔)",,0.0,
+answer,"Non, il viole le secret professionnel. (نہیں، وہ پیشہ ورانہ راز کی خلاف ورزی کر رہا ہے۔)",,1.0,
+answer,"Oui, si le client est d’accord après. (جی ہاں، اگر گاہک بعد میں راضی ہو جائے۔)",,0.0,
+question,"Que doit-on faire face aux ordres des policiers ou gendarmes ? (پولیس یا جینڈرمز کے احکامات کے سامنے کیا کرنا چاہیے؟)",,,lvl3
+answer,"Les négocier sur place. (موقع پر مذاکرات کرنا۔)",,0.0,
+answer,"Les contester immédiatement. (فوری طور پر چیلنج کرنا۔)",,0.0,
+answer,"Les respecter dans le cadre de la loi. (قانون کے دائرے میں رہ کر ان کا احترام کرنا۔)",,1.0,
+question,"Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? (علیحدہ والدین اپنے بچے کے اسکول کے انتخاب پر متفق نہیں ہیں۔ اس صورتحال میں قانون والدین کی اتھارٹی کے استعمال کی وضاحت کیسے کرتا ہے؟)",,,lvl3
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. (اہم فیصلے دونوں والدین کو مل کر کرنے چاہئیں، علیحدگی کے بعد بھی۔)",,1.0,
+answer,"La mère a toujours le dernier mot. (ماں کا ہمیشہ آخری فیصلہ ہوتا ہے۔)",,0.0,
+answer,"Le juge décide automatiquement. (جج خود بخود فیصلہ کرتا ہے۔)",,0.0,
+question,"Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? (جب آپ تشدد کے گواہ ہوں تو کیا رویہ ہونا چاہیے؟)",,,lvl3
+answer,"Intervenir seul physiquement. (اکیلے جسمانی طور پر مداخلت کرنا۔)",,0.0,
+answer,"Ne rien faire. (کچھ نہ کرنا۔)",,0.0,
+answer,"Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. (امدادی ٹیموں یا قانون نافذ کرنے والے اداروں کو مطلع کرنا اور جتنا ممکن ہو مدد کرنا۔)",,1.0,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? (ایک انٹرنیٹ صارف شائع کرتا ہے ""[گروپ X] خطرناک ہیں، انہیں نکال دینا چاہیے""۔ کون سا ردعمل درست ہے؟)",,,lvl3
+answer,"Signaler et sanctionner ces propos. (ان بیانات کی رپورٹ کرنا اور انہیں سزا دینا۔)",,1.0,
+answer,"Tolérer car c’est une opinion. (برداشت کرنا کیونکہ یہ ایک رائے ہے۔)",,0.0,
+answer,"Effacer seulement s’il s’excuse. (صرف اس صورت میں مٹانا اگر وہ معافی مانگے۔)",,0.0,
+question,"Est-il toujours possible de divorcer ? (کیا طلاق لینا ہمیشہ ممکن ہے؟)",,,lvl3
+answer,"Oui, uniquement avec l’accord des familles. (جی ہاں، صرف خاندانوں کی رضامندی سے۔)",,0.0,
+answer,"Non, sauf en cas de faute grave. (نہیں، سوائے کسی سنگین غلطی کے۔)",,0.0,
+answer,"Oui, le divorce est un droit reconnu par la loi. (جی ہاں، طلاق قانون کے ذریعے تسلیم شدہ حق ہے۔)",,1.0,
+question,"Le recours à l’avortement est-il autorisé ? (کیا اسقاط حمل کی اجازت ہے؟)",,,lvl3
+answer,"Non, il est interdit. (نہیں، یہ ممنوع ہے۔)",,0.0,
+answer,"Seulement avec l’accord du conjoint. (صرف شریک حیات کی رضامندی سے۔)",,0.0,
+answer,"Oui, dans les conditions prévues par la loi. (جی ہاں، قانون کے ذریعے فراہم کردہ شرائط کے تحت۔)",,1.0,
+question,"Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? (ایک آزاد کارکن سوشل سیکیورٹی میں حصہ ڈالنے سے انکار کرتا ہے۔ کیا یہ جائز ہے؟)",,,lvl3
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. (نہیں، قومی یکجہتی کی مالی معاونت کے لیے حصہ ڈالنا لازمی ہے۔)",,1.0,
+answer,"Oui, s’il a une assurance privée. (جی ہاں، اگر اس کی نجی انشورنس ہے۔)",,0.0,
+answer,"Oui, s’il n’est jamais malade. (جی ہاں، اگر وہ کبھی بیمار نہ ہو۔)",,0.0,
+question,"Quel est un exemple d’assistance à person en danger ? (خطرے میں گھیرے شخص کی مدد کرنے کی ایک مثال کیا ہے؟)",,,lvl3
+answer,"Appeler les secours pour une person blessée. (زخمی شخص کے لیے امدادی ٹیموں کو کال کرنا۔)",,1.0,
+answer,"Quitter les lieux sans agir. (بغیر کسی عمل کے جگہ چھوڑ دینا۔)",,0.0,
+answer,"Filmer la scène. (منظر کی فلم بنانا۔)",,0.0,
+question,"Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? (دو فرانسیسی شادی شدہ خواتین PMA کا سہارا لیتی ہیں۔ بچہ قانونی طور پر دوسری ماں سے کیسے منسلک ہوتا ہے؟)",,,lvl3
+answer,"La loi ne reconnaît pas la seconde mère. (قانون دوسری ماں کو تسلیم نہیں کرتا۔)",,0.0,
+answer,"La seconde mère doit adopter l’enfant. (دوسری ماں کو بچے کو گود لینا ہوگا۔)",,0.0,
+answer,"Les deux mères sont reconnues comme parents dès la naissance. (دونوں ماؤں کو پیدائش سے ہی والدین کے طور پر تسلیم کیا جاتا ہے۔)",,1.0,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? (ایک عمارت میں، رہائشی تمام رات مشترکہ لائٹس آن چھوڑ دیتے ہیں۔ کیا شہری رویہ اپنانا چاہیے؟)",,,lvl3
+answer,"Ignorer le problème. (مسئلے کو نظر انداز کرنا۔)",,0.0,
+answer,"Retirer les ampoules de force. (زبردستی بلب نکال دینا۔)",,0.0,
+answer,"Proposer des capteurs ou des minuteries pour réduire le gaspillage. (ضیاع کم کرنے کے لیے سینسر یا ٹائمر تجویز کرنا۔)",,1.0,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? (اپنی سرکاری دستاویزات پر اپنی شہری حیثیت (نام اور جنس) تبدیل کرنے کے لیے، کیا ٹرانس جینڈر شخص کے لیے سرجری کروانا لازمی ہے؟)",,,lvl3
+answer,"Oui, c’est obligatoire. (جی ہاں، یہ لازمی ہے۔)",,0.0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. (نہیں، 2017 سے کسی آپریشن یا طبی مداخلت کی ضرورت نہیں ہے۔)",,1.0,
+answer,"Oui, mais seulement une attestation psychiatrique. (جی ہاں، لیکن صرف نفسیاتی تصدیق۔)",,0.0,
+question,"Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? (ایک شہری جسے جرمانہ ادا کرنے کی سزا دی گئی ہے وہ اختلاف کی وجہ سے ادائیگی سے انکار کرتا ہے۔ قانون کے مطابق کیا رویہ ہونا چاہیے؟)",,,lvl3
+answer,"Se faire justice soi-même. (خود انصاف کرنا۔)",,0.0,
+answer,"Exécuter la décision ou exercer un recours prévu par la loi. (فیصلے پر عمل کرنا یا قانون کے ذریعے فراہم کردہ اپیل کا حق استعمال کرنا۔)",,1.0,
+answer,"Ignorer la décision. (فیصلے کو نظر انداز کرنا۔)",,0.0,
+question,"Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? (ایک پڑوسی پر چوری کا الزام ہے لیکن ابھی تک اس کا فیصلہ نہیں ہوا۔ کیا ردعمل ہونا چاہیے؟)",,,lvl3
+answer,"Attendre la décision de justice avant de le juger. (فیصلہ کرنے سے پہلے عدالتی فیصلے کا انتظار کرنا۔)",,1.0,
+answer,"Le considérer coupable immédiatement. (اسے فوری طور پر مجرم سمجھنا۔)",,0.0,
+answer,"Publier son nom sur les réseaux sociaux. (سوشل میڈیا پر اس کا نام شائع کرنا۔)",,0.0,
+question,"Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? (پبلک ٹرانسپورٹ کی ہڑتال کا اعلان ہوا ہے۔ کون سا نظام صارفین کو پہلے سے مطلع کرنے کی اجازت دیتا ہے؟)",,,lvl3
+answer,"Le droit de réquisition. (طلب کرنے کا حق۔)",,0.0,
+answer,"Le service minimum avec publication des prévisions de circulation. (ٹریفک کی پیشن گوئی کی اشاعت کے ساتھ کم از کم سروس۔)",,1.0,
+answer,"Une limitation légale du nombre de grévistes. (ہڑتال کرنے والوں کی تعداد پر قانونی پابندی۔)",,0.0,
+question,"Une person reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? (ایک شخص کو ""بینک"" سے ایک ای میل موصول ہوتی ہے جس میں اس کے کوڈز مانگے گئے ہیں۔ اسے کیا کرنا چاہیے؟)",,,lvl3
+answer,"Répondre pour vérifier. (تصدیق کے لیے جواب دینا۔)",,0.0,
+answer,"Ne pas répondre et signaler la fraude. (جواب نہ دینا اور دھوکہ دہی کی اطلاع دینا۔)",,1.0,
+answer,"Donner les codes si l’adresse semble officielle. (اگر پتہ سرکاری معلوم ہو تو کوڈز دے دینا۔)",,0.0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? (بغیر دستاویز کے شناختی چیک کے دوران، کیا پولیس آپ کو تھانے لے جا سکتی ہے؟)",,,lvl3
+answer,"Non, jamais. (نہیں، کبھی نہیں۔)",,0.0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. (جی ہاں، شناختی تصدیق کے لیے جو 4 گھنٹے تک جاری رہ سکتی ہے۔)",,1.0,
+answer,"Non, elle doit vous laisser partir. (نہیں، اسے آپ کو جانے دینا چاہیے۔)",,0.0,
+question,"Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? (ایک رہائشی میونسپل کونسل کے عوامی اجلاس میں شرکت کرتا ہے۔ کیا وہ اظہار خیال کر سکتا ہے؟)",,,lvl3
+answer,"Oui, si le maire l’autorise selon les règles locales. (جی ہاں، اگر میئر مقامی قوانین کے مطابق اجازت دے۔)",,1.0,
+answer,"Non, seuls les élus peuvent parler. (نہیں، صرف منتخب نمائندے ہی بات کر سکتے ہیں۔)",,0.0,
+answer,"Oui, librement et sans limite. (جی ہاں، آزادانہ اور بغیر کسی حد کے۔)",,0.0,
+question,"Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? (ایک ریسٹورنٹ مالک ہم جنس پرست جوڑے کی خدمت سے انکار کرتا ہے۔ اصول کیا ہے؟)",,,lvl3
+answer,"Autorisé si le restaurant est familial. (اجازت ہے اگر ریسٹورنٹ خاندانی ہو۔)",,0.0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. (یہ ممنوع ہے، کسی سروس تک رسائی کا انحصار جنسی رجحان پر نہیں ہو سکتا۔)",,1.0,
+answer,"Autorisé s’il affiche ce refus. (اجازت ہے اگر وہ اس انکار کو ظاہر کرے۔)",,0.0,
+question,"Qui veille au maintien de l’ordre public ? (امن عامہ برقرار رکھنے کا خیال کون رکھتا ہے؟)",,,lvl3
+answer,"Le Parlement. (پارلیمنٹ۔)",,0.0,
+answer,"Les mairies. (بلدیات۔)",,0.0,
+answer,"La police et la gendarmerie. (پولیس اور جینڈرمیری۔)",,1.0,
+question,"Le respect des décisions de justice est-il obligatoire ? (کیا عدالتی فیصلوں کا احترام لازمی ہے؟)",,,lvl3
+answer,"Non, si on n’est pas d’accord. (نہیں، اگر ہم متفق نہ ہوں۔)",,0.0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. (جی ہاں، اختلاف کی صورت میں بھی، قانونی چارہ جوئی کے امکان کے ساتھ۔)",,1.0,
+answer,"Seulement pour les étrangers. (صرف غیر ملکیوں کے لیے۔)",,0.0,
+question,"Quelle proposition constitue une obligation ? (کون سی تجویز ایک ذمہ داری بنتی ہے؟)",,,lvl3
+answer,"Respecter la loi. (قانون کا احترام کرنا۔)",,1.0,
+answer,"Voter à chaque élection. (ہر انتخاب میں ووٹ دینا۔)",,0.0,
+answer,"Adhérer à une association. (کسی انجمن میں شامل ہونا۔)",,0.0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? (قانونی چیک کے دوران، ایک راہگیر اپنی شناخت بتانے سے انکار کرتا ہے۔ کیا رویہ درست ہے؟)",,,lvl3
+answer,"Refuser au nom de la liberté individuelle. (انفرادی آزادی کے نام پر انکار کرنا۔)",,0.0,
+answer,"Reporter le contrôle à plus tard. (چیک کو بعد کے لیے ملتوی کرنا۔)",,0.0,
+answer,"Coopérer et présenter une pièce d’identité. (تعاون کرنا اور شناختی دستاویز پیش کرنا۔)",,1.0,
+question,"Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? (آپ اپنی بلدیہ کے عوامی اخراجات کی تفصیل جاننا چاہتے ہیں۔ آپ کا حق کیا ہے؟)",,,lvl3
+answer,"Passer obligatoirement par un avocat. (لازمی طور پر وکیل کے ذریعے جانا۔)",,0.0,
+answer,"Vous n’avez pas ce droit. (آپ کا یہ حق نہیں ہے۔)",,0.0,
+answer,"Le droit d’accès aux documents administratifs. (انتظامی دستاویزات تک رسائی کا حق۔)",,1.0,
+question,"Des habitants signent une pétition pour créer une piste cyclable. Quel est l’effet juridique ? (رہائشیوں نے سائیکل ٹریک بنانے کے لیے ایک درخواست پر دستخط کیے۔ اس کا قانونی اثر کیا ہے؟)",,,lvl3
+answer,"Elle remplace un vote municipal. (یہ میونسپل ووٹ کی جگہ لیتی ہے۔)",,0.0,
+answer,"Elle peut être transmise mais n’oblige pas la collectivité. (اسے بھیجا جا سکتا ہے لیکن یہ کمیونٹی کو پابند نہیں کرتی۔)",,1.0,
+answer,"Elle crée immédiatement la piste. (یہ فوری طور پر ٹریک بناتی ہے۔)",,0.0,
+question,"Lors d’un repas, un convive refuse de s’asseoir à côté d’une person d’une autre origine. Quelle réaction citoyenne ? (کھانے کے دوران، ایک مہمان کسی دوسری اصل (اوئریجن) کے شخص کے ساتھ بیٹھنے سے انکار کرتا ہے۔ شہری ردعمل کیا ہونا چاہیے؟)",,,lvl3
+answer,"Rappeler le principe d’égalité et de respect mutuel. (مساوات اور باہمی احترام کے اصول کو یاد دلانا۔)",,1.0,
+answer,"Ignorer pour éviter le conflit. (تنازعہ سے بچنے کے لیے نظر انداز کرنا۔)",,0.0,
+answer,"Accepter par politesse. (شائستگی کی وجہ سے قبول کرنا۔)",,0.0,
+question,"Un enfant étranger sans papiers souhaite être scolarisé en France. L’école peut-elle refuser ? (بغیر دستاویزات کے ایک غیر ملکی بچہ فرانس میں تعلیم حاصل کرنا چاہتا ہے۔ کیا اسکول انکار کر سکتا ہے؟)",,,lvl3
+answer,"Oui, s’il ne parle pas français. (جی ہاں، اگر وہ فرانسیسی نہیں بولتا۔)",,0.0,
+answer,"Non, tout enfant a droit à l’éducation en France. (نہیں، ہر بچے کو فرانس میں تعلیم کا حق ہے۔)",,1.0,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. (جی ہاں، اگر اس کے والدین کے پاس رہائشی اجازت نامہ نہیں ہے۔)",,0.0,
+question,"Un commerce laisse ses enseignes allumées toute la nuit. Est-ce conforme ? (ایک دکان اپنے سائن بورڈ تمام رات روشن رکھتی ہے۔ کیا یہ قواعد کے مطابق ہے؟)",,,lvl3
+answer,"Oui, si cela attire les clients. (جی ہاں، اگر اس سے گاہک متوجہ ہوں۔)",,0.0,
+answer,"Non, elles doivent être éteintes la nuit selon la réglementation. (نہیں، ضوابط کے مطابق انہیں رات کو بند کر دینا چاہیے۔)",,1.0,
+answer,"Oui, s’il paie l’électricité. (جی ہاں، اگر وہ بجلی کا بل ادا کرے۔)",,0.0,
+question,"Vous déménagez dans une nouvelle commune. Pour voter aux élections présidentielles, que faut-il faire ? (آپ ایک نئی میونسپلٹی میں منتقل ہو گئے ہیں۔ صدارتی انتخابات میں ووٹ دینے کے لیے کیا کرنا ہوگا؟)",,,lvl3
+answer,"Voter dans l’ancienne commune. (پرانی میونسپلٹی میں ووٹ دینا۔)",,0.0,
+answer,"S’inscrire sur les listes électorales de la nouvelle commune. (نئی میونسپلٹی کی انتخابی فہرستوں میں نام درج کروانا۔)",,1.0,
+answer,"Rien faire, l’inscription est automatique. (کچھ نہ کرنا، رجسٹریشن خود بخود ہو جاتی ہے۔)",,0.0,
+question,"Deux salariés ont le même poste et la même ancienneté mais un salaire différent. Quelle règle s’applique ? (دو ملازمین کا عہدہ اور سینیارٹی ایک ہی ہے لیکن تنخواہ مختلف ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl3
+answer,"L’employeur est libre sans justification. (آجر بغیر کسی جواز کے آزاد ہے۔)",,0.0,
+answer,"La différence est normale selon le sexe. (جنس کے لحاظ سے فرق معمول کی بات ہے۔)",,0.0,
+answer,"L’égalité de rémunération pour un travail égal. (برابر کام کے لیے برابر تنخواہ۔)",,1.0,
+question,"Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? (ایک منتخب نمائندہ اپنے مالی مفادات ظاہر کرنے سے انکار کرتا ہے۔ کیا یہ سنگین ہے؟)",,,lvl3
+answer,"Non, c’est privé. (نہیں، یہ نجی معاملہ ہے۔)",,0.0,
+answer,"Oui, seulement s’il gagne beaucoup. (جی ہاں، صرف تب اگر وہ بہت زیادہ کماتا ہے۔)",,0.0,
+answer,"Oui, la transparence est obligatoire pour éviter les conflits d’intérêts. (جی ہاں، مفادات کے تصادم سے بچنے کے لیے شفافیت لازمی ہے۔)",,1.0,
+question,"Un collègue fait des blagues homophobes au travail. Que prévoit la loi ? (ایک ساتھی کام پر ہم جنس پرستوں کے خلاف لطیفے سناتا ہے۔ قانون کیا کہتا ہے؟)",,,lvl3
+answer,"C’est acceptable s’il n’y a pas d’intention méchante. (اگر کوئی بری نیت نہ ہو تو یہ قابل قبول ہے۔)",,0.0,
+answer,"Ces propos constituent une discrimination et peuvent être sanctionnés. (یہ بیانات امتیازی سلوک کے زمرے میں آتے ہیں اور سزا دی جا سکتی ہے۔)",,1.0,
+answer,"C’est humoristique donc toléré. (یہ مزاحیہ ہے اس لیے جائز ہے۔)",,0.0,
+question,"Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? (ایک بیمار ملازم کو طبی بنیادوں پر جائز غیر حاضری کے باوجود برطرفی کا خط ملتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl3
+answer,"Oui, s’il est remplacé. (جی ہاں، اگر اس کی جگہ کسی اور کو رکھ لیا جائے۔)",,0.0,
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. (نہیں، صحت کی بنیاد پر برطرفی امتیازی سلوک ہے۔)",,1.0,
+answer,"Oui, après une semaine d’arrêt. (جی ہاں، ایک ہفتے کی غیر حاضری کے بعد۔)",,0.0,
+question,"Un voisin installe une caméra qui filme l’entrée de votre domicile. Quel est votre recours légal immédiat ? (ایک پڑوسی کیمرہ لگاتا ہے جو آپ کے گھر کے داخلی راستے کی فلم بناتا ہے۔ آپ کا فوری قانونی چارہ جوئی کیا ہے؟)",,,lvl3
+answer,"Lui demander de réorienter la caméra et saisir la CNIL ou la justice en cas de refus. (اس سے کیمرے کا رخ تبدیل کرنے کا کہنا اور انکار کی صورت میں CNIL یا عدالت سے رجوع کرنا۔)",,1.0,
+answer,"Il n’y a aucun recours. (کوئی قانونی راستہ نہیں ہے۔)",,0.0,
+answer,"Couper les câbles de la caméra. (کیمرے کی تاریں کاٹ دینا۔)",,0.0,
+question,"Un patient refuse un traitement vital pour des raisons religieuses. Que peut faire le médecin ? (ایک مریض مذہبی وجوہات کی بنا پر زندگی بچانے والے علاج سے انکار کرتا ہے۔ ڈاکٹر کیا کر سکتا ہے؟)",,,lvl3
+answer,"L’obliger à être soigné. (اسے علاج کے لیے مجبور کرنا۔)",,0.0,
+answer,"Respecter son refus après une information claire et loyale. (واضح اور مخلصانہ معلومات فراہم کرنے کے بعد اس کے انکار کا احترام کرنا۔)",,1.0,
+answer,"Le signaler à la police. (پولیس کو اس کی اطلاع دینا۔)",,0.0,
+question,"Un citoyen français vivant en Espagne peut-il voter aux élections municipales ? (کیا اسپین میں رہنے والا فرانسیسی شہری بلدیاتی انتخابات میں ووٹ دے سکتا ہے؟)",,,lvl3
+answer,"Oui, en tant que citoyen de l’Union européenne. (جی ہاں، یورپی یونین کے شہری کے طور پر۔)",,1.0,
+answer,"Non, il perd ce droit. (نہیں، وہ یہ حق کھو دیتا ہے۔)",,0.0,
+answer,"Oui, seulement avec un passeport local. (جی ہاں، صرف مقامی پاسپورٹ کے ساتھ۔)",,0.0,
+question,"Un média publie la photo d’un suspect avec le mot « coupable ». Est-ce légal ? (ایک میڈیا آؤٹ لیٹ مشتبہ شخص کی تصویر ""مجرم"" کے لفظ کے ساتھ شائع کرتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl3
+answer,"Oui, si le public veut savoir. (جی ہاں، اگر عوام جاننا چاہتی ہے۔)",,0.0,
+answer,"Non, cela viole la présomption d’innocence. (نہیں، یہ بے گناہی کے تصور کی خلاف ورزی ہے۔)",,1.0,
+answer,"Oui, s’il est arrêté. (جی ہاں، اگر اسے گرفتار کر لیا جائے۔)",,0.0,
+question,"Quelle proposition représente un exemple de délit ? (کون سی تجویز جرم کی مثال ہے؟)",,,lvl3
+answer,"Un vol. (چوری۔)",,1.0,
+answer,"Un homicide volontaire. (قتل عمد۔)",,0.0,
+answer,"Un génocide. (نسل کشی۔)",,0.0,
+question,"Une person est photographiée dans un lieu public pour un usage commercial. Le photographe est-il libre d’utiliser l’image ? (تجارتی استعمال کے لیے ایک شخص کی عوامی جگہ پر تصویر لی گئی ہے۔ کیا فوٹوگرافر تصویر استعمال کرنے کے لیے آزاد ہے؟)",,,lvl3
+answer,"Oui, si le lieu est public. (جی ہاں، اگر جگہ عوامی ہے۔)",,0.0,
+answer,"Non, il doit obtenir l’autorisation de la person. (نہیں، اسے اس شخص سے اجازت لینی ہوگی۔)",,1.0,
+answer,"Oui, si la photo est professionnelle. (جی ہاں، اگر تصویر پیشہ ورانہ ہے۔)",,0.0,
+question,"Un citoyen apprend un crime grave et garde le silence. Est-ce légal ? (ایک شہری کو سنگین جرم کا علم ہوتا ہے اور وہ خاموش رہتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl3
+answer,"Oui, s’il ne connaît pas les auteurs. (جی ہاں، اگر وہ مجرموں کو نہیں جانتا۔)",,0.0,
+answer,"Oui, si cela ne le concerne pas. (جی ہاں، اگر اس کا اس سے تعلق نہ ہو۔)",,0.0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. (نہیں، جرم کی اطلاع نہ دینا قانون کے تحت قابل سزا ہے۔)",,1.0,
+question,"Sur un réseau social, un utilisateur insulte des élus locaux. Quelle règle s’applique ? (سوشل نیٹ ورک پر ایک صارف مقامی منتخب نمائندوں کی توہین کرتا ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl3
+answer,"C’est toléré en ligne. (آن لائن یہ جائز ہے۔)",,0.0,
+answer,"Autorisé si on supprime après. (اجازت ہے اگر بعد میں مٹا دیا جائے۔)",,0.0,
+answer,"La liberté d’expression n’autorise pas l’injure publique. (اظہار رائے کی آزادی عوامی توہین کی اجازت نہیں دیتی۔)",,1.0,
+question,"Votre conjoint(e) lit vos messages privés sur votre téléphone sans autorisation. Est-ce illégal ? (آپ کا شریک حیات آپ کی اجازت کے بغیر آپ کے فون پر آپ کے نجی پیغامات پڑھتا ہے۔ کیا یہ غیر قانونی ہے؟)",,,lvl3
+answer,"Non, la vie privée ne s’applique pas dans la famille. (نہیں، خاندان میں رازداری کا اطلاق نہیں ہوتا۔)",,0.0,
+answer,"Non, le devoir de fidélité l’autorise. (نہیں، وفاداری کی ذمہ داری اسے اجازت دیتی ہے۔)",,0.0,
+answer,"Oui, l’accès sans consentement à des données personnelles est sanctionnable. (جی ہاں، ذاتی ڈیٹا تک بغیر رضامندی کے رسائی قابل سزا ہے۔)",,1.0,
+question,"Un citoyen français nouvellement naturalisé vote aux municipales. À quelle élection n’est-il pas autorisé à voter tant qu’il n’est pas inscrit ? (ایک نیا فرانسیسی شہری بلدیاتی انتخابات میں ووٹ دیتا ہے۔ وہ کس انتخاب میں ووٹ دینے کا مجاز نہیں ہے جب تک کہ وہ رجسٹرڈ نہ ہو؟)",,,lvl3
+answer,"Aux élections nationales ou européennes. (قومی یا یورپی انتخابات میں۔)",,1.0,
+answer,"À aucune, il peut voter partout. (کسی میں بھی نہیں، وہ ہر جگہ ووٹ دے سکتا ہے۔)",,0.0,
+answer,"Seulement aux municipales pendant cinq ans. (پانچ سال تک صرف بلدیاتی انتخابات میں۔)",,0.0,
+question,"Des citoyens veulent organiser une manifestation pacifique. Que doivent-ils faire ? (شہری ایک پرامن احتجاج منظم کرنا چاہتے ہیں۔ انہیں کیا کرنا چاہیے؟)",,,lvl3
+answer,"Déclarer la manifestation et respecter l’ordre public. (احتجاج کا اعلان کرنا اور امن عامہ کا احترام کرنا۔)",,1.0,
+answer,"Manifester sans prévenir la préfecture. (پریفیکچر کو مطلع کیے بغیر احتجاج کرنا۔)",,0.0,
+answer,"Empêcher les autres de défiler. (دوسروں کو مارچ کرنے سے روکنا۔)",,0.0,
+question,"Lors d’une manifestation non déclarée, quand l’usage de la force est-il légal ? (غیر اعلانیہ احتجاج کے دوران، طاقت کا استعمال کب قانونی ہوتا ہے؟)",,,lvl3
+answer,"Sans limite pour rétablir l’ordre. (نظم و ضبط کی بحالی کے لیے بغیر کسی حد کے۔)",,0.0,
+answer,"Automatiquement. (خود بخود۔)",,0.0,
+answer,"Seulement si la force est nécessaire, proportionnée et légale. (صرف اس صورت میں جب طاقت ضروری، متناسب اور قانونی ہو۔)",,1.0,
+question,"Un journal critique le gouvernement. Peut-il être sanctionné ? (ایک اخبار حکومت پر تنقید کرتا ہے۔ کیا اسے سزا دی جا سکتی ہے؟)",,,lvl3
+answer,"Oui, si le gouvernement le décide. (جی ہاں، اگر حکومت فیصلہ کرے۔)",,0.0,
+answer,"Oui, si l’article dérange. (جی ہاں، اگر مضمون ناگوار گزرے۔)",,0.0,
+answer,"Non, la liberté de la presse est protégée par la loi. (نہیں، پریس کی آزادی قانون کے ذریعے محفوظ ہے۔)",,1.0,
+question,"Concernant les réseaux sociaux, quelle règle est correcte ? (سوشل نیٹ ورکس کے بارے میں کون سا اصول درست ہے؟)",,,lvl3
+answer,"Tout est autorisé sur internet. (انٹرنیٹ پر سب کچھ جائز ہے۔)",,0.0,
+answer,"Les lois ne s’appliquent pas en ligne. (آن لائن قوانین لاگو نہیں ہوتے۔)",,0.0,
+answer,"La liberté d’expression s’exerce dans le respect de la loi. (اظہار رائے کی آزادی قانون کے احترام کے دائرے میں استعمال کی جاتی ہے۔)",,1.0,
+question,"Lors d’une cérémonie officielle, un élu refuse de se lever pour l’hymne européen. Est-ce un droit ? (ایک سرکاری تقریب کے دوران، ایک منتخب نمائندہ یورپی ترانے کے لیے کھڑے ہونے سے انکار کرتا ہے۔ کیا یہ اس کا حق ہے؟)",,,lvl3
+answer,"Oui, c’est une liberté personnelle. (جی ہاں، یہ ذاتی آزادی ہے۔)",,0.0,
+answer,"Non, le respect des symboles relève du civisme. (نہیں، علامتوں کا احترام شہری ذمہ داری ہے۔)",,1.0,
+answer,"Oui, s’il n’aime pas la musique. (جی ہاں، اگر اسے موسیقی پسند نہ ہو۔)",,0.0,
+question,"Publier les coordonnées d’un voisin sur les réseaux sociaux sans son accord. Est-ce légal ? (کسی پڑوسی کی تفصیلات اس کی رضامندی کے بغیر سوشل میڈیا پر شائع کرنا۔ کیا یہ قانونی ہے؟)",,,lvl3
+answer,"Oui, si elles sont publiques. (جی ہاں، اگر وہ عوامی ہوں۔)",,0.0,
+answer,"Oui, si on supprime après. (جی ہاں، اگر بعد میں مٹا دیا جائے۔)",,0.0,
+answer,"Non, la diffusion de données personnelles est interdite. (نہیں، ذاتی ڈیٹا کی تشہیر ممنوع ہے۔)",,1.0,
+question,"Un patron impose sept jours de travail par semaine. Est-ce autorisé ? (ایک باس ہفتے میں سات دن کام کرنے پر مجبور کرتا ہے۔ کیا یہ جائز ہے؟)",,,lvl3
+answer,"Oui, si le salarié accepte. (جی ہاں، اگر ملازم قبول کر لے۔)",,0.0,
+answer,"Oui, s’il paie plus. (جی ہاں، اگر وہ زیادہ تنخواہ دے۔)",,0.0,
+answer,"Non, le repos hebdomadaire est un droit. (نہیں، ہفتہ وار آرام ایک حق ہے۔)",,1.0,
+question,"Un résident joue de la batterie à 2 h du matin. Quelle règle s’applique ? (ایک رہائشی صبح 2 بجے ڈرم بجاتا ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl3
+answer,"C’est autorisé le week-end. (ہفتے کے آخر میں اس کی اجازت ہے۔)",,0.0,
+answer,"C’est toléré s’il est musicien. (اگر وہ موسیقار ہے تو اسے برداشت کیا جاتا ہے۔)",,0.0,
+answer,"Il commet un tapage nocturne sanctionnable. (وہ رات کے وقت شور مچا کر سزا کے قابل جرم کر رہا ہے۔)",,1.0,

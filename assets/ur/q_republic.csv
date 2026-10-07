@@ -1,0 +1,597 @@
+type,text,placeholder,is_correct,level
+question,"À quoi correspond la date du 14 juillet ? (14 جولائی کی تاریخ کس چیز سے مطابقت رکھتی ہے؟)",,,lvl1
+answer,"Le jour de la signature de la Constitution (آئین پر دستخط کا دن)",,0.0,
+answer,"La fête de la Révolution et de la Nation (انقلاب اور قوم کا جشن)",,1.0,
+answer,"La date de la fin de la Seconde Guerre mondiale (دوسری جنگ عظیم کے خاتمے کی تاریخ)",,0.0,
+question,"Quel est l’un des symboles de la République française ? (فرانسیسی جمہوریہ کی علامتوں میں سے ایک کون سی ہے؟)",,,lvl1
+answer,"Le lion et la couronne (شیر اور تاج)",,0.0,
+answer,"Le drapeau rouge et noir (سرخ اور سیاہ جھنڈا)",,0.0,
+answer,"La Marianne (ماریان)",,1.0,
+question,"Le principe d’égalité signifie que : (برابری کے اصول کا مطلب ہے کہ:)",,,lvl1
+answer,"Tous les citoyens doivent avoir la même richesse et le même statut social. (تمام شہریوں کے پاس یکساں دولت اور سماجی درجہ ہونا چاہیے۔)",,0.0,
+answer,"La loi est la même pour tous, sans distinction d'origine, de race ou de religion. (قانون سب کے لیے برابر ہے، نسل، مذہب یا اصل کے فرق کے بغیر۔)",,1.0,
+answer,"Seules les personnes nées en France sont égales devant la loi. (صرف فرانس میں پیدا ہونے والے لوگ قانون کے سامنے برابر ہیں۔)",,0.0,
+question,"""Liberté, égalité, fraternité"", c’est : (""آزادی، برابری، بھائی چارہ"" ہے:)",,,lvl1
+answer,"Le titre de l'hymne national français. (فرانسیسی قومی ترانے کا عنوان۔)",,0.0,
+answer,"La devise de la République française. (فرانسیسی جمہوریہ کا نعرہ۔)",,1.0,
+answer,"Le slogan d’un parti politique. (ایک سیاسی جماعت کا نعرہ۔)",,0.0,
+question,"A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ? (کیا کسی کو عوامی طور پر اس لیے برا بھلا کہنے کا حق ہے کہ وہ مختلف ہے (معذوری، جسمانی شکل، جنس وغیرہ)؟)",,,lvl1
+answer,"Oui, la liberté d'expression autorise toutes les paroles. (جی ہاں، اظہار رائے کی آزادی تمام باتوں کی اجازت دیتی ہے۔)",,0.0,
+answer,"Non, car cela constitue une discrimination punie par la loi. (نہیں، کیونکہ یہ ایک امتیاز ہے جس کی قانون میں سزا ہے۔)",,1.0,
+answer,"Oui, tant que l'insulte n'est pas écrite. (جی ہاں، جب تک توہین لکھی ہوئی نہ ہو۔)",,0.0,
+question,"Certains métiers peuvent-ils être réservés aux hommes ? (کیا کچھ پیشے صرف مردوں کے لیے مخصوص ہو سکتے ہیں؟)",,,lvl1
+answer,"Oui, dans le secteur de la défense nationale. (جی ہاں، قومی دفاع کے شعبے میں۔)",,0.0,
+answer,"Non, la loi garantit l’égalité professionnelle entre les femmes et les hommes. (نہیں، قانون خواتین اور مردوں کے درمیان پیشہ ورانہ برابری کی ضمانত دیتا ہے۔)",,1.0,
+answer,"Oui, les entreprises privées peuvent choisir librement leurs critères. (جی ہاں، نجی کمپنیاں اپنے معیار کا انتخاب خود کر سکتی ہیں۔)",,0.0,
+question,"De quand date la Constitution de la Ve République ? (پانچویں جمہوریہ کا آئین کس سال کا ہے؟)",,,lvl1
+answer,"1946 (1946)",,0.0,
+answer,"1870 (1870)",,0.0,
+answer,"1958 (1958)",,1.0,
+question,"Le régime de la France est : (فرانس کا نظام ہے:)",,,lvl1
+answer,"Une monarchie constitutionnelle (آئینی بادشاہت)",,0.0,
+answer,"Un régime totalitaire (آمریت پسند نظام)",,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. (ایک ناقابل تقسیم، سیکولر، جمہوری اور سماجی جمہوریہ۔)",,1.0,
+question,"Lequel de ces symboles représente officiellement la République française ? (ان میں سے کون سی علامت سرکاری طور پر فرانسیسی جمہوریہ کی نمائندگی کرتی ہے؟)",,,lvl1
+answer,"Le lys (للی کا پھول)",,0.0,
+answer,"La couronne royale (شاہی تاج)",,0.0,
+answer,"Le drapeau tricolore (bleu, blanc, rouge) (تین رنگوں والا جھنڈا (نیلا، سفید، سرخ))",,1.0,
+question,"Où peut-on voir la devise de la République ? (جمہوریہ کا نعرہ کہاں دیکھا جا سکتا ہے؟)",,,lvl1
+answer,"Uniquement dans les musées nationaux. (صرف قومی عجائب گھروں میں۔)",,0.0,
+answer,"Sur la majorité des produits fabriqués en France. (فرانس میں بنی زیادہ تر مصنوعات پر۔)",,0.0,
+answer,"Sur les bâtiments publics (mairies, écoles, préfectures...). (عوامی عمارتوں پر (بلدیہ، اسکول، پریفیکچر وغیرہ)۔)",,1.0,
+question,"Quels sont des symboles officiels de la République française ? (فرانسیسی جمہوریہ کی سرکاری علامتیں کون سی ہیں؟)",,,lvl1
+answer,"L'Aigle impérial et le Sceptre. (شاہی عقاب اور عصا۔)",,0.0,
+answer,"Le drapeau tricolore, la Marseillaise, Marianne. (تین رنگا جھنڈا، مارسیلیز، ماریان۔)",,1.0,
+answer,"La fleur de lys et le chêne. (للی کا پھول اور شاہ بلوط۔)",,0.0,
+question,"Qu’est-ce que l’égalité ? (برابری کیا ہے؟)",,,lvl1
+answer,"Le fait de ne plus avoir d'impôts à payer. (ٹیکس ادا نہ کرنے کی حالت۔)",,0.0,
+answer,"Le droit de chacun d’avoir le même métier que son voisin. (ہر کسی کا اپنے پڑوسی جیسا پیشہ رکھنے کا حق۔)",,0.0,
+answer,"Le fait d’être traité de la même manière devant la loi et la justice. (قانون اور انصاف کے سامنے یکساں سلوک کیا جانا۔)",,1.0,
+question,"Que signifie la liberté ? (آزادی کا کیا مطلب ہے؟)",,,lvl1
+answer,"Le droit de faire absolument tout ce que l’on veut. (بالکل وہی کرنے کا حق جو دل چاہے۔)",,0.0,
+answer,"Le droit de faire tout ce qui ne nuit pas aux autres. (وہ سب کچھ کرنے کا حق جس سے دوسروں کو نقصان نہ پہنچے۔)",,1.0,
+answer,"Le droit d’insulter les représentants de l’État. (ریاستی نمائندوں کی توہین کرنے کا حق۔)",,0.0,
+question,"Que signifie le mot ""fraternité"" dans la devise française ? (فرانسیسی نعرے میں لفظ ""برادری/بھائی چارہ"" کا کیا مطلب ہے؟)",,,lvl1
+answer,"Le fait d’avoir seulement des frères et des sœurs dans sa famille. (خاندان میں صرف بھائی اور بہنوں کا ہونا۔)",,0.0,
+answer,"Le droit de voyager sans visa dans les autres pays d'Europe. (یورپ کے دوسرے ممالک میں بغیر ویزہ سفر کرنے کا حق۔)",,0.0,
+answer,"La solidarité et l'entraide entre tous les citoyens. (تمام شہریوں کے درمیان یکجہتی اور باہمی امداد۔)",,1.0,
+question,"Quel animal est un symbole de la France ? (کون سا جانور فرانس کی علامت ہے؟)",,,lvl1
+answer,"Le lion (شیر)",,0.0,
+answer,"L'aigle (عقاب)",,0.0,
+answer,"Le coq (مرغا)",,1.0,
+question,"Quel est l’un des rôles des associations ? (انجمنوں (ایسوسی ایشنز) کے کرداروں میں سے ایک کیا ہے؟)",,,lvl1
+answer,"Remplacer l'État dans l'exercice de ses fonctions régaliennes. (ریاست کے بنیادی فرائض میں اس کی جگہ لینا۔)",,0.0,
+answer,"Permettre aux citoyens de s’engager pour l'intérêt général. (شہریوں کو عوامی مفاد کے لیے کام کرنے کا موقع فراہم کرنا۔)",,1.0,
+answer,"Gérer le système de défense nationale. (قومی دفاعی نظام کو سنبھالنا۔)",,0.0,
+question,"Quel est le nom de l'hymne national ? (قومی ترانے کا نام کیا ہے؟)",,,lvl1
+answer,"La Parisienne (لا پیرسیئن)",,0.0,
+answer,"Le Chant du Départ (روانگی کا گیت)",,0.0,
+answer,"La Marseillaise (لا مارسیلیز)",,1.0,
+question,"Quel symbole de la République française est tricolore ? (فرانسیسی جمہوریہ کی کون سی علامت تین رنگوں والی ہے؟)",,,lvl1
+answer,"La Marianne (ماریان)",,0.0,
+answer,"Le drapeau (جھنڈا)",,1.0,
+answer,"L'Hymne national (قومی ترانہ)",,0.0,
+question,"Quelle est la date de la fête nationale française ? (فرانس کے قومی دن کی تاریخ کیا ہے؟)",,,lvl1
+answer,"Le 1er mai (یکم مئی)",,0.0,
+answer,"Le 11 novembre (11 نومبر)",,0.0,
+answer,"Le 14 juillet (14 جولائی)",,1.0,
+question,"Quelle est la devise de la République française ? (فرانسیسی جمہوریہ کا نعرہ کیا ہے؟)",,,lvl1
+answer,"Unité, Justice, Travail (اتحاد، انصاف، کام)",,0.0,
+answer,"Honneur et Patrie (عزت اور وطن)",,0.0,
+answer,"Liberté, Égalité, Fraternité (آزادی، برابری، بھائی چارہ)",,1.0,
+question,"Quelle est la langue officielle de la République française ? (فرانسیسی جمہوریہ کی سرکاری زبان کون سی ہے؟)",,,lvl1
+answer,"Le français et l'anglais (فرانسیسی اور انگریزی)",,0.0,
+answer,"Le français et toutes les langues régionales (فرانسیسی اور تمام علاقائی زبانیں)",,0.0,
+answer,"Le français (فرانسیسی)",,1.0,
+question,"Quelle est la place de la langue française dans la République ? (جمہوریہ میں فرانسیسی زبان کا کیا مقام ہے؟)",,,lvl1
+answer,"C'est la langue des élites et de l'administration. (یہ اشرافیہ اور انتظامیہ کی زبان ہے۔)",,0.0,
+answer,"C'est la langue privilégiée mais non obligatoire dans les services publics. (یہ ترجیحی زبان ہے لیکن عوامی خدمات میں لازمی نہیں ہے۔)",,0.0,
+answer,"C'est la langue de l'enseignement, du travail, des échanges et des services publics. (یہ تعلیم، کام، رابطے اور عوامی خدمات کی زبان ہے۔)",,1.0,
+question,"Quelle liberté permet à chacun d’exprimer ses idées ? (کون سی آزادی ہر کسی کو اپنے خیالات ظاہر کرنے کی اجازت دیتی ہے؟)",,,lvl1
+answer,"La liberté de culte (مذہبی آزادی)",,0.0,
+answer,"La liberté d'association (انجمن بنانے کی آزادی)",,0.0,
+answer,"La liberté d'expression (اظہار رائے کی آزادی)",,1.0,
+question,"Quelle proposition est correcte ? La liberté d'expression : (کون سی تجویز درست ہے؟ اظہار رائے کی آزادی:)",,,lvl1
+answer,"Est totale et ne connaît aucune limite en France. (فرانس میں مکمل ہے اور اس کی کوئی حد نہیں ہے۔)",,0.0,
+answer,"Est limitée par la loi et ne doit pas porter atteinte à l'ordre public et aux droits d'autrui. (قانون کے ذریعے محدود ہے اور اسے امن عامہ اور دوسروں کے حقوق کو نقصان نہیں پہنچانا چاہیے۔)",,1.0,
+answer,"Permet de publier de fausses informations dans la presse. (پریس میں غلط معلومات شائع کرنے کی اجازت دیتی ہے۔)",,0.0,
+question,"Quelles sont les couleurs du drapeau français ? (فرانسیسی جھنڈے کے رنگ کون سے ہیں؟)",,,lvl1
+answer,"Rouge, Blanc, Vert (سرخ، سفید، سبز)",,0.0,
+answer,"Jaune, Bleu, Rouge (پیلا، نیلا، سرخ)",,0.0,
+answer,"Bleu, Blanc, Rouge (نیلا، سفید، سرخ)",,1.0,
+question,"Qu'est-ce que la Marseillaise ? (مارسیلیز کیا ہے؟)",,,lvl1
+answer,"Un chant militaire sans importance. (ایک غیر اہم فوجی گیت۔)",,0.0,
+answer,"Un chant religieux chanté dans toutes les églises. (ایک مذہبی گیت جو تمام گرجا گھروں میں گایا جاتا ہے۔)",,0.0,
+answer,"L'hymne national français. (فرانسیسی قومی ترانہ۔)",,1.0,
+question,"Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ? (قومی دن منانے کے لیے 14 جولائی کو روایتی طور پر شیمپس ایلیسیز پر کیا منعقد کیا جاتا ہے؟)",,,lvl1
+answer,"Une course cycliste internationale. (ایک بین الاقوامی سائیکل ریس۔)",,0.0,
+answer,"Un grand concert de musique classique. (کلاسیکی موسیقی کا ایک بڑا کنسرٹ۔)",,0.0,
+answer,"Un défilé militaire. (فوجی پریڈ۔)",,1.0,
+question,"Qui est Marianne ? (ماریان کون ہے؟)",,,lvl1
+answer,"L'épouse du président de la République. (صدر جمہوریہ کی اہلیہ۔)",,0.0,
+answer,"La mère de la Déclaration des Droits de l'Homme et du Citoyen. (انسانی اور شہری حقوق کے اعلامیہ کی ماں۔)",,0.0,
+answer,"La figure symbolique de la République française. (فرانسیسی جمہوریہ کی علامتی شخصیت۔)",,1.0,
+question,"Une personne peut-elle changer librement de religion ? (کیا کوئی شخص آزادانہ طور پر اپنا مذہب تبدیل کر سکتا ہے؟)",,,lvl1
+answer,"Non, uniquement si sa nouvelle religion est reconnue par l'État. (نہیں، صرف اس صورت میں جب اس کا نیا مذہب ریاست سے تسلیم شدہ ہو۔)",,0.0,
+answer,"Non, le changement est soumis à l'autorisation du maire. (نہیں، تبدیلی میئر کی اجازت سے مشروط ہے۔)",,0.0,
+answer,"Oui, la liberté de conscience et de culte est garantie par la loi. (جی ہاں، ضمیر اور عبادت کی آزادی کی ضمانت قانون دیتا ہے۔)",,1.0,
+question,"""La France est une République indivisible, ..., démocratique et sociale"". Complétez cette phrase : (""فرانس ایک ناقابل تقسیم، ...، جمہوری اور سماجی جمہوریہ ہے""۔ اس جملے کو مکمل کریں:)",,,lvl1
+answer,"Humaniste (انسانیت پسند)",,0.0,
+answer,"Souveraine (خود مختار)",,0.0,
+answer,"Laïque (سیکولر/غیر مذہبی)",,1.0,
+question,"En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ? (چرچ اور ریاست کی علیحدگی کا قانون کس سال منظور ہوا؟)",,,lvl1
+answer,"1805 (1805)",,0.0,
+answer,"1905 (1905)",,1.0,
+answer,"1958 (1958)",,0.0,
+question,"Que permet le principe de laïcité ? (سیکولرزم (لائسیت) کا اصول کیا اجازت دیتا ہے؟)",,,lvl1
+answer,"De n'autoriser qu'une seule religion sur le territoire national. (ملک میں صرف ایک ہی مذہب کی اجازت دینا۔)",,0.0,
+answer,"D'interdire toute manifestation religieuse dans l'espace public. (عوامی جگہوں پر ہر قسم کی مذہبی نمائش پر پابندی لگانا۔)",,0.0,
+answer,"D'assurer la liberté de conscience de chacun et la neutralité de l'État. (ہر کسی کے ضمیر کی آزادی اور ریاست کے غیر جانبدار رہنے کو یقینی بنانا۔)",,1.0,
+question,"Quel droit est garanti par la laïcité ? (سیکولرزم کے تحت کون سا حق یقینی بنایا گیا ہے؟)",,,lvl1
+answer,"Le droit d'avoir une religion officielle. (سرکاری مذہب رکھنے کا حق۔)",,0.0,
+answer,"Le droit de limiter l'accès à certaines religions. (کچھ مذاہب تک رسائی کو محدود کرنے کا حق۔)",,0.0,
+answer,"Le droit de ne pas croire, ou de choisir sa religion librement. (یقین نہ رکھنے، یا اپنے مذہب کا آزادانہ انتخاب کرنے کا حق۔)",,1.0,
+question,"Pourquoi le principe de laïcité doit-il être respecté à l'école ? (اسکول میں سیکولرزم کے اصول کا احترام کیوں ضروری ہے؟)",,,lvl1
+answer,"Pour éviter de déranger les enseignants. (اساتذہ کو پریشان ہونے سے بچانے کے لیے۔)",,0.0,
+answer,"Pour assurer la domination d'une religion sur les autres. (ایک مذہب کا دوسرے مذاہب پر غلبہ یقینی بنانے کے لیے۔)",,0.0,
+answer,"Pour garantir aux élèves la liberté de conscience et le respect de tous. (طلباء کو ضمیر کی آزادی اور سب کے احترام کی ضمانت دینے کے لیے।)",,1.0,
+question,"Qu'est-ce que la laïcité ? (سیکولرزم (لائسیت) کیا ہے؟)",,,lvl1
+answer,"L'interdiction de pratiquer une religion. (مذہب پر عمل کرنے کی ممانعت۔)",,0.0,
+answer,"L'obligation d'avoir une religion d'État. (ریاستی مذہب رکھنے کی پابندی۔)",,0.0,
+answer,"Un principe de séparation entre les Églises (religions) et l'État. (چرچ (مذاہب) اور ریاست کے درمیان علیحدگی کا ایک اصول۔)",,1.0,
+question,"Un enfant peut-il refuser d’aller à l’école pour une reason religieuse ? (کیا بچہ مذہبی وجہ سے اسکول جانے سے انکار کر سکتا ہے؟)",,,lvl1
+answer,"Oui, si ses parents sont d'accord. (جی ہاں، اگر اس کے والدین راضی ہوں۔)",,0.0,
+answer,"Seulement s’il y a des examens importants ce jour-là. (صرف اس صورت میں اگر اس دن اہم امتحانات ہوں۔)",,0.0,
+answer,"Non, l’instruction est obligatoire pour tous les enfants de 3 à 16 ans, quelle que soit la religion. (نہیں، 3 سے 16 سال کے تمام بچوں کے لیے تعلیم لازمی ہے، مذہب چاہے کوئی بھی ہو۔)",,1.0,
+question,"Une personne a-t-elle le droit de ne pas croire en une religion ? (کیا کسی شخص کو مذہب پر یقین نہ رکھنے کا حق ہے؟)",,,lvl1
+answer,"Non, toutes les personnes doivent avoir une religion en France. (نہیں، فرانس میں تمام لوگوں کا مذہب ہونا ضروری ہے۔)",,0.0,
+answer,"Uniquement les personnes majeures. (صرف بالغ افراد۔)",,0.0,
+answer,"Oui, le droit de ne pas croire fait partie de la liberté de conscience garantie par la loi. (جی ہاں، یقین نہ رکھنے کا حق قانون کے ذریعے ضمانت یافتہ ضمیر کی آزادی کا حصہ ہے۔)",,1.0,
+question,"Parmi les propositions suivantes, laquelle constitue une participation citoyenne ? (مندرجہ ذیل تجاویز میں سے کون سی شہریوں کی شرکت (Participation) کو ظاہر کرتی ہے؟)",,,lvl2
+answer,"Payer ses impôts. (اپنے ٹیکس ادا کرنا۔)",,0.0,
+answer,"Demander un titre de séjour. (رہائشی اجازت نامے کی درخواست کرنا۔)",,0.0,
+answer,"Être bénévole dans une association. (کسی انجمن میں بطور رضاکار کام کرنا۔)",,1.0,
+question,"Que garantit la liberté d’expression ? (اظہار رائے کی آزادی کس بات کی ضمانت دیتی ہے؟)",,,lvl2
+answer,"Le droit de dire n'importe quoi sans conséquence. (بغیر کسی نتیجے کے کچھ بھی کہنے کا حق۔)",,0.0,
+answer,"Le droit de critiquer le gouvernement sans limite. (حکومت پر بغیر کسی حد کے تنقید کرنے کا حق۔)",,0.0,
+answer,"Le droit de communiquer ses idées et ses opinions par tous les moyens. (تمام ذرائع سے اپنے خیالات اور آراء پہنچانے کا حق۔)",,1.0,
+question,"À quoi sert un titre de séjour ? (رہائشی اجازت نامہ (ٹائٹل ڈی سیجور) کس کام آتا ہے؟)",,,lvl2
+answer,"À obtenir gratuitement la nationalité française. (مفت فرانسیسی شہریت حاصل کرنے کے لیے۔)",,0.0,
+answer,"À payer les impôts. (ٹیکس ادا کرنے کے لیے۔)",,0.0,
+answer,"À attester du droit à résider régulièrement en France pour les étrangers. (غیر ملکیوں کے لیے فرانس میں باقاعدہ رہائش کے حق کی تصدیق کے لیے۔)",,1.0,
+question,"La liberté de circulation permet à toute person de : (نقل و حرکت کی آزادی ہر شخص کو اجازت دیتی ہے کہ وہ:)",,,lvl2
+answer,"S'installer uniquement dans la ville où elle est née. (صرف اس شہر میں بسے جہاں وہ پیدا ہوا ہے۔)",,0.0,
+answer,"Voyager sans passeport dans le monde entier. (پوری دنیا میں بغیر پاسپورٹ سفر کرے۔)",,0.0,
+answer,"Se déplacer et s'établir librement sur l'ensemble du territoire français. (پورے فرانسیسی علاقے میں آزادانہ طور پر نقل و حرکت کرے اور قیام کرے۔)",,1.0,
+question,"Pour retrouver les informations officielles sur les symboles de la République française, quel type de site internet est le plus fiable ? (فرانسیسی جمہوریہ کی علامتوں کے بارے میں سرکاری معلومات حاصل کرنے کے لیے کون سی ویب سائٹ سب سے زیادہ قابل بھروسہ ہے؟)",,,lvl2
+answer,"Un réseau social comme Facebook. (فیس بک جیسا سوشل نیٹ ورک۔)",,0.0,
+answer,"Un blog personnel. (ایک ذاتی بلاگ۔)",,0.0,
+answer,"Un site officiel du gouvernement (.gouv.fr ou .fr). (حکومت کی کوئی سرکاری ویب سائٹ (.gouv.fr یا .fr)۔)",,1.0,
+question,"Complétez ces paroles de la Marseillaise : ""Aux armes […] ! Formez vos bataillons"" (مارسیلیز کے ان بولوں کو مکمل کریں: ""ہتھیار اٹھاؤ [...]! اپنی بٹالین تیار کرو"")",,,lvl2
+answer,"Les enfants du pays (ملک کے بچو)",,0.0,
+answer,"Le peuple (عوام)",,0.0,
+answer,"Citoyens (شہریو)",,1.0,
+question,"Complétez les paroles de la Marseillaise : ""Allons enfants de la patrie […]"" (مارسیلیز کے بول مکمل کریں: ""چلو وطن کے بچو [...]"")",,,lvl2
+answer,"L'heure est venue (وقت آ گیا ہے)",,0.0,
+answer,"La liberté nous appelle (آزادی ہمیں پکار رہی ہے)",,0.0,
+answer,"Le jour de gloire est arrivé (شان و شوکت کا دن آ گیا ہے)",,1.0,
+question,"En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut : (انفرادی آزادی کے اطلاق میں، کون سی تجویز درست ہے؟ ایک شخص کر سکتا ہے:)",,,lvl2
+answer,"Être emprisonnée sans jugement. (بغیر فیصلے کے قید کیا جانا۔)",,0.0,
+answer,"Être forcée de travailler. (کام پر مجبور کیا جانا۔)",,0.0,
+answer,"Faire tout ce que la loi n'interdit pas. (وہ سب کچھ کرنا جس سے قانون نے منع نہیں کیا۔)",,1.0,
+question,"Concernant la pratique de la religion, quelle proposition est correcte ? (مذہب پر عمل کرنے کے حوالے سے کون سی تجویز درست ہے؟)",,,lvl2
+answer,"L'État choisit les lieux de culte autorisés. (ریاست عبادت کی اجازت یافتہ جگہوں کا انتخاب کرتی ہے۔)",,0.0,
+answer,"Le port d'un signe religieux est interdit partout en France. (مذہبی علامت پہننا پورے فرانس میں ممنوع ہے۔)",,0.0,
+answer,"Chacun est libre de pratiquer sa religion dans les limites de l'ordre public. (ہر کوئی امن عامہ کی حدود میں رہ کر اپنے مذہب پر عمل کرنے کے لیے آزاد ہے۔)",,1.0,
+question,"En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ? (بطور والدین، کیا آپ اپنے بچے کو اسکول میں کھیلوں کی کلاسوں میں حصہ لینے سے روک سکتے ہیں کیونکہ وہ مخلوط (لڑکے لڑکیاں ساتھ) ہیں؟)",,,lvl2
+answer,"Oui, si l'établissement scolaire est privé. (جی ہاں، اگر تعلیمی ادارہ نجی ہو۔)",,0.0,
+answer,"Oui, car la liberté religieuse le permet. (جی ہاں، کیونکہ مذہبی آزادی اس کی اجازت دیتی ہے۔)",,0.0,
+answer,"Non, car la mixité dans les cours de sport s’impose à tous au nom du principe d’égalité. (نہیں، کیونکہ کھیلوں کی کلاسوں میں مخلوط ہونا برابری کے اصول کے تحت سب کے لیے لازم ہے۔)",,1.0,
+question,"Quels sont les trois principes qui composent la devise de la République française ? (فرانسیسی جمہوریہ کے نعرے میں شامل تین اصول کون سے ہیں؟)",,,lvl2
+answer,"Justice, Paix, Sûreté (انصاف، امن، تحفظ)",,0.0,
+answer,"Dignité, Solidarité, Progrès (وقار، یکجہتی، ترقی)",,0.0,
+answer,"Liberté, Égalité, Fraternité (آزادی، برابری، بھائی چارہ)",,1.0,
+question,"La répudiation de sa femme est : (اپنی بیوی کو طلاق دے کر الگ کر دینا (Répudiation) ہے:)",,,lvl2
+answer,"Acceptée uniquement pour les mariages religieux. (صرف مذہبی شادیوں کے لیے قبول شدہ۔)",,0.0,
+answer,"Autorisée si elle est pratiquée à l'étranger. (اجازت ہے اگر بیرون ملک کی جائے۔)",,0.0,
+answer,"Interdite et sanctionnée par la loi, le divorce étant le seul mode de rupture légal. (ممنوع اور قانون کے تحت قابل سزا ہے، کیونکہ طلاق ہی علیحدگی کا واحد قانونی طریقہ ہے۔)",,1.0,
+question,"Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ? (ٹیکسوں سے عوامی اخراجات پورے کیے جاتے ہیں۔ کون سی تجویز درست ہے؟)",,,lvl2
+answer,"Seuls les citoyens français doivent payer des impôts. (صرف فرانسیسی شہریوں کو ٹیکس ادا کرنا چاہیے۔)",,0.0,
+answer,"Payer ses impôts est un choix personnel. (ٹیکس ادا کرنا ایک ذاتی انتخاب ہے۔)",,0.0,
+answer,"Payer ses impôts est un devoir pour tous les résidents en France, selon leurs revenus. (اپنی آمدنی کے مطابق ٹیکس ادا کرنا فرانس کے تمام رہائشیوں کا فرض ہے۔)",,1.0,
+question,"Peut-on brûler publiquement un drapeau français ? (کیا عوامی طور پر فرانسیسی جھنڈا جلایا جا سکتا ہے؟)",,,lvl2
+answer,"Oui, car la liberté d'expression le permet. (جی ہاں، کیونکہ اظہار رائے کی آزادی اس کی اجازت دیتی ہے۔)",,0.0,
+answer,"Non, cela est considéré comme un outrage au symbole national. (نہیں، اسے قومی علامت کی توہین سمجھا جاتا ہے۔)",,1.0,
+answer,"Oui, sauf s'il est neuf. (جی ہاں، سوائے اس کے کہ وہ نیا ہو۔)",,0.0,
+question,"Que fait l’État pour lutter contre les discriminations ? (ریاست امتیازی سلوک کے خلاف لڑنے کے لیے کیا کرتی ہے؟)",,,lvl2
+answer,"Il met en place des lois pour autoriser certaines discriminations positives. (یہ کچھ مثبت امتیازی سلوک کی اجازت دینے کے لیے قوانین بناتی ہے۔)",,0.0,
+answer,"Il a créé des institutions comme le Défenseur des droits, et applique des sanctions pénales. (اس نے ڈیفنسر آف رائٹس جیسے ادارے بنائے ہیں اور فوجداری سزائیں لاگو کرتی ہے۔)",,1.0,
+answer,"Il n'intervient pas, car c'est un problème privé. (وہ مداخلت نہیں کرتی، کیونکہ یہ ایک نجی مسئلہ ہے۔)",,0.0,
+question,"Que représente Marianne ? (ماریان کس کی نمائندگی کرتی ہے؟)",,,lvl2
+answer,"L'héroïne de la Révolution française de 1789. (1789 کے فرانسیسی انقلاب کی ہیروئن۔)",,0.0,
+answer,"La figure symbolique de la République et de ses valeurs. (جمہوریہ اور اس کی اقدار کی علامتی شخصیت۔)",,1.0,
+answer,"Le nom de la première loi votée par le Parlement. (پارلیمنٹ کے منظور کردہ پہلے قانون کا نام۔)",,0.0,
+question,"Qu'est-ce que la liberté d'association ? (انجمن سازی (ایسوسی ایشن) کی آزادی کیا ہے؟)",,,lvl2
+answer,"Le droit de circuler librement dans toute l'Europe. (پورے یورپ میں آزادانہ نقل و حرکت کا حق۔)",,0.0,
+answer,"Le droit de s'associer avec un parti politique. (کسی سیاسی جماعت کے ساتھ منسلک ہونے کا حق۔)",,0.0,
+answer,"Le droit de créer une association ou de s’y joindre, sans autorisation préalable. (پہلے سے اجازت لیے بغیر کوئی انجمن بنانے یا اس میں شامل ہونے کا حق۔)",,1.0,
+question,"Qu'est-ce que la liberté ? (آزادی کیا ہے؟)",,,lvl2
+answer,"Le droit de faire tout ce qui est possible. (وہ سب کرنے کا حق جو ممکن ہو۔)",,0.0,
+answer,"Le droit de faire tout ce qui ne nuit pas à autrui. (وہ سب کچھ کرنے کا حق جس سے دوسروں کو نقصان نہ پہنچے۔)",,1.0,
+answer,"Le fait d'être exempté des impôts. (ٹیکسوں سے استثنیٰ حاصل ہونا۔)",,0.0,
+question,"Qu'est-ce que la Marseillaise ? (مارسیلیز کیا ہے؟)",,,lvl2
+answer,"Le nom du drapeau français. (فرانسیسی جھنڈے کا نام۔)",,0.0,
+answer,"L'hymne national français. (فرانسیسی قومی ترانہ۔)",,1.0,
+answer,"La devise de la République. (جمہوریہ کا نعرہ۔)",,0.0,
+question,"Sur quel document peut-on voir Marianne ? (ماریان کو کس دستاویز پر دیکھا جا سکتا ہے؟)",,,lvl2
+answer,"Les publicités pour le tourisme. (سیاحتی اشتہارات پر۔)",,0.0,
+answer,"Les manuels scolaires uniquement. (صرف درسی کتابوں پر۔)",,0.0,
+answer,"Les timbres, les pièces de monnaie et le logo officiel de la République. (ڈاک کے ٹکٹوں، سکوں اور جمہوریہ کے سرکاری لوگو پر۔)",,1.0,
+question,"Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ? (ایک آجر اپنی کمپنی میں خواتین کو ملازمت دینے سے انکار کرتا ہے۔ قانون کیا کہتا ہے؟)",,,lvl2
+answer,"C'est autorisé s'il justifie que le travail est trop difficile. (اگر وہ یہ جواز پیش کرے کہ کام بہت مشکل ہے تو اجازت ہے۔)",,0.0,
+answer,"C'est interdit et constitue une discrimination, punie par la loi. (یہ ممنوع ہے اور امتیازی سلوک کے زمرے میں آتا ہے، جس کی قانون میں سزا ہے۔)",,1.0,
+answer,"C'est autorisé uniquement dans les très petites entreprises. (یہ صرف بہت چھوٹی کمپنیوں میں جائز ہے۔)",,0.0,
+question,"Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ? (جمہوری نعرے کی اقدار میں سے ایک برابری ہے۔ اس کا کیا مطلب ہے؟)",,,lvl2
+answer,"Les citoyens ont les mêmes opinions politiques. (شہریوں کی سیاسی آراء یکساں ہیں۔)",,0.0,
+answer,"Tous les citoyens sont égaux devant la loi et la justice. (تمام شہری قانون اور انصاف کے سامنے برابر ہیں۔)",,1.0,
+answer,"Les citoyens ont l'obligation de s'entraider. (شہریوں پر ایک دوسرے کی مدد کرنا لازم ہے۔)",,0.0,
+question,"Quelle est la place de la langue française dans la République ? (جمہوریہ میں فرانسیسی زبان کا کیا مقام ہے؟)",,,lvl2
+answer,"Elle n'est utilisée que dans l'administration. (یہ صرف انتظامیہ میں استعمال ہوتی ہے۔)",,0.0,
+answer,"Elle est une langue parmi d'autres. (یہ بہت سی زبانوں میں سے ایک زبان ہے۔)",,0.0,
+answer,"Elle est la langue de l'enseignement, du travail et des services publics, et la seule officielle. (یہ تعلیم، کام اور عوامی خدمات کی زبان ہے، اور واحد سرکاری زبان ہے۔)",,1.0,
+question,"Le régime de la France est : (فرانس کا نظام ہے:)",,,lvl2
+answer,"Une monarchie parlementaire. (ایک پارلیمانی بادشاہت۔)",,0.0,
+answer,"Un État fédéral. (ایک وفاقی ریاست۔)",,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. (ایک ناقابل تقسیم، سیکولر، جمہوری اور سماجی جمہوریہ۔)",,1.0,
+question,"Pourquoi le principe de laïcité doit-il être respecté à l'école ? (اسکول میں سیکولرزم کے اصول کا احترام کیوں ضروری ہے؟)",,,lvl2
+answer,"Pour que les élèves n'aient pas de religion. (تاکہ طلباء کا کوئی مذہب نہ ہو۔)",,0.0,
+answer,"Pour donner la priorité à la religion chrétienne. (مسیحی مذہب کو ترجیح دینے کے لیے۔)",,0.0,
+answer,"Pour garantir à tous les élèves la liberté de conscience et l'égalité, sans prosélytisme. (تمام طلباء کو تبلیغ کے بغیر ضمیر کی آزادی اور برابری کی ضمانত دینے کے لیے।)",,1.0,
+question,"À l'école publique, qui peut porter des signes religieux très visibles ? (سرکاری اسکول میں کون واضح مذہبی علامات پہن سکتا ہے؟)",,,lvl2
+answer,"Les élèves (طلبا)",,0.0,
+answer,"Les usagers et parents (dans le cadre de leurs visites ou réunions). (صارفین اور والدین (اپنے دوروں یا ملاقاتوں کے دوران)۔)",,1.0,
+answer,"Les enseignants (اساتذہ)",,0.0,
+question,"Selon le principe de laïcité, que signifie la neutralité de l’État ? (سیکولرزم کے اصول کے مطابق ریاست کی غیر جانبداری کا کیا مطلب ہے؟)",,,lvl2
+answer,"L'État n'a aucune relation avec les citoyens. (ریاست کا شہریوں سے کوئی تعلق نہیں ہے۔)",,0.0,
+answer,"L’État ne prend pas parti en faveur d'une religion ou contre une religion. (ریاست کسی مذہب کی حمایت یا مخالفت میں حصہ نہیں لیتی۔)",,1.0,
+answer,"L'État interdit toutes les religions. (ریاست تمام مذاہب پر پابندی لگاتی ہے۔)",,0.0,
+question,"Que peut faire un usager du service public dans une mairie ? (عوامی خدمت کا استعمال کرنے والا شخص بلدیہ میں کیا کر سکتا ہے؟)",,,lvl2
+answer,"Exiger que l'agent porte un signe religieux visible. (مطالبہ کرنا کہ اہلکار واضح مذہبی علامت پہنے۔)",,0.0,
+answer,"Être accueilli sans distinction d'origine, de religion ou de sexe. (نسل، مذہب یا جنس کی تمیز کے بغیر استقبال کیا جانا۔)",,1.0,
+answer,"Exiger que l'agent parle uniquement une langue régionale. (مطالبہ کرنا کہ اہلکار صرف علاقائی زبان بولے۔)",,0.0,
+question,"Qui doit respecter le principe de neutralité religieuse dans une préfecture ? (پریفیکچر میں مذہبی غیر جانبداری کے اصول کا احترام کس پر لازم ہے؟)",,,lvl2
+answer,"Uniquement les usagers des services publics. (صرف عوامی خدمات استعمال کرنے والوں پر۔)",,0.0,
+answer,"Uniquement le préfet. (صرف پریفیکٹ پر۔)",,0.0,
+answer,"Tous les agents publics (fonctionnaires et contractuels). (تمام سرکاری اہلکاروں (مستقل اور کنٹریکٹ ملازمین) پر۔)",,1.0,
+question,"La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ? (کیا سیکولرزم سرکاری اہلکاروں پر یہ لازم کرتا ہے کہ وہ صارفین کے ساتھ غیر جانبدار رہیں؟)",,,lvl2
+answer,"Non, seulement l'impartialité. (نہیں، صرف غیر جانبداری (Impartiality)۔)",,0.0,
+answer,"Non, ils peuvent exprimer leurs convictions religieuses. (نہیں، وہ اپنے مذہبی عقائد کا اظہار کر سکتے ہیں۔)",,0.0,
+answer,"Oui, afin de garantir l'égalité de traitement de tous les usagers. (جی ہاں، تاکہ تمام صارفین کے ساتھ یکساں سلوک کی ضمانত دی جا سکے۔)",,1.0,
+question,"Que garantit le principe de laïcité ? (سیکولرزم کا اصول کس بات کی ضمانত دیتا ہے؟)",,,lvl2
+answer,"Que l'État finance les Églises. (کہ ریاست گرجا گھروں کی مالی مدد کرے۔)",,0.0,
+answer,"La suppression de toutes les religions. (تمام مذاہب کا خاتمہ۔)",,0.0,
+answer,"La liberté de conscience et la neutralité de l'État envers toutes les religions et convictions. (تمام مذاہب اور عقائد کے تئیں ضمیر کی آزادی اور ریاست کی غیر جانبداری۔)",,1.0,
+question,"Que représente la laïcité ? (سیکولرزم (لائسیت) کیا ہے؟)",,,lvl2
+answer,"L'union des religions sous l'autorité de l'État. (ریاست کی اتھارٹی کے تحت مذاہب کا اتحاد۔)",,0.0,
+answer,"La séparation de l'État et des organisations religieuses. (ریاست اور مذہبی تنظیموں کی علیحدگی۔)",,1.0,
+answer,"Un régime où une seule religion est dominante. (ایسا نظام جہاں صرف ایک ہی مذہب کا غلبہ ہو۔)",,0.0,
+question,"Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ? (اسکول میں سیکولرزم چارٹر کے تحت کیا ممنوع ہے؟)",,,lvl2
+answer,"Les débats sur les questions religieuses ou philosophiques. (مذہبی یا فلسفیانہ سوالات پر بحث۔)",,0.0,
+answer,"Les signes religieux discrets. (خفیہ یا غیر واضح مذہبی علامات۔)",,0.0,
+answer,"Le prosélytisme et le port de signes religieux ostensibles par les élèves. (طلباء کی طرف سے تبلیغ کرنا اور واضح مذہبی علامات پہننا۔)",,1.0,
+question,"Que dit l'article 1er de la Constitution française ? (فرانسیسی آئین کا پہلا آرٹیکل کیا کہتا ہے؟)",,,lvl3
+answer,"Que la France est une monarchie parlementaire. (کہ فرانس ایک پارلیمانی بادشاہت ہے۔)",,0.0,
+answer,"Que la France est une République indivisible, laïque, démocratique et sociale. (کہ فرانس ایک ناقابل تقسیم، سیکولر، جمہوری اور سماجی جمہوریہ ہے۔)",,1.0,
+answer,"Que la loi est l'expression de la volonté générale. (کہ قانون عوامی مرضی کا اظہار ہے۔)",,0.0,
+question,"Sur quoi est fondée la République française ? (فرانسیسی جمہوریہ کی بنیاد کس پر ہے؟)",,,lvl3
+answer,"Sur des lois que tous doivent respecter (ایسے قوانین پر جن کا سب کو احترام کرنا چاہیے)",,1.0,
+answer,"Sur des traditions religieuses (مذہبی روایات پر)",,0.0,
+answer,"Sur des coutumes orales (زبانی رسم و رواج پر)",,0.0,
+question,"Qui a droit de concourir à la formation de la Loi, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 6 کے مطابق قانون سازی میں حصہ لینے کا حق کسے ہے؟)",,,lvl3
+answer,"Seuls les hommes riches (صرف امیر مردوں کو)",,0.0,
+answer,"Les nobles et le clergé (شرفاء اور پادریوں کو)",,0.0,
+answer,"Tous les Citoyens, personnellement ou par représentants (تمام شہریوں کو، ذاتی طور پر یا نمائندوں کے ذریعے)",,1.0,
+question,"Que garantit l’article 9 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کا آرটیکل 9 کس چیز کی ضمانত دیتا ہے؟)",,,lvl3
+answer,"L’égalité des sexes (صنف کی برابری)",,0.0,
+answer,"La liberté de commerce (تجارت کی آزادی)",,0.0,
+answer,"La présomption d’innocence (بے گناہی کا مفروضہ/قرینہ)",,1.0,
+question,"Quel autre type de propos est interdit par la loi ? (قانون کے تحت کس دوسرے قسم کے کلمات ممنوع ہیں؟)",,,lvl3
+answer,"Débats scientifiques (سائنسی مباحثے)",,0.0,
+answer,"Provocations à la haine (نفرت پر اکسانا)",,1.0,
+answer,"Discours électoraux (انتخابی تقاریر)",,0.0,
+question,"Quelle valeur essentielle de la République doit être respectée pour obtenir la nationalité française ? (فرانسیسی شہریت حاصل کرنے کے لیے جمہوریہ کی کون سی بنیادی قدر کا احترام ضروری ہے؟)",,,lvl3
+answer,"La liberté d’entreprendre (کاروبار شروع کرنے کی آزادی)",,0.0,
+answer,"L’égalité entre les femmes et les hommes (خواتین اور مردوں کے درمیان برابری)",,1.0,
+answer,"La supériorité d’une religion (کسی مذہب کی برتری)",,0.0,
+question,"Que peuvent faire les citoyens, en plus de voter, selon la loi ? (قانون کے مطابق شہری ووٹ دینے کے علاوہ کیا کر سکتے ہیں؟)",,,lvl3
+answer,"Être nommés juges (جج مقرر ہونا)",,0.0,
+answer,"Se présenter aux élections (انتخابات میں حصہ لینا)",,1.0,
+answer,"Modifier la Constitution (آئین میں ترمیم کرنا)",,0.0,
+question,"Comment la contribution commune doit-elle être répartie, selon l’article 13 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 13 کے مطابق مشترکہ حصہ (ٹیکس) کیسے تقسیم ہونا چاہیے؟)",,,lvl3
+answer,"À parts égales entre tous (سب کے درمیان برابر حصوں میں)",,0.0,
+answer,"En raison des facultés de chacun (ہر کسی کی استطاعت کے مطابق)",,1.0,
+answer,"Uniquement entre les pauvres (صرف غریبوں کے درمیان)",,0.0,
+question,"Quelles formes de liberté sont mentionnées à l’article 11 de la Déclaration de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 11 میں آزادی کی کون سی قسمیں بیان کی گئی ہیں؟)",,,lvl3
+answer,"Prier, se marier, travailler librement (عبادت، شادی اور کام کی آزادی)",,0.0,
+answer,"Parler, écrire, imprimer librement (بولنے، لکھنے اور چھاپنے کی آزادی)",,1.0,
+answer,"Voyager, commercer, s’enrichir librement (سفر، تجارت اور مالدار ہونے کی آزادی)",,0.0,
+question,"Quel droit est proclamé par l’article 11 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 11 میں کس حق کا اعلان کیا گیا ہے؟)",,,lvl3
+answer,"Le droit à la sécurité sociale (سوشل سیکورٹی کا حق)",,0.0,
+answer,"La libre communication des pensées et opinions (خیالات اور آراء کے آزادانہ ابلاغ کا حق)",,1.0,
+answer,"Le droit à l’éducation gratuite (مفت تعلیم کا حق)",,0.0,
+question,"Sur quoi portent les règles collectives inscrites dans la loi ? (قانون میں درج اجتماعی اصول کس چیز پر مبنی ہیں؟)",,,lvl3
+answer,"Sur les traditions religieuses (مذہبی روایات پر)",,0.0,
+answer,"Sur les coutumes familiales (خاندانی رسم و رواج پر)",,0.0,
+answer,"Sur la vie en société (معاشرتی زندگی پر)",,1.0,
+question,"Quel symbole de la République est présent dans toutes les mairies ? (جمہوریہ کی کون سی علامت تمام بلدیات (Mairies) میں موجود ہوتی ہے؟)",,,lvl3
+answer,"L’arc de triomphe (فتح کی مہراب)",,0.0,
+answer,"Le coq gaulois (گال کا مرغا)",,0.0,
+answer,"La Marianne (ماریان)",,1.0,
+question,"Quelle date correspond à la prise de la Bastille par le peuple de Paris ? (پیرس کے عوام کے ہاتھوں بستی (Bastille) کے قلعے کی فتح کی تاریخ کیا ہے؟)",,,lvl3
+answer,"4 août 1789 (4 اگست 1789)",,0.0,
+answer,"14 juillet 1790 (14 جولائی 1790)",,0.0,
+answer,"14 juillet 1789 (14 جولائی 1789)",,1.0,
+question,"Quelles sont des conditions d’accès aux emplois publics, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 6 کے مطابق سرکاری ملازمتوں تک رسائی کے کیا معیار ہیں؟)",,,lvl3
+answer,"La capacité, les vertus et les talents (قابلیت، خوبیاں اور ہنر)",,1.0,
+answer,"L’appartenance religieuse (مذہبی وابستگی)",,0.0,
+answer,"La naissance et la fortune (پیدائش اور دولت)",,0.0,
+question,"Que permet l’article 14 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 en matière de contribution publique ? (1789 کے اعلامیہ کا آرٹیکل 14 عوامی ٹیکس کے حوالے سے کیا اجازت دیتا ہے؟)",,,lvl3
+answer,"En suivre l’emploi et en déterminer la quotité, l’assiette, le recouvrement et la durée (اس کے استعمال کی نگرانی اور اس کی مقدار، بنیاد، وصولی اور مدت کا تعین کرنا)",,1.0,
+answer,"La déléguer uniquement au roi (اسے صرف بادشاہ کے سپرد کرنا)",,0.0,
+answer,"L’abolir définitivement (اسے مستقل طور پر ختم کرنا)",,0.0,
+question,"Quel droit l’article 17 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 proclame-t-il inviolable et sacré ? (1789 کے اعلامیہ کے آرٹیکل 17 میں کس حق کو مقدس اور ناقابلِ تسخیر قرار دیا گیا ہے؟)",,,lvl3
+answer,"La propriété (ملکیت/جائیداد)",,1.0,
+answer,"Le travail (کام)",,0.0,
+answer,"La liberté d’expression (اظہار رائے کی آزادی)",,0.0,
+question,"Que crée l’article 12 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کا آرٹیکل 12 کیا قائم کرتا ہے؟)",,,lvl3
+answer,"Une armée privée au service du roi (بادشاہ کی خدمت کے لیے ایک نجی فوج)",,0.0,
+answer,"Une force publique instituée pour l’avantage de tous (سب کے فائدے کے لیے بنائی گئی ایک عوامی فورس)",,1.0,
+answer,"Une force religieuse au service de l’Église (چرچ کی خدمت کے لیے ایک مذہبی فورس)",,0.0,
+question,"Que protège l’article 10 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کا آرٹیکل 10 کس چیز کا تحفظ کرتا ہے؟)",,,lvl3
+answer,"Le droit de grève (ہڑتال کا حق)",,0.0,
+answer,"La liberté d’opinion, même religieuse (رائے کی آزادی، چاہے مذہبی ہی کیوں نہ ہو)",,1.0,
+answer,"Le droit d’héritage (وراثت کا حق)",,0.0,
+question,"Le vote en France est… (فرانس میں ووٹ دینا ہے...)",,,lvl3
+answer,"Un privilège réservé (ایک مخصوص اعزاز)",,0.0,
+answer,"Une obligation (ایک مجبوری/فرض)",,0.0,
+answer,"Un droit (ایک حق)",,1.0,
+question,"Qui est élu au suffrage universel en France ? (فرانس میں عام رائے دہی سے کون منتخب ہوتا ہے؟)",,,lvl3
+answer,"Le Président, les parlementaires et les maires (صدر، پارلیمنٹ کے ارکان اور میئرز)",,1.0,
+answer,"Les juges et les préfets (ججز اور پریفیکٹس)",,0.0,
+answer,"Les recteurs et les ministres (ریکٹرز اور وزراء)",,0.0,
+question,"La France condamne-t-elle toutes les discriminations possibles ? (کیا فرانس ہر قسم کے ممکنہ امتیاز کی مذمت کرتا ہے؟)",,,lvl3
+answer,"Oui, absolument toutes (جی ہاں، بالکل تمام)",,0.0,
+answer,"Oui, sauf celles dans le sport (جی ہاں، سوائے کھیلوں میں ہونے والے امتیاز کے)",,0.0,
+answer,"Non, seulement celles fondées sur un motif prévu par la loi (نہیں، صرف ان کی جو قانون میں بیان کردہ وجوہات پر مبنی ہوں)",,1.0,
+question,"Quels droits naturels et imprescriptibles sont cités à l’article 2 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 2 میں کون سے فطری اور لازوال حقوق بتائے گئے ہیں؟)",,,lvl3
+answer,"Religion, famille, sécurité, logement (مذہب، خاندان، سیکورٹی، رہائش)",,0.0,
+answer,"Liberté, propriété, sûreté, résistance à l’oppression (آزادی، ملکیت، تحفظ، ظلم کے خلاف مزاحمت)",,1.0,
+answer,"Égalité, fraternité, travail, solidarité (برابری، بھائی چارہ، کام، یکجہتی)",,0.0,
+question,"Un employeur peut-il refuser d’embaucher un salarié en raison de ses origines ? (کیا کوئی آجر کسی ملازم کو اس کی اصل/نسل کی وجہ سے نوکری دینے سے انکار کر سکتا ہے؟)",,,lvl3
+answer,"Oui, avec l’accord des syndicats (جی ہاں، ٹریڈ یونینوں کی رضامندی سے)",,0.0,
+answer,"Oui, si l’entreprise est privée (جی ہاں، اگر کمپنی نجی ہے)",,0.0,
+answer,"Non, c’est interdit (نہیں، یہ ممنوع ہے)",,1.0,
+question,"Quelle condition supplémentaire est nécessaire pour voter, en plus d’avoir 18 ans ? (ووٹ دینے کے لیے 18 سال کا ہونے کے علاوہ مزید کون سی شرط ضروری ہے؟)",,,lvl3
+answer,"Avoir un emploi (ملازمت کا ہونا)",,0.0,
+answer,"Disposer de ses droits civils et politiques (شہری اور سیاسی حقوق کا ہونا)",,1.0,
+answer,"Payer des impôts (ٹیکس ادا کرنا)",,0.0,
+question,"À quelle époque a été composé l’hymne national, La Marseillaise ? (قومی ترانہ 'مارسیلیز' کس دور میں ترتیب دیا گیا تھا؟)",,,lvl3
+answer,"À l’époque de la Révolution (انقلاب کے دور میں)",,1.0,
+answer,"Au XXe siècle (20ویں صدی میں)",,0.0,
+answer,"Sous Louis XIV (لوئی XIV کے دور میں)",,0.0,
+question,"Quelles libertés fondamentales sont garanties en France ? (فرانس میں کون سی بنیادی آزادیاں یقینی بنائی گئی ہیں؟)",,,lvl3
+answer,"Liberté de pensée, de croyance, de s’exprimer, de se réunir (فکر، عقیدہ، اظہار رائے اور جمع ہونے کی آزادی)",,1.0,
+answer,"Liberté de posséder un titre de noblesse (شرافت کا لقب رکھنے کی آزادی)",,0.0,
+answer,"Liberté de commercer sans règles (بغیر قواعد کے تجارت کی آزادی)",,0.0,
+question,"La liberté d'expression en France est... (فرانس میں اظہار رائے کی آزادی ہے...)",,,lvl3
+answer,"Un droit fondamental avec des limites (حدود کے ساتھ ایک بنیادی حق)",,1.0,
+answer,"Un droit absolu sans limite (بغیر کسی حد کے ایک مطلق حق)",,0.0,
+answer,"Non reconnue par la loi (قانون سے غیر تسلیم شدہ)",,0.0,
+question,"Dans une République, au nom de qui gouvernent les dirigeants élus ? (جمہوریہ میں منتخب حکمران کس کے نام پر حکومت کرتے ہیں؟)",,,lvl3
+answer,"Au nom du président seul (صرف صدر کے نام پر)",,0.0,
+answer,"Au nom du peuple (عوام کے نام پر)",,1.0,
+answer,"Au nom des partis politiques (سیاسی جماعتوں کے نام پر)",,0.0,
+question,"Dans quel but l'État peut-il restreindre le droit de manifester sa religion en public ? (ریاست کس مقصد کے لیے عوامی جگہوں پر مذہب کے اظہار کے حق کو محدود کر سکتی ہے؟)",,,lvl3
+answer,"Pour empêcher toute croyance (ہر قسم کے عقیدے کو روکنے کے لیے)",,0.0,
+answer,"Pour favoriser une religion (ایک مذہب کی حمایت کے لیے)",,0.0,
+answer,"Pour préserver l'ordre public (امن عامہ کو برقرار رکھنے کے لیے)",,1.0,
+question,"Que doivent respecter tous les citoyen(ne)s en France ? (فرانس میں تمام شہریوں کو کس چیز کا احترام کرنا چاہیے؟)",,,lvl3
+answer,"Les lois et les règlements (قوانین اور ضوابط کا)",,1.0,
+answer,"Les traditions religieuses (مذہبی روایات کا)",,0.0,
+answer,"Seulement les coutumes locales (صرف مقامی رسم و رواج کا)",,0.0,
+question,"Quelles bornes limitent l'exercice des droits naturels, selon l'article 4 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 4 کے مطابق فطری حقوق کے استعمال کو کون سی حدود محدود کرتی ہیں؟)",,,lvl3
+answer,"Celles décidées par le gouvernement (حکومت کی طرف سے طے کردہ)",,0.0,
+answer,"Celles fixées par la Loi (جو قانون نے مقرر کی ہوں)",,1.0,
+answer,"Celles imposées par la religion (مذہب کی طرف سے نافذ کردہ)",,0.0,
+question,"Quel code définit les règles essentielles applicables entre les personnes ? (کون سا کوڈ افراد کے درمیان لاگو ہونے والے ضروری قواعد کی وضاحت کرتا ہے؟)",,,lvl3
+answer,"Le code civil (سول کوڈ)",,1.0,
+answer,"Le code électoral (انتخابی کوڈ)",,0.0,
+answer,"Le code du travail (لیبر کوڈ)",,0.0,
+question,"Que déclare l'article 16 de la Déclaration de 1789 à propos de la Constitution ? (1789 کے اعلامیہ کا آرٹیکل 16 آئین کے بارے میں کیا اعلان کرتا ہے؟)",,,lvl3
+answer,"Sans garantie des droits et séparation des pouvoirs, il n'y a pas de Constitution (حقوق کی ضمانت اور اختیارات کی علیحدگی کے بغیر کوئی آئین نہیں ہوتا)",,1.0,
+answer,"La Constitution émane du roi seul (آئین صرف بادشاہ کی طرف سے آتا ہے)",,0.0,
+answer,"Toute société religieuse a automatiquement une Constitution (ہر مذہبی معاشرے کا خود بخود ایک آئین ہوتا ہے)",,0.0,
+question,"Quel site internet présente les principales règles et le fonctionnement des institutions ? (کون سی ویب سائٹ اہم قواعد اور اداروں کے طریقہ کار کو پیش کرتی ہے؟)",,,lvl3
+answer,"www.palais-elysee.fr (www.palais-elysee.fr)",,0.0,
+answer,"www.vie-publique.fr (www.vie-publique.fr)",,1.0,
+answer,"www.gouverbement.fr (www.gouvernement.fr)",,0.0,
+question,"Comment sont souvent regroupées les lois en France ? (فرانس میں قوانین کو اکثر کیسے ترتیب دیا جاتا ہے؟)",,,lvl3
+answer,"En brochures publicitaires (اشتہاری کتابچوں میں)",,0.0,
+answer,"En codes (کوڈز میں)",,1.0,
+answer,"En magazines (رسالوں میں)",,0.0,
+question,"Dans les années 1880, quelle liberté est garantie par une loi ? (1880 کی دہائی میں کون سی آزادی ایک قانون کے ذریعے یقینی بنائی گئی تھی؟)",,,lvl3
+answer,"La liberté de commercer (تجارت کی آزادی)",,0.0,
+answer,"La liberté de chasser (شکار کی آزادی)",,0.0,
+answer,"La liberté de la presse (پریس کی آزادی)",,1.0,
+question,"Que représentent les impôts et les cotisations sociales en France ? (فرانس میں ٹیکس اور سماجی شراکتیں کس چیز کی علامت ہیں؟)",,,lvl3
+answer,"Un moyen de récompenser les plus riches (امیروں کو انعام دینے کا ایک ذریعہ)",,0.0,
+answer,"Une illustration de la fraternité (بھائی چارے کی ایک مثال)",,1.0,
+answer,"Une sanction contre les travailleurs (مزدوروں کے خلاف ایک سزا)",,0.0,
+question,"Que peut défendre la Loi, selon l'article 5 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 5 کے مطابق قانون کن چیزوں سے منع کر سکتا ہے؟)",,,lvl3
+answer,"Les croyances religieuses (مذہبی عقائد سے)",,0.0,
+answer,"Les actions nuisibles à la Société (معاشرے کے لیے نقصان دہ کاموں سے)",,1.0,
+answer,"Les opinions politiques (سیاسی آراء سے)",,0.0,
+question,"De quelle époque date la Déclaration des Droits de l'Homme et du Citoyen ? (انسانی اور شہری حقوق کا اعلامیہ کس دور کا ہے؟)",,,lvl3
+answer,"Du Moyen Âge (قرون وسطیٰ کا)",,0.0,
+answer,"De la Révolution française de 1789 (1789 کے فرانسیسی انقلاب کا)",,1.0,
+answer,"De la Seconde Guerre mondiale (دوسری جنگ عظیم کا)",,0.0,
+question,"Quel système illustre le principe de fraternité depuis 1945 ? (1945 سے بھائی چارے کے اصول کی عکاسی کون سا نظام کرتا ہے؟)",,,lvl3
+answer,"L'armée nationale (قومی فوج)",,0.0,
+answer,"Le système scolaire (تعلیمی نظام)",,0.0,
+answer,"La sécurité sociale (سوشل سیکورٹی)",,1.0,
+question,"Quelle règle a rappelé le Conseil constitutionnel en 2004 ? (آئینی کونسل نے 2004 میں کس اصول کو یاد دلایا؟)",,,lvl3
+answer,"Les croyants ont priorité sur les lois de la République (عقیدہ رکھنے والوں کو جمہوری قوانین پر برتری حاصل ہے)",,0.0,
+answer,"Nul ne peut se prévaloir de ses croyances religieuses pour s'affranchir des règles communes (کوئی بھی مشترکہ قوانین سے بچنے کے لیے اپنے مذہبی عقائد کا حوالہ نہیں دے سکتا)",,1.0,
+answer,"Les religions décident des règles de vie publique (مذاہب عوامی زندگی کے اصول طے کرتے ہیں)",,0.0,
+question,"Que vise l'interdiction prévue par la loi du 15 mars 2004 ? (15 مارچ 2004 کے قانون کے تحت پابندی کا مقصد کیا ہے؟)",,,lvl3
+answer,"Les signes ou tenues manifestant ostensiblement l'appartenance à une religion (ایسی علامات یا لباس جو واضح طور پر کسی مذہب سے وابستگی ظاہر کریں)",,1.0,
+answer,"Toute forme de vêtement traditionnel (روایتی لباس کی ہر قسم)",,0.0,
+answer,"Les symboles discrets portés sous les vêtements (کپڑوں کے نیچے چھپی ہوئی غیر واضح علامتیں)",,0.0,
+question,"Qu'est-ce que l'État garantit en matière religieuse ? (مذہبی معاملات میں ریاست کس چیز کی ضمانت دیتی ہے؟)",,,lvl3
+answer,"La liberté religieuse (مذہبی آزادی کی)",,1.0,
+answer,"La supériorité de la religion majoritaire (اکثریتی مذہب کی برتری کی)",,0.0,
+answer,"L'interdiction de changer de religion (مذہب تبدیل کرنے پر پابندی کی)",,0.0,
+question,"Quel type d'apologie est interdit dans le cadre de la liberté d'expression ? (اظہار رائے کی آزادی کے فریم ورک میں کس قسم کی تعریف/حمایت (Apologie) ممنوع ہے؟)",,,lvl3
+answer,"La Révolution française (فرانسیسی انقلاب کی)",,0.0,
+answer,"Les découvertes scientifiques (سائنسی دریافتوں کی)",,0.0,
+answer,"Crimes contre l'humanité (انسانیت کے خلاف جرائم کی)",,1.0,
+question,"Que signifie le terme « ostensiblement » à propos des signes religieux à l'école ? (اسکول میں مذہبی علامات کے حوالے سے لفظ ""واضح طور پر"" (Ostensiblement) کا کیا مطلب ہے؟)",,,lvl3
+answer,"De manière trop visible (بہت زیادہ نظر آنے والے طریقے سے)",,1.0,
+answer,"De manière discrète (پوشیدہ طریقے سے)",,0.0,
+answer,"De manière secrète (خفیہ طریقے سے)",,0.0,
+question,"Dans quelles conditions peut-on être privé de sa propriété, selon l'article 17 de la Déclaration de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 17 کے مطابق جائیداد سے کب محروم کیا جا سکتا ہے؟)",,,lvl3
+answer,"Si la majorité des voisins le souhaite (اگر پڑوسیوں کی اکثریت ایسا چاہے)",,0.0,
+answer,"Si le roi le décide sans motif (اگر بادشاہ بغیر کسی وجہ کے فیصلہ کرے)",,0.0,
+answer,"Si la nécessité publique l'exige et avec une juste et préalable indemnité (اگر عوامی ضرورت کا تقاضا ہو اور مناسب پیشگی معاوضے کے ساتھ)",,1.0,
+question,"Que proclame l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کا آرٹیکل 1 کیا اعلان کرتا ہے؟)",,,lvl3
+answer,"Tous les citoyens doivent payer des impôts (تمام شہریوں کو ٹیکس ادا کرنا چاہیے)",,0.0,
+answer,"La monarchie est le régime naturel (بادشاہت ایک قدرتی نظام ہے)",,0.0,
+answer,"Les hommes naissent et demeurent libres et égaux en droits (انسان آزاد پیدا ہوتے ہیں اور حقوق میں برابر رہتے ہیں)",,1.0,
+question,"Selon l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789, sur quoi peuvent être fondées les distinctions sociales ? (1789 کے اعلامیہ کے آرٹیکل 1 کے مطابق سماجی فرق کی بنیاد کس پر ہو سکتی ہے؟)",,,lvl3
+answer,"Sur la naissance (پیدائش پر)",,0.0,
+answer,"Sur l'utilité commune (عوامی افادیت پر)",,1.0,
+answer,"Sur la richesse (دولت پر)",,0.0,
+question,"Pourquoi l'école doit-elle être neutre face aux religions ? (اسکول کو مذاہب کے معاملے میں غیر جانبدار کیوں ہونا چاہیے؟)",,,lvl3
+answer,"Parce qu'elle n'accueille que des mineurs (کیونکہ اس میں صرف نابالغ بچے آتے ہیں)",,0.0,
+answer,"Parce que c'est une institution publique qui forme tous les citoyens (کیونکہ یہ ایک عوامی ادارہ ہے جو تمام شہریوں کی تربیت کرتا ہے)",,1.0,
+answer,"Parce qu'elle dépend de l'Église (کیونکہ اس کا انحصار چرچ پر ہے)",,0.0,
+question,"Quelle fête a eu lieu le 14 juillet 1790 ? (14 جولائی 1790 کو کون سا جشن منایا گیا تھا؟)",,,lvl3
+answer,"La fête des Vendanges (انگوروں کی کٹائی کا جشن)",,0.0,
+answer,"La fête du Travail (یومِ مزدور)",,0.0,
+answer,"La fête de la Fédération (فیڈریشن کا جشن)",,1.0,
+question,"L'administration peut-elle refuser la nationalité française à une personne qui ne respecte pas l'égalité femmes-hommes ? (کیا انتظامیہ کسی ایسے شخص کو فرانسیسی شہریت دینے سے انکار کر سکتی ہے جو خواتین اور مردوں کی برابری کا احترام نہیں کرتا؟)",,,lvl3
+answer,"Non, sauf si la personne a commis un crime (نہیں، سوائے اس کے کہ اس نے کوئی جرم کیا ہو)",,0.0,
+answer,"Oui, même si elle est mariée avec un(e) Français(e) (جی ہاں، چاہے وہ کسی فرانسیسی سے شادی شدہ ہی کیوں نہ ہو)",,1.0,
+answer,"Non, jamais (نہیں، کبھی نہیں)",,0.0,
+question,"En France, les personnes d'orientation sexuelle différente ont-elles moins de droits que les autres citoyens ? (کیا فرانس میں مختلف جنسی رجحان رکھنے والے افراد کے حقوق دوسرے شہریوں سے کم ہیں؟)",,,lvl3
+answer,"Oui, mais seulement en matière de mariage (جی ہاں، لیکن صرف شادی کے معاملے میں)",,0.0,
+answer,"Oui, elles ont moins de droits (جی ہاں، ان کے حقوق کم ہیں)",,0.0,
+answer,"Non, elles ont les mêmes droits et les mêmes devoirs (نہیں، ان کے حقوق اور فرائض بالکل برابر ہیں)",,1.0,
+question,"Que garantit l'article 7 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کا آرٹیکل 7 کس کی ضمانت دیتا ہے؟)",,,lvl3
+answer,"La possibilité d'être emprisonné sans jugement (بغیر ٹرائل کے قید کی گنجائش)",,0.0,
+answer,"La primauté de la police sur la justice (انصاف پر پولیس کی برتری)",,0.0,
+answer,"Nul homme ne peut être arrêté ou détenu que selon la Loi (کسی بھی شخص کو صرف قانون کے مطابق ہی گرفتار یا حراست میں لیا جا سکتا ہے)",,1.0,
+question,"Quelle est l'une des raisons de l'interdiction des signes religieux ostensibles à l'école ? (اسکول میں واضح مذہبی علامات پر پابندی کی ایک وجہ کیا ہے؟)",,,lvl3
+answer,"Protéger les mineurs contre les pressions de leurs camarades (نابالغوں کو ان کے ساتھیوں کے دباؤ سے بچانا)",,1.0,
+answer,"Favoriser une seule religion officielle (صرف ایک سرکاری مذہب کی حمایت کرنا)",,0.0,
+answer,"Empêcher toute pratique religieuse dans la société (معاشرے میں ہر قسم کی مذہبی مشق کو روکنا)",,0.0,
+question,"Selon l'article 13 de la Déclaration de 1789, pourquoi une contribution commune est-elle indispensable ? (1789 کے اعلامیہ کے آرٹیکل 13 کے مطابق مشترکہ حصہ (ٹیکس) کیوں ضروری ہے؟)",,,lvl3
+answer,"Pour l'entretien de la force publique et les dépenses d'administration (عوامی فورس کے اخراجات اور انتظامیہ کے کام کاج کے لیے)",,1.0,
+answer,"Pour les fêtes nationales (قومی تہواروں کے لیے)",,0.0,
+answer,"Pour financer la noblesse (اشرافیہ کی مالی امداد کے لیے)",,0.0,
+question,"Que garantit la République à ses citoyens ? (جمہوریہ اپنے شہریوں کو کس چیز کی ضمانت دیتی ہے؟)",,,lvl3
+answer,"Le respect des principes de liberté, d'égalité et de fraternité (آزادی، برابری اور بھائی چارے کے اصولوں کے احترام کی)",,1.0,
+answer,"La prospérité économique pour tous (سب کے لیے معاشی خوشحالی کی)",,0.0,
+answer,"La supériorité d'une religion (کسی ایک مذہب کی برتری کی)",,0.0,
+question,"De quelle époque date le drapeau tricolore bleu, blanc, rouge ? (نیلے، سفید اور سرخ رنگوں والا جھنڈا کس دور کا ہے؟)",,,lvl3
+answer,"De la Première Guerre mondiale (پہلی جنگ عظیم کے دور کا)",,0.0,
+answer,"De la Révolution française (فرانسیسی انقلاب کے دور کا)",,1.0,
+answer,"De l'Empire napoléonien (نیپولین کی سلطنت کے دور کا)",,0.0,
+question,"Que condamne la France en matière de traitement entre personnes ? (لوگوں کے درمیان برتاؤ کے حوالے سے فرانس کس چیز کی مذمت کرتا ہے؟)",,,lvl3
+answer,"Les préférences sportives (کھیلوں کی ترجیحات کی)",,0.0,
+answer,"Les différences de goût personnels (ذاتی پسند و ناپسند کے فرق کی)",,0.0,
+answer,"Les discriminations fondées sur un motif prévu par la loi (قانون میں درج وجوہات پر مبنی امتیاز کی)",,1.0,
+question,"Que signifie le suffrage universel ? (عام رائے دہی (سفریج یونیورسل) کا کیا مطلب ہے؟)",,,lvl3
+answer,"Tous les citoyens, hommes et femmes, peuvent voter (تمام شہری، مرد اور خواتین، ووٹ دے سکتے ہیں)",,1.0,
+answer,"Seuls les contribuables peuvent voter (صرف ٹیکس دینے والے ووٹ دے سکتے ہیں)",,0.0,
+answer,"Seuls les hommes peuvent voter (صرف مرد ووٹ دے سکتے ہیں)",,0.0,
+question,"Comment s'appelle le fait de traiter moins favorablement une personne à cause de ses origines, de sa religion ou de son sexe ? (کسی شخص کے ساتھ اس کی نسل، مذہب یا جنس کی وجہ سے ناروا برتاؤ کرنا کیا کہلاتا ہے؟)",,,lvl3
+answer,"Une discrimination (امتیاز)",,1.0,
+answer,"Une coutume professionnelle (پیشہ ورانہ روایت)",,0.0,
+answer,"Une préférence légale (قانونی ترجیح)",,0.0,
+question,"La liberté d'expression est limitée afin de... (اظهار رائے کی آزادی کو کس لیے محدود کیا گیا ہے...)",,,lvl3
+answer,"Empêcher toute critique politique (سیاسی تنقید کو روکنے کے لیے)",,0.0,
+answer,"Protéger uniquement l'État (صرف ریاست کے تحفظ کے لیے)",,0.0,
+answer,"Respecter les droits des autres (دوسروں کے حقوق کے احترام کے لیے)",,1.0,
+question,"Quelle limite fixe l'article 10 de la Déclaration de 1789 à la liberté d'opinion ? (1789 کے اعلامیہ کا آرٹیکل 10 رائے کی آزادی پر کیا حد مقرر کرتا ہے؟)",,,lvl3
+answer,"L'approbation du gouvernement (حکومت کی منظوری)",,0.0,
+answer,"Le respect des traditions religieuses (مذہبی روایات کا احترام)",,0.0,
+answer,"Le respect de l'ordre public établi par la Loi (قانون کے ذریعے قائم کردہ امن عامہ کا احترام)",,1.0,
+question,"L'avènement de la République française a été... (فرانسیسی جمہوریہ کا قیام عمل میں آیا...)",,,lvl3
+answer,"Décidé par un seul dirigeant (کسی ایک لیڈر کے فیصلے سے)",,0.0,
+answer,"Progressif et le fruit de plusieurs combats (تدریجی طور پر اور کئی جدوجہدوں کے نتیجے میں)",,1.0,
+answer,"Instantané et sans opposition (فوری طور پر اور بغیر کسی مخالفت کے)",,0.0,
+question,"Que prévoit la loi française concernant les femmes et les hommes ? (خواتین اور مردوں کے بارے میں فرانسیسی قانون کیا کہتا ہے؟)",,,lvl3
+answer,"Elle limite certains droits des femmes (وہ خواتین کے کچھ حقوق کو محدود کرتا ہے)",,0.0,
+answer,"Elle donne plus de droits aux hommes (وہ مردوں کو زیادہ حقوق دیتا ہے)",,0.0,
+answer,"Elle leur accorde les mêmes droits (وہ دونوں کو یکساں حقوق دیتا ہے)",,1.0,
+question,"Comment se traduit la volonté de vivre ensemble des citoyens ? (شہریوں کی ساتھ رہنے کی خواہش کا اظہار کیسے ہوتا ہے؟)",,,lvl3
+answer,"Par la compétition entre eux (ان کے درمیان مقابلے سے)",,0.0,
+answer,"Par la solidarité entre eux (ان کے درمیان یکجہتی/باہمی تعاون سے)",,1.0,
+answer,"Par l’isolement des individus (افراد کی تنہائی سے)",,0.0,
+question,"En quelle année la République française s'installe-t-elle de façon stable ? (فرانسیسی جمہوریہ کس سال مستحکم طریقے سے قائم ہوئی؟)",,,lvl3
+answer,"1875 (1875)",,1.0,
+answer,"1945 (1945)",,0.0,
+answer,"1789 (1789)",,0.0,
+question,"Quelles personnes contribuent aux cotisations sociales en France ? (فرانس میں کون سے لوگ سماجی شراکت (سوشل کنٹری بیوشنز) ادا کرتے ہیں؟)",,,lvl3
+answer,"Seulement les salariés (صرف تنخواہ دار طبقہ)",,0.0,
+answer,"Seulement l'État (صرف ریاست)",,0.0,
+answer,"Employeurs, salariés et non-salariés (آجر، ملازمین اور آزاد پیشہ افراد)",,1.0,
+question,"Où réside le principe de toute souveraineté, selon l'article 3 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 3 کے مطابق حاکمیت کا اصول کہاں پایا جاتا ہے؟)",,,lvl3
+answer,"Dans le Roi (بادشاہ میں)",,0.0,
+answer,"Dans la Nation (قوم میں)",,1.0,
+answer,"Dans l'armée (فوج میں)",,0.0,
+question,"Qu'est-ce que le code pénal définit ? (پینل کوڈ (تعزیرات) کس چیز کی وضاحت کرتا ہے؟)",,,lvl3
+answer,"Les règles de politesse en société (معاشرے میں تہذیب کے اصولوں کی)",,0.0,
+answer,"Les infractions et les peines correspondantes (خلاف ورزیوں اور ان کی سزاؤں کی)",,1.0,
+answer,"Les conditions de mariage (شادی کی شرائط کی)",,0.0,
+question,"Quel type de propos est interdit par la loi ? (قانون کے تحت کس قسم کی باتیں ممنوع ہیں؟)",,,lvl3
+answer,"Critiques littéraires (ادبی تنقید)",,0.0,
+answer,"Opinions politiques différentes (مختلف سیاسی آراء)",,0.0,
+answer,"Injures et propos diffamatoires (گالیاں اور ہتک آمیز بیانات)",,1.0,
+question,"Sur quoi repose la France selon le principe de fraternité ? (بھائی چارے کے اصول کے مطابق فرانس کی بنیاد کس پر ہے؟)",,,lvl3
+answer,"Sur la supériorité d'une religion (کسی ایک مذہب کی برتری پر)",,0.0,
+answer,"Sur la volonté de vivre ensemble des citoyens (شہریوں کی مل جل کر رہنے کی خواہش پر)",,1.0,
+answer,"Sur l'autorité d'un seul chef (کسی ایک سربراہ کی اتھارٹی پر)",,0.0,
+question,"Dans les années 1880, l'école publique devient... (1880 کی دہائی میں سرکاری اسکول بن گئے...)",,,lvl3
+answer,"Obligatoire, gratuite et laïque (لازمی، مفت اور سیکولر/غیر مذہبی)",,1.0,
+answer,"Payante pour les pauvres (غریبوں کے لیے با معاوضہ)",,0.0,
+answer,"Réservée aux garçons (صرف لڑکوں کے لیے مخصوص)",,0.0,
+question,"Que doit établir la Loi en matière de peines, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 8 کے مطابق قانون کو سزاؤں کے حوالے سے کیا طے کرنا چاہیے؟)",,,lvl3
+answer,"Les peines décidées par le roi (بادشاہ کی طے کردہ سزائیں)",,0.0,
+answer,"Les peines les plus sévères possibles (سخت ترین ممکنہ سزائیں)",,0.0,
+answer,"Seulement des peines strictement nécessaires (صرف وہی سزائیں جو سختی سے ضروری ہوں)",,1.0,
+question,"À partir de quel âge peut-on voter en France ? (فرانس میں کس عمر سے ووٹ دیا جا سکتا ہے؟)",,,lvl3
+answer,"16 ans (16 سال)",,0.0,
+answer,"18 ans (18 سال)",,1.0,
+answer,"21 ans (21 سال)",,0.0,
+question,"Quand peut-on être puni, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 8 کے مطابق سزا کب دی جا سکتی ہے؟)",,,lvl3
+answer,"Même si aucune loi n'existait au moment des faits (خواہ اس وقت کوئی قانون موجود نہ ہو)",,0.0,
+answer,"Selon la volonté d'un supérieur (کسی اعلیٰ افسر کی مرضی کے مطابق)",,0.0,
+answer,"Uniquement en vertu d'une Loi établie et promulguée avant le délit (صرف اس قانون کے تحت جو جرم سے پہلے نافذ کیا گیا ہو)",,1.0,
+question,"Où peut-on consulter toutes les lois françaises en vigueur sur internet ? (انٹرنیٹ پر فرانس کے تمام رائج الوقت قوانین کہاں دیکھے جا سکتے ہیں؟)",,,lvl3
+answer,"Sur www.wikipedia.org (www.wikipedia.org پر)",,0.0,
+answer,"Sur www.assemblee.fr (www.assemblee.fr پر)",,0.0,
+answer,"Sur www.legifrance.gouv.fr (www.legifrance.gouv.fr پر)",,1.0,
+question,"Quelle est la forme politique de la France ? (فرانس کی سیاسی شکل کیا ہے؟)",,,lvl3
+answer,"Une démocratie (ایک جمہوریت)",,1.0,
+answer,"Une monarchie (ایک بادشاہت)",,0.0,
+answer,"Une dictature (ایک آمریت)",,0.0,
+question,"Qu'est-ce que la Loi, selon l'article 6 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کے آرٹیکل 6 کے مطابق قانون کیا ہے؟)",,,lvl3
+answer,"La décision d'un chef (کسی لیڈر کا فیصلہ)",,0.0,
+answer,"L'expression de la volonté générale (عوامی مرضی کا اظہار)",,1.0,
+answer,"La tradition des ancêtres (آباؤ اجداد کی روایت)",,0.0,
+question,"Que proclame l'article 15 de la Déclaration des Droits de l'Homme et du Citoyen de 1789 ? (1789 کے اعلامیہ کا آرٹیکل 15 کیا اعلان کرتا ہے؟)",,,lvl3
+answer,"La Société a le droit de demander compte à tout Agent public (معاشرے کو یہ حق حاصل ہے کہ وہ کسی بھی سرکاری اہلکار سے حساب مانگے)",,1.0,
+answer,"Le roi contrôle seul les agents publics (صرف بادشاہ سرکاری اہلکاروں کو کنٹرول کرتا ہے)",,0.0,
+answer,"Les agents publics sont irresponsables (سرکاری اہلکار غیر جوابدہ ہیں)",,0.0,

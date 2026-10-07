@@ -1,0 +1,893 @@
+type,text,placeholder,is_correct,level
+question,En quelle année a débuté la Révolution française ? [In what year did the French Revolution begin?],,,lvl1
+answer,1815 [1815],,0.0,
+answer,1789 [1789],,1.0,
+answer,1944 [1944],,0.0,
+question,Qui était Napoléon Ier ? [Who was Napoleon I?],,,lvl1
+answer,Un roi de France [A king of France],,0.0,
+answer,L'Empereur des Français [The Emperor of the French],,1.0,
+answer,Un philosophe du 18e siècle [An 18th-century philosopher],,0.0,
+question,Lequel de ces personnages historiques est français ? [Which of these historical figures is French?],,,lvl1
+answer,Albert Einstein [Albert Einstein],,0.0,
+answer,Marie Curie [Marie Curie],,1.0,
+answer,Isaac Newton [Isaac Newton],,0.0,
+question,Dans quelle République est-on aujourd'hui ? [In which Republic are we today?],,,lvl1
+answer,La Troisième République [The Third Republic],,0.0,
+answer,La Cinquième République [The Fifth Republic],,1.0,
+answer,La Sixième République [The Sixth Republic],,0.0,
+question,Qu'est-ce que la Shoah ? ?) [What is the Shoah? ?)],,,lvl1
+answer,La guerre entre la France et l'Allemagne [The war between France and Germany],,0.0,
+answer,Le génocide des Juifs pendant la Seconde Guerre mondiale. [The genocide of the Jews during the Second World War.],,1.0,
+answer,La période de la colonisation française [The period of French colonization],,0.0,
+question,Quel pays ou région du monde a été colonisé par la France ? [Which country or region of the world was colonized by France?],,,lvl1
+answer,Le Japon [Japan],,0.0,
+answer,L'Algérie [Algeria],,1.0,
+answer,La Chine [China],,0.0,
+question,"Qui a rendu l’école gratuite, laïque et obligatoire ? [Who made school free, secular, and compulsory?]",,,lvl1
+answer,Napoléon III [Napoleon III],,0.0,
+answer,Jules Ferry [Jules Ferry],,1.0,
+answer,Le Général de Gaulle [General de Gaulle],,0.0,
+question,Quand a eu lieu la Seconde Guerre mondiale ? [When did the Second World War take place?],,,lvl1
+answer,De 1914 à 1918 [From 1914 to 1918],,0.0,
+answer,De 1930 à 1935 [From 1930 to 1935],,0.0,
+answer,De 1939 à 1945 [From 1939 to 1945],,1.0,
+question,Quand a eu lieu la Première Guerre mondiale ? [When did the First World War take place?],,,lvl1
+answer,De 1870 à 1871 [From 1870 to 1871],,0.0,
+answer,De 1914 à 1918 [From 1914 to 1918],,1.0,
+answer,De 1940 à 1945 [From 1940 to 1945],,0.0,
+question,En quelle année a été créée la Communauté Économique Européenne (CEE) ? ?) [In what year was the European Economic Community (EEC) created? ?)],,,lvl1
+answer,1945 [1945],,0.0,
+answer,1957 [1957],,1.0,
+answer,1992 [1992],,0.0,
+question,Le 11 novembre est un jour férié. À quoi correspond cette date ? [November 11 is a public holiday. What does this date correspond to?],,,lvl1
+answer,La Fête de la Victoire de 1945. [Victory Day of 1945.],,0.0,
+answer,L'Armistice de 1918 (fin de la Première Guerre mondiale).।) [The Armistice of 1918 (end of the First World War).।)],,1.0,
+answer,La Fête Nationale. [The National Holiday.],,0.0,
+question,Qui a été le premier Président élu sous la Ve République ? [Who was the first President elected under the Fifth Republic?],,,lvl1
+answer,François Mitterrand [François Mitterrand],,0.0,
+answer,Charles de Gaulle [Charles de Gaulle],,1.0,
+answer,Georges Pompidou [Georges Pompidou],,0.0,
+question,En quelle année l'esclavage a-t-il été aboli définitivement en France ? [In what year was slavery definitively abolished in France?],,,lvl1
+answer,1789 [1789],,0.0,
+answer,1905 [1905],,0.0,
+answer,1848 [1848],,1.0,
+question,Depuis quelle année l'école publique est-elle gratuite ? [Since what year has public school been free?],,,lvl1
+answer,1804 [1804],,0.0,
+answer,1881 [1881],,1.0,
+answer,1958 [1958],,0.0,
+question,Combien y a-t-il eu de républiques en France ? [How many republics have there been in France?],,,lvl1
+answer,Trois [Three],,0.0,
+answer,Quatre [Four],,0.0,
+answer,Cinq [Five],,1.0,
+question,Qui était le roi de France au moment de la Révolution française ? [Who was the king of France at the time of the French Revolution?],,,lvl1
+answer,Henri IV [Henry IV],,0.0,
+answer,Louis XVI [Louis XVI],,1.0,
+answer,Louis XIV [Louis XIV],,0.0,
+question,Qui a fondé la Ve République ? [Who founded the Fifth Republic?],,,lvl1
+answer,François Mitterrand [François Mitterrand],,0.0,
+answer,Le Général de Gaulle [General de Gaulle],,1.0,
+answer,Georges Clemenceau [Georges Clemenceau],,0.0,
+question,Que célèbre-t-on le 14 juillet ? [What is celebrated on July 14?],,,lvl1
+answer,La prise de la Bastille (et la Fête de la Fédération).।) [The storming of the Bastille (and the Fête de la Fédération).।)],,1.0,
+answer,La fin de la Seconde Guerre mondiale [The end of the Second World War],,0.0,
+answer,L'abolition de l'esclavage [The abolition of slavery],,0.0,
+question,Quelle guerre a eu lieu entre 1914 et 1918 ? [Which war took place between 1914 and 1918?],,,lvl1
+answer,La guerre franco-prussienne [The Franco-Prussian War],,0.0,
+answer,La Seconde Guerre mondiale [The Second World War],,0.0,
+answer,La Première Guerre mondiale [The First World War],,1.0,
+question,Pourquoi l’année 1958 est importante pour la France ? [Why is the year 1958 important for France?],,,lvl1
+answer,Fin de la Seconde Guerre mondiale [End of the Second World War],,0.0,
+answer,Adoption de la Constitution de la Ve République [Adoption of the Constitution of the Fifth Republic],,1.0,
+answer,Vote de la loi de séparation des Églises et de l'État [Vote on the law of separation of Church and State],,0.0,
+question,Quel fleuve coule en France ? [Which river flows in France?],,,lvl1
+answer,Le Danube [The Danube],,0.0,
+answer,La Seine [The Seine],,1.0,
+answer,Le Rhin [The Rhine],,0.0,
+question,Quelle ville est française ? [Which city is French?],,,lvl1
+answer,Genève [Geneva],,0.0,
+answer,Lyon [Lyon],,1.0,
+answer,Barcelone [Barcelona],,0.0,
+question,Quel océan borde la côte ouest française ? [Which ocean borders the French west coast?],,,lvl1
+answer,L'océan Indien [The Indian Ocean],,0.0,
+answer,L'océan Atlantique [The Atlantic Ocean],,1.0,
+answer,L'océan Pacifique [The Pacific Ocean],,0.0,
+question,Qu'est-ce que Paris ? [What is Paris?],,,lvl1
+answer,Un département d'outre-mer [An overseas department],,0.0,
+answer,Une région [A region],,0.0,
+answer,La capitale de la France [The capital of France],,1.0,
+question,Quelle est la capitale de la France ? [What is the capital of France?],,,lvl1
+answer,Marseille [Marseille],,0.0,
+answer,Paris [Paris],,1.0,
+answer,Bordeaux [Bordeaux],,0.0,
+question,Sur quel continent se situe la France métropolitaine ? [On which continent is metropolitan France located?],,,lvl1
+answer,L'Afrique [Africa],,0.0,
+answer,L'Europe [Europe],,1.0,
+answer,L'Asie [Asia],,0.0,
+question,Quelle île est un département d'outre-mer français ??) [Which island is a French overseas department??)],,,lvl1
+answer,La Sicile [Sicily],,0.0,
+answer,La Martinique [Martinique],,1.0,
+answer,La Corse [Corsica],,0.0,
+question,Combien y a-t-il de régions en France métropolitaine ? ?) [How many regions are there in metropolitan France? ?)],,,lvl1
+answer,5 [5],,0.0,
+answer,13 [13],,1.0,
+answer,22 [22],,0.0,
+question,Quelle ville est un grand port maritime ? [Which city is a major seaport?],,,lvl1
+answer,Strasbourg [Strasbourg],,0.0,
+answer,Marseille [Marseille],,1.0,
+answer,Dijon [Dijon],,0.0,
+question,Quelle est la mer au sud de la France métropolitaine ? [What is the sea to the south of metropolitan France?],,,lvl1
+answer,La Manche [The English Channel],,0.0,
+answer,La mer du Nord [The North Sea],,0.0,
+answer,La mer Méditerranée [The Mediterranean Sea],,1.0,
+question,Quelle ville est située au bord de la mer Méditerranée ? [Which city is located on the shores of the Mediterranean Sea?],,,lvl1
+answer,Nantes [Nantes],,0.0,
+answer,Nice [Nice],,1.0,
+answer,Lille [Lille],,0.0,
+question,Où se situe la Corse ? [Where is Corsica located?],,,lvl1
+answer,Dans l'océan Atlantique [In the Atlantic Ocean],,0.0,
+answer,Dans la mer du Nord [In the North Sea],,0.0,
+answer,Dans la mer Méditerranée [In the Mediterranean Sea],,1.0,
+question,Quelle chaîne de montagnes est située entre la France et l'Italie ? [Which mountain range is located between France and Italy?],,,lvl1
+answer,Les Pyrénées [The Pyrenees],,0.0,
+answer,Les Alpes [The Alps],,1.0,
+answer,Les Vosges [The Vosges],,0.0,
+question,Qui était Molière ? [Who was Molière?],,,lvl1
+answer,Un peintre [A painter],,0.0,
+answer,Un dramaturge (auteur de théâtre) du 17e siècle.।) [A playwright (theatre author) of the 17th century.।)],,1.0,
+answer,Un général de l'armée [An army general],,0.0,
+question,Qui était Charles Baudelaire ? [Who was Charles Baudelaire?],,,lvl1
+answer,Un chef d'orchestre [A conductor],,0.0,
+answer,Un poète français du 19e siècle (auteur des Fleurs du Mal).।) [A French poet of the 19th century (author of Les Fleurs du Mal).।)],,1.0,
+answer,Un architecte [An architect],,0.0,
+question,Qui était George Sand ? [Who was George Sand?],,,lvl1
+answer,Une mathématicienne [A mathematician],,0.0,
+answer,Une écrivaine romantique française du 19e siècle. [A French romantic writer of the 19th century.],,1.0,
+answer,Une chanteuse d'opéra [An opera singer],,0.0,
+question,Qui était Simone de Beauvoir ? [Who was Simone de Beauvoir?],,,lvl1
+answer,Une actrice célèbre [A famous actress],,0.0,
+answer,Une écrivaine et philosophe du 20e siècle (figure majeure du féminisme).।) [A writer and philosopher of the 20th century (major figure of feminism).।)],,1.0,
+answer,Une reine de France [A queen of France],,0.0,
+question,Qui était Albert Camus ? [Who was Albert Camus?],,,lvl1
+answer,Un explorateur [An explorer],,0.0,
+answer,Un sculpteur [A sculptor],,0.0,
+answer,Un écrivain et philosophe français (prix Nobel de littérature).।) [A French writer and philosopher (Nobel Prize in Literature).।)],,1.0,
+question,Qui était Paul Cézanne ? [Who was Paul Cézanne?],,,lvl1
+answer,Un inventeur [An inventor],,0.0,
+answer,Un peintre post-impressionniste français. [A French post-impressionist painter.],,1.0,
+answer,Un homme politique [A politician],,0.0,
+question,Qui était Marc Chagall ? [Who was Marc Chagall?],,,lvl1
+answer,Un mathématicien [A mathematician],,0.0,
+answer,Un peintre et graveur français d'origine biélorusse. [A French painter and engraver of Belarusian origin.],,1.0,
+answer,Un compositeur de musique [A music composer],,0.0,
+question,Qui était Joséphine Baker ? [Who was Josephine Baker?],,,lvl1
+answer,Une mathématicienne [A mathematician],,0.0,
+answer,Une artiste de music-hall et résistante française (panthéonisée).।) [A music-hall artist and French resistance fighter (pantheonized).।)],,1.0,
+answer,Une femme politique [A politician],,0.0,
+question,Qui était une chanteuse française célèbre ? [Who was a famous French singer?],,,lvl1
+answer,Marie Curie [Marie Curie],,0.0,
+answer,Édith Piaf [Édith Piaf],,1.0,
+answer,George Sand [George Sand],,0.0,
+question,Qu'est-ce que le Louvre ? [What is the Louvre?],,,lvl1
+answer,Le siège de l'Assemblée Nationale [The seat of the National Assembly],,0.0,
+answer,Le plus grand musée du monde (situé à Paris).।) [The largest museum in the world (located in Paris).।)],,1.0,
+answer,Un grand magasin [A department store],,0.0,
+question,Qui était Jean de la Fontaine ? [Who was Jean de la Fontaine?],,,lvl1
+answer,Un peintre [A painter],,0.0,
+answer,"Un poète français, célèbre pour ses fables. ।) [A French poet, famous for his fables. ।)]",,1.0,
+answer,Un explorateur [An explorer],,0.0,
+question,Quel écrivain est français ? [Which writer is French?],,,lvl1
+answer,William Shakespeare [William Shakespeare],,0.0,
+answer,Victor Hugo [Victor Hugo],,1.0,
+answer,Jane Austen [Jane Austen],,0.0,
+question,Dans quelle ville se trouve la tour Eiffel ? [In which city is the Eiffel Tower located?],,,lvl1
+answer,Lyon [Lyon],,0.0,
+answer,Paris [Paris],,1.0,
+answer,Marseille [Marseille],,0.0,
+question,Quand célèbre-t-on Noël ? ?) [When do we celebrate Christmas? ?)],,,lvl2
+answer,Le 1er janvier [January 1st],,0.0,
+answer,Le 14 juillet [July 14th],,0.0,
+answer,Le 25 décembre [December 25th],,1.0,
+question,Quel était le surnom de Louis XIV ? [What was the nickname of Louis XIV?],,,lvl2
+answer,Le Bon Roi [The Good King],,0.0,
+answer,Le Roi Soleil [The Sun King],,1.0,
+answer,Le Petit Roi [The Little King],,0.0,
+question,Quel roi de France a été exécuté pendant la Révolution française ? [Which king of France was executed during the French Revolution?],,,lvl2
+answer,Louis XV [Louis XV],,0.0,
+answer,Louis XVI [Louis XVI],,1.0,
+answer,Henri IV [Henry IV],,0.0,
+question,En quelle année Napoléon Ier est-il devenu empereur ? [In what year did Napoleon I become emperor?],,,lvl2
+answer,1789 [1789],,0.0,
+answer,1800 [1800],,0.0,
+answer,1804 [1804],,1.0,
+question,Lequel de ces personnages a un lien avec la République française ? [Which of these figures has a link to the French Republic?],,,lvl2
+answer,La Reine Victoria [Queen Victoria],,0.0,
+answer,Le Tsar Nicolas II [Tsar Nicholas II],,0.0,
+answer,Georges Clemenceau [Georges Clemenceau],,1.0,
+question,De quand date l'appel à la résistance du général de Gaulle ? [When does General de Gaulle's call for resistance date from?],,,lvl2
+answer,Le 6 juin 1944 [June 6, 1944],,0.0,
+answer,Le 18 juin 1940 [June 18, 1940],,1.0,
+answer,Le 11 novembre 1918 [November 11, 1918],,0.0,
+question,Pourquoi la Shoah est-elle étudiée à l'école ? ?) [Why is the Shoah studied in school? ?)],,,lvl2
+answer,Pour réviser l'Histoire ancienne. [To review ancient History.],,0.0,
+answer,Pour transmettre le souvenir du génocide des Juifs et lutter contre le racisme. [To pass on the memory of the genocide of the Jews and fight against racism.],,1.0,
+answer,Pour glorifier les héros de guerre. [To glorify war heroes.],,0.0,
+question,Quel pays a été colonisé par la France ? [Which country was colonized by France?],,,lvl2
+answer,Le Brésil [Brazil],,0.0,
+answer,Le Sénégal [Senegal],,1.0,
+answer,L'Australie [Australia],,0.0,
+question,Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ? [Since when have the French elected the President of the Republic by direct universal suffrage?],,,lvl2
+answer,1945 [1945],,0.0,
+answer,1962 [1962],,1.0,
+answer,1981 [1981],,0.0,
+question,Quelle est la première étape de la construction européenne en 1951 ? [What was the first step in European construction in 1951?],,,lvl2
+answer,La création de l'Euro. [The creation of the Euro.],,0.0,
+answer,La création de la Communauté européenne du charbon et de l'acier (CECA). ।) [The creation of the European Coal and Steel Community (ECSC). ।)],,1.0,
+answer,La fin de la Seconde Guerre mondiale. [The end of the Second World War.],,0.0,
+question,Durant le mandat de quel président la peine de mort a-t-elle été abolie ? [During which president's term was the death penalty abolished?],,,lvl2
+answer,Charles de Gaulle [Charles de Gaulle],,0.0,
+answer,Valéry Giscard d'Estaing [Valéry Giscard d'Estaing],,0.0,
+answer,François Mitterrand [François Mitterrand],,1.0,
+question,Quel régime politique a été mis en place pendant la Révolution française en 1792 ? [Which political regime was established during the French Revolution in 1792?],,,lvl2
+answer,L'Empire [The Empire],,0.0,
+answer,La Première République [The First Republic],,1.0,
+answer,La monarchie constitutionnelle [The constitutional monarchy],,0.0,
+question,Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ? [Who was a figure of the French Resistance during the Second World War?],,,lvl2
+answer,Napoléon Ier [Napoleon I],,0.0,
+answer,Jean Moulin [Jean Moulin],,1.0,
+answer,Victor Hugo [Victor Hugo],,0.0,
+question,"En 1944, qu'est-ce qui a changé pour les femmes ? [In 1944, what changed for women?]",,,lvl2
+answer,Elles ont eu le droit de travailler. [They got the right to work.],,0.0,
+answer,Elles ont obtenu le droit de vote. [They obtained the right to vote.],,1.0,
+answer,Elles sont devenues éligibles au Sénat. [They became eligible for the Senate.],,0.0,
+question,Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ? [Which international organization was created in 1945 after the Second World War?],,,lvl2
+answer,L'Union Européenne [The European Union],,0.0,
+answer,L'Organisation des Nations unies (ONU)) [The United Nations (UN))],,1.0,
+answer,L'OTAN (NATO) [NATO],,0.0,
+question,Quelle peine a été supprimée en 1981 ? [Which penalty was abolished in 1981?],,,lvl2
+answer,L'emprisonnement à vie [Life imprisonment],,0.0,
+answer,La peine de mort [The death penalty],,1.0,
+answer,L'amende pour stationnement [Parking fines],,0.0,
+question,En quelle année l'euro est-elle devenue la monnaie utilisée en France ? [In what year did the euro become the currency used in France?],,,lvl2
+answer,1999 [1999],,0.0,
+answer,2002 [2002],,1.0,
+answer,2007 [2007],,0.0,
+question,En quelle année a commencé la Première Guerre mondiale ? [In what year did the First World War begin?],,,lvl2
+answer,1939 [1939],,0.0,
+answer,1914 [1914],,1.0,
+answer,1940 [1940],,0.0,
+question,Où a eu lieu le débarquement en 1944 ? ?) [Where did the 1944 landings take place? ?)],,,lvl2
+answer,Sur les côtes de la Méditerranée [On the shores of the Mediterranean],,0.0,
+answer,En Normandie [In Normandy],,1.0,
+answer,Dans le Nord de la France [In the North of France],,0.0,
+question,Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ? [Which continent was most affected by French decolonization after the Second World War?],,,lvl2
+answer,L'Amérique [America],,0.0,
+answer,L'Afrique [Africa],,1.0,
+answer,L'Océanie [Oceania],,0.0,
+question,Que fête-t-on le 8 mai ? [What is celebrated on May 8th?],,,lvl2
+answer,La prise de la Bastille [The storming of the Bastille],,0.0,
+answer,La Victoire des Alliés sur l'Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe).।) [The Victory of the Allies over Nazi Germany in 1945 (end of the Second World War in Europe).।)],,1.0,
+answer,La Fête du Travail [Labor Day],,0.0,
+question,Quelle mer ou océan borde la France métropolitaine ? [Which sea or ocean borders metropolitan France?],,,lvl2
+answer,La mer Noire [The Black Sea],,0.0,
+answer,La mer Méditerranée [The Mediterranean Sea],,1.0,
+answer,La mer Baltique [The Baltic Sea],,0.0,
+question,Quel pays a une frontière terrestre avec la France métropolitaine ? [Which country has a land border with metropolitan France?],,,lvl2
+answer,Le Royaume-Uni [The United Kingdom],,0.0,
+answer,L'Espagne [Spain],,1.0,
+answer,La Norvège [Norway],,0.0,
+question,Quelle ville française est un port maritime ? [Which French city is a seaport?],,,lvl2
+answer,Toulouse [Toulouse],,0.0,
+answer,Bordeaux [Bordeaux],,1.0,
+answer,Clermont-Ferrand [Clermont-Ferrand],,0.0,
+question,Quelle mer se situe entre la France et l'Angleterre ? [Which sea is located between France and England?],,,lvl2
+answer,La mer Baltique [The Baltic Sea],,0.0,
+answer,La Manche [The English Channel],,1.0,
+answer,La mer Noire [The Black Sea],,0.0,
+question,Qu'est-ce que la France d'outre-mer ? ?) [What is overseas France? ?)],,,lvl2
+answer,Les pays qui ont été colonisés par la France. [The countries that were colonized by France.],,0.0,
+answer,Les territoires français situés en dehors du continent européen. [French territories located outside the European continent.],,1.0,
+answer,Les pays membres de l'Union européenne. [The member countries of the European Union.],,0.0,
+question,Quelle chaîne de montagnes est située entre la France et l’Espagne ? [Which mountain range is located between France and Spain?],,,lvl2
+answer,Les Alpes [The Alps],,0.0,
+answer,Les Pyrénées [The Pyrenees],,1.0,
+answer,Les Vosges [The Vosges],,0.0,
+question,Quelle île française se trouve dans l'océan Indien ? [Which French island is in the Indian Ocean?],,,lvl2
+answer,La Guadeloupe [Guadeloupe],,0.0,
+answer,La Réunion [Reunion Island],,1.0,
+answer,La Martinique [Martinique],,0.0,
+question,Quelle est la population approximative de la France en 2025 ? [What is the approximate population of France in 2025?],,,lvl2
+answer,Environ 50 millions d'habitants [Around 50 million inhabitants],,0.0,
+answer,Environ 68 millions d'habitants [Around 68 million inhabitants],,1.0,
+answer,Plus de 100 millions d'habitants [Over 100 million inhabitants],,0.0,
+question,Quel fleuve traverse Paris ? [Which river flows through Paris?],,,lvl2
+answer,Le Rhône [The Rhône],,0.0,
+answer,La Seine [The Seine],,1.0,
+answer,La Loire [The Loire],,0.0,
+question,Lequel de ces pays partage des frontières terrestres avec la France ? [Which of these countries shares land borders with France?],,,lvl2
+answer,La Suède [Sweden],,0.0,
+answer,Le Danemark [Denmark],,0.0,
+answer,La Belgique [Belgium],,1.0,
+question,Quel pays a une frontière avec la France métropolitaine au nord-est ? [Which country has a border with metropolitan France to the northeast?],,,lvl2
+answer,L'Espagne [Spain],,0.0,
+answer,L'Allemagne [Germany],,1.0,
+answer,L'Italie [Italy],,0.0,
+question,Où se trouvent les principales activités économiques en France ? [Where are the main economic activities in France located?],,,lvl2
+answer,Uniquement dans les régions rurales. [Only in rural regions.],,0.0,
+answer,Principalement dans les zones montagneuses. [Mainly in mountainous areas.],,0.0,
+answer,"Dans les grandes métropoles et les régions transfrontalières (Paris, Lyon, frontières allemande et suisse).।) [In major metropolitan areas and cross-border regions (Paris, Lyon, German and Swiss borders).।)]",,1.0,
+question,"Parmi ces pays, lequel attire le plus de visiteurs chaque année ? [Among these countries, which one attracts the most visitors each year?]",,,lvl2
+answer,L'Espagne [Spain],,0.0,
+answer,La France [France],,1.0,
+answer,L'Italie [Italy],,0.0,
+question,Où habite la majorité des Français ? [Where do the majority of French people live?],,,lvl2
+answer,Dans les zones de montagne. [In mountainous areas.],,0.0,
+answer,Dans les zones urbaines et les grandes agglomérations. [In urban areas and large agglomerations.],,1.0,
+answer,Dans les campagnes isolées. [In isolated countryside.],,0.0,
+question,Quelle région est la plus peuplée ? [Which region is the most populated?],,,lvl2
+answer,La Nouvelle-Aquitaine [New Aquitaine],,0.0,
+answer,L'Île-de-France (région parisienne) [Île-de-France (Paris region)],,1.0,
+answer,La Bretagne [Brittany],,0.0,
+question,Quelle ville française fait partie des 10 plus grandes métropoles du pays ? [Which French city is one of the 10 largest metropolitan areas in the country?],,,lvl2
+answer,La Rochelle [La Rochelle],,0.0,
+answer,Toulouse [Toulouse],,1.0,
+answer,Avignon [Avignon],,0.0,
+question,Lequel de ces départements de France est le plus touristique ? ?) [Which of these French departments is the most touristic? ?)],,,lvl2
+answer,La Creuse [Creuse],,0.0,
+answer,Le Finistère [Finistère],,0.0,
+answer,Paris [Paris],,1.0,
+question,Quand peut-on visiter gratuitement des lieux culturels en France ? [When can you visit cultural places for free in France?],,,lvl2
+answer,Tous les jours fériés. [All public holidays.],,0.0,
+answer,Lors des Journées européennes du Patrimoine (en septembre).।) [During the European Heritage Days (in September).।)],,1.0,
+answer,Uniquement en janvier. [Only in January.],,0.0,
+question,Combien de personnes parlent français dans le monde ? [How many people speak French in the world?],,,lvl2
+answer,Environ 50 millions [Around 50 million],,0.0,
+answer,Environ 150 millions [Around 150 million],,0.0,
+answer,Plus de 320 millions [Over 320 million],,1.0,
+question,Qui était Marguerite Yourcenar ? [Who was Marguerite Yourcenar?],,,lvl2
+answer,Une mathématicienne [A mathematician],,0.0,
+answer,Une écrivaine française (première femme élue à l'Académie française).।) [A French writer (first woman elected to the Académie Française).।)],,1.0,
+answer,Une chanteuse d'opéra [An opera singer],,0.0,
+question,Quel peintre est français ? [Which painter is French?],,,lvl2
+answer,Salvador Dalí [Salvador Dalí],,0.0,
+answer,Pablo Picasso [Pablo Picasso],,0.0,
+answer,Claude Monet [Claude Monet],,1.0,
+question,Quel musée est situé à Paris ? [Which museum is located in Paris?],,,lvl2
+answer,Le Musée du Prado [The Prado Museum],,0.0,
+answer,Le Centre Pompidou [The Pompidou Center],,1.0,
+answer,Le British Museum [The British Museum],,0.0,
+question,Qui était Auguste Rodin ? [Who was Auguste Rodin?],,,lvl2
+answer,Un compositeur [A composer],,0.0,
+answer,Un sculpteur français du 19e siècle (auteur du Penseur).।) [A French sculptor of the 19th century (author of The Thinker).।)],,1.0,
+answer,Un explorateur [An explorer],,0.0,
+question,Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ? [What is the ranking of the French language among the most spoken languages in the world?],,,lvl2
+answer,La deuxième langue [The second language],,0.0,
+answer,La cinquième langue [The fifth language],,1.0,
+answer,La dixième langue [The tenth language],,0.0,
+question,Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ? [Which famous cathedral was partially destroyed by a fire in 2019?],,,lvl2
+answer,La Cathédrale de Reims [Reims Cathedral],,0.0,
+answer,Notre-Dame de Paris [Notre-Dame de Paris],,1.0,
+answer,La Cathédrale de Strasbourg [Strasbourg Cathedral],,0.0,
+question,Qui était une écrivaine française célèbre ? [Who was a famous French writer?],,,lvl2
+answer,Marie Curie [Marie Curie],,0.0,
+answer,Simone Veil [Simone Veil],,1.0,
+answer,Marie-Madeleine Fourcade [Marie-Madeleine Fourcade],,0.0,
+question,Qui était un célèbre musicien français ? [Who was a famous French musician?],,,lvl2
+answer,Wolfgang Amadeus Mozart [Wolfgang Amadeus Mozart],,0.0,
+answer,Claude Debussy [Claude Debussy],,1.0,
+answer,Johann Sebastian Bach [Johann Sebastian Bach],,0.0,
+question,Qui était Auguste Renoir ? [Who was Auguste Renoir?],,,lvl2
+answer,Un architecte [An architect],,0.0,
+answer,Un peintre impressionniste français. [A French impressionist painter.],,1.0,
+answer,Un dramaturge [A playwright],,0.0,
+question,Quelle fête est française ? [Which holiday is French?],,,lvl2
+answer,L'Oktoberfest [Oktoberfest],,0.0,
+answer,La Saint-Patrick [St. Patrick's Day],,0.0,
+answer,Le 14 juillet (Fête Nationale)) [July 14 (National Holiday))],,1.0,
+question,Sur quel fleuve est situé le château d’Amboise? ?) [On which river is the Château d'Amboise located? ?)],,,lvl3
+answer,Sur la Seine [On the Seine],,0.0,
+answer,Sur le Rhône [On the Rhône],,0.0,
+answer,Sur la Loire [On the Loire],,1.0,
+question,Qu’a mené Napoléon Ier en Europe? [What did Napoleon I lead in Europe?],,,lvl3
+answer,La Révolution industrielle [The Industrial Revolution],,0.0,
+answer,De nombreuses guerres [Numerous wars],,1.0,
+answer,La colonisation de l’Afrique [The colonization of Africa],,0.0,
+question,Qui a été le chef de la Résistance française contre l’occupation allemande? ?) [Who was the head of the French Resistance against the German occupation? ?)],,,lvl3
+answer,Philippe Pétain [Philippe Pétain],,0.0,
+answer,Georges Clemenceau [Georges Clemenceau],,0.0,
+answer,Charles de Gaulle [Charles de Gaulle],,1.0,
+question,Quelle religion Clovis adopte-t-il? [Which religion did Clovis adopt?],,,lvl3
+answer,La religion musulmane [The Muslim religion],,0.0,
+answer,Le judaïsme [Judaism],,0.0,
+answer,La religion chrétienne [The Christian religion],,1.0,
+question,Quel dictateur nazi a déclenché la Seconde Guerre mondiale? [Which Nazi dictator started the Second World War?],,,lvl3
+answer,Joseph Staline [Joseph Stalin],,0.0,
+answer,Benito Mussolini [Benito Mussolini],,0.0,
+answer,Adolf Hitler [Adolf Hitler],,1.0,
+question,Que concentre Louis XIV sous son règne? [What did Louis XIV concentrate under his reign?],,,lvl3
+answer,Uniquement le pouvoir militaire [Only military power],,0.0,
+answer,Tous les pouvoirs [All powers],,1.0,
+answer,Uniquement le pouvoir religieux [Only religious power],,0.0,
+question,Quel est le rôle du tourisme dans l’économie française? [What is the role of tourism in the French economy?],,,lvl3
+answer,Un secteur marginal [A marginal sector],,0.0,
+answer,Un élément essentiel [An essential element],,1.0,
+answer,Une activité en déclin [A declining activity],,0.0,
+question,Que symbolisent les 12 étoiles du drapeau européen? [What do the 12 stars of the European flag symbolize?],,,lvl3
+answer,Les idéaux d’unité et d’harmonie entre les Européens [The ideals of unity and harmony among Europeans],,1.0,
+answer,Les 12 mois de l’année [The 12 months of the year],,0.0,
+answer,Les 12 pays fondateurs [The 12 founding countries],,0.0,
+question,En quelle année l’esclavage a-t-il été aboli en France? [In what year was slavery abolished in France?],,,lvl3
+answer,En 1789 [In 1789],,0.0,
+answer,En 1918 [In 1918],,0.0,
+answer,En 1848 [In 1848],,1.0,
+question,Contre quoi Victor Hugo s’est-il engagé? [What did Victor Hugo commit against?],,,lvl3
+answer,La monarchie absolue [The absolute monarchy],,0.0,
+answer,La colonisation [Colonization],,0.0,
+answer,Les inégalités sociales et la peine de mort [Social inequalities and the death penalty],,1.0,
+question,De quelle origine est Valérie Benguigui? ?) [Of what origin is Valérie Benguigui? ?)],,,lvl3
+answer,Italienne [Italian],,0.0,
+answer,Américaine [American],,0.0,
+answer,Algérienne [Algerian],,1.0,
+question,Quel est le plus long fleuve français? [What is the longest French river?],,,lvl3
+answer,Le Rhône [The Rhône],,0.0,
+answer,La Seine [The Seine],,0.0,
+answer,La Loire [The Loire],,1.0,
+question,Où se trouve l’une des plus importantes grottes préhistoriques de France? [Where is one of the most important prehistoric caves in France located?],,,lvl3
+answer,À Marseille [In Marseille],,0.0,
+answer,À Chartres [In Chartres],,0.0,
+answer,À Lascaux [In Lascaux],,1.0,
+question,Entre quelles dates se situent les peintures de la grotte de Lascaux? [Between what dates are the paintings in the Lascaux cave located?],,,lvl3
+answer,Entre 2000 et 1500 ap. J.-C. [Between 2000 and 1500 AD],,0.0,
+answer,Entre 18 000 et 15 000 av. J.-C. [Between 18,000 and 15,000 BC],,1.0,
+answer,Entre 500 et 200 av. J.-C. [Between 500 and 200 BC],,0.0,
+question,"Quels modes de transport sont connectés au port de Nantes-Saint-Nazaire? [What modes of transport are connected to the port of Nantes-Saint-Nazaire?]",,,lvl3
+answer,"Routier, fluvial, spatial et aérien [Road, river, space, and air]",,0.0,
+answer,"Maritime, fluvial, ferroviaire, terrestre et aérien [Maritime, river, rail, land, and air]",,1.0,
+answer,"Maritime, spatial, cycliste et aérien [Maritime, space, cycling, and air]",,0.0,
+question,À quelle période historique correspond l’installation des Romains? [What historical period does the settlement of the Romans correspond to?],,,lvl3
+answer,À l’Antiquité [To Antiquity],,1.0,
+answer,À la Préhistoire [To Prehistory],,0.0,
+answer,Au Moyen Âge [To the Middle Ages],,0.0,
+question,À quelle période appartiennent les peintures de la grotte de Lascaux? [What period do the paintings in the Lascaux cave belong to?],,,lvl3
+answer,À la Préhistoire [To Prehistory],,1.0,
+answer,Au Moyen Âge [To the Middle Ages],,0.0,
+answer,À l’Antiquité [To Antiquity],,0.0,
+question,Où se situe le Mont-Saint-Michel? [Where is Mont-Saint-Michel located?],,,lvl3
+answer,En Bretagne [In Brittany],,0.0,
+answer,En Provence [In Provence],,0.0,
+answer,En Normandie [In Normandy],,1.0,
+question,Quelle nationalité d’origine avait Joséphine Baker? [What nationality of origin did Josephine Baker have?],,,lvl3
+answer,Italienne [Italian],,0.0,
+answer,Algérienne [Algerian],,0.0,
+answer,Américaine [American],,1.0,
+question,De quelle origine est Romain Gary? [What origin is Romain Gary?],,,lvl3
+answer,Égyptienne [Egyptian],,0.0,
+answer,Polonaise [Polish],,0.0,
+answer,Russe [Russian],,1.0,
+question,Quel était l’objectif du traité de Rome? [What was the objective of the Treaty of Rome?],,,lvl3
+answer,Supprimer toutes les frontières intérieures immédiatement [To immediately remove all internal borders],,0.0,
+answer,Créer une armée commune [To create a common army],,0.0,
+answer,Établir une union étroite entre les peuples européens [To establish a close union among European peoples],,1.0,
+question,Quelle est l’altitude du Mont-Blanc? ?) [What is the altitude of Mont Blanc? ?)],,,lvl3
+answer,3 200 m [3,200 m],,0.0,
+answer,5 500 m [5,500 m],,0.0,
+answer,4 810 m [4,810 m],,1.0,
+question,Quel peintre d’origine russe a décoré le plafond de l’Opéra Garnier de Paris? ?) [Which Russian-born painter decorated the ceiling of the Opéra Garnier in Paris? ?)],,,lvl3
+answer,Pablo Picasso [Pablo Picasso],,0.0,
+answer,Claude Monet [Claude Monet],,0.0,
+answer,Marc Chagall [Marc Chagall],,1.0,
+question,Pour quelle raison la grotte de Lascaux est-elle célèbre? [For what reason is the Lascaux cave famous?],,,lvl3
+answer,Pour la qualité de ses peintures [For the quality of its paintings],,1.0,
+answer,Pour ses poteries anciennes [For its ancient pottery],,0.0,
+answer,Pour ses sculptures en pierre [For its stone sculptures],,0.0,
+question,Quel mouvement social éclate en mai 1968? [What social movement erupted in May 1968?],,,lvl3
+answer,"Un mouvement initié par les étudiants, étendu aux salariés et ouvriers [A movement initiated by students, extended to employees and workers]",,1.0,
+answer,Une réforme constitutionnelle [A constitutional reform],,0.0,
+answer,Une révolution armée [An armed revolution],,0.0,
+question,Qui est Alain Mimoun? ?) [Who is Alain Mimoun? ?)],,,lvl3
+answer,Un peintre d’origine russe [A painter of Russian origin],,0.0,
+answer,Un chanteur franco-égyptien [A Franco-Egyptian singer],,0.0,
+answer,"Un athlète d’origine algérienne, ancien combattant de la Seconde Guerre mondiale [An athlete of Algerian origin, a veteran of the Second World War]",,1.0,
+question,Quelle caractéristique politique la IIIᵉ République a-t-elle apportée? ?) [What political characteristic did the Third Republic bring? ?)],,,lvl3
+answer,Le retour de l’Empire [The return of the Empire],,0.0,
+answer,La forme républicaine stable du Gouvernement [The stable republican form of Government],,1.0,
+answer,L’instauration d’une monarchie parlementaire [The establishment of a parliamentary monarchy],,0.0,
+question,Par quels moyens la France a-t-elle constitué son empire colonial au 19ᵉ siècle? [By what means did France build its colonial empire in the 19th century?],,,lvl3
+answer,Par des guerres de conquêtes [Through wars of conquest],,1.0,
+answer,Par des élections locales [Through local elections],,0.0,
+answer,Par des accords commerciaux pacifiques [Through peaceful trade agreements],,0.0,
+question,Quel exploit sportif Alain Mimoun a-t-il réalisé en 1956? [What sporting achievement did Alain Mimoun accomplish in 1956?],,,lvl3
+answer,Il a gagné le Tour de France [He won the Tour de France],,0.0,
+answer,Il a remporté le marathon des Jeux olympiques [He won the Olympic marathon],,1.0,
+answer,Il a battu le record du monde de saut en longueur [He broke the world record in the long jump],,0.0,
+question,Où repose Marie Curie? [Where does Marie Curie rest?],,,lvl3
+answer,À Versailles [In Versailles],,0.0,
+answer,Au Panthéon [In the Panthéon],,1.0,
+answer,Au Louvre [In the Louvre],,0.0,
+question,Quel physicien d’origine polonaise a reçu le prix Nobel de physique en 1992? [Which Polish-born physicist received the Nobel Prize in Physics in 1992?],,,lvl3
+answer,Louis de Broglie [Louis de Broglie],,0.0,
+answer,Pierre Curie [Pierre Curie],,0.0,
+answer,Georges Charpak [Georges Charpak],,1.0,
+question,Comment était qualifié le régime de Vichy? ?) [How was the Vichy regime described? ?)],,,lvl3
+answer,Non démocratique [Non-democratic],,1.0,
+answer,Parlementaire [Parliamentary],,0.0,
+answer,Républicain [Republican],,0.0,
+question,Combien de morts la Seconde Guerre mondiale a-t-elle causés selon les historiens? [How many deaths did the Second World War cause according to historians?],,,lvl3
+answer,Moins de 5 millions [Less than 5 million],,0.0,
+answer,Plus de 50 millions [Over 50 million],,1.0,
+answer,Plus de 9 millions [Over 9 million],,0.0,
+question,Dans quels secteurs l’économie française a-t-elle des pôles d’excellence? ?) [In which sectors does the French economy have centers of excellence? ?)],,,lvl3
+answer,L’aéronautique et le luxe [Aeronautics and luxury],,1.0,
+answer,L’agriculture et la pêche [Agriculture and fishing],,0.0,
+answer,Le textile et la sidérurgie [Textiles and steel],,0.0,
+question,Pour quel roman Romain Gary a-t-il reçu le prix Goncourt en 1956? ?) [For which novel did Romain Gary receive the Goncourt Prize in 1956? ?)],,,lvl3
+answer,Notre-Dame de [Notre-Dame de],,0.0,
+answer,Les Racines du ciel [The Roots of Heaven],,1.0,
+answer,La Vie devant soi [The Life Before Us],,0.0,
+question,Qui est Léon Gambetta? ?) [Who is Léon Gambetta? ?)],,,lvl3
+answer,"Un fervent républicain, l’un des pères de la IIIᵉ République [A fervent republican, one of the fathers of the Third Republic]",,1.0,
+answer,Un roi de France [A king of France],,0.0,
+answer,Un empereur romain [A Roman emperor],,0.0,
+question,Qui unifie les royaumes des peuples francs au 5e siècle? [Who unified the kingdoms of the Frankish peoples in the 5th century?],,,lvl3
+answer,Louis XIV [Louis XIV],,0.0,
+answer,Charlemagne [Charlemagne],,0.0,
+answer,Clovis [Clovis],,1.0,
+question,Qui a préparé la loi sur l’interruption volontaire de grossesse de 1975? ?) [Who prepared the 1975 law on the voluntary interruption of pregnancy? ?)],,,lvl3
+answer,Charles de Gaulle [Charles de Gaulle],,0.0,
+answer,François Mitterrand [François Mitterrand],,0.0,
+answer,Simone Veil [Simone Veil],,1.0,
+question,Qui est l’auteur de «Alcools»? ?) [Who is the author of "Alcools"? ?)],,,lvl3
+answer,Guillaume Apollinaire [Guillaume Apollinaire],,1.0,
+answer,Paul Valéry [Paul Valéry],,0.0,
+answer,Jacques Prévert [Jacques Prévert],,0.0,
+question,"Quel écrivain d’origine russe a reçu deux fois le prix Goncourt, dont une sous le nom d’Émile Ajar? ?) [Which Russian-born writer received the Goncourt Prize twice, including once under the name of Émile Ajar? ?)]",,,lvl3
+answer,Albert Camus [Albert Camus],,0.0,
+answer,Romain Gary [Romain Gary],,1.0,
+answer,Victor Hugo [Victor Hugo],,0.0,
+question,Quelle chanson est associée à Miriam Makeba? [Which song is associated with Miriam Makeba?],,,lvl3
+answer,Bambino [Bambino],,0.0,
+answer,Pata Pata [Pata Pata],,1.0,
+answer,L’Avare [The Miser],,0.0,
+question,Qui est l’auteur de Les Misérables? [Who is the author of Les Misérables?],,,lvl3
+answer,Victor Hugo [Victor Hugo],,1.0,
+answer,Voltaire [Voltaire],,0.0,
+answer,Molière [Molière],,0.0,
+question,Quels sont deux ouvrages célèbres de Victor Hugo? [What are two famous works by Victor Hugo?],,,lvl3
+answer,Germinal et Madame Bovary [Germinal and Madame Bovary],,0.0,
+answer,Les Misérables et Notre-Dame de Paris [Les Misérables and Notre-Dame de Paris],,1.0,
+answer,L’Avare et Le Cid [The Miser and Le Cid],,0.0,
+question,Quel traité fonde la Communauté économique européenne en 1957? [Which treaty founded the European Economic Community in 1957?],,,lvl3
+answer,Le traité de Versailles [The Treaty of Versailles],,0.0,
+answer,Le traité de Maastricht [The Treaty of Maastricht],,0.0,
+answer,Le traité de Rome [The Treaty of Rome],,1.0,
+question,Qui est l’auteur de «Calligrammes»? [Who is the author of "Calligrammes"?],,,lvl3
+answer,Victor Hugo [Victor Hugo],,0.0,
+answer,Guillaume Apollinaire [Guillaume Apollinaire],,1.0,
+answer,André Breton [André Breton],,0.0,
+question,Sous quel pseudonyme Romain Gary a-t-il reçu le prix Goncourt en 1975? [Under what pseudonym did Romain Gary receive the Goncourt Prize in 1975?],,,lvl3
+answer,André Gide [André Gide],,0.0,
+answer,Paul Valéry [Paul Valéry],,0.0,
+answer,Émile Ajar [Émile Ajar],,1.0,
+question,À quelle période historique appartient Clovis? [What historical period does Clovis belong to?],,,lvl3
+answer,À la Renaissance (16e siècle)) [To the Renaissance (16th century))],,0.0,
+answer,À l’Antiquité (1er siècle)) [To Antiquity (1st century))],,0.0,
+answer,Au Moyen Âge (5e siècle)) [To the Middle Ages (5th century))],,1.0,
+question,Où la décolonisation française a-t-elle débuté? ?) [Where did French decolonization begin? ?)],,,lvl3
+answer,En Amérique [In America],,0.0,
+answer,En Asie [In Asia],,1.0,
+answer,En Europe [In Europe],,0.0,
+question,Où se trouvait la capitale du régime de Vichy? ?) [Where was the capital of the Vichy regime located? ?)],,,lvl3
+answer,À Lyon [In Lyon],,0.0,
+answer,À Bordeaux [In Bordeaux],,0.0,
+answer,À Vichy [In Vichy],,1.0,
+question,Quel magazine Françoise Giroud a-t-elle cofondé? - ?) [Which magazine did Françoise Giroud co-found? - ?)],,,lvl3
+answer,Paris Match [Paris Match],,0.0,
+answer,L’Express [L’Express],,1.0,
+answer,Le Monde [Le Monde],,0.0,
+question,Quand la IIIᵉ République a-t-elle été instaurée? ?) [When was the Third Republic established? ?)],,,lvl3
+answer,En 1875 [In 1875],,1.0,
+answer,En 1958 [In 1958],,0.0,
+answer,En 1848 [In 1848],,0.0,
+question,Quelles entreprises ont leur siège social à Paris La Défense? ?) [Which companies have their headquarters in Paris La Défense? ?)],,,lvl3
+answer,Les plus grosses entreprises du CAC 40 [The largest companies of the CAC 40],,1.0,
+answer,Des PME locales [Local SMEs],,0.0,
+answer,Des start-ups étrangères [Foreign start-ups],,0.0,
+question,Quels événements sportifs Léon Zitrone a-t-il commentés? [What sporting events did Léon Zitrone comment on?],,,lvl3
+answer,Le Tour de France et les Jeux olympiques [The Tour de France and the Olympic Games],,1.0,
+answer,La Coupe du monde de rugby et le Dakar [The Rugby World Cup and the Dakar Rally],,0.0,
+answer,Le marathon de Paris et Roland-Garros [The Paris Marathon and Roland-Garros],,0.0,
+question,Quel prix international Miriam Makeba a-t-elle obtenu? [What international prize did Miriam Makeba obtain?],,,lvl3
+answer,Un Grammy Award [A Grammy Award],,1.0,
+answer,Un Oscar [An Oscar],,0.0,
+answer,Un prix Nobel de la paix [A Nobel Peace Prize],,0.0,
+question,Pour quel événement la tour Eiffel a-t-elle été construite? ?) [For what event was the Eiffel Tower built? ?)],,,lvl3
+answer,La Révolution française [The French Revolution],,0.0,
+answer,L’Exposition universelle de 1889 [The Universal Exhibition of 1889],,1.0,
+answer,Les Jeux olympiques de 1924 [The 1924 Olympic Games],,0.0,
+question,Qui est Miriam Makeba? [Who is Miriam Makeba?],,,lvl3
+answer,Une poétesse née en Égypte [A poet born in Egypt],,0.0,
+answer,Une actrice d’origine algérienne [An actress of Algerian origin],,0.0,
+answer,Une chanteuse sud-africaine engagée contre l’apartheid [A South African singer committed against apartheid],,1.0,
+question,En quelle année Joseph Kessel est-il élu à l’Académie française? ?) [In what year was Joseph Kessel elected to the Académie Française? ?)],,,lvl3
+answer,1956 [1956],,0.0,
+answer,1975 [1975],,0.0,
+answer,1962 [1962],,1.0,
+question,Quel statut possède le Mont-Saint-Michel? ?) [What status does Mont-Saint-Michel have? ?)],,,lvl3
+answer,Monument historique national uniquement [National historical monument only],,0.0,
+answer,Patrimoine mondial de l’UNESCO [UNESCO World Heritage],,1.0,
+answer,Site naturel protégé uniquement [Protected natural site only],,0.0,
+question,Quelle opération militaire a eu lieu le 6 juin 1944 en Normandie? [What military operation took place on June 6, 1944 in Normandy?],,,lvl3
+answer,La prise de la Bastille [The storming of the Bastille],,0.0,
+answer,Le débarquement des alliés [The Allied landings],,1.0,
+answer,L’armistice de 1918 [The 1918 Armistice],,0.0,
+question,Où est née la poétesse Andrée Chedid? [Where was the poet Andrée Chedid born?],,,lvl3
+answer,En Pologne [In Poland],,0.0,
+answer,En Russie [In Russia],,0.0,
+answer,En Égypte [In Egypt],,1.0,
+question,De quoi le régime de Vichy est-il en partie responsable? [What is the Vichy regime partly responsible for?],,,lvl3
+answer,De la colonisation de l’Algérie [For the colonization of Algeria],,0.0,
+answer,De l’armistice de 1918 [For the 1918 Armistice],,0.0,
+answer,De la déportation des Juifs [For the deportation of the Jews],,1.0,
+question,Qui conduit les troupes françaises pendant la guerre de Cent Ans contre l’Angleterre? [Who led the French troops during the Hundred Years' War against England?],,,lvl3
+answer,Marie-Antoinette [Marie Antoinette],,0.0,
+answer,Catherine de Médicis [Catherine de' Medici],,0.0,
+answer,Jeanne d’Arc [Joan of Arc],,1.0,
+question,Quel est l’effet principal de l’édit de Nantes? ?) [What is the main effect of the Edict of Nantes? ?)],,,lvl3
+answer,Le rétablissement de la paix religieuse [The restoration of religious peace],,1.0,
+answer,L’abolition de la monarchie [The abolition of the monarchy],,0.0,
+answer,Le début de la guerre de Cent Ans [The beginning of the Hundred Years' War],,0.0,
+question,Dans quelle vallée se trouve le théâtre romain d’Orange? [In which valley is the Roman theatre of Orange located?],,,lvl3
+answer,Dans la vallée de la Seine [In the Seine valley],,0.0,
+answer,Dans la vallée du Rhône [In the Rhône valley],,1.0,
+answer,Dans la vallée de la Loire [In the Loire valley],,0.0,
+question,Quel roi de France règne de 1643 à 1715? [Which king of France reigned from 1643 to 1715?],,,lvl3
+answer,François Ier [Francis I],,0.0,
+answer,Louis XVI [Louis XVI],,0.0,
+answer,Louis XIV [Louis XIV],,1.0,
+question,Dans quels domaines Léon Zitrone s’est-il illustré? [In which fields did Léon Zitrone distinguish himself?],,,lvl3
+answer,Littérature et poésie [Literature and poetry],,0.0,
+answer,Télévision et grands événements sportifs [Television and major sporting events],,1.0,
+answer,Cinéma et théâtre [Cinema and theatre],,0.0,
+question,"Quels sont des exemples de talents français issus de l’immigration? [What are examples of French talents from immigration?]",,,lvl3
+answer,"Molière, Corneille, Racine, La Fontaine [Molière, Corneille, Racine, La Fontaine]",,0.0,
+answer,"Michel Platini, Zinédine Zidane, Jamel Debbouze, Marie N’Diaye [Michel Platini, Zinedine Zidane, Jamel Debbouze, Marie NDiaye]",,1.0,
+answer,"Victor Hugo, Louis XIV, Jeanne d’Arc, Napoléon Ier [Victor Hugo, Louis XIV, Joan of Arc, Napoleon I]",,0.0,
+question,Quelle était l’origine sociale de Jeanne d’Arc? [What was the social origin of Joan of Arc?],,,lvl3
+answer,Une princesse [A princess],,0.0,
+answer,Une bourgeoise de Paris [A bourgeois from Paris],,0.0,
+answer,Une jeune paysanne [A young peasant girl],,1.0,
+question,Qui a animé l’émission télévisée «Intervilles»? ?) [Who hosted the television show "Intervilles"? ?)],,,lvl3
+answer,Alain Mimoun [Alain Mimoun],,0.0,
+answer,Léon Zitrone [Léon Zitrone],,1.0,
+answer,Georges Moustaki [Georges Moustaki],,0.0,
+question,Quel est le domaine scientifique de Marie Curie? [What is the scientific field of Marie Curie?],,,lvl3
+answer,La biologie [Biology],,0.0,
+answer,La géologie [Geology],,0.0,
+answer,La physique [Physics],,1.0,
+question,Qui a mis en place le régime de Vichy après la défaite française? ?) [Who established the Vichy regime after the French defeat? ?)],,,lvl3
+answer,Charles de Gaulle [Charles de Gaulle],,0.0,
+answer,Napoléon III [Napoleon III],,0.0,
+answer,Le maréchal Pétain [Marshal Pétain],,1.0,
+question,Quelle est une des comédies les plus connues de Molière? [What is one of Molière's most famous comedies?],,,lvl3
+answer,Le Cid [Le Cid],,0.0,
+answer,L’Avare [The Miser],,1.0,
+answer,Les Misérables [Les Misérables],,0.0,
+question,Que s’est-il passé en 1848 en France? [What happened in 1848 in France?],,,lvl3
+answer,La mort de Napoléon Ier [The death of Napoleon I],,0.0,
+answer,L’abolition de l’esclavage [The abolition of slavery],,1.0,
+answer,La naissance de la IIIᵉ République [The birth of the Third Republic],,0.0,
+question,Quelle actrice d’origine algérienne a joué dans «Le Prénom» et «Avocats et associés»? [Which actress of Algerian origin played in "Le Prénom" and "Avocats et associés"?],,,lvl3
+answer,Catherine Deneuve [Catherine Deneuve],,0.0,
+answer,Isabelle Huppert [Isabelle Huppert],,0.0,
+answer,Valérie Benguigui [Valérie Benguigui],,1.0,
+question,Qui est Georges Moustaki? ?) [Who is Georges Moustaki? ?)],,,lvl3
+answer,Un chanteur d’origine italo-grecque [A singer of Italo-Greek origin],,1.0,
+answer,Un peintre d’origine russe [A painter of Russian origin],,0.0,
+answer,Un journaliste d’origine russe [A journalist of Russian origin],,0.0,
+question,À partir de quelle date les Romains s’installent-ils dans ce qui est aujourd’hui la France? [From what date did the Romans settle in what is today France?],,,lvl3
+answer,50 av. J.-C. [50 BC],,1.0,
+answer,500 ap. J.-C. [500 AD],,0.0,
+answer,500 av. J.-C. [500 BC],,0.0,
+question,À partir de quelle décennie Georges Moustaki s’impose-t-il comme un grand nom de la chanson française? ?) [From which decade did Georges Moustaki establish himself as a big name in French music? ?)],,,lvl3
+answer,Années 1960 [1960s],,1.0,
+answer,Années 1980 [1980s],,0.0,
+answer,Années 1940 [1940s],,0.0,
+question,Le Rhône est… [The Rhône is…],,,lvl3
+answer,Une chaîne de montagnes [A mountain range],,0.0,
+answer,Un fleuve [A river],,1.0,
+answer,Un lac [A lake],,0.0,
+question,La Garonne est… [The Garonne is…],,,lvl3
+answer,Un volcan [A volcano],,0.0,
+answer,Une montagne [A mountain],,0.0,
+answer,Un fleuve [A river],,1.0,
+question,Quelle poétesse née en Égypte est aussi une femme de lettres française? [Which poet born in Egypt is also a French woman of letters?],,,lvl3
+answer,George Sand [George Sand],,0.0,
+answer,Marguerite Duras [Marguerite Duras],,0.0,
+answer,Andrée Chedid [Andrée Chedid],,1.0,
+question,Quel type d’État se met en place sous Louis XIV? [What type of state was established under Louis XIV?],,,lvl3
+answer,Un État faible et divisé [A weak and divided state],,0.0,
+answer,Un État puissant et centralisé [A powerful and centralized state],,1.0,
+answer,Un État fédéral [A federal state],,0.0,
+question,Quelle était l’origine de Haroun Tazieff? [What was the origin of Haroun Tazieff?],,,lvl3
+answer,Varsovie [Warsaw],,1.0,
+answer,Athènes [Athens],,0.0,
+answer,Moscou [Moscow],,0.0,
+question,Qui étaient persécutés ou exterminés par les nazis? [Who was persecuted or exterminated by the Nazis?],,,lvl3
+answer,"Juifs, Tziganes, homosexuels, handicapés et opposants politiques [Jews, Gypsies, homosexuals, disabled people and political opponents]",,1.0,
+answer,Seuls les militaires [Only the military],,0.0,
+answer,Nobles et prêtres [Nobles and priests],,0.0,
+question,"Quelles sont les trois caractéristiques de l’école instaurée par Jules Ferry? ?) [What are the three characteristics of the school established by Jules Ferry? ?)]",,,lvl3
+answer,"Privée, payante et catholique [Private, fee-paying and Catholic]",,0.0,
+answer,"Obligatoire, militaire et religieuse [Compulsory, military and religious]",,0.0,
+answer,"Publique, gratuite et laïque [Public, free and secular]",,1.0,
+question,Quelle fonction Françoise Giroud a-t-elle exercée dans la vie politique française? ?) [What function did Françoise Giroud perform in French political life? ?)],,,lvl3
+answer,Ministre de la Défense [Minister of Defense],,0.0,
+answer,Deux fois Secrétaire d’État [Twice Secretary of State],,1.0,
+answer,Première ministre [Prime Minister],,0.0,
+question,Quelle discipline Haroun Tazieff a-t-elle fait connaître au grand public? [Which discipline did Haroun Tazieff make known to the general public?],,,lvl3
+answer,L’astronomie [Astronomy],,0.0,
+answer,La volcanologie [Volcanology],,1.0,
+answer,La météorologie [Meteorology],,0.0,
+question,Combien d’entreprises sont regroupées à Paris La Défense? [How many companies are grouped in Paris La Défense?],,,lvl3
+answer,500 [500],,1.0,
+answer,5 000 [5,000],,0.0,
+answer,50 [50],,0.0,
+question,Quel roi a lancé la construction du château de Versailles? ?) [Which king started the construction of the Palace of Versailles? ?)],,,lvl3
+answer,Napoléon Ier [Napoleon I],,0.0,
+answer,François Ier [Francis I],,0.0,
+answer,Louis XIV [Louis XIV],,1.0,
+question,Quelle physicienne née en Pologne a découvert la radioactivité? [Which Polish-born physicist discovered radioactivity?],,,lvl3
+answer,Rosalind Franklin [Rosalind Franklin],,0.0,
+answer,Irène Joliot-Curie [Irène Joliot-Curie],,0.0,
+answer,Marie Curie [Marie Curie],,1.0,
+question,Qui est Joseph Kessel? ?) [Who is Joseph Kessel? ?)],,,lvl3
+answer,Un journaliste d’origine russe [A journalist of Russian origin],,0.0,
+answer,Un chanteur d’origine italo-grecque [A singer of Italo-Greek origin],,0.0,
+answer,Un grand reporter et romancier né en Argentine [A great reporter and novelist born in Argentina],,1.0,
+question,Avec quelle République Léon Gambetta est-il associé? ?) [With which Republic is Léon Gambetta associated? ?)],,,lvl3
+answer,La Ve République [The Fifth Republic],,0.0,
+answer,La IIIᵉ République [The Third Republic],,1.0,
+answer,La Iʳᵉ République [The First Republic],,0.0,
+question,Avec quelle découverte Georges Charpak est-il associé? ?) [With which discovery is Georges Charpak associated? ?)],,,lvl3
+answer,La vaccination [Vaccination],,0.0,
+answer,La détection des particules [Particle detection],,1.0,
+answer,La biologie cellulaire [Cell biology],,0.0,
+question,Quelle est la plus haute montagne d’Europe? [What is the highest mountain in Europe?],,,lvl3
+answer,Le Mont-Blanc [Mont Blanc],,1.0,
+answer,Le Kilimandjaro [Mount Kilimanjaro],,0.0,
+answer,L’Elbrouz [Mount Elbrus],,0.0,
+question,Quel roi de France publie l’édit de Nantes en 1598? ?) [Which king of France published the Edict of Nantes in 1598? ?)],,,lvl3
+answer,Henri IV [Henry IV],,1.0,
+answer,François Ier [Francis I],,0.0,
+answer,Louis XIII [Louis XIII],,0.0,
+question,Combien de temps environ Napoléon Ier a-t-il dirigé la France? [Approximately how long did Napoleon I rule France?],,,lvl3
+answer,Près de 30 ans [Nearly 30 years],,0.0,
+answer,Près de 5 ans [Nearly 5 years],,0.0,
+answer,Près de 15 ans [Nearly 15 years],,1.0,
+question,Qui est considéré comme le père de la volcanologie contemporaine? [Who is considered the father of contemporary volcanology?],,,lvl3
+answer,Haroun Tazieff [Haroun Tazieff],,1.0,
+answer,Georges Charpak [Georges Charpak],,0.0,
+answer,Joseph Kessel [Joseph Kessel],,0.0,
+question,Combien d’agglomérations françaises comptent plus de 500 000 habitants? [How many French urban areas have more than 500,000 inhabitants?],,,lvl3
+answer,17 [17],,1.0,
+answer,27 [27],,0.0,
+answer,10 [10],,0.0,
+question,Combien de fois Romain Gary a-t-il reçu le prix Goncourt? [How many times did Romain Gary receive the Goncourt Prize?],,,lvl3
+answer,Une fois [Once],,0.0,
+answer,Trois fois [Three times],,0.0,
+answer,Deux fois [Twice],,1.0,
+question,Qui est Vassily Kandinsky? (Vassily Kandinsky) ?) [Who is Wassily Kandinsky? (Wassily Kandinsky) ?)],,,lvl3
+answer,Un journaliste d’origine russe [A journalist of Russian origin],,0.0,
+answer,Un écrivain né en Argentine [A writer born in Argentina],,0.0,
+answer,"Un peintre d’origine russe, fondateur de l’art abstrait [A Russian-born painter, founder of abstract art]",,1.0,
+question,Dans quel film a joué Valérie Benguigui? [In which film did Valérie Benguigui play?],,,lvl3
+answer,Le Prénom [Le Prénom],,1.0,
+answer,Les Misérables [Les Misérables],,0.0,
+answer,La Grande Vadrouille [La Grande Vadrouille],,0.0,
+question,Quelle est la superficie du territoire français (métropole et outre-mer)? ?) [What is the surface area of the French territory (mainland and overseas)? ?)],,,lvl3
+answer,1 million km² [1 million km²],,0.0,
+answer,450 000 km² [450,000 km²],,0.0,
+answer,675 000 km² [675,000 km²],,1.0,
+question,Quelles guerres ont marqué la décolonisation française? [Which wars marked French decolonization?],,,lvl3
+answer,Les guerres d’Indochine et d’Algérie [The Indochina and Algerian wars],,1.0,
+answer,La guerre de Crimée et la guerre de 1870 [The Crimean War and the 1870 War],,0.0,
+answer,La guerre de Corée et la guerre du Vietnam [The Korean War and the Vietnam War],,0.0,
+question,Combien de grands groupes de plus de 10 000 salariés compte la France? [How many large groups of more than 10,000 employees does France have?],,,lvl3
+answer,Plusieurs milliers [Several thousands],,0.0,
+answer,Une centaine [A hundred or so],,1.0,
+answer,Une dizaine [About ten],,0.0,
+question,En quelles années a eu lieu la décolonisation française? ?) [In what years did French decolonization take place? ?)],,,lvl3
+answer,Entre 1914 et 1918 [Between 1914 and 1918],,0.0,
+answer,Entre 1950 et 1962 [Between 1950 and 1962],,1.0,
+answer,Entre 1981 et 1995 [Between 1981 and 1995],,0.0,
+question,Qui est considéré comme le plus célèbre auteur de théâtre français du 17e siècle? [Who is considered the most famous French playwright of the 17th century?],,,lvl3
+answer,Molière [Molière],,1.0,
+answer,Corneille [Corneille],,0.0,
+answer,Victor Hugo [Victor Hugo],,0.0,
+question,Combien de morts la Première Guerre mondiale a-t-elle faits environ? [Approximately how many deaths did the First World War cause?],,,lvl3
+answer,Moins d’un million [Less than a million],,0.0,
+answer,Plus de 9 millions [Over 9 million],,1.0,
+answer,Plus de 50 millions [Over 50 million],,0.0,
+question,Comment est qualifiée la monarchie sous Louis XIV? [How is the monarchy described under Louis XIV?],,,lvl3
+answer,Une monarchie élective [An elective monarchy],,0.0,
+answer,Une monarchie absolue [An absolute monarchy],,1.0,
+answer,Une monarchie parlementaire [A parliamentary monarchy],,0.0,
+question,En quelle année l’âge de la majorité a-t-il été fixé à 18 ans? [In what year was the age of majority set at 18?],,,lvl3
+answer,En 1981 [In 1981],,0.0,
+answer,En 1957 [In 1957],,0.0,
+answer,En 1974 [In 1974],,1.0,
+question,"Quelle artiste d’origine américaine fut danseuse, chanteuse et résistante en France pendant la Seconde Guerre mondiale? ?) [Which American-born artist was a dancer, singer, and resistance fighter in France during the Second World War? ?)]",,,lvl3
+answer,Joséphine Baker [Josephine Baker],,1.0,
+answer,Nina Simone [Nina Simone],,0.0,
+answer,Aretha Franklin [Aretha Franklin],,0.0,
+question,Quelle école artistique Vassily Kandinsky contribue-t-il à fonder? [Which artistic school did Wassily Kandinsky help found?],,,lvl3
+answer,L’art abstrait [Abstract art],,1.0,
+answer,L’impressionnisme [Impressionism],,0.0,
+answer,Le cubisme [Cubism],,0.0,
+question,Quelle République est proclamée en 1792? [Which Republic was proclaimed in 1792?],,,lvl3
+answer,La Première République [The First Republic],,1.0,
+answer,La Deuxième République [The Second Republic],,0.0,
+answer,La Cinquième République [The Fifth Republic],,0.0,
+question,Au temps de quel roi Molière a-t-il vécu? ?) [In the time of which king did Molière live? ?)],,,lvl3
+answer,Louis XIV [Louis XIV],,1.0,
+answer,Louis XVI [Louis XVI],,0.0,
+answer,Napoléon Ier [Napoleon I],,0.0,
+question,"Dans quelles régions du monde la France a-t-elle constitué un empire colonial au 19ᵉ siècle? [In which regions of the world did France build a colonial empire in the 19th century?]",,,lvl3
+answer,En Océanie et en Amérique du Nord [In Oceania and North America],,0.0,
+answer,En Scandinavie et au Moyen-Orient [In Scandinavia and the Middle East],,0.0,
+answer,"Aux Antilles, en Afrique et en Asie [In the West Indies, Africa and Asia]",,1.0,
+question,Qu’adoptent les populations locales après l’installation des Romains? [What did local populations adopt after the Romans settled?],,,lvl3
+answer,Leur mode de vie et la culture latine [Their way of life and Latin culture],,1.0,
+answer,Leur organisation viking [Their Viking organization],,0.0,
+answer,Leur langue grecque [Their Greek language],,0.0,
+question,Quel pays Adolf Hitler a-t-il envahi notamment? [Which country did Adolf Hitler notably invade?],,,lvl3
+answer,La France [France],,1.0,
+answer,Les États-Unis [The United States],,0.0,
+answer,Le Royaume-Uni [The United Kingdom],,0.0,
+question,Qu’est-ce qui s’élève sur le Mont-Saint-Michel? ?) [What rises on Mont-Saint-Michel? ?)],,,lvl3
+answer,Une abbaye [An abbey],,1.0,
+answer,Un palais royal [A royal palace],,0.0,
+answer,Un château fort [A fortified castle],,0.0,
+question,Où la décolonisation française s’est-elle poursuivie après l’Asie? [Where did French decolonization continue after Asia?],,,lvl3
+answer,En Afrique [In Africa],,1.0,
+answer,En Amérique du Sud [In South America],,0.0,
+answer,En Océanie [In Oceania],,0.0,
+question,Quelle importance a l’action de Clovis dans l’histoire de France? [What importance does the action of Clovis have in the history of France?],,,lvl3
+answer,Elle divise définitivement le territoire [It permanently divides the territory],,0.0,
+answer,Elle constitue une étape vers l’unité du territoire français [It constitutes a step towards the unity of the French territory],,1.0,
+answer,Elle entraîne la disparition de la royauté [It leads to the disappearance of the monarchy],,0.0,
+question,Quelle expression décrit Joséphine Baker? [What expression describes Josephine Baker?],,,lvl3
+answer,Poétesse symboliste [Symbolist poet],,0.0,
+answer,Actrice comique [Comic actress],,0.0,
+answer,Meneuse de revue noire [Black revue leader],,1.0,
+question,"Quels philosophes du 18e siècle ont combattu pour la tolérance et la liberté de pensée? [Which 18th-century philosophers fought for tolerance and freedom of thought?]",,,lvl3
+answer,"Rousseau, Voltaire, Diderot [Rousseau, Voltaire, Diderot]",,1.0,
+answer,"Montesquieu, Balzac, Hugo [Montesquieu, Balzac, Hugo]",,0.0,
+answer,"Pasteur, Descartes, Zola [Pasteur, Descartes, Zola]",,0.0,
+question,Quelle chanteuse d’origine égyptienne a connu de grands succès populaires comme «Bambino» ou «Laissez-moi danser»? [Which singer of Egyptian origin had great popular success with songs like "Bambino" or "Laissez-moi danser"?],,,lvl3
+answer,Barbara [Barbara],,0.0,
+answer,Dalida [Dalida],,1.0,
+answer,Edith Piaf [Edith Piaf],,0.0,
+question,Quel est le premier quartier d’affaires d’Europe? [What is the first business district in Europe?],,,lvl3
+answer,La City de Londres [The City of London],,0.0,
+answer,Paris La Défense [Paris La Défense],,1.0,
+answer,Francfort [Frankfurt],,0.0,
+question,À quel siècle a vécu Diderot? ?) [In which century did Diderot live? ?)],,,lvl3
+answer,Au 19ᵉ siècle [In the 19th century],,0.0,
+answer,Au 15ᵉ siècle [In the 15th century],,0.0,
+answer,Au 18ᵉ siècle [In the 18th century],,1.0,
+question,Dans quels domaines de transport la France est-elle un leader mondial? [In which transport fields is France a world leader?],,,lvl3
+answer,Transport maritime et ferroviaire [Maritime and rail transport],,1.0,
+answer,Transport spatial et fluvial [Space and river transport],,0.0,
+answer,Transport routier et aérien [Road and air transport],,0.0,
+question,À quel siècle a vécu Voltaire? ?) [In which century did Voltaire live? ?)],,,lvl3
+answer,Au 18ᵉ siècle [In the 18th century],,1.0,
+answer,Au 16ᵉ siècle [In the 16th century],,0.0,
+answer,Au 20ᵉ siècle [In the 20th century],,0.0,
+question,À quel siècle a vécu Rousseau? ?) [In which century did Rousseau live? ?)],,,lvl3
+answer,Au 18ᵉ siècle [In the 18th century],,1.0,
+answer,Au 17ᵉ siècle [In the 17th century],,0.0,
+answer,Au 19ᵉ siècle [In the 19th century],,0.0,
+question,"Combien de pays participaient à la CEE à sa création? ?) [How many countries participated in the EEC at its creation? ?)]",,,lvl3
+answer,"Six, dont la France [Six, including France]",,1.0,
+answer,Douze [Twelve],,0.0,
+answer,Vingt-sept [Twenty-seven],,0.0,

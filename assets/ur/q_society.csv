@@ -1,0 +1,281 @@
+type,text,placeholder,is_correct,level
+question,"Quel numéro d'urgence permet d'appeler le SAMU ? ?) (میڈیکل ایمرجنسی (SAMU) کو کال کرنے کے لیے کون سا ایمرجنسی نمبر ہے؟)",,,lvl1
+answer,"17 (17)",,0.0,
+answer,"15 (15)",,1.0,
+answer,"18 (18)",,0.0,
+question,"Quel numéro d'urgence permet d'appeler les pompiers ? ?) (فائر بریگیڈ کو کال کرنے کے لیے کون سا ایمرجنسی نمبر ہے؟)",,,lvl1
+answer,"15 (15)",,0.0,
+answer,"18 (18)",,1.0,
+answer,"17 (17)",,0.0,
+question,"Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ? (ڈرائیونگ لائسنس حاصل کرنے کے بعد، اپنی گاڑی چلانے کے لیے کیا کرنا ضروری ہے؟)",,,lvl1
+answer,"Faire refaire sa carte d'identité. (اپنا شناختی کارڈ دوبارہ بنوانا۔)",,0.0,
+answer,"Faire assurer son véhicule (assurance obligatoire).।) (اپنی گاڑی کی انشورنس کروانا (انشورنس لازمی ہے)۔)",,1.0,
+answer,"Apposer un drapeau français sur la voiture. (گاڑی پر فرانسیسی جھنڈا لگانا۔)",,0.0,
+question,"À quelles conditions un mariage est-il reconnu juridiquement ? (شادی کن شرائط پر قانونی طور پر تسلیم کی جاتی ہے؟)",,,lvl1
+answer,"Seulement s'il est célébré par une autorité religieuse. (صرف اس صورت میں جب یہ کسی مذہبی اتھارٹی کے ذریعہ انجام پائے۔)",,0.0,
+answer,"Seulement s'il est célébré à la mairie par une autorité civile. (صرف اس صورت میں جب یہ ٹاؤن ہال میں کسی سول اتھارٹی کے ذریعہ انجام پائے۔)",,1.0,
+answer,"S'il est célébré par l'Ambassade. (اگر یہ سفارت خانے کے ذریعہ انجام پائے۔)",,0.0,
+question,"Quand faut-il déclarer son enfant au service d'état civil de la mairie ? ?) (ٹاؤن ہال کے سول اسٹیٹ آفس میں اپنے بچے کا اندراج کب کروانا چاہیے؟)",,,lvl1
+answer,"Dans les 30 jours après la naissance. (پیدائش کے 30 دن کے اندر۔)",,0.0,
+answer,"Dans les 5 jours après la naissance (délai de 8 jours dans certaines communes).।) (پیدائش کے 5 دن کے اندر (کچھ میونسپلٹیوں میں 8 دن کی مہلت)۔)",,1.0,
+answer,"Dans l'année suivant la naissance. (پیدائش کے بعد ایک سال کے اندر۔)",,0.0,
+question,"Le travail non déclaré est : (غیر اعلانیہ (کالا) کام ہے:)",,,lvl1
+answer,"Autorisé s'il ne dépasse pas 10 heures par semaine. (اگر یہ فی ہفتہ 10 گھنٹے سے زیادہ نہ ہو تو جائز ہے۔)",,0.0,
+answer,"Interdit et puni par la loi (travail dissimulé).।) (ممنوع ہے اور قانون کے ذریعہ قابل سزا ہے (چھپا ہوا کام)۔)",,1.0,
+answer,"Toléré pour les emplois de courte durée. (مختصر مدت کی ملازمتوں کے لیے برداشت کیا جاتا ہے۔)",,0.0,
+question,"Que doit faire un employeur pour fixer un salaire ? (تنخواہ مقرر کرنے کے لیے آجر کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"Le fixer librement sans contrainte. (بغیر کسی پابندی کے اسے آزادانہ طور پر مقرر کرے۔)",,0.0,
+answer,"Respecter le salaire minimum légal (SMIC) et les conventions collectives. ।) (قانونی کم از کم اجرت (SMIC) اور اجتماعی معاہدوں کا احترام کرے۔)",,1.0,
+answer,"Se baser uniquement sur le salaire d'autres pays. (صرف دوسرے ممالک کی تنخواہوں پر انحصار کرے۔)",,0.0,
+question,"Qu'est-ce que le SMIC ? (SMIC کیا ہے؟)",,,lvl1
+answer,"Le service militaire civique. (شہری فوجی خدمت۔)",,0.0,
+answer,"Le salaire maximum en France. (فرانس میں زیادہ سے زیادہ تنخواہ۔)",,0.0,
+answer,"Le salaire minimum légal que l'employeur doit payer. (کم از کم قانونی تنخواہ جو آجر کو ادا کرنی چاہیے۔)",,1.0,
+question,"Quelle est la première démarche à réaliser pour chercher un emploi ? (نوکری تلاش کرنے کے لیے سب سے پہلا قدم کیا ہے؟)",,,lvl1
+answer,"Acheter un costume de marque. (ایک برانڈڈ سوٹ خریدنا۔)",,0.0,
+answer,"S'inscrire auprès du service public de l'emploi (Pôle emploi, ou France Travail). ।) (پبلک ایمپلائمنٹ سروس (Pôle emploi یا France Travail) میں رجسٹریشن کروانا۔)",,1.0,
+answer,"Attendre qu'une entreprise vous appelle. (کسی کمپنی کے کال کرنے کا انتظار کرنا۔)",,0.0,
+question,"Quelle est la durée légale du temps de travail par semaine ? (فی ہفتہ کام کے وقت کی قانونی مدت کیا ہے؟)",,,lvl1
+answer,"39 heures (39 گھنٹے)",,0.0,
+answer,"35 heures (35 گھنٹے)",,1.0,
+answer,"45 heures (45 گھنٹے)",,0.0,
+question,"Qui est aidé par France Travail ? ?) (فرانس ٹراوائی (France Travail) کس کی مدد کرتا ہے؟)",,,lvl1
+answer,"Uniquement les étrangers. (صرف غیر ملکیوں کی۔)",,0.0,
+answer,"Uniquement les jeunes de moins de 25 ans. (صرف 25 سال سے کم عمر کے نوجوانوں کی۔)",,0.0,
+answer,"Toute personne en recherche d’emploi (travailleurs, salariés, demandeurs d'emploi...).।) (نوکری تلاش کرنے والے ہر شخص کی (ورکرز، ملازمین، نوکری کے متلاشی...)۔)",,1.0,
+question,"Une personne étrangère en situation régulière peut créer son entreprise : (باقاعدہ قانونی حیثیت رکھنے والا غیر ملکی شخص اپنا کاروبار بنا سکتا ہے:)",,,lvl1
+answer,"Seulement si elle est mariée à un(e) Français(e). (صرف اس صورت میں جب اس کی شادی کسی فرانسیسی سے ہوئی ہو۔)",,0.0,
+answer,"Oui, sous les mêmes conditions qu’un citoyen français. (جی ہاں، بالکل انہی شرائط کے تحت جو ایک فرانسیسی شہری کے لیے ہیں۔)",,1.0,
+answer,"Non, ce droit est réservé aux nationaux. (نہیں، یہ حق صرف شہریوں کے لیے مخصوص ہے۔)",,0.0,
+question,"Une femme peut-elle créer son entreprise ? (کیا ایک عورت اپنا کاروبار بنا سکتی ہے؟)",,,lvl1
+answer,"Oui, mais seulement avec l'accord de son mari. (جی ہاں، لیکن صرف اپنے شوہر کی رضامندی سے۔)",,0.0,
+answer,"Non, si elle est mère. (نہیں، اگر وہ ماں ہے۔)",,0.0,
+answer,"Oui, elle a les mêmes droits que l'homme de créer et gérer une entreprise. (جی ہاں، اسے کاروبار بنانے اور چلانے کے مردوں کے برابر حقوق حاصل ہیں۔)",,1.0,
+question,"À partir de quel âge un mineur peut-il travailler ? (ایک نابالغ کس عمر سے کام کر سکتا ہے؟)",,,lvl1
+answer,"À partir de 14 ans sans aucune condition. (14 سال کی عمر سے بغیر کسی شرط کے۔)",,0.0,
+answer,"À partir de 16 ans (ou 14 ans pour certains travaux légers ou stages).।) (16 سال کی عمر سے (یا کچھ ہلکے کاموں اور انٹرنشپ کے لیے 14 سال سے)۔)",,1.0,
+answer,"À partir de 18 ans seulement. (صرف 18 سال کی عمر سے۔)",,0.0,
+question,"Auprès de quel organisme faut-il demander le remboursement des frais de santé ? (صحت کے اخراجات کی واپسی کے لیے کس ادارے سے درخواست کرنی چاہیے؟)",,,lvl1
+answer,"Auprès de la préfecture. (پریفیکچر سے۔)",,0.0,
+answer,"Auprès de l'Assurance Maladie (Caisse Primaire d'Assurance Maladie - CPAM). ।) (ہیلتھ انشورنس (CPAM) سے۔)",,1.0,
+answer,"Auprès de la banque. (بینک سے۔)",,0.0,
+question,"Qu’est-ce qu’un numéro d’urgence ? (ایمرجنسی نمبر کیا ہوتا ہے؟)",,,lvl1
+answer,"Un numéro de téléphone pour commander de la nourriture. (کھانا آرڈر کرنے کا فون نمبر۔)",,0.0,
+answer,"Un numéro gratuit permettant d'appeler les secours (police, pompiers, SAMU) pour un danger immédiat. ।) (فوری خطرے کی صورت میں امداد (پولیس، فائر بریگیڈ، ایمبولینس) بلانے کا ایک مفت نمبر۔)",,1.0,
+answer,"Un numéro de service client. (کسٹمر سروس کا نمبر۔)",,0.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? (علاج تک رسائی کے حوالے سے کون سی تجویز درست ہے؟)",,,lvl1
+answer,"Seuls les Français peuvent être soignés. (صرف فرانسیسیوں کا علاج کیا جا سکتا ہے۔)",,0.0,
+answer,"Toute personne résidant en France a droit à une prise en charge de ses frais de santé (sous certaines conditions).।) (فرانس میں رہنے والے ہر شخص کو (کچھ شرائط کے تحت) اپنے علاج کے اخراجات کی کوریج کا حق حاصل ہے۔)",,1.0,
+answer,"Il faut payer la totalité de l'hospitalisation sans remboursement possible. (ہسپتال کے تمام اخراجات خود ادا کرنے ہوتے ہیں اور ان کی واپسی ممکن نہیں ہوتی۔)",,0.0,
+question,"En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ? (غیر ہنگامی صحت کے مسئلے کی صورت میں سب سے پہلے کس سے رابطہ کرنا چاہیے؟)",,,lvl1
+answer,"Aux urgences de l'hôpital (ہسپتال کی ایمرجنسی میں)",,0.0,
+answer,"Au médecin traitant (médecin généraliste déclaré). ।) (اپنے فیملی ڈاکٹر (رجسٹرڈ جنرل فزیشن) سے۔)",,1.0,
+answer,"Aux pompiers (فائر بریگیڈ سے)",,0.0,
+question,"Quel est le rôle du médecin traitant ? ?) (فیملی ڈاکٹر کا کیا کردار ہے؟)",,,lvl1
+answer,"Il assure le suivi régulier du patient et l'oriente vers des spécialistes (parcours de soins coordonnés).।) (وہ مریض کی باقاعدہ دیکھ بھال کرتا ہے اور اسے ماہرین کی طرف بھیجتا ہے۔)",,1.0,
+answer,"Il distribue les médicaments gratuitement. (وہ مفت ادویات تقسیم کرتا ہے۔)",,0.0,
+answer,"Il donne des conseils pour trouver un emploi. (وہ نوکری تلاش کرنے کے لیے مشورے دیتا ہے۔)",,0.0,
+question,"Dans quelles situations doit-on se rendre aux urgences de l'hôpital ? (کن حالات میں ہسپتال کی ایمرجنسی میں جانا چاہیے؟)",,,lvl1
+answer,"Pour un simple rhume. (معمولی نزلہ زکام کے لیے۔)",,0.0,
+answer,"Pour faire renouveler une ordonnance. (ڈاکٹر کا نسخہ نیا کروانے کے لیے۔)",,0.0,
+answer,"En cas d'urgence vitale (AVC, infarctus, blessure grave...) ou lorsque le médecin traitant n'est pas disponible et que l'état de santé le nécessite. ।) (جان لیوا ایمرجنسی (فالج، ہارٹ اٹیک، شدید چوٹ...) یا جب فیملی ڈاکٹر دستیاب نہ ہو اور صحت کی حالت کا یہ تقاضا ہو۔)",,1.0,
+question,"Quel est l’objectif des vaccinations obligatoires ? (لازمی ویکسینیشن کا مقصد کیا ہے؟)",,,lvl1
+answer,"Réduire le nombre d'enfants dans les écoles. (اسکولوں میں بچوں کی تعداد کو کم کرنا۔)",,0.0,
+answer,"Protéger l'enfant et l'ensemble de la population (immunité collective).।) (بچے اور پوری آبادی کی حفاظت کرنا (اجتماعی قوت مدافعت)۔)",,1.0,
+answer,"Augmenter les revenus des médecins. (ڈاکٹروں کی آمدنی بڑھانا۔)",,0.0,
+question,"À quoi sert la carte Vitale ? ?) (کارٹ وٹال (Carte Vitale) کس کام آتا ہے؟)",,,lvl1
+answer,"À payer ses impôts. (ٹیکس ادا کرنے کے لیے۔)",,0.0,
+answer,"À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. ।) (ہیلتھ انشورنس میں اپنے حقوق کی تصدیق اور علاج کے اخراجات کی واپسی کو آسان بنانے کے لیے۔)",,1.0,
+answer,"À prouver son identité. (اپنی شناخت ثابت کرنے کے لیے۔)",,0.0,
+question,"À quoi sert une mutuelle santé ? ?) (میوچول ہیلتھ انشورنس کس کام آتی ہے؟)",,,lvl1
+answer,"À remplacer l'Assurance Maladie. (یہ ہیلتھ انشورنس (Assurance Maladie) کی جگہ لیتی ہے۔)",,0.0,
+answer,"À compléter le remboursement des frais de santé non couverts par l'Assurance Maladie. (یہ ان طبی اخراجات کی ادائیگی مکمل کرتی ہے جو سرکاری ہیلتھ انشورنس کے تحت نہیں آتے۔)",,1.0,
+answer,"À payer l'école des enfants. (بچوں کے اسکول کی فیس ادا کرنے کے لیے۔)",,0.0,
+question,"Jusqu'à quel âge l'école est-elle obligatoire ? (اسکول کی تعلیم کس عمر تک لازمی ہے؟)",,,lvl1
+answer,"Jusqu'à 14 ans. (14 سال کی عمر تک۔)",,0.0,
+answer,"De 3 ans à 16 ans. (3 سال سے 16 سال تک۔)",,1.0,
+answer,"Jusqu'à 18 ans. (18 سال کی عمر تک۔)",,0.0,
+question,"L'autorité parentale prévoit l'obligation : (والدین کی اتھارٹی کس بات کی پابند کرتی ہے:)",,,lvl1
+answer,"D'envoyer son enfant travailler. (اپنے بچے کو کام پر بھیجنے کی۔)",,0.0,
+answer,"De protéger son enfant, de l'éduquer et de subvenir à ses besoins. (اپنے بچے کی حفاظت کرنے، اسے تعلیم دلانے اور اس کی ضروریات پوری کرنے کی۔)",,1.0,
+answer,"De laisser l'enfant choisir tout seul son école dès 6 ans. (بچے کو 6 سال کی عمر سے ہی اپنا اسکول خود منتخب کرنے دینے کی۔)",,0.0,
+question,"Pour qui l'école est-elle obligatoire ? (اسکول کس کے لیے لازمی ہے؟)",,,lvl1
+answer,"Seulement pour les enfants de nationalité française. (صرف فرانسیسی شہریت والے بچوں کے لیے۔)",,0.0,
+answer,"Pour tous les enfants (français et étrangers) résidant sur le territoire français de 3 à 16 ans. ।) (فرانسیسی سرزمین پر رہنے والے 3 سے 16 سال کے تمام بچوں (فرانسیسی اور غیر ملکی) کے لیے۔)",,1.0,
+answer,"Seulement pour les garçons. (صرف لڑکوں کے لیے۔)",,0.0,
+question,"Quel diplôme obtient-on à la fin du lycée ? (لائسیم (Lycée) کے اختتام پر کون سی ڈگری ملتی ہے؟)",,,lvl1
+answer,"Le Brevet des collèges (مڈل اسکول کا سرٹیفکیٹ)",,0.0,
+answer,"Le Baccalauréat (BAC)) (بیکالوریا (BAC))",,1.0,
+answer,"Le Certificat d'études primaires (پرائمری تعلیم کا سرٹیفکیٹ)",,0.0,
+question,"Dans quels établissements scolaires vont les élèves après l'école élémentaire ? (پرائمری اسکول کے بعد طلباء کن تعلیمی اداروں میں جاتے ہیں؟)",,,lvl1
+answer,"À l'université (یونیورسٹی میں)",,0.0,
+answer,"Au collège (مڈل اسکول (کالج) میں)",,1.0,
+answer,"Au lycée (ہائی اسکول (لائسیم) میں)",,0.0,
+question,"Quel établissement scolaire accueille les enfants de 6 à 11 ans ? (کون سا تعلیمی ادارہ 6 سے 11 سال کے بچوں کو داخلہ دیتا ہے؟)",,,lvl1
+answer,"L'école maternelle (نرسری اسکول)",,0.0,
+answer,"L'école élémentaire (پرائمری اسکول)",,1.0,
+answer,"Le lycée professionnel (ووکیشنل ہائی اسکول)",,0.0,
+question,"Un enfant inscrit à l'école : (اسکول میں داخل ایک بچہ:)",,,lvl1
+answer,"Peut faire ce qu'il veut pendant les cours. (کلاس کے دوران جو چاہے کر سکتا ہے۔)",,0.0,
+answer,"Doit respecter les règles de l'école (règlement intérieur) et le principe de laïcité. ।) (اسے اسکول کے قوانین اور سیکولرازم کے اصول کا احترام کرنا چاہیے۔)",,1.0,
+answer,"N'a pas besoin de respecter les enseignants. (اسے اساتذہ کا احترام کرنے کی ضرورت نہیں ہے۔)",,0.0,
+question,"Les enfants qui ne parlent pas français : (جو بچے فرانسیسی نہیں بولتے:)",,,lvl1
+answer,"Ne peuvent pas aller à l'école. (وہ اسکول نہیں جا سکتے۔)",,0.0,
+answer,"Sont accueillis à l'école et peuvent bénéficier de dispositifs pour l'apprentissage du français. (انہیں اسکول میں داخلہ دیا جاتا ہے اور وہ فرانسیسی سیکھنے کے لیے سہولیات سے فائدہ اٹھا سکتے ہیں۔)",,1.0,
+answer,"Doivent apprendre le français seuls avant de venir en classe. (انہیں کلاس میں آنے سے پہلے خود فرانسیسی سیکھنی چاہیے۔)",,0.0,
+question,"Quel mariage est reconnu par l'État ? (ریاست کس شادی کو تسلیم کرتی ہے؟)",,,lvl2
+answer,"Le mariage religieux. (مذہبی شادی کو۔)",,0.0,
+answer,"Le mariage civil (célébré à la mairie).।) (سول شادی (جو ٹاؤن ہال میں انجام پائے)۔)",,1.0,
+answer,"Le mariage fait à l'étranger sans transcription. (بیرون ملک کی گئی شادی جس کا اندراج نہ ہوا ہو۔)",,0.0,
+question,"Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ? (والدین اپنے بچے کو سرکاری اسکول میں داخل کروانے کے لیے کس ادارے سے رابطہ کر سکتے ہیں؟)",,,lvl2
+answer,"Auprès de la préfecture. (پریفیکچر سے۔)",,0.0,
+answer,"Auprès de la mairie de leur commune de résidence. (اپنی رہائشی میونسپلٹی کے ٹاؤن ہال سے۔)",,1.0,
+answer,"Auprès du tribunal. (عدالت سے۔)",,0.0,
+question,"En cas de divorce, qui exerce l'autorité parentale ? (طلاق کی صورت میں والدین کا حق (اتھارٹی) کس کے پاس ہوتا ہے؟)",,,lvl2
+answer,"Seulement le parent qui a la garde des enfants. (صرف اس کے پاس جس کے پاس بچوں کی تحویل ہو۔)",,0.0,
+answer,"Les deux parents en commun (sauf décision contraire du juge). (دونوں والدین کے پاس مشترکہ طور پر (سوائے اس کے کہ جج کا فیصلہ کچھ اور ہو)۔)",,1.0,
+answer,"Uniquement la mère. (صرف ماں کے پاس۔)",,0.0,
+question,"Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ? (مالی مشکلات کا شکار افراد کو وکیل کی خدمات حاصل کرنے کے لیے کون سی مدد دی جاتی ہے؟)",,,lvl2
+answer,"L'aide au logement. (ہاؤسنگ الاؤنس۔)",,0.0,
+answer,"L'aide juridictionnelle.।) (قانونی امداد۔)",,1.0,
+answer,"L'allocation chômage. (بے روزگاری الاؤنس۔)",,0.0,
+question,"Où faut-il déclarer la naissance d'un enfant ? (بچے کی پیدائش کا اندراج کہاں کروانا چاہیے؟)",,,lvl2
+answer,"Auprès de la police. (پولیس کے پاس۔)",,0.0,
+answer,"Auprès de l'état civil de la mairie du lieu de naissance. ।) (جائے پیدائش کے ٹاؤن ہال کے سول اسٹیٹ آفس میں۔)",,1.0,
+answer,"Auprès du consulat. (قونصل خانے میں۔)",,0.0,
+question,"Quelle est l'une des conditions pour passer l'examen du permis de conduire ? (ڈرائیونگ لائسنس کا امتحان دینے کی شرائط میں سے ایک کیا ہے؟)",,,lvl2
+answer,"Avoir déjà possédé une voiture. (پہلے سے گاڑی کا مالک ہونا۔)",,0.0,
+answer,"Être âgé d'au moins 18 ans (sauf conduite accompagnée).।) (کم از کم 18 سال کا ہونا (سوائے نگرانی میں ڈرائیونگ کے)۔)",,1.0,
+answer,"Parler couramment le français. (روانی سے فرانسیسی بولنا۔)",,0.0,
+question,"Un bail locatif est valide s'il est : (کرائے کا معاہدہ اس وقت کارآمد ہے اگر یہ:)",,,lvl2
+answer,"Seulement oral. (صرف زبانی ہو۔)",,0.0,
+answer,"Écrit et signé par le locataire et le propriétaire (ou agence). ।) (لکھا ہوا ہو اور کرایہ دار اور مالک (یا ایجنسی) کے دستخط شدہ ہو۔)",,1.0,
+answer,"Seulement visé par le tribunal. (صرف عدالت سے تصدیق شدہ ہو۔)",,0.0,
+question,"Où peut-on déposer un lave-vaisselle cassé ? (خراب ڈش واشر کہاں پھینکا جا سکتا ہے؟)",,,lvl2
+answer,"Dans les poubelles de la rue. (سڑک کے کوڑے دان میں۔)",,0.0,
+answer,"À la déchetterie (ou par la collecte des encombrants).।) (کچرا جمع کرنے والے مرکز میں (یا بھاری سامان اٹھانے والی سروس کے ذریعے)۔)",,1.0,
+answer,"Dans la forêt. (جنگل میں۔)",,0.0,
+question,"Quel numéro d'urgence permet d'appeler la police ? (پولیس کو بلانے کا ایمرجنسی نمبر کون سا ہے؟)",,,lvl2
+answer,"18 (18)",,0.0,
+answer,"15 (15)",,0.0,
+answer,"17 (17)",,1.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? (علاج تک رسائی کے حوالے سے کون سی تجویز درست ہے؟)",,,lvl2
+answer,"L'accès aux soins est réservé aux Français. (علاج تک رسائی صرف فرانسیسیوں کے لیے مخصوص ہے۔)",,0.0,
+answer,"Toute personne résidant régulièrement en France a droit à la protection sociale pour la santé. (فرانس میں باقاعدہ مقیم ہر شخص کو صحت کے لیے سماجی تحفظ کا حق حاصل ہے۔)",,1.0,
+answer,"Il faut payer la totalité des frais de santé soi-même. (علاج کے تمام اخراجات خود ادا کرنے ہوتے ہیں۔)",,0.0,
+question,"À qui est accessible la contraception ? ?) (مانع حمل ادویات/سہولیات کس کے لیے دستیاب ہیں؟)",,,lvl2
+answer,"Seulement aux femmes mariées. (صرف شادی شدہ خواتین کے لیے۔)",,0.0,
+answer,"À toute personne (homme ou femme), et gratuite pour les mineures et les moins de 26 ans. , ।) (ہر شخص (مرد یا عورت) کے لیے، اور نابالغوں اور 26 سال سے کم عمر افراد کے لیے مفت۔)",,1.0,
+answer,"Seulement avec l'accord des parents pour les personnes majeures. (بالغ افراد کے لیے بھی صرف والدین کی اجازت سے۔)",,0.0,
+question,"Qu’est-ce que le principe de confidentialité dans le domaine de la santé ? (صحت کے شعبے میں رازداری کا اصول کیا ہے؟)",,,lvl2
+answer,"L'obligation d'informer sa famille de sa maladie. (اپنی بیماری کے بارے میں خاندان کو بتانے کی پابندی۔)",,0.0,
+answer,"L'interdiction pour les professionnels de santé de révéler les informations sur la santé du patient. (طبی عملے کے لیے مریض کی صحت سے متعلق معلومات افشا کرنے کی ممانعت۔)",,1.0,
+answer,"L'obligation pour le patient de ne parler de sa maladie à personne. (مریض پر اپنی بیماری کے بارے میں کسی سے بات نہ کرنے کی پابندی۔)",,0.0,
+question,"L'inscription à l'Assurance maladie est : :) (ہیلتھ انشورنس میں رجسٹریشن ہے:)",,,lvl2
+answer,"Facultative pour les salariés. (ملازمین کے لیے اختیاری۔)",,0.0,
+answer,"Obligatoire pour les personnes qui travaillent ou résident régulièrement en France. (فرانس میں کام کرنے والے یا باقاعدہ رہنے والے افراد کے لیے لازمی۔)",,1.0,
+answer,"Uniquement pour les personnes nées en France. (صرف فرانس میں پیدا ہونے والوں کے لیے۔)",,0.0,
+question,"Qui peut demander un congé parental d'éducation ? ?) (بچوں کی تربیت کے لیے والدین کی چھٹی کون مانگ سکتا ہے؟)",,,lvl2
+answer,"Le père et la mère (ou l'un des deux), sous certaines conditions liées à l'ancienneté., ।) (باپ اور ماں (یا دونوں میں سے ایک)، نوکری کی مدت سے متعلق مخصوص شرائط کے تحت۔)",,1.0,
+answer,"Uniquement la mère si elle est salariée. (صرف ماں اگر وہ تنخواہ دار ملازمہ ہو۔)",,0.0,
+answer,"Uniquement la grand-mère. (صرف دادی/نانی۔)",,0.0,
+question,"Quelles sont les affaires traitées par le conseil de prud'hommes ? ?) (لیبر کورٹ (Conseil de prud'hommes) میں کون سے معاملات نمٹائے جاتے ہیں؟)",,,lvl2
+answer,"Les litiges entre voisins. (پڑوسیوں کے درمیان تنازعات۔)",,0.0,
+answer,"Les litiges individuels entre un employeur et un salarié (contrat de travail, licenciement...).।) (آجر اور ملازم کے درمیان انفرادی تنازعات (ملازمت کا معاہدہ، برطرفی...)۔)",,1.0,
+answer,"Les infractions au code de la route. (ٹریفک قوانین کی خلاف ورزیاں۔)",,0.0,
+question,"Travailler sans être déclaré est : (بغیر اعلان کیے (کالے میں) کام کرنا ہے:)",,,lvl2
+answer,"Un moyen normal de gagner de l'argent. (پیسے کمانے کا ایک عام طریقہ۔)",,0.0,
+answer,"Un délit (travail dissimulé) puni par la loi.।) (ایک جرم (چھپا ہوا کام) جس کی قانون میں سزا ہے۔)",,1.0,
+answer,"Un droit pour les personnes qui cherchent un emploi. (نوکری تلاش کرنے والوں کا ایک حق۔)",,0.0,
+question,"Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : (جب کوئی آجر چاہتا ہے کہ ملازم معاہدے میں مقررہ مدت سے زیادہ کام کرے:)",,,lvl2
+answer,"C'est interdit. (یہ ممنوع ہے۔)",,0.0,
+answer,"Le salarié doit le faire gratuitement. (ملازم کو یہ مفت کرنا چاہیے۔)",,0.0,
+answer,"Il peut lui demander de faire des heures supplémentaires, qui doivent être payées (ou compensées) selon la loi. , ।) (وہ اس سے اضافی گھنٹے کام کرنے کو کہہ سکتا ہے، جس کی قانون کے مطابق ادائیگی (یا ازالہ) کیا جانا چاہیے۔)",,1.0,
+question,"Quelle est la mission de France Travail ? ?) (فرانس ٹراوائی کا کیا مقصد ہے؟)",,,lvl2
+answer,"Accompagner les demandeurs d'emploi et indemniser les chômeurs. (ملازمت کے متلاشیوں کی رہنمائی کرنا اور بے روزگاروں کو الاؤنس دینا۔)",,1.0,
+answer,"Rédiger les contrats de travail. (ملازمت کے معاہدے لکھنا۔)",,0.0,
+answer,"Payer les loyers des demandeurs d'emploi. (ملازمت کے متلاشیوں کا کرایہ ادا کرنا۔)",,0.0,
+question,"Dans une entreprise, le droit syndical permet : (کسی کمپنی میں، ٹریڈ یونین کا حق اجازت دیتا ہے:)",,,lvl2
+answer,"D'interdire les réunions de salariés. (ملازمین کی میٹنگوں پر پابندی لگانے کی۔)",,0.0,
+answer,"Aux salariés de créer une organisation pour défendre leurs droits (syndicat). ।) (ملازمین کو اپنے حقوق کے دفاع کے لیے ایک تنظیم (یونین) بنانے کی۔)",,1.0,
+answer,"Au patron d'augmenter les salaires sans l'accord des salariés. (مالک کو ملازمین کی رضامندی کے بغیر تنخواہیں بڑھانے کی۔)",,0.0,
+question,"Dans une entreprise, le droit de grève autorise : (کسی کمپنی میں، ہڑتال کا حق اجازت دیتا ہے:)",,,lvl2
+answer,"Les salariés à refuser d'aller travailler sans prévenir. (ملازمین کو بغیر بتائے کام پر جانے سے انکار کرنے کی۔)",,0.0,
+answer,"L'arrêt collectif et concerté du travail pour la défense des intérêts professionnels. (پیشہ ورانہ مفادات کے دفاع کے لیے اجتماعی اور متفقہ طور پر کام روکنے کی۔)",,1.0,
+answer,"Le chef d'entreprise à licencier tous les grévistes. (کمپنی کے سربراہ کو تمام ہڑتالیوں کو برطرف کرنے کی۔)",,0.0,
+question,"Quelles sont les conditions pour toucher les allocations chômage ? (بے روزگاری الاؤنس حاصل کرنے کی کیا شرائط ہیں؟)",,,lvl2
+answer,"Avoir plus de 60 ans. (عمر 60 سال سے زیادہ ہونا۔)",,0.0,
+answer,"Être inscrit à France Travail et justifier d'une période de travail suffisante. (فرانس ٹراوائی میں رجسٹرڈ ہونا اور کام کے کافی عرصے کا ثبوت دینا۔)",,1.0,
+answer,"Avoir démissionné de son dernier emploi. (اپنی آخری نوکری سے استعفیٰ دیا ہونا۔)",,0.0,
+question,"Qu'est-ce que l'école maternelle ? ?) (نرسری اسکول (École maternelle) کیا ہے؟)",,,lvl2
+answer,"Un lieu de garde pour les bébés. (بچوں کی دیکھ بھال کی جگہ (ڈے کیئر)۔)",,0.0,
+answer,"L'école des 6-11 ans. (6 سے 11 سال کے بچوں کا اسکول۔)",,0.0,
+answer,"La première étape de l'enseignement (pour les enfants de 3 à 6 ans).।) (تعلیم کا پہلا مرحلہ (3 سے 6 سال کے بچوں کے لیے)۔)",,1.0,
+question,"Comment s'appelle le diplôme passé par les élèves à la fin du collège ? (کالج (مڈل اسکول) کے اختتام پر طلباء کو ملنے والی ڈگری کا کیا نام ہے؟)",,,lvl2
+answer,"Le Baccalauréat (بیکالوریا)",,0.0,
+answer,"Le Diplôme National du Brevet (DNB) ou Brevet des collèges. ।) (نیشنل ڈپلومہ آف بریویٹ (DNB) یا مڈل اسکول کا سرٹیفکیٹ۔)",,1.0,
+answer,"Le permis de conduire (ڈرائیونگ لائسنس)",,0.0,
+question,"Les parents d'élève ont le droit de : (طلباء کے والدین کو یہ حق حاصل ہے کہ:)",,,lvl2
+answer,"D'interdire l'enseignement de certaines matières. (وہ کچھ مضامین کی تعلیم پر پابندی لگائیں۔)",,0.0,
+answer,"D'être informés sur la scolarité de leur enfant et de participer à la vie de l'école (droit d'association et de réunion).।) (انہیں اپنے بچے کی تعلیم کے بارے میں آگاہ کیا جائے اور وہ اسکول کی سرگرمیوں میں حصہ لیں (انجمن سازی اور میٹنگ کا حق)۔)",,1.0,
+answer,"De choisir eux-mêmes les professeurs de leur enfant. (وہ اپنے بچے کے اساتذہ خود منتخب کریں۔)",,0.0,
+question,"Qui peut manger à la cantine scolaire ? (اسکول کی کینٹین میں کون کھا سکتا ہے؟)",,,lvl2
+answer,"Uniquement les élèves de l'école élémentaire. (صرف پرائمری اسکول کے طلباء۔)",,0.0,
+answer,"Tous les élèves inscrits, dans le respect des règles de laïcité et du règlement de la cantine. (تمام داخل شدہ طلباء، سیکولرزم کے اصولوں اور کینٹین کے قوانین کے احترام کے ساتھ۔)",,1.0,
+answer,"Seulement les enfants dont les parents sont en difficulté financière. (صرف وہ بچے جن کے والدین مالی مشکلات کا شکار ہیں۔)",,0.0,
+question,"À quel âge commence l'instruction obligatoire des enfants ? (بچوں کی لازمی تعلیم کس عمر سے شروع ہوتی ہے؟)",,,lvl2
+answer,"À 6 ans (6 سال سے)",,0.0,
+answer,"À 3 ans (3 سال سے)",,1.0,
+answer,"À 11 ans (11 سال سے)",,0.0,
+question,"Quel est l'âge de la majorité ? (بلوغت کی عمر کیا ہے؟)",,,lvl2
+answer,"21 ans (21 سال)",,0.0,
+answer,"18 ans (18 سال)",,1.0,
+answer,"16 ans (16 سال)",,0.0,
+question,"À l'école, il est interdit aux parents de : (اسکول میں، والدین کے لیے منع ہے کہ:)",,,lvl2
+answer,"Devenir représentants des parents d'élèves. (وہ والدین کے نمائندے بنیں۔)",,0.0,
+answer,"Porter des signes religieux ostentatoires (en tant qu'accompagnateurs de sorties scolaires par exemple).।) (وہ نمایاں مذہبی علامات پہنیں (مثال کے طور پر اسکول ٹرپ کے دوران ساتھ جاتے ہوئے)۔)",,1.0,
+answer,"Demander un rendez-vous à l'enseignant. (وہ استاد سے ملاقات کا وقت مانگیں۔)",,0.0,
+question,"Quel motif d'absence est accepté par l'école ? (اسکول کی طرف سے غیر حاضری کی کون سی وجہ قبول کی جاتی ہے؟)",,,lvl2
+answer,"La maladie de l'enfant (justifiée par un certificat médical si l'absence est longue).।) (بچے کی بیماری (طویل غیر حاضری کی صورت میں میڈیکل سرٹیفکیٹ کی ضرورت ہے)۔)",,1.0,
+answer,"Un voyage familial imprévu. (خاندانی سفر جو اچانک طے پائے۔)",,0.0,
+answer,"Une activité sportive ou culturelle non organisée par l'école. (ایسی کھیل کود یا ثقافتی سرگرمی جو اسکول نے منعقد نہ کی ہو۔)",,0.0,
+question,"Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ? (والدین اپنے بچوں کی تعلیم کی لازمی پابندی کا خیال نہیں رکھتے۔ انہیں زیادہ سے زیادہ کس سزا کا سامنا ہو سکتا ہے؟)",,,lvl2
+answer,"Une amende de 10 euros. (10 یورو کا جرمانہ۔)",,0.0,
+answer,"Une amende maximale de 7 500 euros et 6 mois de prison (en cas d'opposition aux contrôles).।) (زیادہ سے زیادہ 7,500 یورو جرمانہ اور 6 ماہ کی قید (چیکنگ کی مخالفت کی صورت میں)۔)",,1.0,
+answer,"Le retrait de leur droit de vote. (ان کے ووٹ کا حق چھین لیا جانا۔)",,0.0,
+question,"Quand ont lieu les vacances scolaires de Noël ? (کرسمس کی اسکول کی چھٹیاں کب ہوتی ہیں؟)",,,lvl2
+answer,"En février. (فروری میں۔)",,0.0,
+answer,"En décembre. (دسمبر میں۔)",,1.0,
+answer,"En juillet et août. (جولائی اور اگست میں۔)",,0.0,
+question,"À l'école, un enfant en situation de handicap : (اسکول میں، ایک معذور بچہ:)",,,lvl2
+answer,"Ne peut pas être inscrit à l'école publique. (سرکاری اسکول میں داخلہ نہیں لے سکتا۔)",,0.0,
+answer,"A le droit d'être scolarisé et de bénéficier d'un accompagnement adapté (AESH). ।) (اسے اسکول جانے اور مناسب مدد (AESH) حاصل کرنے کا حق ہے۔)",,1.0,
+answer,"Est obligé de rester à la maison. (گھر میں رہنے پر مجبور ہے۔)",,0.0,
+question,"À l’école, il est interdit aux parents de : (اسکول میں، والدین کے لیے منع ہے کہ:)",,,lvl3
+answer,"Contester l’autorité des enseignants dans l’établissement. (وہ ادارے میں اساتذہ کے اختیار (اتھارٹی) کو چیلنج کریں۔)",,1.0,
+answer,"Dialoguer avec l’école. (وہ اسکول سے بات چیت کریں۔)",,0.0,
+answer,"Participer aux réunions. (وہ میٹنگوں میں حصہ لیں۔)",,0.0,
+question,"Qui peut demander un congé parental d’éducation ? (بچوں کی تربیت کے لیے والدین کی چھٹی کون مانگ سکتا ہے؟)",,,lvl3
+answer,"Les étudiants. (طلباء۔)",,0.0,
+answer,"Les employeurs. (آجر۔)",,0.0,
+answer,"Les parents salariés. (ملازم والدین۔)",,1.0,
+question,"À qui est accessible la contraception ? (مانع حمل سہولیات کس کے لیے دستیاب ہیں؟)",,,lvl3
+answer,"Aux personnes mariées uniquement. (صرف شادی شدہ افراد کے لیے۔)",,0.0,
+answer,"Aux personnes majeures seulement. (صرف بالغ افراد کے لیے۔)",,0.0,
+answer,"À toutes les personnes, majeures ou mineures. (تمام افراد کے لیے، بالغ ہوں یا نابالغ۔)",,1.0,
+question,"Dans une entreprise, le droit syndical permet : (ایک کمپنی میں، ٹریڈ یونین کا حق اجازت دیتا ہے:)",,,lvl3
+answer,"De diriger l’entreprise. (کمپنی چلانے کی۔)",,0.0,
+answer,"De fixer les salaires. (تنخواہیں مقرر کرنے کی۔)",,0.0,
+answer,"De créer ou rejoindre un syndicat. (کسی یونین کو بنانے یا اس میں شامل ہونے کی۔)",,1.0,
+question,"Quel motif d’absence est accepté par l’école ? (اسکول کی طرف سے غیر حاضری کی کون سی وجہ قبول کی جاتی ہے؟)",,,lvl3
+answer,"La maladie de l’enfant. (بچے کی بیماری۔)",,1.0,
+answer,"Les vacances hors calendrier. (شیڈول سے ہٹ کر چھٹیاں۔)",,0.0,
+answer,"Le refus d’aller en cours. (کلاس میں جانے سے انکار۔)",,0.0,
+question,"Lorsqu’un employeur veut qu’un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : (جب کوئی آجر چاہتا ہے کہ ملازم معاہدے میں مقررہ مدت سے زیادہ کام کرے:)",,,lvl3
+answer,"Il doit respecter la loi et payer les heures supplémentaires. (اسے قانون کا احترام کرنا چاہیے اور اوور ٹائم ادا کرنا چاہیے۔)",,1.0,
+answer,"Il peut l’imposer librement. (وہ اسے آزادانہ طور پر مسلط کر سکتا ہے۔)",,0.0,
+answer,"Aucune règle ne s’applique. (کوئی قانون لاگو نہیں ہوتا۔)",,0.0,
+question,"Dans une entreprise, le droit de grève autorise : (ایک کمپنی میں، ہڑتال کا حق اجازت دیتا ہے:)",,,lvl3
+answer,"À empêcher les non-grévistes de travailler. (ہڑتال نہ کرنے والوں کو کام سے روکنے کی۔)",,0.0,
+answer,"À bloquer l’entreprise indéfiniment. (کمپنی کو غیر معینہ مدت کے لیے بند کرنے کی۔)",,0.0,
+answer,"À cesser collectivement le travail pour défendre des revendications. (مطالبات کے حق میں اجتماعی طور پر کام روک دینے کی۔)",,1.0,

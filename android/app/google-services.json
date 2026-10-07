@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "568564833537",
+    "project_id": "prep-civic",
+    "storage_bucket": "prep-civic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568564833537:android:a09468f5fc1523d3004f00",
+        "android_client_info": {
+          "package_name": "com.torcdigital.prepcivique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568564833537-c6rmgujgepa0ot7fro018a9g1pk2hr8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torcdigital.prepcivique",
+            "certificate_hash": "e2ee6990297bf17fdb55d05857c97aa6ed6273f9"
+          }
+        },
+        {
+          "client_id": "568564833537-ejdpfmgj8fast6e9gegnj9dqmrs4dn27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBviLIipdDaSKPtPW1iRHCT6UChQCg9d88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568564833537-ejdpfmgj8fast6e9gegnj9dqmrs4dn27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568564833537-29tm6s4ca1apjrrpku9chs6rhnfijub9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torcdigital.prepcivique"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

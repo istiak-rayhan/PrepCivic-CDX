@@ -1,0 +1,893 @@
+type,text,placeholder,is_correct,level
+question,En quelle année a débuté la Révolution française ? (في أي عام بدأت الثورة الفرنسية؟),,,lvl1
+answer,1815 (1815),,0.0,
+answer,1789 (1789),,1.0,
+answer,1944 (1944),,0.0,
+question,Qui était Napoléon Ier ? (من كان نابليون الأول؟),,,lvl1
+answer,Un roi de France (ملك فرنسا),,0.0,
+answer,L'Empereur des Français (إمبراطور الفرنسيين),,1.0,
+answer,Un philosophe du 18e siècle (فيلسوف من القرن الثامن عشر),,0.0,
+question,Lequel de ces personnages historiques est français ? (أي من هذه الشخصيات التاريخية فرنسي؟),,,lvl1
+answer,Albert Einstein (ألبرت أينشتاين),,0.0,
+answer,Marie Curie (ماري كوري),,1.0,
+answer,Isaac Newton (إسحاق نيوتن),,0.0,
+question,Dans quelle République est-on aujourd'hui ? (في أي جمهورية نحن اليوم؟),,,lvl1
+answer,La Troisième République (الجمهورية الثالثة),,0.0,
+answer,La Cinquième République (الجمهورية الخامسة),,1.0,
+answer,La Sixième République (الجمهورية السادسة),,0.0,
+question,Qu'est-ce que la Shoah ? (ما هي المحرقة "الشوآه"؟),,,lvl1
+answer,La guerre entre la France et l'Allemagne (الحرب بين فرنسا وألمانيا),,0.0,
+answer,Le génocide des Juifs pendant la Seconde Guerre mondiale. (إبادة اليهود خلال الحرب العالمية الثانية.),,1.0,
+answer,La période de la colonisation française (فترة الاستعمار الفرنسي),,0.0,
+question,Quel pays ou région du monde a été colonisé par la France ? (أي بلد أو منطقة في العالم استعمرتها فرنسا؟),,,lvl1
+answer,Le Japon (اليابان),,0.0,
+answer,L'Algérie (الجزائر),,1.0,
+answer,La Chine (الصين),,0.0,
+question,"Qui a rendu l’école gratuite, laïque et obligatoire ? (من جعل المدرسة مجانية وعلمانية وإجبارية؟)",,,lvl1
+answer,Napoléon III (نابليون الثالث),,0.0,
+answer,Jules Ferry (جول فيري),,1.0,
+answer,Le Général de Gaulle (الجنرال ديغول),,0.0,
+question,Quand a eu lieu la Seconde Guerre mondiale ? (متى حدثت الحرب العالمية الثانية؟),,,lvl1
+answer,De 1914 à 1918 (من 1914 إلى 1918),,0.0,
+answer,De 1930 à 1935 (من 1930 إلى 1935),,0.0,
+answer,De 1939 à 1945 (من 1939 إلى 1945),,1.0,
+question,Quand a eu lieu la Première Guerre mondiale ? (متى حدثت الحرب العالمية الأولى؟),,,lvl1
+answer,De 1870 à 1871 (من 1870 إلى 1871),,0.0,
+answer,De 1914 à 1918 (من 1914 إلى 1918),,1.0,
+answer,De 1940 à 1945 (من 1940 إلى 1945),,0.0,
+question,En quelle année a été créée la Communauté Économique Européenne (CEE) ? (في أي عام تأسست المجموعة الاقتصادية الأوروبية؟),,,lvl1
+answer,1945 (1945),,0.0,
+answer,1957 (1957),,1.0,
+answer,1992 (1992),,0.0,
+question,Le 11 novembre est un jour férié. À quoi correspond cette date ? (11 نوفمبر يوم عطلة. إلى ماذا يرمز هذا التاريخ؟),,,lvl1
+answer,La Fête de la Victoire de 1945. (عيد نصر 1945.),,0.0,
+answer,L'Armistice de 1918 (fin de la Première Guerre mondiale). (هدنة 1918 "نهاية الحرب العالمية الأولى".),,1.0,
+answer,La Fête Nationale. (العيد الوطني.),,0.0,
+question,Qui a été le premier Président élu sous la Ve République ? (من كان أول رئيس منتخب في ظل الجمهورية الخامسة؟),,,lvl1
+answer,François Mitterrand (فرانسوا ميتران),,0.0,
+answer,Charles de Gaulle (شارل ديغول),,1.0,
+answer,Georges Pompidou (جورج بومبيدو),,0.0,
+question,En quelle année l'esclavage a-t-il été aboli définitivement en France ? (في أي عام أُلغيت العبودية نهائياً في فرنسا؟),,,lvl1
+answer,1789 (1789),,0.0,
+answer,1905 (1905),,0.0,
+answer,1848 (1848),,1.0,
+question,Depuis quelle année l'école publique est-elle gratuite ? (منذ أي عام أصبحت المدرسة الحكومية مجانية؟),,,lvl1
+answer,1804 (1804),,0.0,
+answer,1881 (1881),,1.0,
+answer,1958 (1958),,0.0,
+question,Combien y a-t-il eu de républiques en France ? (كم عدد الجمهوريات التي قامت في فرنسا؟),,,lvl1
+answer,Trois (ثلاثة),,0.0,
+answer,Quatre (أربعة),,0.0,
+answer,Cinq (خمسة),,1.0,
+question,Qui était le roi de France au moment de la Révolution française ? (من كان ملك فرنسا وقت الثورة الفرنسية؟),,,lvl1
+answer,Henri IV (هنري الرابع),,0.0,
+answer,Louis XVI (لويس السادس عشر),,1.0,
+answer,Louis XIV (لويس الرابع عشر),,0.0,
+question,Qui a fondé la Ve République ? (من أسس الجمهورية الخامسة؟),,,lvl1
+answer,François Mitterrand (فرانسوا ميتران),,0.0,
+answer,Le Général de Gaulle (الجنرال ديغول),,1.0,
+answer,Georges Clemenceau (جورج كليمانصو),,0.0,
+question,Que célèbre-t-on le 14 juillet ? (ماذا نحتفل في 14 يوليو؟),,,lvl1
+answer,La prise de la Bastille (et la Fête de la Fédération). (سقوط سجن الباستيل "وعيد الاتحاد".),,1.0,
+answer,La fin de la Seconde Guerre mondiale (نهاية الحرب العالمية الثانية),,0.0,
+answer,L'abolition de l'esclavage (إلغاء العبودية),,0.0,
+question,Quelle guerre a eu lieu entre 1914 et 1918 ? (ما هي الحرب التي وقعت بين 1914 و1918؟),,,lvl1
+answer,La guerre franco-prussienne (الحرب الفرنسية البروسية),,0.0,
+answer,La Seconde Guerre mondiale (الحرب العالمية الثانية),,0.0,
+answer,La Première Guerre mondiale (الحرب العالمية الأولى),,1.0,
+question,Pourquoi l’année 1958 est importante pour la France ? (لماذا يعتبر عام 1958 مهماً لفرنسا؟),,,lvl1
+answer,Fin de la Seconde Guerre mondiale (نهاية الحرب العالمية الثانية),,0.0,
+answer,Adoption de la Constitution de la Ve République (اعتماد دستور الجمهورية الخامسة),,1.0,
+answer,Vote de la loi de séparation des Églises et de l'État (التصويت على قانون الفصل بين الكنائس والدولة),,0.0,
+question,Quel fleuve coule en France ? (أي نهر يجري في فرنسا؟),,,lvl1
+answer,Le Danube (نهر الدانوب),,0.0,
+answer,La Seine (نهر السين),,1.0,
+answer,Le Rhin (نهر الراين),,0.0,
+question,Quelle ville est française ? (أي مدينة هي فرنسية؟),,,lvl1
+answer,Genève (جنيف),,0.0,
+answer,Lyon (ليون),,1.0,
+answer,Barcelone (برشلونة),,0.0,
+question,Quel océan borde la côte ouest française ? (أي محيط يحد الساحل الغربي لفرنسا؟),,,lvl1
+answer,L'océan Indien (المحيط الهندي),,0.0,
+answer,L'océan Atlantique (المحيط الأطلسي),,1.0,
+answer,L'océan Pacifique (المحيط الهادئ),,0.0,
+question,Qu'est-ce que Paris ? (ما هي باريس؟),,,lvl1
+answer,Un département d'outre-mer (إقليم ما وراء البحار),,0.0,
+answer,Une région (جهة/منطقة),,0.0,
+answer,La capitale de la France (عاصمة فرنسا),,1.0,
+question,Quelle est la capitale de la France ? (ما هي عاصمة فرنسا؟),,,lvl1
+answer,Marseille (مارسيليا),,0.0,
+answer,Paris (باريس),,1.0,
+answer,Bordeaux (بوردو),,0.0,
+question,Sur quel continent se situe la France métropolitaine ? (في أي قارة تقع فرنسا المتروبوليتية "البر الرئيسي"؟),,,lvl1
+answer,L'Afrique (أفريقيا),,0.0,
+answer,L'Europe (أوروبا),,1.0,
+answer,L'Asie (آسيا),,0.0,
+question,Quelle île est un département d'outre-mer français ? (أي جزيرة هي إقليم فرنسي ما وراء البحار؟),,,lvl1
+answer,La Sicile (صقلية),,0.0,
+answer,La Martinique (مارتينيك),,1.0,
+answer,La Corse (كورسيكا),,0.0,
+question,Combien y a-t-il de régions en France métropolitaine ? (كم عدد المناطق في فرنسا المتروبوليتية؟),,,lvl1
+answer,5 (5),,0.0,
+answer,13 (13),,1.0,
+answer,22 (22),,0.0,
+question,Quelle ville est un grand port maritime ? (أي مدينة تعتبر ميناءً بحرياً كبيراً؟),,,lvl1
+answer,Strasbourg (ستراسبورغ),,0.0,
+answer,Marseille (مارسيليا),,1.0,
+answer,Dijon (ديجون),,0.0,
+question,Quelle est la mer au sud de la France métropolitaine ? (ما هو البحر الموجود جنوب فرنسا المتروبوليتية؟),,,lvl1
+answer,La Manche (بحر المانش/القناة الإنجليزية),,0.0,
+answer,La mer du Nord (بحر الشمال),,0.0,
+answer,La mer Méditerranée (البحر الأبيض المتوسط),,1.0,
+question,Quelle ville est située au bord de la mer Méditerranée ? (أي مدينة تقع على شاطئ البحر الأبيض المتوسط؟),,,lvl1
+answer,Nantes (نانت),,0.0,
+answer,Nice (نيس),,1.0,
+answer,Lille (ليل),,0.0,
+question,Où se situe la Corse ? (أين تقع كورسيكا؟),,,lvl1
+answer,Dans l'océan Atlantique (في المحيط الأطلسي),,0.0,
+answer,Dans la mer du Nord (في بحر الشمال),,0.0,
+answer,Dans la mer Méditerranée (في البحر الأبيض المتوسط),,1.0,
+question,Quelle chaîne de montagnes est située entre la France et l'Italie ? (أي سلسلة جبال تقع بين فرنسا وإيطاليا؟),,,lvl1
+answer,Les Pyrénées (جبال البرانس),,0.0,
+answer,Les Alpes (جبال الألب),,1.0,
+answer,Les Vosges (جبال الفوج),,0.0,
+question,Qui était Molière ? (من كان موليير؟),,,lvl1
+answer,Un peintre (رسام),,0.0,
+answer,Un dramaturge (auteur de théâtre) du 17e siècle. (كاتب مسرحي من القرن السابع عشر.),,1.0,
+answer,Un général de l'armée (جنرال في الجيش),,0.0,
+question,Qui était Charles Baudelaire ? (من كان شارل بودلير؟),,,lvl1
+answer,Un chef d'orchestre (قائد أوركسترا),,0.0,
+answer,Un poète français du 19e siècle (auteur des Fleurs du Mal). (شاعر فرنسي من القرن التاسع عشر "مؤلف أزهار الشر".),,1.0,
+answer,Un architecte (مهندس معماري),,0.0,
+question,Qui était George Sand ? (من كانت جورج ساند؟),,,lvl1
+answer,Une mathématicienne (عالمة رياضيات),,0.0,
+answer,Une écrivaine romantique française du 19e siècle. (كاتبة رومانسية فرنسية من القرن التاسع عشر.),,1.0,
+answer,Une chanteuse d'opéra (مغنية أوبرا),,0.0,
+question,Qui était Simone de Beauvoir ? (من كانت سيمون دي بوفوار؟),,,lvl1
+answer,Une actrice célèbre (ممثلة مشهورة),,0.0,
+answer,Une écrivaine et philosophe du 20e siècle (figure majeure du féminisme). (كاتبة وفيلسوفة من القرن العشرين "شخصية بارزة في الحركة النسوية".),,1.0,
+answer,Une reine de France (ملكة فرنسا),,0.0,
+question,Qui était Albert Camus ? (من كان ألبير كامو؟),,,lvl1
+answer,Un explorateur (مستكشف),,0.0,
+answer,Un sculpteur (نحات),,0.0,
+answer,Un écrivain et philosophe français (prix Nobel de littérature). (كاتب وفيلسوف فرنسي "حائز على جائزة نوبل في الأدب".),,1.0,
+question,Qui était Paul Cézanne ? (من كان بول سيزان؟),,,lvl1
+answer,Un inventeur (مخترع),,0.0,
+answer,Un peintre post-impressionniste français. (رسام فرنسي من مدرسة ما بعد الانطباعية.),,1.0,
+answer,Un homme politique (سياسي),,0.0,
+question,Qui était Marc Chagall ? (من كان مارك شاغال؟),,,lvl1
+answer,Un mathématicien (عالم رياضيات),,0.0,
+answer,Un peintre et graveur français d'origine biélorusse. (رسام ونحات فرنسي من أصل بيلاروسي.),,1.0,
+answer,Un compositeur de musique (ملحن موسيقي),,0.0,
+question,Qui était Joséphine Baker ? (من كانت جوزفين بيكر؟),,,lvl1
+answer,Une mathématicienne (عالمة رياضيات),,0.0,
+answer,Une artiste de music-hall et résistante française (panthéonisée). (فنانة استعراضية ومقاومة فرنسية "تم تكريمها في مقبرة العظماء".),,1.0,
+answer,Une femme politique (سياسية),,0.0,
+question,Qui était une chanteuse française célèbre ? (من كانت مغنية فرنسية مشهورة؟),,,lvl1
+answer,Marie Curie (ماري كوري),,0.0,
+answer,Édith Piaf (إديث بياف),,1.0,
+answer,George Sand (جورج ساند),,0.0,
+question,Qu'est-ce que le Louvre ? (ما هو اللوفر؟),,,lvl1
+answer,Le siège de l'Assemblée Nationale (مقر الجمعية الوطنية),,0.0,
+answer,Le plus grand musée du monde (situé à Paris). (أكبر متحف في العالم "يقع في باريس".),,1.0,
+answer,Un grand magasin (متجر كبير),,0.0,
+question,Qui était Jean de la Fontaine ? (من كان جان دي لافونتين؟),,,lvl1
+answer,Un peintre (رسام),,0.0,
+answer,"Un poète français, célèbre pour ses fables. (شاعر فرنسي، مشهور بقصصه الرمزية على لسان الحيوانات.)",,1.0,
+answer,Un explorateur (مستكشف),,0.0,
+question,Quel écrivain est français ? (أي كاتب هو فرنسي؟),,,lvl1
+answer,William Shakespeare (ويليام شكسبير),,0.0,
+answer,Victor Hugo (فيكتور هوغو),,1.0,
+answer,Jane Austen (جين أوستن),,0.0,
+question,Dans quelle ville se trouve la tour Eiffel ? (في أي مدينة يقع برج إيفل؟),,,lvl1
+answer,Lyon (ليون),,0.0,
+answer,Paris (باريس),,1.0,
+answer,Marseille (مارسيليا),,0.0,
+question,Quand célèbre-t-on Noël ? (متى نحتفل بعيد الميلاد؟),,,lvl2
+answer,Le 1er janvier (1 يناير),,0.0,
+answer,Le 14 juillet (14 يوليو),,0.0,
+answer,Le 25 décembre (25 ديسمبر),,1.0,
+question,Quel était le surnom de Louis XIV ? (ماذا كان لقب لويس الرابع عشر؟),,,lvl2
+answer,Le Bon Roi (الملك الطيب),,0.0,
+answer,Le Roi Soleil (الملك الشمس),,1.0,
+answer,Le Petit Roi (الملك الصغير),,0.0,
+question,Quel roi de France a été exécuté pendant la Révolution française ? (أي ملك فرنسي أُعدم خلال الثورة الفرنسية؟),,,lvl2
+answer,Louis XV (لويس الخامس عشر),,0.0,
+answer,Louis XVI (لويس السادس عشر),,1.0,
+answer,Henri IV (هنري الرابع),,0.0,
+question,En quelle année Napoléon Ier est-il devenu empereur ? (في أي عام أصبح نابليون الأول إمبراطوراً؟),,,lvl2
+answer,1789 (1789),,0.0,
+answer,1800 (1800),,0.0,
+answer,1804 (1804),,1.0,
+question,Lequel de ces personnages a un lien avec la République française ? (أي من هذه الشخصيات له صلة بالجمهورية الفرنسية؟),,,lvl2
+answer,La Reine Victoria (الملكة فيكتوريا),,0.0,
+answer,Le Tsar Nicolas II (القيصر نيكولا الثاني),,0.0,
+answer,Georges Clemenceau (جورج كليمانصو),,1.0,
+question,De quand date l'appel à la résistance du général de Gaulle ? (متى كان نداء المقاومة الذي أطلقه الجنرال ديغول؟),,,lvl2
+answer,Le 6 juin 1944 (6 يونيو 1944),,0.0,
+answer,Le 18 juin 1940 (18 يونيو 1940),,1.0,
+answer,Le 11 novembre 1918 (11 نوفمبر 1918),,0.0,
+question,Pourquoi la Shoah est-elle étudiée à l'école ? (لماذا تُدرس المحرقة "الشوآه" في المدرسة؟),,,lvl2
+answer,Pour réviser l'Histoire ancienne. (لمراجعة التاريخ القديم.),,0.0,
+answer,Pour transmettre le souvenir du génocide des Juifs et lutter contre le racisme. (لنقل ذكرى إبادة اليهود ومحاربة العنصرية.),,1.0,
+answer,Pour glorifier les héros de guerre. (لتمجيد أبطال الحرب.),,0.0,
+question,Quel pays a été colonisé par la France ? (أي بلد استعمرته فرنسا؟),,,lvl2
+answer,Le Brésil (البرازيل),,0.0,
+answer,Le Sénégal (السنغال),,1.0,
+answer,L'Australie (أستراليا),,0.0,
+question,Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ? (منذ متى ينتخب الفرنسيون رئيس الجمهورية بالاقتراع العام المباشر؟),,,lvl2
+answer,1945 (1945),,0.0,
+answer,1962 (1962),,1.0,
+answer,1981 (1981),,0.0,
+question,Quelle est la première étape de la construction européenne en 1951 ? (ما هي الخطوة الأولى في بناء الاتحاد الأوروبي عام 1951؟),,,lvl2
+answer,La création de l'Euro. (إنشاء اليورو.),,0.0,
+answer,La création de la Communauté européenne du charbon et de l'acier (CECA). (إنشاء المجموعة الأوروبية للفحم والصلب.),,1.0,
+answer,La fin de la Seconde Guerre mondiale. (نهاية الحرب العالمية الثانية.),,0.0,
+question,Durant le mandat de quel président la peine de mort a-t-elle été abolie ? (في عهد أي رئيس أُلغيت عقوبة الإعدام؟),,,lvl2
+answer,Charles de Gaulle (شارل ديغول),,0.0,
+answer,Valéry Giscard d'Estaing (فاليري جيسكار ديستان),,0.0,
+answer,François Mitterrand (فرانسوا ميتران),,1.0,
+question,Quel régime politique a été mis en place pendant la Révolution française en 1792 ? (أي نظام سياسي أقيم خلال الثورة الفرنسية عام 1792؟),,,lvl2
+answer,L'Empire (الإمبراطورية),,0.0,
+answer,La Première République (الجمهورية الأولى),,1.0,
+answer,La monarchie constitutionnelle (الملكية الدستورية),,0.0,
+question,Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ? (من كان شخصية بارزة في المقاومة الفرنسية خلال الحرب العالمية الثانية؟),,,lvl2
+answer,Napoléon Ier (نابليون الأول),,0.0,
+answer,Jean Moulin (جان مولان),,1.0,
+answer,Victor Hugo (فيكتور هوغو),,0.0,
+question,"En 1944, qu'est-ce qui a changé pour les femmes ? (في عام 1944، ما الذي تغير بالنسبة للنساء؟)",,,lvl2
+answer,Elles ont eu le droit de travailler. (حصلن على الحق في العمل.),,0.0,
+answer,Elles ont obtenu le droit de vote. (حصلن على حق التصويت.),,1.0,
+answer,Elles sont devenues éligibles au Sénat. (أصبح لهن حق الترشح لمجلس الشيوخ.),,0.0,
+question,Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ? (أي منظمة دولية تأسست عام 1945 بعد الحرب العالمية الثانية؟),,,lvl2
+answer,L'Union Européenne (الاتحاد الأوروبي),,0.0,
+answer,L'Organisation des Nations unies (ONU) (منظمة الأمم المتحدة),,1.0,
+answer,L'OTAN (NATO) (حلف الناتو),,0.0,
+question,Quelle peine a été supprimée en 1981 ? (أي عقوبة أُلغيت في عام 1981؟),,,lvl2
+answer,L'emprisonnement à vie (السجن مدى الحياة),,0.0,
+answer,La peine de mort (عقوبة الإعدام),,1.0,
+answer,L'amende pour stationnement (غرامة الوقوف الخاطئ),,0.0,
+question,En quelle année l'euro est-elle devenue la monnaie utilisée en France ? (في أي عام أصبح اليورو هو العملة المستخدمة في فرنسا؟),,,lvl2
+answer,1999 (1999),,0.0,
+answer,2002 (2002),,1.0,
+answer,2007 (2007),,0.0,
+question,En quelle année a commencé la Première Guerre mondiale ? (في أي عام بدأت الحرب العالمية الأولى؟),,,lvl2
+answer,1939 (1939),,0.0,
+answer,1914 (1914),,1.0,
+answer,1940 (1940),,0.0,
+question,Où a eu lieu le débarquement en 1944 ? (أين حدث الإنزال "الدي داي" عام 1944؟),,,lvl2
+answer,Sur les côtes de la Méditerranée (على سواحل البحر الأبيض المتوسط),,0.0,
+answer,En Normandie (في نورماندي),,1.0,
+answer,Dans le Nord de la France (في شمال فرنسا),,0.0,
+question,Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ? (أي قارة كانت الأكثر تأثراً بإنهاء الاستعمار الفرنسي بعد الحرب العالمية الثانية؟),,,lvl2
+answer,L'Amérique (أمريكا),,0.0,
+answer,L'Afrique (أفريقيا),,1.0,
+answer,L'Océanie (أوقيانوسيا),,0.0,
+question,Que fête-t-on le 8 mai ? (ماذا نحتفل في 8 مايو؟),,,lvl2
+answer,La Victoire des Alliés sur l'Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe). (انتصار الحلفاء على ألمانيا النازية عام 1945 "نهاية الحرب العالمية الثانية في أوروبا".),,1.0,
+answer,La prise de la Bastille (سقوط الباستيل),,0.0,
+answer,La Fête du Travail (عيد العمال),,0.0,
+question,Quelle mer ou océan borde la France métropolitaine ? (أي بحر أو محيط يحد فرنسا المتروبوليتية؟),,,lvl2
+answer,La mer Noire (البحر الأسود),,0.0,
+answer,La mer Méditerranée (البحر الأبيض المتوسط),,1.0,
+answer,La mer Baltique (بحر البلطيق),,0.0,
+question,Quel pays a une frontière terrestre avec la France métropolitaine ? (أي بلد له حدود برية مع فرنسا المتروبوليتية؟),,,lvl2
+answer,Le Royaume-Uni (المملكة المتحدة),,0.0,
+answer,L'Espagne (إسبانيا),,1.0,
+answer,La Norvège (النرويج),,0.0,
+question,Quelle ville française est un port maritime ? (أي مدينة فرنسية هي ميناء بحري؟),,,lvl2
+answer,Toulouse (تولوز),,0.0,
+answer,Bordeaux (بوردو),,1.0,
+answer,Clermont-Ferrand (كليرمون فيران),,0.0,
+question,Quelle mer se situe entre la France et l'Angleterre ? (أي بحر يقع بين فرنسا وإنجلترا؟),,,lvl2
+answer,La mer Baltique (بحر البلطيق),,0.0,
+answer,La Manche (بحر المانش),,1.0,
+answer,La mer Noire (البحر الأسود),,0.0,
+question,Qu'est-ce que la France d'outre-mer ? (ما هي فرنسا ما وراء البحار؟),,,lvl2
+answer,Les pays qui ont été colonisés par la France. (الدول التي كانت مستعمرة من قبل فرنسا.),,0.0,
+answer,Les territoires français situés en dehors du continent européen. (الأقاليم الفرنسية الواقعة خارج القارة الأوروبية.),,1.0,
+answer,Les pays membres de l'Union européenne. (الدول الأعضاء في الاتحاد الأوروبي.),,0.0,
+question,Quelle chaîne de montagnes est située entre la France et l’Espagne ? (أي سلسلة جبال تقع بين فرنسا وإسبانيا؟),,,lvl2
+answer,Les Alpes (جبال الألب),,0.0,
+answer,Les Pyrénées (جبال البرانس),,1.0,
+answer,Les Vosges (جبال الفوج),,0.0,
+question,Quelle île française se trouve dans l'océan Indien ? (أي جزيرة فرنسية تقع في المحيط الهندي؟),,,lvl2
+answer,La Guadeloupe (غوادلوب),,0.0,
+answer,La Réunion (لا ريونيون),,1.0,
+answer,La Martinique (مارتينيك),,0.0,
+question,Quelle est la population approximative de la France en 2025 ? (ما هو عدد سكان فرنسا التقريبي في عام 2025؟),,,lvl2
+answer,Environ 50 millions d'habitants (حوالي 50 مليون نسمة),,0.0,
+answer,Environ 68 millions d'habitants (حوالي 68 مليون نسمة),,1.0,
+answer,Plus de 100 millions d'habitants (أكثر من 100 مليون نسمة),,0.0,
+question,Quel fleuve traverse Paris ? (أي نهر يمر عبر باريس؟),,,lvl2
+answer,Le Rhône (نهر الرون),,0.0,
+answer,La Seine (نهر السين),,1.0,
+answer,La Loire (نهر اللوار),,0.0,
+question,Lequel de ces pays partage des frontières terrestres avec la France ? (أي من هذه الدول يشترك في حدود برية مع فرنسا؟),,,lvl2
+answer,La Suède (السويد),,0.0,
+answer,Le Danemark (الدنمارك),,0.0,
+answer,La Belgique (بلجيكا),,1.0,
+question,Quel pays a une frontière avec la France métropolitaine au nord-est ? (أي بلد له حدود مع فرنسا المتروبوليتية في الشمال الشرقي؟),,,lvl2
+answer,L'Espagne (إسبانيا),,0.0,
+answer,L'Allemagne (ألمانيا),,1.0,
+answer,L'Italie (إيطاليا),,0.0,
+question,Où se trouvent les principales activités économiques en France ? (أين توجد الأنشطة الاقتصادية الرئيسية في فرنسا؟),,,lvl2
+answer,Uniquement dans les régions rurales. (فقط في المناطق الريفية.),,0.0,
+answer,Principalement dans les zones montagneuses. (بشكل رئيسي في المناطق الجبلية.),,0.0,
+answer,"Dans les grandes métropoles et les régions transfrontalières (Paris, Lyon, frontières allemande et suisse). (في المدن الكبرى والمناطق الحدودية ""باريس، ليون، الحدود الألمانية والسويسرية"".)",,1.0,
+question,"Parmi ces pays, lequel attire le plus de visiteurs chaque année ? (من بين هذه الدول، أيها تجذب أكبر عدد من الزوار كل عام؟)",,,lvl2
+answer,L'Espagne (إسبانيا),,0.0,
+answer,La France (فرنسا),,1.0,
+answer,L'Italie (إيطاليا),,0.0,
+question,Où habite la majority des Français ? (أين يسكن أغلب الفرنسيين؟),,,lvl2
+answer,Dans les zones de montagne. (في المناطق الجبلية.),,0.0,
+answer,Dans les zones urbaines et les grandes agglomérations. (في المناطق الحضرية والتجمعات السكنية الكبرى.),,1.0,
+answer,Dans les campagnes isolées. (في الأرياف المعزولة.),,0.0,
+question,Quelle région est la plus peuplée ? (أي منطقة هي الأكثر سكاناً؟),,,lvl2
+answer,La Nouvelle-Aquitaine (نوفيل أكيتين),,0.0,
+answer,L'Île-de-France (région parisienne) (إيل دو فرانس "منطقة باريس"),,1.0,
+answer,La Bretagne (بريتاني),,0.0,
+question,Quelle ville française fait partie des 10 plus grandes métropoles du pays ? (أي مدينة فرنسية تعد من بين أكبر 10 مدن في البلاد؟),,,lvl2
+answer,La Rochelle (لا روشيل),,0.0,
+answer,Toulouse (تولوز),,1.0,
+answer,Avignon (أفينيون),,0.0,
+question,Lequel de ces départements de France est le plus touristique ? (أي من هذه الأقاليم الفرنسية هو الأكثر سياحة؟),,,lvl2
+answer,La Creuse (كروز),,0.0,
+answer,Le Finistère (فينيستير),,0.0,
+answer,Paris (باريس),,1.0,
+question,Quand peut-on visiter gratuitement des lieux culturels en France ? (متى يمكن زيارة الأماكن الثقافية في فرنسا مجاناً؟),,,lvl2
+answer,Tous les jours fériés. (في جميع أيام العطل الرسمية.),,0.0,
+answer,Lors des Journées européennes du Patrimoine (en septembre). (خلال أيام التراث الأوروبي "في سبتمبر".),,1.0,
+answer,Uniquement en janvier. (فقط في يناير.),,0.0,
+question,Combien de personnes parlent français dans le monde ? (كم عدد الأشخاص الذين يتحدثون الفرنسية في العالم؟),,,lvl2
+answer,Environ 50 millions (حوالي 50 مليوناً),,0.0,
+answer,Environ 150 millions (حوالي 150 مليوناً),,0.0,
+answer,Plus de 320 millions (أكثر من 320 مليوناً),,1.0,
+question,Qui était Marguerite Yourcenar ? (من كانت مارغريت يورسنار؟),,,lvl2
+answer,Une mathématicienne (عالمة رياضيات),,0.0,
+answer,Une écrivaine française (première femme élue à l'Académie française). (كاتبة فرنسية "أول امرأة تُنتخب في الأكاديمية الفرنسية".),,1.0,
+answer,Une chanteuse d'opéra (مغنية أوبرا),,0.0,
+question,Quel peintre est français ? (أي رسام هو فرنسي؟),,,lvl2
+answer,Salvador Dalí (سلفادور دالي),,0.0,
+answer,Pablo Picasso (بابلو بيكاسو),,0.0,
+answer,Claude Monet (كلود مونيه),,1.0,
+question,Quel musée est situé à Paris ? (أي متحف يقع في باريس؟),,,lvl2
+answer,Le Musée du Prado (متحف برادو),,0.0,
+answer,Le Centre Pompidou (مركز بومبيدو),,1.0,
+answer,Le British Museum (المتحف البريطاني),,0.0,
+question,Qui était Auguste Rodin ? (من كان أوغست رودان؟),,,lvl2
+answer,Un compositeur (ملحن),,0.0,
+answer,Un sculpteur français du 19e siècle (auteur du Penseur). (نحات فرنسي من القرن التاسع عشر "صاحب تمثال المفكر".),,1.0,
+answer,Un explorateur (مستكشف),,0.0,
+question,Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ? (ما هو ترتيب اللغة الفرنسية بين اللغات الأكثر تحدثاً في العالم؟),,,lvl2
+answer,La deuxième langue (اللغة الثانية),,0.0,
+answer,La cinquième langue (اللغة الخامسة),,1.0,
+answer,La dixième langue (اللغة العاشرة),,0.0,
+question,Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ? (أي كاتدرائية مشهورة دُمر جزء منها بسبب حريق في عام 2019؟),,,lvl2
+answer,La Cathédrale de Reims (كاتدرائية ريمس),,0.0,
+answer,Notre-Dame de Paris (نوتردام دي باري),,1.0,
+answer,La Cathédrale de Strasbourg (كاتدرائية ستراسبورغ),,0.0,
+question,Qui était une écrivaine française célèbre ? (من كانت كاتبة فرنسية مشهورة؟),,,lvl2
+answer,Marie Curie (ماري كوري),,0.0,
+answer,Simone Veil (سيمون فاي),,1.0,
+answer,Marie-Madeleine Fourcade (ماري مادلين فوركاد),,0.0,
+question,Qui était un célèbre musicien français ? (من كان موسيقياً فرنسياً مشهوراً؟),,,lvl2
+answer,Wolfgang Amadeus Mozart (فولفغانغ أماديوس موزارت),,0.0,
+answer,Claude Debussy (كلود ديبوسي),,1.0,
+answer,Johann Sebastian Bach (يوهان سيباستيان باخ),,0.0,
+question,Qui était Auguste Renoir ? (من كان أوغست رينوار؟),,,lvl2
+answer,Un architecte (مهندس معماري),,0.0,
+answer,Un peintre impressionniste français. (رسام انطباعي فرنسي.),,1.0,
+answer,Un dramaturge (كاتب مسرحي),,0.0,
+question,Quelle fête est française ? (أي عيد هو فرنسي؟),,,lvl2
+answer,L'Oktoberfest (مهرجان أكتوبر),,0.0,
+answer,La Saint-Patrick (عيد القديس باتريك),,0.0,
+answer,Le 14 juillet (Fête Nationale) (14 يوليو "العيد الوطني"),,1.0,
+question,Sur quel fleuve est situé le château d’Amboise ? (على أي نهر تقع قلعة أمبواز؟),,,lvl3
+answer,Sur la Seine (على نهر السين),,0.0,
+answer,Sur le Rhône (على نهر الرون),,0.0,
+answer,Sur la Loire (على نهر اللوار),,1.0,
+question,Qu’a mené Napoléon Ier en Europe ? (ماذا قاد نابليون الأول في أوروبا؟),,,lvl3
+answer,La Révolution industrielle (الثورة الصناعية),,0.0,
+answer,De nombreuses guerres (حروب عديدة),,1.0,
+answer,La colonisation de l’Afrique (استعمار أفريقيا),,0.0,
+question,Qui a été le chef de la Résistance française contre l’occupation allemande ? (من كان زعيم المقاومة الفرنسية ضد الاحتلال الألماني؟),,,lvl3
+answer,Philippe Pétain (فيليب بيتان),,0.0,
+answer,Georges Clemenceau (جورج كليمانصو),,0.0,
+answer,Charles de Gaulle (شارل ديغول),,1.0,
+question,Quelle religion Clovis adopte-t-il ? (أي دين اعتنقه كلوفيس؟),,,lvl3
+answer,La religion musulmane (الدين الإسلامي),,0.0,
+answer,Le judaïsme (اليهودية),,0.0,
+answer,La religion chrétienne (الدين المسيحي),,1.0,
+question,Quel dictateur nazi a déclenché la Seconde Guerre mondiale ? (أي ديكتاتور نازي أشعل الحرب العالمية الثانية؟),,,lvl3
+answer,Joseph Staline (جوزيف ستالين),,0.0,
+answer,Benito Mussolini (بينيتو موسوليني),,0.0,
+answer,Adolf Hitler (أدولف هتلر),,1.0,
+question,Que concentre Louis XIV sous son règne ? (ماذا ركز لويس الرابع عشر في عهده؟),,,lvl3
+answer,Uniquement le pouvoir militaire (السلطة العسكرية فقط),,0.0,
+answer,Tous les pouvoirs (جميع السلطات),,1.0,
+answer,Uniquement le pouvoir religieux (السلطة الدينية فقط),,0.0,
+question,Quel est le rôle du tourisme dans l’économie française ? (ما هو دور السياحة في الاقتصاد الفرنسي؟),,,lvl3
+answer,Un secteur marginal (قطاع هامشي),,0.0,
+answer,Un élément essentiel (عنصر أساسي),,1.0,
+answer,Une activité en déclin (نشاط في تراجع),,0.0,
+question,Que symbolisent les 12 étoiles du drapeau européen ? (إلى ماذا ترمز النجوم الـ 12 في العلم الأوروبي؟),,,lvl3
+answer,Les idéaux d’unité et d’harmonie entre les Européens (مثالية الوحدة والانسجام بين الأوروبيين),,1.0,
+answer,Les 12 mois de l’année (شهور السنة الـ 12),,0.0,
+answer,Les 12 pays fondateurs (الدول الـ 12 المؤسسة),,0.0,
+question,En quelle année l’esclavage a-t-il été aboli en France ? (في أي عام أُلغيت العبودية في فرنسا؟),,,lvl3
+answer,En 1789 (عام 1789),,0.0,
+answer,En 1918 (عام 1918),,0.0,
+answer,En 1848 (عام 1848),,1.0,
+question,Contre quoi Victor Hugo s’est-il engagé ? (ماذا كافح فيكتور هوغو ضده؟),,,lvl3
+answer,La monarchie absolue (الملكية المطلقة),,0.0,
+answer,La colonisation (الاستعمار),,0.0,
+answer,Les inégalités sociales et la peine de mort (عدم المساواة الاجتماعية وعقوبة الإعدام),,1.0,
+question,De quelle origine est Valérie Benguigui ? (ما هو أصل فاليري بنغيغي؟),,,lvl3
+answer,Italienne (إيطالي),,0.0,
+answer,Américaine (أمريكي),,0.0,
+answer,Algérienne (جزائري),,1.0,
+question,Quel est le plus long fleuve français ? (ما هو أطول نهر فرنسي؟),,,lvl3
+answer,Le Rhône (نهر الرون),,0.0,
+answer,La Seine (نهر السين),,0.0,
+answer,La Loire (نهر اللوار),,1.0,
+question,Où se trouve l’une des plus importantes grottes préhistoriques de France ? (أين توجد واحدة من أهم كهوف ما قبل التاريخ في فرنسا؟),,,lvl3
+answer,À Marseille (في مارسيليا),,0.0,
+answer,À Chartres (في شارتر),,0.0,
+answer,À Lascaux (في لاسكو),,1.0,
+question,Entre quelles dates se situent les peintures de la grotte de Lascaux ? (بين أي تواريخ تعود لوحات كهف لاسكو؟),,,lvl3
+answer,Entre 2000 et 1500 ap. J.-C. (بين 2000 و1500 ميلادي),,0.0,
+answer,Entre 18 000 et 15 000 av. J.-C. (بين 18,000 و15,000 قبل الميلاد),,1.0,
+answer,Entre 500 et 200 av. J.-C. (بين 500 و200 قبل الميلاد),,0.0,
+question,Quels modes de transport sont connectés au port de Nantes-Saint-Nazaire ? (ما هي وسائل النقل المتصلة بميناء نانت-سان نازير؟),,,lvl3
+answer,"Routier, fluvial, spatial et aérien (بري، نهري، فضائي وجوي)",,0.0,
+answer,"Maritime, fluvial, ferroviaire, terrestre et aérien (بحري، نهري، سكك حديدية، بري وجوي)",,1.0,
+answer,"Maritime, spatial, cycliste et aérien (بحري، فضائي، دراجات وجوي)",,0.0,
+question,À quelle période historique correspond l’installation des Romains ? (إلى أي فترة تاريخية يعود استقرار الرومان؟),,,lvl3
+answer,À l’Antiquité (العصور القديمة),,1.0,
+answer,À la Préhistoire (ما قبل التاريخ),,0.0,
+answer,Au Moyen Âge (العصور الوسطى),,0.0,
+question,À quelle période appartiennent les peintures de la grotte de Lascaux ? (إلى أي فترة تنتمي لوحات كهف لاسكو؟),,,lvl3
+answer,À la Préhistoire (ما قبل التاريخ),,1.0,
+answer,Au Moyen Âge (العصور الوسطى),,0.0,
+answer,À l’Antiquité (العصور القديمة),,0.0,
+question,Où se situe le Mont-Saint-Michel ? (أين يقع جبل سان ميشيل؟),,,lvl3
+answer,En Bretagne (في بريتاني),,0.0,
+answer,En Provence (في بروفانس),,0.0,
+answer,En Normandie (في نورماندي),,1.0,
+question,Quelle nationalité d’origine avait Joséphine Baker ? (ما هي الجنسية الأصلية لجوزفين بيكر؟),,,lvl3
+answer,Italienne (إيطالية),,0.0,
+answer,Algérienne (جزائرية),,0.0,
+answer,Américaine (أمريكية),,1.0,
+question,De quelle origine est Romain Gary ? (ما هو أصل رومان غاري؟),,,lvl3
+answer,Égyptienne (مصري),,0.0,
+answer,Polonaise (بولندي),,0.0,
+answer,Russe (روسي),,1.0,
+question,Quel était l’objectif du traité de Rome ? (ماذا كان هدف معاهدة روما؟),,,lvl3
+answer,Supprimer toutes les frontières intérieures immédiatement (إلغاء جميع الحدود الداخلية فوراً),,0.0,
+answer,Créer une armée commune (إنشاء جيش مشترك),,0.0,
+answer,Établir une union étroite entre les peuples européens (إقامة اتحاد وثيق بين الشعوب الأوروبية),,1.0,
+question,Quelle est l’altitude du Mont-Blanc ? (ما هو ارتفاع جبل مون بلان؟),,,lvl3
+answer,3 200 m (3200 متر),,0.0,
+answer,5 500 m (5500 متر),,0.0,
+answer,4 810 m (4810 متر),,1.0,
+question,Quel peintre d’origine russe a décoré le plafond de l’Opéra Garnier de Paris ? (أي رسام من أصل روسي زين سقف أوبرا غارنييه في باريس؟),,,lvl3
+answer,Pablo Picasso (بابلو بيكاسو),,0.0,
+answer,Claude Monet (كلود مونيه),,0.0,
+answer,Marc Chagall (مارك شاغال),,1.0,
+question,Pour quelle raison la grotte de Lascaux est-elle célèbre ? (لماذا يشتهر كهف لاسكو؟),,,lvl3
+answer,Pour la qualité de ses peintures (بسبب جودة لوحاته),,1.0,
+answer,Pour ses poteries anciennes (بسبب فخاره القديم),,0.0,
+answer,Pour ses sculptures en pierre (بسبب منحوتاته الحجرية),,0.0,
+question,Quel mouvement social éclate en mai 1968 ? (أي حركة اجتماعية اندلعت في مايو 1968؟),,,lvl3
+answer,"Un mouvement initié par les étudiants, étendu aux salariés et ouvriers (حركة بدأها الطلاب وامتدت لتشمل الموظفين والعمال)",,1.0,
+answer,Une réforme constitutionnelle (إصلاح دستوري),,0.0,
+answer,Une révolution armée (ثورة مسلحة),,0.0,
+question,Qui est Alain Mimoun ? (من هو آلان ميمون؟),,,lvl3
+answer,Un peintre d’origine russe (رسام من أصل روسي),,0.0,
+answer,Un chanteur franco-égyptien (مغني فرنسي-مصري),,0.0,
+answer,"Un athlète d’origine algérienne, ancien combattant de la Seconde Guerre mondiale (رياضي من أصل جزائري، محارب قديم في الحرب العالمية الثانية)",,1.0,
+question,Quelle caractéristique politique la IIIᵉ République a-t-elle apportée ? (ما هي الميزة السياسية التي جلبتها الجمهورية الثالثة؟),,,lvl3
+answer,Le retour de l’Empire (عودة الإمبراطورية),,0.0,
+answer,La forme républicaine stable du Gouvernement (الشكل الجمهوري المستقر للحكومة),,1.0,
+answer,L’instauration d’une monarchie parlementaire (إقامة ملكية برلمانية),,0.0,
+question,Par quels moyens la France a-t-elle constitué son empire colonial au 19ᵉ siècle ? (بأي وسائل شكلت فرنسا إمبراطوريتها الاستعمارية في القرن التاسع عشر؟),,,lvl3
+answer,Par des guerres de conquêtes (عن طريق حروب الغزو),,1.0,
+answer,Par des élections locales (عن طريق الانتخابات المحلية),,0.0,
+answer,Par des accords commerciaux pacifiques (عن طريق اتفاقيات تجارية سلمية),,0.0,
+question,Quel exploit sportif Alain Mimoun a-t-il réalisé en 1956 ? (ما هو الإنجاز الرياضي الذي حققه آلان ميمون عام 1956؟),,,lvl3
+answer,Il a gagné le Tour de France (فاز بسباق طواف فرنسا),,0.0,
+answer,Il a remporté le marathon des Jeux olympiques (فاز بماراثون الألعاب الأولمبية),,1.0,
+answer,Il a battu le record du monde de saut en longueur (حطم الرقم القياسي العالمي في الوثب الطويل),,0.0,
+question,Où repose Marie Curie ? (أين ترقد ماري كوري؟),,,lvl3
+answer,À Versailles (في فرساي),,0.0,
+answer,Au Panthéon (في مقبرة العظماء - البانثيون),,1.0,
+answer,Au Louvre (في اللوفر),,0.0,
+question,Quel physicien d’origine polonaise a reçu le prix Nobel de physique en 1992 ? (أي فيزيائي من أصل بولندي حصل على جائزة نوبل في الفيزياء عام 1992؟),,,lvl3
+answer,Louis de Broglie (لويس دي بروي),,0.0,
+answer,Pierre Curie (بيير كوري),,0.0,
+answer,Georges Charpak (جورج شارباك),,1.0,
+question,Comment était qualifié le régime de Vichy ? (كيف وُصف نظام فيشي؟),,,lvl3
+answer,Non démocratique (غير ديمقراطي),,1.0,
+answer,Parlementaire (برلماني),,0.0,
+answer,Républicain (جمهوري),,0.0,
+question,Combien de morts la Seconde Guerre mondiale a-t-elle causés selon les historiens ? (كم عدد الوفيات التي سببتها الحرب العالمية الثانية حسب المؤرخين؟),,,lvl3
+answer,Moins de 5 millions (أقل من 5 ملايين),,0.0,
+answer,Plus de 50 millions (أكثر من 50 مليوناً),,1.0,
+answer,Plus de 9 millions (أكثر من 9 ملايين),,0.0,
+question,Dans quels secteurs l’économie française a-t-elle des pôles d’excellence ? (في أي قطاعات يمتلك الاقتصاد الفرنسي مراكز تميز؟),,,lvl3
+answer,L’aéronautique et le luxe (الطيران والسلع الفاخرة),,1.0,
+answer,L’agriculture et la pêche (الزراعة والصيد),,0.0,
+answer,Le textile et la sidérurgie (المنسوجات والصلب),,0.0,
+question,Pour quel roman Romain Gary a-t-il reçu le prix Goncourt en 1956 ? (عن أي رواية حصل رومان غاري على جائزة غونكور عام 1956؟),,,lvl3
+answer,Notre-Dame de (نوتردام دي...),,0.0,
+answer,Les Racines du ciel (جذور السماء),,1.0,
+answer,La Vie devant soi (الحياة أمامك),,0.0,
+question,Qui est Léon Gambetta ? (من هو ليون غامبيتا؟),,,lvl3
+answer,"Un fervent républicain, l’un des pères de la IIIᵉ République (جمهوري متحمس، أحد آباء الجمهورية الثالثة)",,1.0,
+answer,Un roi de France (ملك فرنسا),,0.0,
+answer,Un empereur romain (إمبراطور روماني),,0.0,
+question,Qui unifie les royaumes des peuples francs au 5e siècle ? (من وحد ممالك الشعوب الفرنجة في القرن الخامس؟),,,lvl3
+answer,Louis XIV (لويس الرابع عشر),,0.0,
+answer,Charlemagne (شارلمان),,0.0,
+answer,Clovis (كلوفيس),,1.0,
+question,Qui a préparé la loi sur l’interruption volontaire de grossesse de 1975 ? (من أعد قانون الإجهاض الطوعي لعام 1975؟),,,lvl3
+answer,Charles de Gaulle (شارل ديغول),,0.0,
+answer,François Mitterrand (فرانسوا ميتران),,0.0,
+answer,Simone Veil (سيمون فاي),,1.0,
+question,Qui est l’auteur de « Alcools » ? (من هو مؤلف "Alcools"؟),,,lvl3
+answer,Guillaume Apollinaire (غيوم أبولينير),,1.0,
+answer,Paul Valéry (بول فاليري),,0.0,
+answer,Jacques Prévert (جاك بريفير),,0.0,
+question,"Quel écrivain d’origine russe a reçu deux fois le prix Goncourt, dont une sous le nom d’Émile Ajar ? (أي كاتب من أصل روسي حصل على جائزة غونكور مرتين، إحداهما باسم إميل آجار؟)",,,lvl3
+answer,Albert Camus (ألبير كامو),,0.0,
+answer,Romain Gary (رومان غاري),,1.0,
+answer,Victor Hugo (فيكتور هوغو),,0.0,
+question,Quelle chanson est associée à Miriam Makeba ? (أي أغنية ترتبط بميريام ماكيبا؟),,,lvl3
+answer,Bambino (بامبينو),,0.0,
+answer,Pata Pata (باتا باتا),,1.0,
+answer,L’Avare (البخيل),,0.0,
+question,Qui est l’auteur de Les Misérables ? (من هو مؤلف "البؤساء"؟),,,lvl3
+answer,Victor Hugo (فيكتور هوغو),,1.0,
+answer,Voltaire (فولتير),,0.0,
+answer,Molière (موليير),,0.0,
+question,Quels sont deux ouvrages célèbres de Victor Hugo ? (ما هما العملان الشهيران لفيكتور هوغو؟),,,lvl3
+answer,Germinal et Madame Bovary (جيرمينال ومدام بوفاري),,0.0,
+answer,Les Misérables et Notre-Dame de Paris (البؤساء ونوتردام دي باري),,1.0,
+answer,L’Avare et Le Cid (البخيل والسيد),,0.0,
+question,Quel traité fonde la Communauté économique européenne en 1957 ? (أي معاهدة أسست المجموعة الاقتصادية الأوروبية عام 1957؟),,,lvl3
+answer,Le traité de Versailles (معاهدة فرساي),,0.0,
+answer,Le traité de Maastricht (معاهدة ماستريخت),,0.0,
+answer,Le traité de Rome (معاهدة روما),,1.0,
+question,Qui est l’auteur de « Calligrammes » ? (من هو مؤلف "Calligrammes"؟),,,lvl3
+answer,Victor Hugo (فيكتور هوغو),,0.0,
+answer,Guillaume Apollinaire (غيوم أبولينير),,1.0,
+answer,André Breton (أندريه بريتون),,0.0,
+question,Sous quel pseudonyme Romain Gary a-t-il reçu le prix Goncourt en 1975 ? (بأي اسم مستعار حصل رومان غاري على جائزة غونكور عام 1975؟),,,lvl3
+answer,André Gide (أندريه جيد),,0.0,
+answer,Paul Valéry (بول فاليري),,0.0,
+answer,Émile Ajar (إميل آجار),,1.0,
+question,À quelle période historique appartient Clovis ? (إلى أي فترة تاريخية ينتمي كلوفيس؟),,,lvl3
+answer,À la Renaissance (16e siècle) (إلى عصر النهضة "القرن 16"),,0.0,
+answer,À l’Antiquité (1er siècle) (إلى العصور القديمة "القرن 1"),,0.0,
+answer,Au Moyen Âge (5e siècle) (إلى العصور الوسطى "القرن 5"),,1.0,
+question,Où la décolonisation française a-t-elle débuté ? (أين بدأ إنهاء الاستعمار الفرنسي؟),,,lvl3
+answer,En Amérique (في أمريكا),,0.0,
+answer,En Asie (في آسيا),,1.0,
+answer,En Europe (في أوروبا),,0.0,
+question,Où se trouvait la capitale du régime de Vichy ? (أين كانت عاصمة نظام فيشي؟),,,lvl3
+answer,À Lyon (في ليون),,0.0,
+answer,À Bordeaux (في بوردو),,0.0,
+answer,À Vichy (في فيشي),,1.0,
+question,Quel magazine Françoise Giroud a-t-elle cofondé ? (أي مجلة شاركت فرانسواز جيرو في تأسيسها؟),,,lvl3
+answer,Paris Match (باريس ماتش),,0.0,
+answer,L’Express (إكسبريس),,1.0,
+answer,Le Monde (لوموند),,0.0,
+question,Quand la IIIᵉ République a-t-elle été instaurée ? (متى أقيمت الجمهورية الثالثة؟),,,lvl3
+answer,En 1875 (عام 1875),,1.0,
+answer,En 1958 (عام 1958),,0.0,
+answer,En 1848 (عام 1848),,0.0,
+question,Quelles entreprises ont leur siège social à Paris La Défense ? (أي شركات تمتلك مقرها الرئيسي في باريس "لا ديفانس"؟),,,lvl3
+answer,Les plus grosses entreprises du CAC 40 (أكبر شركات مؤشر كاك 40),,1.0,
+answer,Des PME locales (شركات محلية صغيرة ومتوسطة),,0.0,
+answer,Des start-ups étrangères (شركات ناشئة أجنبية),,0.0,
+question,Quels événements sportifs Léon Zitrone a-t-il commentés ? (أي أحداث رياضية علق عليها ليون زيترون؟),,,lvl3
+answer,Le Tour de France et les Jeux olympiques (طواف فرنسا والألعاب الأولمبية),,1.0,
+answer,La Coupe du monde de rugby et le Dakar (كأس العالم للرغبي ورالي داكار),,0.0,
+answer,Le marathon de Paris et Roland-Garros (ماراثون باريس ورولان غاروس),,0.0,
+question,Quel prix international Miriam Makeba a-t-elle obtenu ? (أي جائزة دولية حصلت عليها ميريام ماكيبا؟),,,lvl3
+answer,Un Grammy Award (جائزة غرامي),,1.0,
+answer,Un Oscar (جائزة أوسكار),,0.0,
+answer,Un prix Nobel de la paix (جائزة نوبل للسلام),,0.0,
+question,Pour quel événement la tour Eiffel a-t-elle été construite ? (لأي حدث تم بناء برج إيفل؟),,,lvl3
+answer,La Révolution française (الثورة الفرنسية),,0.0,
+answer,L’Exposition universelle de 1889 (المعرض العالمي لعام 1889),,1.0,
+answer,Les Jeux olympiques de 1924 (الألعاب الأولمبية لعام 1924),,0.0,
+question,Qui est Miriam Makeba ? (من هي ميريام ماكيبا؟),,,lvl3
+answer,Une poétesse née en Égypte (شاعرة ولدت في مصر),,0.0,
+answer,Une actrice d’origine algérienne (ممثلة من أصل جزائري),,0.0,
+answer,Une chanteuse sud-africaine engagée contre l’apartheid (مغنية جنوب أفريقية مناضلة ضد نظام الفصل العنصري),,1.0,
+question,En quelle année Joseph Kessel est-il élu à l’Académie française ? (في أي عام انتُخب جوزيف كيسيل في الأكاديمية الفرنسية؟),,,lvl3
+answer,1956 (1956),,0.0,
+answer,1975 (1975),,0.0,
+answer,1962 (1962),,1.0,
+question,Quel statut possède le Mont-Saint-Michel ? (ما هي الصفة التي يمتلكها جبل سان ميشيل؟),,,lvl3
+answer,Monument historique national uniquement (معلم تاريخي وطني فقط),,0.0,
+answer,Patrimoine mondial de l’UNESCO (تراث عالمي لليونسكو),,1.0,
+answer,Site naturel protégé uniquement (موقع طبيعي محمي فقط),,0.0,
+question,Quelle opération militaire a eu lieu le 6 juin 1944 en Normandie ? (ما هي العملية العسكرية التي جرت في 6 يونيو 1944 في نورماندي؟),,,lvl3
+answer,La prise de la Bastille (سقوط الباستيل),,0.0,
+answer,Le débarquement des alliés (إنزال الحلفاء),,1.0,
+answer,L’armistice de 1918 (هدنة 1918),,0.0,
+question,Où est née la poétesse Andrée Chedid ? (أين ولدت الشاعرة أندريه شديد؟),,,lvl3
+answer,En Pologne (في بولندا),,0.0,
+answer,En Russie (في روسيا),,0.0,
+answer,En Égypte (في مصر),,1.0,
+question,De quoi le régime de Vichy est-il en partie responsable ? (عن ماذا كان نظام فيشي مسؤولاً جزئياً؟),,,lvl3
+answer,De la colonisation de l’Algérie (عن استعمار الجزائر),,0.0,
+answer,De l’armistice de 1918 (عن هدنة 1918),,0.0,
+answer,De la déportation des Juifs (عن ترحيل اليهود),,1.0,
+question,Qui conduit les troupes françaises pendant la guerre de Cent Ans contre l’Angleterre ? (من قاد القوات الفرنسية خلال حرب المائة عام ضد إنجلترا؟),,,lvl3
+answer,Marie-Antoinette (ماري أنطوانيت),,0.0,
+answer,Catherine de Médicis (كاترين دي ميديشي),,0.0,
+answer,Jeanne d’Arc (جان دارك),,1.0,
+question,Quel est l’effet principal de l’édit de Nantes ? (ما هو الأثر الرئيسي لمرسوم نانت؟),,,lvl3
+answer,Le rétablissement de la paix religieuse (استعادة السلام الديني),,1.0,
+answer,L’abolition de la monarchie (إلغاء الملكية),,0.0,
+answer,Le début de la guerre de Cent Ans (بداية حرب المائة عام),,0.0,
+question,Dans quelle vallée se trouve le théâtre romain d’Orange ? (في أي وادٍ يقع المسرح الروماني في أورانج؟),,,lvl3
+answer,Dans la vallée de la Seine (في وادي السين),,0.0,
+answer,Dans la vallée du Rhône (في وادي الرون),,1.0,
+answer,Dans la vallée de la Loire (في وادي اللوار),,0.0,
+question,Quel roi de France règne de 1643 à 1715 ? (أي ملك فرنسي حكم من 1643 إلى 1715؟),,,lvl3
+answer,François Ier (فرانسوا الأول),,0.0,
+answer,Louis XVI (لويس السادس عشر),,0.0,
+answer,Louis XIV (لويس الرابع عشر),,1.0,
+question,Dans quels domaines Léon Zitrone s’est-il illustré ? (في أي مجالات برز ليون زيترون؟),,,lvl3
+answer,Littérature et poésie (الأدب والشعر),,0.0,
+answer,Télévision et grands événements sportifs (التلفزيون والأحداث الرياضية الكبرى),,1.0,
+answer,Cinéma et théâtre (السينما والمسرح),,0.0,
+question,Quels sont des exemples de talents français issus de l’immigration ? (ما هي أمثلة المواهب الفرنسية المنحدرة من أصول مهاجرة؟),,,lvl3
+answer,"Molière, Corneille, Racine, La Fontaine (موليير، كورني، راسين، لافونتين)",,0.0,
+answer,"Michel Platini, Zinédine Zidane, Jamel Debbouze, Marie N’Diaye (ميشيل بلاتيني، زين الدين زيدان، جمال دبوز، ماري ندياي)",,1.0,
+answer,"Victor Hugo, Louis XIV, Jeanne d’Arc, Napoléon Ier (فيكتور هوغو، لويس الرابع عشر، جان دارك، نابليون الأول)",,0.0,
+question,Quelle était l’origine sociale de Jeanne d’Arc ? (ما هو الأصل الاجتماعي لجان دارك؟),,,lvl3
+answer,Une princesse (أميرة),,0.0,
+answer,Une bourgeoise de Paris (من برجوازية باريس),,0.0,
+answer,Une jeune paysanne (فلاحة شابة),,1.0,
+question,Qui a animé l’émission télévisée « Intervilles » ? (من قدم البرنامج التلفزيوني "Intervilles"؟),,,lvl3
+answer,Alain Mimoun (آلان ميمون),,0.0,
+answer,Léon Zitrone (ليون زيترون),,1.0,
+answer,Georges Moustaki (جورج موستاكي),,0.0,
+question,Quel est le domaine scientifique de Marie Curie ? (ما هو المجال العلمي لماري كوري؟),,,lvl3
+answer,La biologie (علم الأحياء),,0.0,
+answer,La géologie (علم الجيولوجيا),,0.0,
+answer,La physique (الفيزياء),,1.0,
+question,Qui a mis en place le régime de Vichy après la défaite française ? (من الذي أنشأ نظام فيشي بعد الهزيمة الفرنسية؟),,,lvl3
+answer,Charles de Gaulle (شارل ديغول),,0.0,
+answer,Napoléon III (نابليون الثالث),,0.0,
+answer,Le maréchal Pétain (المارشال بيتان),,1.0,
+question,Quelle est une des comédies les plus connues de Molière ? (ما هي واحدة من أشهر كوميديات موليير؟),,,lvl3
+answer,Le Cid (السيد),,0.0,
+answer,L’Avare (البخيل),,1.0,
+answer,Les Misérables (البؤساء),,0.0,
+question,Que s’est-il passé en 1848 en France ? (ماذا حدث في عام 1848 في فرنسا؟),,,lvl3
+answer,La mort de Napoléon Ier (وفاة نابليون الأول),,0.0,
+answer,L’abolition de l’esclavage (إلغاء العبودية),,1.0,
+answer,La naissance de la IIIᵉ République (ولادة الجمهورية الثالثة),,0.0,
+question,Quelle actrice d’origine algérienne a joué dans « Le Prénom » et « Avocats et associés » ? (أي ممثلة من أصل جزائري مثلت في "Le Prénom" و"Avocats et associés"؟),,,lvl3
+answer,Catherine Deneuve (كاثرين دينوف),,0.0,
+answer,Isabelle Huppert (إيزابيل هوبير),,0.0,
+answer,Valérie Benguigui (فاليري بنغيغي),,1.0,
+question,Qui est Georges Moustaki ? (من هو جورج موستاكي؟),,,lvl3
+answer,Un chanteur d’origine italo-grecque (مغني من أصل إيطالي يوناني),,1.0,
+answer,Un peintre d’origine russe (رسام من أصل روسي),,0.0,
+answer,Un journaliste d’origine russe (صحفي من أصل روسي),,0.0,
+question,À partir de quelle date les Romains s’installent-ils dans ce qui est aujourd’hui la France ? (منذ أي تاريخ استقر الرومان في ما يُعرف اليوم بفرنسا؟),,,lvl3
+answer,50 av. J.-C. (50 قبل الميلاد),,1.0,
+answer,500 ap. J.-C. (500 ميلادي),,0.0,
+answer,500 av. J.-C. (500 قبل الميلاد),,0.0,
+question,À partir de quelle décennie Georges Moustaki s’impose-t-il comme un grand nom de la chanson française ? (منذ أي عقد برز جورج موستاكي كاسم كبير في الأغنية الفرنسية؟),,,lvl3
+answer,Années 1960 (الستينيات),,1.0,
+answer,Années 1980 (الثمانينيات),,0.0,
+answer,Années 1940 (الأربعينيات),,0.0,
+question,Le Rhône est… (نهر الرون هو...),,,lvl3
+answer,Une chaîne de montagnes (سلسلة جبال),,0.0,
+answer,Un fleuve (نهر),,1.0,
+answer,Un lac (بحيرة),,0.0,
+question,La Garonne est… (نهر غارون هو...),,,lvl3
+answer,Un volcan (بركان),,0.0,
+answer,Une montagne (جبل),,0.0,
+answer,Un fleuve (نهر),,1.0,
+question,Quelle poétesse née en Égypte est aussi une femme de lettres française ? (أي شاعرة ولدت في مصر هي أيضاً أديبة فرنسية؟),,,lvl3
+answer,George Sand (جورج ساند),,0.0,
+answer,Marguerite Duras (مارغريت دوراس),,0.0,
+answer,Andrée Chedid (أندريه شديد),,1.0,
+question,Quel type d’État se met en place sous Louis XIV ? (أي نوع من الدول أقيم تحت حكم لويس الرابع عشر؟),,,lvl3
+answer,Un État faible et divisé (دولة ضعيفة ومنقسمة),,0.0,
+answer,Un État puissant et centralisé (دولة قوية ومركزية),,1.0,
+answer,Un État fédéral (دولة فيدرالية),,0.0,
+question,Quelle était l’origine de Haroun Tazieff ? (ما هو أصل هارون تازيف؟),,,lvl3
+answer,Varsovie (وارسو),,1.0,
+answer,Athènes (أثينا),,0.0,
+answer,Moscou (موسكو),,0.0,
+question,Qui étaient persécutés ou exterminés par les nazis ? (من هم الذين تعرضوا للاضطهاد أو الإبادة من قبل النازيين؟),,,lvl3
+answer,"Juifs, Tziganes, homosexuels, handicapés et opposants politiques (اليهود، الغجر، المثليون، ذوو الاحتياجات الخاصة والمعارضون السياسيون)",,1.0,
+answer,Seuls les militaires (العسكريون فقط),,0.0,
+answer,Nobles et prêtres (النبلاء والقساوسة),,0.0,
+question,"Quelles sont les trois caractéristiques de l’école instaurée par Jules Ferry ? (ما هي الخصائص الثلاث للمدرسة التي أنشأها جول فيري؟)",,,lvl3
+answer,"Privée, payante et catholique (خاصة، مدفوعة وكاثوليكية)",,0.0,
+answer,"Obligatoire, militaire et religieuse (إجبارية، عسكرية ودينية)",,0.0,
+answer,"Publique, gratuite et laïque (حكومية، مجانية وعلمانية)",,1.0,
+question,Quelle fonction Françoise Giroud a-t-elle exercée dans la vie politique française ? (ما هي الوظيفة التي مارستها فرانسواز جيرو في الحياة السياسية الفرنسية؟),,,lvl3
+answer,Ministre de la Défense (وزيرة الدفاع),,0.0,
+answer,Deux fois Secrétaire d’État (سكرتيرة دولة مرتين),,1.0,
+answer,Première ministre (رئيسة وزراء),,0.0,
+question,Quelle discipline Haroun Tazieff a-t-il fait connaître au grand public ? (أي تخصص علمي عرفه هارون تازيف للجمهور العام؟),,,lvl3
+answer,L’astronomie (علم الفلك),,0.0,
+answer,La volcanologie (علم البراكين),,1.0,
+answer,La météorologie (الأرصاد الجوية),,0.0,
+question,Combien d’entreprises sont regroupées à Paris La Défense ? (كم عدد الشركات المتجمعة في باريس لا ديفانس؟),,,lvl3
+answer,500 (500),,1.0,
+answer,5 000 (5000),,0.0,
+answer,50 (50),,0.0,
+question,Quel roi a lancé la construction du château de Versailles ? (أي ملك أطلق بناء قصر فرساي؟),,,lvl3
+answer,Napoléon Ier (نابليون الأول),,0.0,
+answer,François Ier (فرانسوا الأول),,0.0,
+answer,Louis XIV (لويس الرابع عشر),,1.0,
+question,Quelle physicienne née en Pologne a découvert la radioactivité ? (أي فيزيائية ولدت في بولندا اكتشفت النشاط الإشعاعي؟),,,lvl3
+answer,Rosalind Franklin (روزاليند فرانكلين),,0.0,
+answer,Irène Joliot-Curie (إيرين جوليو-كوري),,0.0,
+answer,Marie Curie (ماري كوري),,1.0,
+question,Qui est Joseph Kessel ? (من هو جوزيف كيسيل؟),,,lvl3
+answer,Un journaliste d’origine russe (صحفي من أصل روسي),,0.0,
+answer,Un chanteur d’origine italo-grecque (مغني من أصل إيطالي يوناني),,0.0,
+answer,Un grand reporter et romancier né en Argentine (صحفي وروائي كبير ولد في الأرجنتين),,1.0,
+question,Avec quelle République Léon Gambetta est-il associé ? (بأي جمهورية يرتبط اسم ليون غامبيتا؟),,,lvl3
+answer,La Ve République (الجمهورية الخامسة),,0.0,
+answer,La IIIᵉ République (الجمهورية الثالثة),,1.0,
+answer,La Iʳᵉ République (الجمهورية الأولى),,0.0,
+question,Avec quelle découverte Georges Charpak est-il associé ? (بأي اكتشاف يرتبط اسم جورج شارباك؟),,,lvl3
+answer,La vaccination (التطعيم),,0.0,
+answer,La détection des particules (كشف الجسيمات),,1.0,
+answer,La biologie cellulaire (علم الأحياء الخلوي),,0.0,
+question,Quelle est la plus haute montagne d’Europe ? (ما هو أعلى جبل في أوروبا؟),,,lvl3
+answer,Le Mont-Blanc (جبل مون بلان),,1.0,
+answer,Le Kilimandjaro (كيليمانجارو),,0.0,
+answer,L’Elbrouz (إلبروز),,0.0,
+question,Quel roi de France publie l’édit de Nantes en 1598 ? (أي ملك فرنسي نشر مرسوم نانت عام 1598؟),,,lvl3
+answer,Henri IV (هنري الرابع),,1.0,
+answer,François Ier (فرانسوا الأول),,0.0,
+answer,Louis XIII (لويس الثالث عشر),,0.0,
+question,Combien de temps environ Napoléon Ier a-t-il dirigé la France ? (كم من الوقت تقريباً أدار نابليون الأول فرنسا؟),,,lvl3
+answer,Près de 30 ans (حوالي 30 عاماً),,0.0,
+answer,Près de 5 ans (حوالي 5 أعوام),,0.0,
+answer,Près de 15 ans (حوالي 15 عاماً),,1.0,
+question,Qui est considéré comme le père de la volcanologie contemporaine ? (من يعتبر أباً لعلم البراكين المعاصر؟),,,lvl3
+answer,Haroun Tazieff (هارون تازيف),,1.0,
+answer,Georges Charpak (جورج شارباك),,0.0,
+answer,Joseph Kessel (جوزيف كيسيل),,0.0,
+question,Combien d’agglomérations françaises comptent plus de 500 000 habitants ? (كم عدد التجمعات الحضرية الفرنسية التي تضم أكثر من 500,000 نسمة؟),,,lvl3
+answer,17 (17),,1.0,
+answer,27 (27),,0.0,
+answer,10 (10),,0.0,
+question,Combien de fois Romain Gary a-t-il reçu le prix Goncourt ? (كم مرة حصل رومان غاري على جائزة غونكور؟),,,lvl3
+answer,Une fois (مرة واحدة),,0.0,
+answer,Trois fois (ثلاث مرات),,0.0,
+answer,Deux fois (مرتين),,1.0,
+question,Qui est Vassily Kandinsky ? (من هو فاسيلي كاندينسكي؟),,,lvl3
+answer,Un journaliste d’origine russe (صحفي من أصل روسي),,0.0,
+answer,Un écrivain né en Argentine (كاتب ولد في الأرجنتين),,0.0,
+answer,"Un peintre d’origine russe, fondateur de l’art abstrait (رسام من أصل روسي، مؤسس الفن التجريدي)",,1.0,
+question,Dans quel film a joué Valérie Benguigui ? (في أي فيلم مثلت فاليري بنغيغي؟),,,lvl3
+answer,Le Prénom (الاسم),,1.0,
+answer,Les Misérables (البؤساء),,0.0,
+answer,La Grande Vadrouille (النزهة الكبرى),,0.0,
+question,Quelle est la superficie du territoire français (métropole et outre-mer) ? (ما هي مساحة الأراضي الفرنسية "البر الرئيسي وما وراء البحار"؟),,,lvl3
+answer,1 million km² (مليون كم²),,0.0,
+answer,450 000 km² (450,000 كم²),,0.0,
+answer,675 000 km² (675,000 كم²),,1.0,
+question,Quelles guerres ont marqué la décolonisation française ? (ما هي الحروب التي ميزت إنهاء الاستعمار الفرنسي؟),,,lvl3
+answer,Les guerres d’Indochine et d’Algérie (حروب الهند الصينية والجزائر),,1.0,
+answer,La guerre de Crimée et la guerre de 1870 (حرب القرم وحرب 1870),,0.0,
+answer,La guerre de Corée et la guerre du Vietnam (حرب كوريا وحرب فيتنام),,0.0,
+question,Combien de grands groupes de plus de 10 000 salariés compte la France ? (كم عدد المجموعات الكبيرة التي تضم أكثر من 10,000 موظف في فرنسا؟),,,lvl3
+answer,Plusieurs milliers (عدة آلاف),,0.0,
+answer,Une centaine (حوالي مائة),,1.0,
+answer,Une dizaine (حوالي عشرة),,0.0,
+question,En quelles années a eu lieu la décolonisation française ? (في أي سنوات تم إنهاء الاستعمار الفرنسي؟),,,lvl3
+answer,Entre 1914 et 1918 (بين 1914 و1918),,0.0,
+answer,Entre 1950 et 1962 (بين 1950 و1962),,1.0,
+answer,Entre 1981 et 1995 (بين 1981 و1995),,0.0,
+question,Qui est considéré comme le plus célèbre auteur de théâtre français du 17e siècle ? (من يعتبر أشهر مؤلف مسرحي فرنسي في القرن السابع عشر؟),,,lvl3
+answer,Molière (موليير),,1.0,
+answer,Corneille (كورني),,0.0,
+answer,Victor Hugo (فيكتور هوغو),,0.0,
+question,Combien de morts la Première Guerre mondiale a-t-elle faits environ ? (كم عدد الوفيات التي سببتها الحرب العالمية الأولى تقريباً؟),,,lvl3
+answer,Moins d’un million (أقل من مليون),,0.0,
+answer,Plus de 9 millions (أكثر من 9 ملايين),,1.0,
+answer,Plus de 50 millions (أكثر من 50 مليوناً),,0.0,
+question,Comment est qualifiée la monarchie sous Louis XIV ? (كيف تُوصف الملكية تحت حكم لويس الرابع عشر؟),,,lvl3
+answer,Une monarchie élective (ملكية انتخابية),,0.0,
+answer,Une monarchie absolue (ملكية مطلقة),,1.0,
+answer,Une monarchie parlementaire (ملكية برلمانية),,0.0,
+question,En quelle année l’âge de la majorité a-t-il été fixé à 18 ans ? (في أي عام حُدد سن الرشد بـ 18 عاماً؟),,,lvl3
+answer,En 1981 (عام 1981),,0.0,
+answer,En 1957 (عام 1957),,0.0,
+answer,En 1974 (عام 1974),,1.0,
+question,"Quelle artiste d’origine américaine fut danseuse, chanteuse et résistante en France pendant la Seconde Guerre mondiale ? (أي فنانة من أصل أمريكي كانت راقصة ومغنية ومقاومة في فرنسا خلال الحرب العالمية الثانية؟)",,,lvl3
+answer,Joséphine Baker (جوزفين بيكر),,1.0,
+answer,Nina Simone (نينا سيمون),,0.0,
+answer,Aretha Franklin (أريثا فرانكلين),,0.0,
+question,Quelle école artistique Vassily Kandinsky contribue-t-il à fonder ? (أي مدرسة فنية ساهم فاسيلي كاندينسكي في تأسيسها؟),,,lvl3
+answer,L’art abstrait (الفن التجريدي),,1.0,
+answer,L’impressionnisme (الانطباعية),,0.0,
+answer,Le cubisme (التكعيبية),,0.0,
+question,Quelle République est proclamée en 1792 ? (أي جمهورية أُعلنت في عام 1792؟),,,lvl3
+answer,La Première République (الجمهورية الأولى),,1.0,
+answer,La Deuxième République (الجمهورية الثانية),,0.0,
+answer,La Cinquième République (الجمهورية الخامسة),,0.0,
+question,Au temps de quel roi Molière a-t-il vécu ? (في زمن أي ملك عاش موليير؟),,,lvl3
+answer,Louis XIV (لويس الرابع عشر),,1.0,
+answer,Louis XVI (لويس السادس عشر),,0.0,
+answer,Napoléon Ier (نابليون الأول),,0.0,
+question,Dans quelles régions du monde la France a-t-elle constitué un empire colonial au 19ᵉ siècle ? (في أي مناطق العالم شكلت فرنسا إمبراطورية استعمارية في القرن التاسع عشر؟),,,lvl3
+answer,En Océanie et en Amérique du Nord (في أوقيانوسيا وأمريكا الشمالية),,0.0,
+answer,En Scandinavie et au Moyen-Orient (في إسكندنافيا والشرق الأوسط),,0.0,
+answer,"Aux Antilles, en Afrique et en Asie (في جزر الأنتيل وأفريقيا وآسيا)",,1.0,
+question,Qu’adoptent les populations locales après l’installation des Romains ? (ماذا تبنى السكان المحليون بعد استقرار الرومان؟),,,lvl3
+answer,Leur mode de vie et la culture latine (نمط حياتهم والثقافة اللاتينية),,1.0,
+answer,Leur organisation viking (تنظيم الفايكنج الخاص بهم),,0.0,
+answer,Leur langue grecque (لغتهم اليونانية),,0.0,
+question,Quel pays Adolf Hitler a-t-il envahi notamment ? (أي بلد غزا أدولف هتلر بشكل خاص؟),,,lvl3
+answer,La France (فرنسا),,1.0,
+answer,Les États-Unis (الولايات المتحدة),,0.0,
+answer,Le Royaume-Uni (المملكة المتحدة),,0.0,
+question,Qu’est-ce qui s’élève sur le Mont-Saint-Michel ? (ماذا يرتفع فوق جبل سان ميشيل؟),,,lvl3
+answer,Une abbaye (دير),,1.0,
+answer,Un palais royal (قصر ملكي),,0.0,
+answer,Un château fort (قلعة حصينة),,0.0,
+question,Où la décolonisation française s’est-elle poursuivie après l’Asie ? (أين استمر إنهاء الاستعمار الفرنسي بعد آسيا؟),,,lvl3
+answer,En Afrique (في أفريقيا),,1.0,
+answer,En Amérique du Sud (في أمريكا الجنوبية),,0.0,
+answer,En Océanie (في أوقيانوسيا),,0.0,
+question,Quelle importance a l’action de Clovis dans l’histoire de France ? (ما هي أهمية عمل كلوفيس في تاريخ فرنسا؟),,,lvl3
+answer,Elle divise définitivement le territoire (إنها تقسم المنطقة بشكل نهائي),,0.0,
+answer,Elle constitue une étape vers l’unité du territoire français (إنها تشكل خطوة نحو وحدة الأراضي الفرنسية),,1.0,
+answer,Elle entraîne la disparition de la royauté (إنها تؤدي إلى اختفاء الملكية),,0.0,
+question,Quelle expression décrit Joséphine Baker ? (أي تعبير يصف جوزفين بيكر؟),,,lvl3
+answer,Poétesse symboliste (شاعرة رمزية),,0.0,
+answer,Actrice comique (ممثلة كوميدية),,0.0,
+answer,Meneuse de revue noire (نجمة استعراض سوداء),,1.0,
+question,Quels philosophes du 18e siècle ont combattu pour la tolérance et la liberté de pensée ? (أي فلاسفة القرن الثامن عشر كافحوا من أجل التسامح وحرية الفكر؟),,,lvl3
+answer,"Rousseau, Voltaire, Diderot (روسو، فولتير، ديدرو)",,1.0,
+answer,"Montesquieu, Balzac, Hugo (مونتسكيو، بالزاك، هوغو)",,0.0,
+answer,"Pasteur, Descartes, Zola (باستور، ديكارت، زولا)",,0.0,
+question,Quelle chanteuse d’origine égyptienne a connu de grands succès populaires comme « Bambino » ou « Laissez-moi danser » ? (أي مغنية من أصل مصري حققت نجاحات شعبية كبيرة مثل "بامبينو" أو "دعوني أرقص"؟),,,lvl3
+answer,Barbara (باربرا),,0.0,
+answer,Dalida (داليدا),,1.0,
+answer,Edith Piaf (إديث بياف),,0.0,
+question,Quel est le premier quartier d’affaires d’Europe ? (ما هو أول منطقة للأعمال في أوروبا؟),,,lvl3
+answer,La City de Londres (حي "السيتي" في لندن),,0.0,
+answer,Paris La Défense (باريس لا ديفانس),,1.0,
+answer,Francfort (فرانكفورت),,0.0,
+question,À quel siècle a vécu Diderot ? (في أي قرن عاش ديدرو؟),,,lvl3
+answer,Au 19ᵉ siècle (في القرن 19),,0.0,
+answer,Au 15ᵉ siècle (في القرن 15),,0.0,
+answer,Au 18ᵉ siècle (في القرن 18),,1.0,
+question,Dans quels domaines de transport la France est-elle un leader mondial ? (في أي مجالات النقل تعتبر فرنسا رائدة عالمياً؟),,,lvl3
+answer,Transport maritime et ferroviaire (النقل البحري والسكك الحديدية),,1.0,
+answer,Transport spatial et fluvial (النقل الفضائي والنهري),,0.0,
+answer,Transport routier et aérien (النقل البري والجوي),,0.0,
+question,À quel siècle a vécu Voltaire ? (في أي قرن عاش فولتير؟),,,lvl3
+answer,Au 18ᵉ siècle (في القرن 18),,1.0,
+answer,Au 16ᵉ siècle (في القرن 16),,0.0,
+answer,Au 20ᵉ siècle (في القرن 20),,0.0,
+question,À quel siècle a vécu Rousseau ? (في أي قرن عاش روسو؟),,,lvl3
+answer,Au 18ᵉ siècle (في القرن 18),,1.0,
+answer,Au 17ᵉ siècle (في القرن 17),,0.0,
+answer,Au 19ᵉ siècle (في القرن 19),,0.0,
+question,Combien de pays participaient à la CEE à sa création ? (كم عدد الدول التي شاركت في المجموعة الاقتصادية الأوروبية عند إنشائها؟),,,lvl3
+answer,"Six, dont la France (ستة، من بينها فرنسا)",,1.0,
+answer,Douze (اثنا عشر),,0.0,
+answer,Vingt-sept (سبعة وعشرون),,0.0,

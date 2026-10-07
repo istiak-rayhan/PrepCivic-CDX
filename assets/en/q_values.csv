@@ -1,0 +1,501 @@
+Type,Text,Placeholder,IsCorrect,Level
+question,Comment s’appelle la Constitution actuelle de la France ? [What is the current Constitution of France called?],,,lvl1
+answer,La Constitution de 1946 [The Constitution of 1946],,0.0,
+answer,La Constitution de la Ve République [The Constitution of the Fifth Republic],,1.0,
+answer,La Charte des droits fondamentaux [The Charter of Fundamental Rights],,0.0,
+question,Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ? [What is the name of the text that sets out the rights and duties of people residing in France?],,,lvl1
+answer,Le Code du travail [The Labor Code],,0.0,
+answer,La Charte des droits fondamentaux de l'Union européenne [The Charter of Fundamental Rights of the European Union],,0.0,
+answer,La Déclaration des droits de l'homme et du citoyen [The Declaration of the Rights of Man and of the Citizen],,1.0,
+question,"Concernant les droits individuels, quelle proposition est correcte ? [Concerning individual rights, which statement is correct?]",,,lvl1
+answer,Ils sont illimités. [They are unlimited.],,0.0,
+answer,Ils sont subordonnés aux intérêts religieux. [They are subordinate to religious interests.],,0.0,
+answer,Ils sont limités par la loi et ne doivent pas nuire aux autres. [They are limited by law and must not harm others.],,1.0,
+question,De quelle année date la Déclaration des droits de l’homme et du citoyen ? [From what year does the Declaration of the Rights of Man and of the Citizen date?],,,lvl1
+answer,1958 [1958],,0.0,
+answer,1789 [1789],,1.0,
+answer,1905 [1905],,0.0,
+question,Lequel de ces droits est un droit fondamental ? [Which of these rights is a fundamental right?],,,lvl1
+answer,Le droit d'ignorer la loi. [The right to ignore the law.],,0.0,
+answer,Le droit de propriété collective. [The right to collective property.],,0.0,
+answer,Le droit d'aller et venir (liberté de circulation). [The right to come and go (freedom of movement).],,1.0,
+question,"Parmi ces textes, lequel garantit les droits et libertés en France ? [Among these texts, which one guarantees rights and freedoms in France?]",,,lvl1
+answer,Le Code pénal [The Penal Code],,0.0,
+answer,"Le Bloc de constitutionnalité (DDHC 1789, Constitution...). [The Constitutionality Block (DDHC 1789, Constitution...)]",,1.0,
+answer,La loi sur la presse [The law on the press],,0.0,
+question,Qu’est-ce que la liberté d’expression ? [What is freedom of expression?],,,lvl1
+answer,Le droit de ne pas avoir à justifier ses propos. [The right to not have to justify one's remarks.],,0.0,
+answer,"Le droit de communiquer ses idées et opinions, dans le respect de la loi. [The right to communicate one's ideas and opinions, in compliance with the law.]",,1.0,
+answer,Le droit d'insulter sans risque de sanction. [The right to insult without risk of sanction.],,0.0,
+question,Quel droit permet à une personne de se défendre devant la justice ? [What right allows a person to defend themselves before justice?],,,lvl1
+answer,La liberté de culte [Freedom of worship],,0.0,
+answer,Le droit de grève [The right to strike],,0.0,
+answer,Le droit à un procès équitable (droit de la défense). [The right to a fair trial (right of defense).],,1.0,
+question,Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ? [What is the founding text establishing the rights and duties of each citizen in France?],,,lvl1
+answer,Le Code civil [The Civil Code],,0.0,
+answer,La Déclaration des droits de l'homme et du citoyen de 1789 (DDHC). [The Declaration of the Rights of Man and of the Citizen of 1789 (DDHC).],,1.0,
+answer,La Charte de la laïcité [The Charter of Secularism],,0.0,
+question,Quel texte a été adopté pendant la Révolution française ? [Which text was adopted during the French Revolution?],,,lvl1
+answer,Le Traité de l'Élysée [The Élysée Treaty],,0.0,
+answer,La Charte de l'environnement [The Charter for the Environment],,0.0,
+answer,La Déclaration des droits de l'homme et du citoyen (DDHC). [The Declaration of the Rights of Man and of the Citizen (DDHC).],,1.0,
+question,Quelle liberté permet à une personne de ne pas avoir de religion ? [Which freedom allows a person to have no religion?],,,lvl1
+answer,La liberté d'association [Freedom of association],,0.0,
+answer,La liberté de conscience (ou de croyance). [Freedom of conscience (or belief).],,1.0,
+answer,La liberté d'expression [Freedom of expression],,0.0,
+question,Une femme peut avorter : [A woman can have an abortion:],,,lvl1
+answer,Seulement en cas de viol [Only in case of rape],,0.0,
+answer,Seulement avec l'accord de son mari [Only with her husband's agreement],,0.0,
+answer,Dans les conditions et les délais fixés par la loi (IVG). [Under the conditions and within the time limits set by law (abortion).],,1.0,
+question,Est-il toujours possible de divorcer ? [Is it always possible to get a divorce?],,,lvl1
+answer,"Non, seulement si l'un des conjoints est d'accord [No, only if one of the spouses agrees]",,0.0,
+answer,"Oui, selon les procédures prévues par la loi (avec ou sans juge). (, [Yes, according to the procedures provided by law (with or without a judge). (,]",,1.0,
+answer,"Non, seulement après 10 ans de mariage [No, only after 10 years of marriage]",,0.0,
+question,La peine de mort est : [The death penalty is:],,,lvl1
+answer,Légale mais seulement en temps de guerre [Legal but only in time of war],,0.0,
+answer,Abolie et interdite par la Constitution française. [Abolished and prohibited by the French Constitution.],,1.0,
+answer,Autorisée seulement pour les crimes contre l'État [Authorized only for crimes against the State],,0.0,
+question,"Concernant les limites aux libertés individuelles, quelle proposition est correcte ? [Concerning the limits to individual liberties, which statement is correct?]",,,lvl1
+answer,Les libertés sont totales et sans aucune limite. [Liberties are total and without any limit.],,0.0,
+answer,La loi seule fixe les limites nécessaires à l'exercice des libertés. [The law alone sets the limits necessary for the exercise of liberties.],,1.0,
+answer,Le Président de la République peut seul limiter les libertés. [The President of the Republic alone can limit liberties.],,0.0,
+question,"En France, est-ce légal d'être marié à plusieurs personnes en même temps ? [In France, is it legal to be married to several people at the same time?]",,,lvl1
+answer,"Oui, sous certaines conditions religieuses [Yes, under certain religious conditions]",,0.0,
+answer,"Non, la polygamie est interdite et sanctionnée par la loi. [No, polygamy is prohibited and punished by law.]",,1.0,
+answer,"Oui, seulement pour les hommes [Yes, only for men]",,0.0,
+question,Faut-il réduire ses déchets ? [Should we reduce our waste?],,,lvl1
+answer,"Non, les déchets sont recyclés en totalité [No, waste is entirely recycled]",,0.0,
+answer,"Oui, c'est une responsabilité individuelle pour protéger l'environnement. [Yes, it is an individual responsibility to protect the environment.]",,1.0,
+answer,Seulement les déchets organiques [Only organic waste],,0.0,
+question,Jeter une bouteille dans la rue est : [Throwing a bottle in the street is:],,,lvl1
+answer,Un acte sans conséquence [An act without consequence],,0.0,
+answer,Une incivilité punie par la loi (amende). ( - [An incivility punished by law (fine). ( -],,1.0,
+answer,Seulement interdit dans les grandes villes [Only prohibited in large cities],,0.0,
+question,Pourquoi les libertés individuelles peuvent-elles être limitées ? [Why can individual liberties be limited?],,,lvl1
+answer,Pour donner plus de pouvoir à l'État [To give more power to the State],,0.0,
+answer,Pour garantir la sûreté et les droits des autres citoyens. [To guarantee the safety and rights of other citizens.],,1.0,
+answer,Pour faire plaisir à la majorité [To please the majority],,0.0,
+question,Que doit faire une personne en cas d’accident ? [What must a person do in case of an accident?],,,lvl1
+answer,Partir et appeler les secours de chez elle [Leave and call for help from home],,0.0,
+answer,Secourir ou faire secourir la victime (obligation de porter assistance). [Rescue or cause the victim to be rescued (obligation to provide assistance).],,1.0,
+answer,"Ne rien faire, car cela pourrait entraîner des problèmes légaux [Do nothing, as this could lead to legal problems]",,0.0,
+question,Que permet la citoyenneté française ? [What does French citizenship allow?],,,lvl1
+answer,Seulement le droit de vivre sur le territoire français. [Only the right to live on French territory.],,0.0,
+answer,Le droit de ne pas payer d'impôts. [The right to not pay taxes.],,0.0,
+answer,"Le droit de vote et d'éligibilité, ainsi que l'accès aux emplois publics. [The right to vote and eligibility, as well as access to public employment.]",,1.0,
+question,Que risque une personne qui ne respecte pas la loi ? [What does a person risk who does not respect the law?],,,lvl1
+answer,D'être expulsé du pays. [To be expelled from the country.],,0.0,
+answer,D'être sanctionnée par la justice (amende ou peine de prison). [To be sanctioned by justice (fine or prison sentence).],,1.0,
+answer,D'être privée de son droit de vote. [To be deprived of one's right to vote.],,0.0,
+question,Quel est le rôle de la gendarmerie ? [What is the role of the gendarmerie?],,,lvl1
+answer,"Assurer la sécurité et l'ordre public, principalement en zone rurale ou périurbaine. [To ensure security and public order, mainly in rural or peri-urban areas.]",,1.0,
+answer,Gérer les affaires de l'État civil. [To manage civil status affairs.],,0.0,
+answer,Contrôler les frontières uniquement. [To control borders only.],,0.0,
+question,Quel est le rôle de la police ? [What is the role of the police?],,,lvl1
+answer,"Assurer la sécurité et l'ordre public, principalement en zone urbaine. [To ensure security and public order, mainly in urban areas.]",,1.0,
+answer,Rédiger les lois [To draft laws],,0.0,
+answer,Organiser les élections [To organize elections],,0.0,
+question,Qu'est-ce qu'une infraction ? [What is an offense?],,,lvl1
+answer,"Un acte interdit et puni par la loi (contravention, délit ou crime). [An act prohibited and punished by law (fine, misdemeanor, or crime).]",,1.0,
+answer,Un désaccord avec une administration [A disagreement with an administration],,0.0,
+answer,Une opinion politique non majoritaire [A non-majority political opinion],,0.0,
+question,Comment peut-on réduire ses déchets ? [How can we reduce our waste?],,,lvl1
+answer,En brûlant les emballages. [By burning packaging.],,0.0,
+answer,En jetant les objets inutiles dans les égouts. [By throwing useless objects into the sewers.],,0.0,
+answer,En privilégiant le réemploi et le tri des emballages recyclables. [By favoring reuse and sorting of recyclable packaging.],,1.0,
+question,Déposer une machine à laver cassée sur le trottoir est : [Leaving a broken washing machine on the sidewalk is:],,,lvl1
+answer,Une façon normale de s'en débarrasser. [A normal way to get rid of it.],,0.0,
+answer,Une infraction qui peut être sanctionnée par une amende (dépôt illégal de déchets). [An offense that can be punished by a fine (illegal dumping of waste).],,1.0,
+answer,Un service gratuit pour les éboueurs. [A free service for waste collectors.],,0.0,
+question,En quoi consiste la traite des êtres humains ? [What does human trafficking consist of?],,,lvl1
+answer,À aider les migrants à traverser les frontières. [To help migrants cross borders.],,0.0,
+answer,"À recruter, transporter et exploiter une personne par la contrainte ou la tromperie. [To recruit, transport, and exploit a person through coercion or deception.]",,1.0,
+answer,À organiser un voyage touristique à l'étranger. [To organize a tourist trip abroad.],,0.0,
+question,Que doit faire une victime de violences ? [What must a victim of violence do?],,,lvl1
+answer,Garder le silence pour éviter les problèmes. [Keep silent to avoid problems.],,0.0,
+answer,Contacter la police/gendarmerie et/ou un professionnel de la santé ou une association d'aide. [Contact the police/gendarmerie and/or a health professional or a support association.],,1.0,
+answer,Se venger de son agresseur par ses propres moyens. [Take revenge on one's aggressor by one's own means.],,0.0,
+question,Quelle est l'infraction la plus grave ? [Which is the most serious offense?],,,lvl1
+answer,La contravention [The fine / minor offense],,0.0,
+answer,Le délit [The misdemeanor],,0.0,
+answer,Le crime [The crime / felony],,1.0,
+question,À quelle liberté la PMA fait-elle référence ? (PMA [To which freedom does MAR (Medically Assisted Reproduction) refer? (MAR],,,lvl2
+answer,La liberté de circulation [Freedom of movement],,0.0,
+answer,La liberté de procréation (ou liberté de choix de la vie personnelle). [Freedom of procreation (or freedom of choice of personal life).],,1.0,
+answer,La liberté d'expression [Freedom of expression],,0.0,
+question,Au nom de quoi l'État justifie-t-il la restriction des droits ? [On what grounds does the State justify the restriction of rights?],,,lvl2
+answer,Au nom du confort personnel des élus. [In the name of the personal comfort of elected officials.],,0.0,
+answer,"Au nom de l'ordre public, de la sécurité ou du respect des droits d'autrui. [In the name of public order, security, or respect for the rights of others.]",,1.0,
+answer,Au nom de la religion majoritaire. [In the name of the majority religion.],,0.0,
+question,"Concernant le droit de se marier, quelle proposition est correcte ? [Concerning the right to marry, which statement is correct?]",,,lvl2
+answer,Seuls les couples hétérosexuels peuvent se marier. [Only heterosexual couples can marry.],,0.0,
+answer,"Le mariage est autorisé entre deux personnes, quel que soit leur sexe. [Marriage is authorized between two people, regardless of their sex.]",,1.0,
+answer,Le mariage est uniquement religieux. [Marriage is only religious.],,0.0,
+question,Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ? [Which of these quotes is inscribed in the Declaration of the Rights of Man and of the Citizen of 1789?],,,lvl2
+answer,« Le travail est la loi de la République. » ["Work is the law of the Republic."],,0.0,
+answer,« La loi est l'expression de la volonté générale. » ["The law is the expression of the general will."],,1.0,
+answer,"« La République française est indivisible, laïque, démocratique et sociale. » [""The French Republic is indivisible, secular, democratic, and social.""]",,0.0,
+question,Le recours à l'avortement est-il autorisé ? [Is recourse to abortion authorized?],,,lvl2
+answer,"Non, seulement en cas de danger pour la mère. [No, only in case of danger to the mother.]",,0.0,
+answer,"Oui, l'Interruption Volontaire de Grossesse (IVG) est un droit garanti par la loi. (, [Yes, Voluntary Interruption of Pregnancy (abortion) is a right guaranteed by law. (,]",,1.0,
+answer,"Non, sauf si le mariage a eu lieu il y a plus de 10 ans. [No, unless the marriage took place more than 10 years ago.]",,0.0,
+question,Que contient la Constitution ? [What does the Constitution contain?],,,lvl2
+answer,La liste de tous les codes civils et pénaux. [The list of all civil and penal codes.],,0.0,
+answer,La liste des impôts à payer. [The list of taxes to be paid.],,0.0,
+answer,Les principes fondamentaux de l'État et l'organisation des pouvoirs publics. [The fundamental principles of the State and the organization of public powers.],,1.0,
+question,Que garantit la liberté de la presse ? [What does freedom of the press guarantee?],,,lvl2
+answer,Le droit de publier et de diffuser des informations sans censure préalable (sous réserve du respect de la loi). [The right to publish and distribute information without prior censorship (subject to compliance with the law).],,1.0,
+answer,L'interdiction de toute critique envers l'État. [The prohibition of any criticism towards the State.],,0.0,
+answer,Le droit d'avoir une opinion unique. [The right to have a unique opinion.],,0.0,
+question,Que prévoit la Charte de l'environnement ? [What does the Charter for the Environment provide?],,,lvl2
+answer,L'interdiction de l'industrie. [The prohibition of industry.],,0.0,
+answer,Le droit de vivre dans un environnement sain et le devoir de prévenir les atteintes à l'environnement. [The right to live in a healthy environment and the duty to prevent damage to the environment.],,1.0,
+answer,Le paiement de taxes supplémentaires pour la nature. [The payment of additional taxes for nature.],,0.0,
+question,Que signifie la dignité humaine ? [What does human dignity mean?],,,lvl2
+answer,L'interdiction d'utiliser les transports publics. [The prohibition of using public transport.],,0.0,
+answer,"Le respect inconditionnel dû à toute personne, et l'interdiction de la dégrader. [The unconditional respect due to every person, and the prohibition to degrade them.]",,1.0,
+answer,Le droit de recevoir de l'argent de l'État. [The right to receive money from the State.],,0.0,
+question,Que signifie le droit de manifester ? [What does the right to demonstrate mean?],,,lvl2
+answer,L'obligation d'accepter toutes les décisions du gouvernement. [The obligation to accept all government decisions.],,0.0,
+answer,Le droit de faire grève dans son entreprise. [The right to strike in one's company.],,0.0,
+answer,La liberté d’exprimer collectivement des idées ou des revendications dans l'espace public. [The freedom to collectively express ideas or demands in the public space.],,1.0,
+question,Que signifie PMA ? [What does PMA mean?],,,lvl2
+answer,Prévention du Maintien Administratif [Prevention of Administrative Maintenance],,0.0,
+answer,Procréation Médicalement Assistée [Medically Assisted Reproduction],,1.0,
+answer,Police Militaire de l'Armée [Military Police of the Army],,0.0,
+question,Quel texte est le plus difficile à modifier ? [Which text is the most difficult to modify?],,,lvl2
+answer,Les lois ordinaires [Ordinary laws],,0.0,
+answer,La Constitution [The Constitution],,1.0,
+answer,Les règlements municipaux [Municipal regulations],,0.0,
+question,Quelle liberté permet à une personne de croire en la religion de son choix ? [Which freedom allows a person to believe in the religion of their choice?],,,lvl2
+answer,La liberté de la presse [Freedom of the press],,0.0,
+answer,La liberté d'association [Freedom of association],,0.0,
+answer,La liberté de conscience [Freedom of conscience],,1.0,
+question,Qu'est-ce que le droit de grève ? [What is the right to strike?],,,lvl2
+answer,"Un droit fondamental garanti par la Constitution, qui permet l'arrêt collectif et concerté du travail. [A fundamental right guaranteed by the Constitution, which allows the collective and concerted cessation of work.]",,1.0,
+answer,Une infraction punie par la loi. [An offense punished by law.],,0.0,
+answer,Une obligation de l'employeur. [An obligation of the employer.],,0.0,
+question,Qu'est-ce que la Constitution ? [What is the Constitution?],,,lvl2
+answer,Le texte fondamental qui définit l'organisation des pouvoirs et les droits essentiels. [The fundamental text that defines the organization of powers and essential rights.],,1.0,
+answer,Le recueil de toutes les lois. [The collection of all laws.],,0.0,
+answer,Un texte religieux. [A religious text.],,0.0,
+question,Qui peut demander à avorter ? [Who can request an abortion?],,,lvl2
+answer,Uniquement les femmes mariées [Only married women],,0.0,
+answer,Toute femme enceinte qui ne souhaite pas poursuivre sa grossesse (dans les délais légaux). [Any pregnant woman who does not wish to continue her pregnancy (within legal deadlines).],,1.0,
+answer,Uniquement les femmes de nationalité française [Only women of French nationality],,0.0,
+question,Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ? [Does an adult woman of French nationality have the right to vote in elections?],,,lvl2
+answer,"Non, uniquement si elle est mariée. [No, only if she is married.]",,0.0,
+answer,"Non, si elle est mère de famille. [No, if she is a mother.]",,0.0,
+answer,"Oui, le droit de vote est un droit civique garanti sans distinction de sexe. [Yes, the right to vote is a civic right guaranteed without distinction of sex.]",,1.0,
+question,"Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ? [Concerning the use of social networks, which statement is correct?]",,,lvl2
+answer,"On peut tout dire, c'est la liberté d'expression. [One can say anything, it's freedom of expression.]",,0.0,
+answer,La publication de propos injurieux ou discriminatoires peut être punie par la loi. [The publication of insulting or discriminatory remarks can be punished by law.],,1.0,
+answer,Les lois sur la diffamation ne s'appliquent pas aux réseaux sociaux. [Defamation laws do not apply to social networks.],,0.0,
+question,Jeter un mégot par terre est : [Throwing a cigarette butt on the ground is:],,,lvl2
+answer,"Autorisé, car les mégots sont biodégradables. [Authorized, because cigarette butts are biodegradable.]",,0.0,
+answer,Une incivilité punie par une amende. [An incivility punished by a fine.],,1.0,
+answer,Seulement interdit à l'intérieur des bâtiments. [Only prohibited inside buildings.],,0.0,
+question,L'État peut-il limiter les droits et libertés ? [Can the State limit rights and freedoms?],,,lvl2
+answer,"Oui, mais seulement par la loi, pour des raisons de sécurité ou d'ordre public. [Yes, but only by law, for reasons of security or public order.]",,1.0,
+answer,"Non, les droits et libertés sont absolus et illimités. [No, rights and freedoms are absolute and unlimited.]",,0.0,
+answer,"Oui, par simple décision administrative du Préfet. [Yes, by simple administrative decision of the Prefect.]",,0.0,
+question,"Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ? [Among these actions, which one allows to adopt an environmentally respectful attitude?]",,,lvl2
+answer,Laisser son moteur tourner à l'arrêt. [Leaving one's engine running while stationary.],,0.0,
+answer,Privilégier les transports en commun ou le vélo. [Favoring public transport or cycling.],,1.0,
+answer,Acheter des produits suremballés. [Buying overpackaged products.],,0.0,
+question,Quelle proposition constitue une obligation ? [Which statement constitutes an obligation?],,,lvl2
+answer,Le droit de se marier. [The right to marry.],,0.0,
+answer,La liberté de conscience. [Freedom of conscience.],,0.0,
+answer,L'obligation de payer ses impôts. [The obligation to pay one's taxes.],,1.0,
+question,Pour quel motif peut-on limiter la liberté d'expression ? [For what reason can freedom of expression be limited?],,,lvl2
+answer,Pour éviter toute critique du Président. [To avoid any criticism of the President.],,0.0,
+answer,"Diffamation, injure ou incitation à la haine (racisme, sexisme...). (, [Defamation, insult, or incitement to hatred (racism, sexism...). (,]",,1.0,
+answer,Pour éviter des débats politiques. [To avoid political debates.],,0.0,
+question,Pourquoi doit-on trier ses déchets ? [Why must we sort our waste?],,,lvl2
+answer,Pour créer des emplois pour les éboueurs. [To create jobs for waste collectors.],,0.0,
+answer,Pour faciliter le recyclage et préserver les ressources naturelles. [To facilitate recycling and preserve natural resources.],,1.0,
+answer,C'est une obligation seulement pour les entreprises. [It is an obligation only for companies.],,0.0,
+question,Que doit faire une victime de violences ? [What must a victim of violence do?],,,lvl2
+answer,Déménager immédiatement. [Move immediately.],,0.0,
+answer,"Alerter la police, la gendarmerie ou les services d'urgence (17, 112). (, [Alert the police, the gendarmerie, or emergency services (17, 112). (,]",,1.0,
+answer,Attendre plusieurs semaines avant de parler. [Wait several weeks before speaking.],,0.0,
+question,Que doit-on faire face aux ordres des policiers ou gendarmes ? [What must one do when faced with orders from police officers or gendarmes?],,,lvl2
+answer,Négocier et exprimer son désaccord. [Negotiate and express one's disagreement.],,0.0,
+answer,"Obéir, car ils représentent l'autorité publique, dans la limite de la loi. [Obey, because they represent public authority, within the limits of the law.]",,1.0,
+answer,Simplement s'éloigner rapidement. [Simply walk away quickly.],,0.0,
+question,Quel est le rôle de la police ? [What is the role of the police?],,,lvl2
+answer,Récolter les impôts. [To collect taxes.],,0.0,
+answer,Assurer la sécurité des personnes et des biens et maintenir l'ordre public. [To ensure the security of people and property and maintain public order.],,1.0,
+answer,Rédiger la Constitution. [To draft the Constitution.],,0.0,
+question,Quel est un exemple d’assistance à personne en danger ? [What is an example of assistance to a person in danger?],,,lvl2
+answer,Prier pour la personne. [Pray for the person.],,0.0,
+answer,"Ne rien faire, sauf si l'on est médecin. [Do nothing, unless one is a doctor.]",,0.0,
+answer,"Alerter les secours (pompiers 18, SAMU 15) et si possible, sécuriser la zone. [Alert emergency services (firefighters 18, SAMU 15) and if possible, secure the area.]",,1.0,
+question,Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ? [Which example illustrates a limitation of freedom to protect the general interest?],,,lvl2
+answer,L'interdiction de manger certains aliments. [The prohibition of eating certain foods.],,0.0,
+answer,L'interdiction de manifester dans un lieu très fréquenté pour des raisons de sécurité. [The prohibition of demonstrating in a highly frequented place for security reasons.],,1.0,
+answer,L'obligation d'avoir une religion. [The obligation to have a religion.],,0.0,
+question,Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ? [What is the attitude to have when witnessing violence?],,,lvl2
+answer,Faire semblant de ne rien voir. [Pretend to see nothing.],,0.0,
+answer,"Alerter les forces de l'ordre (Police 17 ou 112) et, si possible, porter assistance à la victime. [Alert law enforcement (Police 17 or 112) and, if possible, provide assistance to the victim.]",,1.0,
+answer,Filmer la scène pour la mettre sur internet. [Film the scene to put it on the internet.],,0.0,
+question,Quelle est l'infraction la plus grave ? [Which is the most serious offense?],,,lvl2
+answer,Le vol simple [Simple theft],,0.0,
+answer,La diffamation [Defamation],,0.0,
+answer,Le crime (ex : meurtre ou viol). [The crime (e.g., murder or rape).],,1.0,
+question,Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ? [Which obligation concerns all people residing in France regardless of their nationality?],,,lvl2
+answer,L'obligation de voter à toutes les élections. [The obligation to vote in all elections.],,0.0,
+answer,L'obligation de respecter la loi française. [The obligation to respect French law.],,1.0,
+answer,L'obligation de s'engager dans le service militaire. [The obligation to enlist in military service.],,0.0,
+question,Quelle proposition représente un exemple de crime ? [Which statement represents an example of a crime?],,,lvl2
+answer,Le stationnement illégal [Illegal parking],,0.0,
+answer,Le vol à l'étalage [Shoplifting],,0.0,
+answer,Le viol [Rape],,1.0,
+question,Quelle proposition représente un exemple de délit ? [Which statement represents an example of a misdemeanor?],,,lvl2
+answer,Un excès de vitesse de 10 km/h [A speeding offense of 10 km/h],,0.0,
+answer,Le vol simple [Simple theft],,1.0,
+answer,Le meurtre [Murder],,0.0,
+question,Qui veille au maintien de l’ordre public ? [Who ensures the maintenance of public order?],,,lvl2
+answer,Le Parlement [The Parliament],,0.0,
+answer,La Police et la Gendarmerie (sous l'autorité du Préfet). [The Police and the Gendarmerie (under the authority of the Prefect).],,1.0,
+answer,L'autorité judiciaire [The judicial authority],,0.0,
+question,"S'agissant des déchets, quelle proposition est correcte ? [Regarding waste, which statement is correct?]",,,lvl2
+answer,Les jeter n'importe où est toléré. [Throwing them anywhere is tolerated.],,0.0,
+answer,Le tri des déchets est une obligation de civisme. [Sorting waste is a civic obligation.],,1.0,
+answer,Seuls les produits chimiques doivent être triés. [Only chemical products must be sorted.],,0.0,
+question,Un citoyen inscrit sur les listes électorales ne souhaite plus voter « car cela ne change rien ». Quelle attitude conforme à ses devoirs civiques ? [A citizen registered on the electoral rolls no longer wishes to vote "because it changes nothing". Which attitude complies with his civic duties?],,,lvl3
+answer,Voter ou au moins s’informer : la participation exprime la souveraineté populaire. [Vote or at least stay informed: participation expresses popular sovereignty.],,1.0,
+answer,Revendre sa carte d’électeur à un tiers. [Resell one's voter card to a third party.],,0.0,
+answer,S’abstenir volontairement sans justification. [Abstain voluntarily without justification.],,0.0,
+question,Un habitant brûle ses déchets verts dans son jardin pour « gagner de la place ». Est-ce autorisé ? [A resident burns their green waste in their garden to "save space". Is this authorized?],,,lvl3
+answer,"Non, le brûlage à l’air libre est interdit. [No, open-air burning is prohibited.]",,1.0,
+answer,"Oui, en période de pluie. [Yes, during rainy periods.]",,0.0,
+answer,"Oui, si cela ne gêne pas les voisins. [Yes, if it does not bother the neighbors.]",,0.0,
+question,Un restaurant refuse un client en fauteuil roulant pour « raisons de place ». Est-ce légal ? [A restaurant refuses a customer in a wheelchair for "space reasons". Is this legal?],,,lvl3
+answer,"Oui, si le restaurant est petit. [Yes, if the restaurant is small.]",,0.0,
+answer,"Non, refuser un client en raison de son handicap est interdit. [No, refusing a customer because of their handicap is prohibited.]",,1.0,
+answer,"Oui, si le client vient seul. [Yes, if the customer comes alone.]",,0.0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? [A neighbor burns their green waste in their garden, causing heavy smoke. Which reaction complies with civility?]",,,lvl3
+answer,Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. [Remind them that this practice is prohibited and report to the town hall if necessary.],,1.0,
+answer,L’imiter pour “équilibrer les nuisances”. [Imitate them to "balance the nuisances".],,0.0,
+answer,Le laisser faire car c’est sa propriété. [Let them do it because it is their property.],,0.0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? [During an accident, bystanders film instead of helping. Which moral and legal rule?]",,,lvl3
+answer,Porter assistance en priorité. [Provide assistance as a priority.],,1.0,
+answer,Attendre que d’autres interviennent. [Wait for others to intervene.],,0.0,
+answer,Filmer pour les réseaux. [Film for networks.],,0.0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? [What is the minimum legal obligation for any owner of a motor land vehicle in France, even if it is not driven?]",,,lvl3
+answer,L’obligation de souscrire une assurance tous risques. [The obligation to take out comprehensive insurance.],,0.0,
+answer,Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. [There is no obligation if the vehicle remains parked on private property.],,0.0,
+answer,L’obligation de souscrire une assurance en responsabilité civile (au tiers). [The obligation to take out third-party liability insurance.],,1.0,
+question,"Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ? [In the street, you see an injured and unconscious person. What should you do?]",,,lvl3
+answer,Continuer votre chemin. [Continue on your way.],,0.0,
+answer,Filmer pour garder une preuve. [Film to keep proof.],,0.0,
+answer,Alerter les secours et sécuriser les lieux . [Alert emergency services and secure the area.],,1.0,
+question,Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? [An employer reads a worker's personal emails on their professional computer. Is this authorized?],,,lvl3
+answer,"Non, les messages identifiés comme personnels sont protégés. [No, messages identified as personal are protected.]",,1.0,
+answer,"Oui, car le matériel appartient à l’entreprise. [Yes, because the equipment belongs to the company.]",,0.0,
+answer,"Oui, s’il ne les partage pas. [Yes, if they do not share them.]",,0.0,
+question,Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? [A pharmacist tells a customer's illness to his neighbors. Is this legal?],,,lvl3
+answer,"Oui, s’il veut prévenir les autres. [Yes, if he wants to warn others.]",,0.0,
+answer,"Non, il viole le secret professionnel. [No, he violates professional secrecy.]",,1.0,
+answer,"Oui, si le client est d’accord après. [Yes, if the customer agrees afterwards.]",,0.0,
+question,Que doit-on faire face aux ordres des policiers ou gendarmes ? [What must one do when faced with orders from police officers or gendarmes?],,,lvl3
+answer,Les négocier sur place. [Negotiate them on the spot.],,0.0,
+answer,Les contester immédiatement. [Contest them immediately.],,0.0,
+answer,Les respecter dans le cadre de la loi. [Respect them within the framework of the law.],,1.0,
+question,Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? [Separated parents disagree on the choice of their child's school. How does the law define the exercise of parental authority in this situation?],,,lvl3
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. [Important decisions must be made by both parents together, even after separation.]",,1.0,
+answer,La mère a toujours le dernier mot. [The mother always has the final word.],,0.0,
+answer,Le juge décide automatiquement. [The judge decides automatically.],,0.0,
+question,Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? [What is the attitude to have when witnessing violence?],,,lvl3
+answer,Intervenir seul physiquement. [Intervene alone physically.],,0.0,
+answer,Ne rien faire. [Do nothing.],,0.0,
+answer,Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. [Alert emergency services or law enforcement and help as much as possible.],,1.0,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? [An internet user publishes ""[Group X] are dangerous, we must drive them out"". Which reaction complies?]",,,lvl3
+answer,Signaler et sanctionner ces propos. [Report and sanction these remarks.],,1.0,
+answer,Tolérer car c’est une opinion. [Tolerate because it is an opinion.],,0.0,
+answer,Effacer seulement s’il s’excuse. [Delete only if he apologizes.],,0.0,
+question,Est-il toujours possible de divorcer ? [Is it always possible to get a divorce?],,,lvl3
+answer,"Oui, uniquement avec l’accord des familles. [Yes, only with the families' agreement.]",,0.0,
+answer,"Non, sauf en cas de faute grave. [No, except in cases of serious misconduct.]",,0.0,
+answer,"Oui, le divorce est un droit reconnu par la loi. [Yes, divorce is a right recognized by law.]",,1.0,
+question,Le recours à l’avortement est-il autorisé ? [Is recourse to abortion authorized?],,,lvl3
+answer,"Non, il est interdit. [No, it is prohibited.]",,0.0,
+answer,Seulement avec l’accord du conjoint. [Only with the spouse's agreement.],,0.0,
+answer,"Oui, dans les conditions prévues par la loi. [Yes, under the conditions provided by law.]",,1.0,
+question,Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? [A self-employed worker refuses to contribute to social security. Is this authorized?],,,lvl3
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. [No, contributions are mandatory to finance national solidarity.]",,1.0,
+answer,"Oui, s’il a une assurance privée. [Yes, if he has private insurance.]",,0.0,
+answer,"Oui, s’il n’est jamais malade. [Yes, if he is never sick.]",,0.0,
+question,Quel est un exemple d’assistance à personne en danger ? [What is an example of assistance to a person in danger?],,,lvl3
+answer,Appeler les secours pour une personne blessée. [Call emergency services for an injured person.],,1.0,
+answer,Quitter les lieux sans agir. [Leave the scene without acting.],,0.0,
+answer,Filmer la scène. [Film the scene.],,0.0,
+question,Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? [Two French married women have recourse to MAR. How is the child legally linked to the second mother?],,,lvl3
+answer,La loi ne reconnaît pas la seconde mère. [The law does not recognize the second mother.],,0.0,
+answer,La seconde mère doit adopter l’enfant. [The second mother must adopt the child.],,0.0,
+answer,Les deux mères sont reconnues comme parents dès la naissance. [Both mothers are recognized as parents from birth.],,1.0,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? [In a building, residents leave the common lights on all night. What civic attitude to adopt?]",,,lvl3
+answer,Ignorer le problème. [Ignore the problem.],,0.0,
+answer,Retirer les ampoules de force. [Remove the light bulbs by force.],,0.0,
+answer,Proposer des capteurs ou des minuteries pour réduire le gaspillage. [Propose sensors or timers to reduce waste.],,1.0,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? [To change their civil status (first name and sex) on their official documents, must a transgender person have undergone surgery?]",,,lvl3
+answer,"Oui, c’est obligatoire. [Yes, it is mandatory.]",,0.0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. [No, since 2017, no operation or medical intervention is required.]",,1.0,
+answer,"Oui, mais seulement une attestation psychiatrique. [Yes, but only a psychiatric certificate.]",,0.0,
+question,Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? [A citizen sentenced to pay a fine refuses to pay it due to disagreement. Which attitude complies with the law?],,,lvl3
+answer,Se faire justice soi-même. [Take justice into one's own hands.],,0.0,
+answer,Exécuter la décision ou exercer un recours prévu par la loi. [Execute the decision or exercise a remedy provided by law.],,1.0,
+answer,Ignorer la décision. [Ignore the decision.],,0.0,
+question,Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? [A neighbor is accused of theft but has not yet been tried. How to react?],,,lvl3
+answer,Attendre la décision de justice avant de le juger. [Wait for the court decision before judging them.],,1.0,
+answer,Le considérer coupable immédiatement. [Consider them guilty immediately.],,0.0,
+answer,Publier son nom sur les réseaux sociaux. [Publish their name on social networks.],,0.0,
+question,Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? [A public transport strike is announced. What device allows informing users in advance?],,,lvl3
+answer,Le droit de réquisition. [The right of requisition.],,0.0,
+answer,Le service minimum avec publication des prévisions de circulation. [The minimum service with publication of traffic forecasts.],,1.0,
+answer,Une limitation légale du nombre de grévistes. [A legal limitation on the number of strikers.],,0.0,
+question,Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? [A person receives an email from a "bank" asking for their codes. What should they do?],,,lvl3
+answer,Répondre pour vérifier. [Reply to check.],,0.0,
+answer,Ne pas répondre et signaler la fraude. [Do not reply and report the fraud.],,1.0,
+answer,Donner les codes si l’adresse semble officielle. [Give the codes if the address seems official.],,0.0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? [During an identity check without documents, can the police take you to the station?]",,,lvl3
+answer,"Non, jamais. [No, never.]",,0.0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. [Yes, for an identity verification that can last up to 4 hours.]",,1.0,
+answer,"Non, elle doit vous laisser partir. [No, they must let you go.]",,0.0,
+question,Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? [A resident attends a public meeting of the municipal council. Can they speak?],,,lvl3
+answer,"Oui, si le maire l’autorise selon les règles locales. [Yes, if the mayor authorizes it according to local rules.]",,1.0,
+answer,"Non, seuls les élus peuvent parler. [No, only elected officials can speak.]",,0.0,
+answer,"Oui, librement et sans limite. [Yes, freely and without limit.]",,0.0,
+question,Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? [A restaurant owner refuses to serve a homosexual couple. What is the rule?],,,lvl3
+answer,Autorisé si le restaurant est familial. [Authorized if the restaurant is family-run.],,0.0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. [It is prohibited, access to a service cannot depend on sexual orientation.]",,1.0,
+answer,Autorisé s’il affiche ce refus. [Authorized if they display this refusal.],,0.0,
+question,Qui veille au maintien de l’ordre public ? [Who ensures the maintenance of public order?],,,lvl3
+answer,Le Parlement. [The Parliament.],,0.0,
+answer,Les mairies. [The town halls.],,0.0,
+answer,La police et la gendarmerie. [The police and the gendarmerie.],,1.0,
+question,Le respect des décisions de justice est-il obligatoire ? [Is respect for court decisions mandatory?],,,lvl3
+answer,"Non, si on n’est pas d’accord. [No, if one does not agree.]",,0.0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. [Yes, even in case of disagreement, with the possibility of legal recourse.]",,1.0,
+answer,Seulement pour les étrangers. [Only for foreigners.],,0.0,
+question,Quelle proposition constitue une obligation ? [Which statement constitutes an obligation?],,,lvl3
+answer,Respecter la loi. [Respect the law.],,1.0,
+answer,Voter à chaque élection. [Vote at every election.],,0.0,
+answer,Adhérer à une association. [Join an association.],,0.0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? [During a legal check, a bystander refuses to state their identity. Which attitude is correct?]",,,lvl3
+answer,Refuser au nom de la liberté individuelle. [Refuse in the name of individual liberty.],,0.0,
+answer,Reporter le contrôle à plus tard. [Postpone the check until later.],,0.0,
+answer,Coopérer et présenter une pièce d’identité. [Cooperate and present an ID document.],,1.0,
+question,Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? [You wish to know the details of the public spending of your town hall. What is your right?],,,lvl3
+answer,Passer obligatoirement par un avocat. [Go through a lawyer obligatorily.],,0.0,
+answer,Vous n’avez pas ce droit. [You do not have this right.],,0.0,
+answer,Le droit d’accès aux documents administratifs. [The right of access to administrative documents.],,1.0,
+question,Des habitants signent une pétition pour créer une piste cyclable. Quel est l’effet juridique ? [Residents sign a petition to create a cycle path. What is the legal effect?],,,lvl3
+answer,Elle remplace un vote municipal. [It replaces a municipal vote.],,0.0,
+answer,Elle peut être transmise mais n’oblige pas la collectivité. [It can be transmitted but does not bind the community.],,1.0,
+answer,Elle crée immédiatement la piste. [It creates the path immediately.],,0.0,
+question,"Lors d’un repas, un convive refuse de s’asseoir à côté d’une personne d’une autre origine. Quelle réaction citoyenne ? [During a meal, a guest refuses to sit next to a person of another origin. What civic reaction?]",,,lvl3
+answer,Rappeler le principe d’égalité et de respect mutuel. [Recall the principle of equality and mutual respect.],,1.0,
+answer,Ignorer pour éviter le conflit. [Ignore to avoid conflict.],,0.0,
+answer,Accepter par politesse. [Accept out of politeness.],,0.0,
+question,Un enfant étranger sans papiers souhaite être scolarisé en France. L’école peut-elle refuser ? [An undocumented foreign child wishes to be schooled in France. Can the school refuse?],,,lvl3
+answer,"Oui, s’il ne parle pas français. [Yes, if they do not speak French.]",,0.0,
+answer,"Non, tout enfant a droit à l’éducation en France. [No, every child has the right to education in France.]",,1.0,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. [Yes, if their parents do not have a residence permit.]",,0.0,
+question,Un commerce laisse ses enseignes allumées toute la nuit. Est-ce conforme ? [A business leaves its signs on all night. Is this compliant?],,,lvl3
+answer,"Oui, si cela attire les clients. [Yes, if it attracts customers.]",,0.0,
+answer,"Non, elles doivent être éteintes la nuit selon la réglementation. [No, they must be turned off at night according to regulations.]",,1.0,
+answer,"Oui, s’il paie l’électricité. [Yes, if they pay for electricity.]",,0.0,
+question,"Vous déménagez dans une nouvelle commune. Pour voter aux élections présidentielles, que faut-il faire ? [You move to a new municipality. To vote in the presidential elections, what needs to be done?]",,,lvl3
+answer,Voter dans l’ancienne commune. [Vote in the old municipality.],,0.0,
+answer,S’inscrire sur les listes électorales de la nouvelle commune. [Register on the electoral rolls of the new municipality.],,1.0,
+answer,"Rien faire, l’inscription est automatique. [Do nothing, registration is automatic.]",,0.0,
+question,Deux salariés ont le même poste et la même ancienneté mais un salaire différent. Quelle règle s’applique ? [Two employees have the same position and the same seniority but a different salary. Which rule applies?],,,lvl3
+answer,L’employeur est libre sans justification. [The employer is free without justification.],,0.0,
+answer,La différence est normale selon le sexe. [The difference is normal according to sex.],,0.0,
+answer,L’égalité de rémunération pour un travail égal. [Equal pay for equal work.],,1.0,
+question,Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? [An elected official refuses to declare their financial interests. Is it serious?],,,lvl3
+answer,"Non, c’est privé. [No, it is private.]",,0.0,
+answer,"Oui, seulement s’il gagne beaucoup. [Yes, only if they earn a lot.]",,0.0,
+answer,"Oui, la transparency est obligatoire pour éviter les conflits d’intérêts. [Yes, transparency is mandatory to avoid conflicts of interest.]",,1.0,
+question,Un collègue fait des blagues homophobes au travail. Que prévoit la loi ? [A colleague makes homophobic jokes at work. What does the law provide?],,,lvl3
+answer,C’est acceptable s’il n’y a pas d’intention méchante. [It is acceptable if there is no malicious intent.],,0.0,
+answer,Ces propos constituent une discrimination et peuvent être sanctionnés. [These remarks constitute discrimination and can be sanctioned.],,1.0,
+answer,C’est humoristique donc toléré. [It is humorous therefore tolerated.],,0.0,
+question,Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? [A sick employee receives a dismissal letter for justified medical absence. Is this legal?],,,lvl3
+answer,"Oui, s’il est remplacé. [Yes, if they are replaced.]",,0.0,
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. [No, dismissal based on health status is discriminatory.]",,1.0,
+answer,"Oui, après une semaine d’arrêt. [Yes, after a week of sick leave.]",,0.0,
+question,Un voisin installe une caméra qui filme l’entrée de votre domicile. Quel est votre recours légal immédiat ? [A neighbor installs a camera that films the entrance to your home. What is your immediate legal remedy?],,,lvl3
+answer,Lui demander de réorienter la caméra et saisir la CNIL ou la justice en cas de refus. [Ask them to reorient the camera and contact the CNIL or the courts in case of refusal.],,1.0,
+answer,Il n’y a aucun recours. [There is no remedy.],,0.0,
+answer,Couper les câbles de la caméra. [Cut the camera cables.],,0.0,
+question,Un patient refuse un traitement vital pour des raisons religieuses. Que peut faire le médecin ? [A patient refuses life-saving treatment for religious reasons. What can the doctor do?],,,lvl3
+answer,L’obliger à être soigné. [Force them to be treated.],,0.0,
+answer,Respecter son refus après une information claire et loyale. [Respect their refusal after clear and fair information.],,1.0,
+answer,Le signaler à la police. [Report it to the police.],,0.0,
+question,Un citoyen français vivant en Espagne peut-il voter aux élections municipales ? [Can a French citizen living in Spain vote in municipal elections?],,,lvl3
+answer,"Oui, en tant que citoyen de l’Union européenne. [Yes, as a citizen of the European Union.]",,1.0,
+answer,"Non, il perd ce droit. [No, they lose this right.]",,0.0,
+answer,"Oui, seulement avec un passeport local. [Yes, only with a local passport.]",,0.0,
+question,Un média publie la photo d’un suspect avec le mot « coupable ». Est-ce légal ? [A media outlet publishes the photo of a suspect with the word "guilty". Is this legal?],,,lvl3
+answer,"Oui, si le public veut savoir. [Yes, if the public wants to know.]",,0.0,
+answer,"Non, cela viole la présomption d’innocence. [No, this violates the presumption of innocence.]",,1.0,
+answer,"Oui, s’il est arrêté. [Yes, if they are arrested.]",,0.0,
+question,Quelle proposition représente un exemple de délit ? [Which statement represents an example of a misdemeanor?],,,lvl3
+answer,Un vol. [A theft.],,1.0,
+answer,Un homicide volontaire. [A manslaughter / intentional homicide.],,0.0,
+answer,Un génocide. [A genocide.],,0.0,
+question,Une personne est photographiée dans un lieu public pour un usage commercial. Le photographe est-il libre d’utiliser l’image ? [A person is photographed in a public place for commercial use. Is the photographer free to use the image?],,,lvl3
+answer,"Oui, si le lieu est public. [Yes, if the place is public.]",,0.0,
+answer,"Non, il doit obtenir l’autorisation de la personne. [No, they must obtain the person's authorization.]",,1.0,
+answer,"Oui, si la photo est professionnelle. [Yes, if the photo is professional.]",,0.0,
+question,Un citoyen apprend un crime grave et garde le silence. Est-ce légal ? [A citizen learns of a serious crime and remains silent. Is this legal?],,,lvl3
+answer,"Oui, s’il ne connaît pas les auteurs. [Yes, if they do not know the perpetrators.]",,0.0,
+answer,"Oui, si cela ne le concerne pas. [Yes, if it does not concern them.]",,0.0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. [No, failure to report a crime is punished by law.]",,1.0,
+question,"Sur un réseau social, un utilisateur insulte des élus locaux. Quelle règle s’applique ? [On a social network, a user insults local elected officials. Which rule applies?]",,,lvl3
+answer,C’est toléré en ligne. [It is tolerated online.],,0.0,
+answer,Autorisé si on supprime après. [Authorized if deleted afterwards.],,0.0,
+answer,La liberté d’expression n’autorise pas l’injure publique. [Freedom of expression does not authorize public insult.],,1.0,
+question,Votre conjoint(e) lit vos messages privés sur votre téléphone sans autorisation. Est-ce illégal ? [Your spouse reads your private messages on your phone without authorization. Is this illegal?],,,lvl3
+answer,"Non, la vie privée ne s’applique pas dans la famille. [No, privacy does not apply within the family.]",,0.0,
+answer,"Non, le devoir de fidélité l’autorise. [No, the duty of fidelity authorizes it.]",,0.0,
+answer,"Oui, l’accès sans consentement à des données personnelles est sanctionnable. [Yes, access without consent to personal data is punishable.]",,1.0,
+question,Un citoyen français nouvellement naturalisé vote aux municipales. À quelle élection n’est-il pas autorisé à voter tant qu’il n’est pas inscrit ? [A newly naturalized French citizen votes in the municipal elections. In which election is he not authorized to vote as long as he is not registered?],,,lvl3
+answer,Aux élections nationales ou européennes. [In national or European elections.],,1.0,
+answer,"À aucune, il peut voter partout. [In none, he can vote everywhere.]",,0.0,
+answer,Seulement aux municipales pendant cinq ans. [Only in municipal elections for five years.],,0.0,
+question,Des citoyens veulent organiser une manifestation pacifique. Que doivent-ils faire ? [Citizens want to organize a peaceful demonstration. What must they do?],,,lvl3
+answer,Déclarer la manifestation et respecter l’ordre public. [Declare the demonstration and respect public order.],,1.0,
+answer,Manifester sans prévenir la préfecture. [Demonstrate without notifying the prefecture.],,0.0,
+answer,Empêcher les autres de défiler. [Prevent others from marching.],,0.0,
+question,"Lors d’une manifestation non déclarée, quand l’usage de la force est-il légal ? [During an undeclared demonstration, when is the use of force legal?]",,,lvl3
+answer,Sans limite pour rétablir l’ordre. [Without limit to restore order.],,0.0,
+answer,Automatiquement. [Automatically.],,0.0,
+answer,"Seulement si la force est nécessaire, proportionnée et légale. [Only if force is necessary, proportionate, and legal.]",,1.0,
+question,Un journal critique le gouvernement. Peut-il être sanctionné ? [A newspaper criticizes the government. Can it be sanctioned?],,,lvl3
+answer,"Oui, si le gouvernement le décide. [Yes, if the government decides so.]",,0.0,
+answer,"Oui, si l’article dérange. [Yes, if the article is bothersome.]",,0.0,
+answer,"Non, la liberté de la presse est protégée par la loi. [No, freedom of the press is protected by law.]",,1.0,
+question,"Concernant les réseaux sociaux, quelle règle est correcte ? [Concerning social networks, which rule is correct?]",,,lvl3
+answer,Tout est autorisé sur internet. [Everything is authorized on the internet.],,0.0,
+answer,Les lois ne s’appliquent pas en ligne. [Laws do not apply online.],,0.0,
+answer,La liberté d’expression s’exerce dans le respect de la loi. [Freedom of expression is exercised in compliance with the law.],,1.0,
+question,"Lors d’une cérémonie officielle, un élu refuse de se lever pour l’hymne européen. Est-ce un droit ? [During an official ceremony, an elected official refuses to stand for the European anthem. Is this a right?]",,,lvl3
+answer,"Oui, c’est une liberté personnelle. [Yes, it is a personal freedom.]",,0.0,
+answer,"Non, le respect des symboles relève du civisme. [No, respect for symbols is a matter of civility.]",,1.0,
+answer,"Oui, s’il n’aime pas la musique. [Yes, if they do not like the music.]",,0.0,
+question,Publier les coordonnées d’un voisin sur les réseaux sociaux sans son accord. Est-ce légal ? [Publishing a neighbor's contact details on social networks without their agreement. Is this legal?],,,lvl3
+answer,"Oui, si elles sont publiques. [Yes, if they are public.]",,0.0,
+answer,"Oui, si on supprime après. [Yes, if deleted afterwards.]",,0.0,
+answer,"Non, la diffusion de données personnelles est interdite. [No, the dissemination of personal data is prohibited.]",,1.0,
+question,Un patron impose sept jours de travail par semaine. Est-ce autorisé ? [A boss imposes seven days of work per week. Is this authorized?],,,lvl3
+answer,"Oui, si le salarié accepte. [Yes, if the employee accepts.]",,0.0,
+answer,"Oui, s’il paie plus. [Yes, if they pay more.]",,0.0,
+answer,"Non, le repos hebdomadaire est un droit. [No, weekly rest is a right.]",,1.0,
+question,Un résident joue de la batterie à 2 h du matin. Quelle règle s’applique ? [A resident plays the drums at 2 a.m. Which rule applies?],,,lvl3
+answer,C’est autorisé le week-end. [It is authorized on weekends.],,0.0,
+answer,C’est toléré s’il est musicien. [It is tolerated if they are a musician.],,0.0,
+answer,Il commet un tapage nocturne sanctionnable. [They commit a punishable nighttime noise disturbance.],,1.0,

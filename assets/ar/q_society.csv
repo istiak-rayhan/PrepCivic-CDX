@@ -1,0 +1,281 @@
+type,text,placeholder,is_correct,level
+question,"Quel numéro d'urgence permet d'appeler le SAMU ? (ما هو رقم الطوارئ الذي يسمح بالاتصال بالإسعاف الطبي - SAMU؟)",,,lvl1
+answer,"17 (١٧)",,0.0,
+answer,"15 (١٥)",,1.0,
+answer,"18 (١٨)",,0.0,
+question,"Quel numéro d'urgence permet d'appeler les pompiers ? (ما هو رقم الطوارئ الذي يسمح بالاتصال بفرق الإطفاء؟)",,,lvl1
+answer,"15 (١٥)",,0.0,
+answer,"18 (١٨)",,1.0,
+answer,"17 (١٧)",,0.0,
+question,"Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ? (بعد الحصول على رخصة القيادة، ماذا يجب أن تفعل لتتمكن من قيادة سيارتك؟)",,,lvl1
+answer,"Faire refaire sa carte d'identité. (تجديد بطاقة الهوية.)",,0.0,
+answer,"Faire assurer son véhicule (assurance obligatoire). (تأمين المركبة (التأمين الإجباري).)",,1.0,
+answer,"Apposer un drapeau français sur la voiture. (وضع علم فرنسي على السيارة.)",,0.0,
+question,"À quelles conditions un mariage est-il reconnu juridiquement ? (تحت أي شروط يتم الاعتراف بالزواج قانونياً؟)",,,lvl1
+answer,"Seulement s'il est célébré par une autorité religieuse. (فقط إذا تم الاحتفال به من قبل سلطة دينية.)",,0.0,
+answer,"Seulement s'il est célébré à la mairie par une autorité civile. (فقط إذا تم الاحتفال به في البلدية من قبل سلطة مدنية.)",,1.0,
+answer,"S'il est célébré par l'Ambassade. (إذا تم الاحتفال به من قبل السفارة.)",,0.0,
+question,"Quand faut-il déclarer son enfant au service d'état civil de la mairie ? (متى يجب تسجيل الطفل في مكتب الحالة المدنية بالبلدية؟)",,,lvl1
+answer,"Dans les 30 jours après la naissance. (خلال ٣٠ يوماً بعد الولادة.)",,0.0,
+answer,"Dans les 5 jours après la naissance (délai de 8 jours dans certaines communes). (خلال ٥ أيام بعد الولادة (مهلة ٨ أيام في بعض البلديات).)",,1.0,
+answer,"Dans l'année suivant la naissance. (خلال السنة التالية للولادة.)",,0.0,
+question,"Le travail non déclaré est : (العمل غير المصرح به هو:)",,,lvl1
+answer,"Autorisé s'il ne dépasse pas 10 heures par semaine. (مسموح به إذا لم يتجاوز ١٠ ساعات في الأسبوع.)",,0.0,
+answer,"Interdit et puni par la loi (travail dissimulé). (ممنوع ويعاقب عليه القانون (عمل خفي).)",,1.0,
+answer,"Toléré pour les emplois de courte durée. (مسموح به للوظائف قصيرة المدى.)",,0.0,
+question,"Que doit faire un employeur pour fixer un salaire ? (ماذا يجب على صاحب العمل فعله لتحديد الراتب؟)",,,lvl1
+answer,"Le fixer librement sans contrainte. (تحديده بحرية دون قيود.)",,0.0,
+answer,"Respecter le salaire minimum légal (SMIC) et les conventions collectives. (احترام الحد الأدنى للأجور (SMIC) والاتفاقيات الجماعية.)",,1.0,
+answer,"Se baser uniquement sur le salaire d'autres pays. (الاعتماد فقط على أجور الدول الأخرى.)",,0.0,
+question,"Qu'est-ce que le SMIC ? (ما هو الـ SMIC؟)",,,lvl1
+answer,"Le service militaire civique. (الخدمة العسكرية المدنية.)",,0.0,
+answer,"Le salaire maximum en France. (الحد الأقصى للأجور في فرنسا.)",,0.0,
+answer,"Le salaire minimum légal que l'employeur doit payer. (الحد الأدنى القانوني للأجر الذي يجب على صاحب العمل دفعه.)",,1.0,
+question,"Quelle est la première démarche à réaliser pour chercher un emploi ? (ما هي الخطوة الأولى التي يجب القيام بها للبحث عن عمل؟)",,,lvl1
+answer,"Acheter un costume de marque. (شراء بدلة ذات ماركة معروفة.)",,0.0,
+answer,"S'inscrire auprès du service public de l'emploi (Pôle emploi, ou France Travail). (التسجيل لدى الخدمة العامة للتوظيف (Pôle emploi أو France Travail).)",,1.0,
+answer,"Attendre qu'une entreprise vous appelle. (انتظار اتصال شركة بك.)",,0.0,
+question,"Quelle est la durée légale du temps de travail par semaine ? (ما هي المدة القانونية لوقت العمل في الأسبوع؟)",,,lvl1
+answer,"39 heures (٣٩ ساعة)",,0.0,
+answer,"35 heures (٣٥ ساعة)",,1.0,
+answer,"45 heures (٤٥ ساعة)",,0.0,
+question,"Qui est aidé par France Travail ? (من الذي تساعده France Travail؟)",,,lvl1
+answer,"Uniquement les étrangers. (الأجانب فقط.)",,0.0,
+answer,"Uniquement les jeunes de moins de 25 ans. (الشباب دون سن ٢٥ عاماً فقط.)",,0.0,
+answer,"Toute personne en recherche d’emploi (travailleurs, salariés, demandeurs d'emploi...). (أي شخص يبحث عن عمل (عمال، موظفون، باحثون عن عمل...).)",,1.0,
+question,"Une personne étrangère en situation régulière peut créer son entreprise : (يمكن لشخص أجنبي في وضع قانوني إنشاء شركته:)",,,lvl1
+answer,"Seulement si elle est mariée à un(e) Français(e). (فقط إذا كان متزوجاً من شخص فرنسي.)",,0.0,
+answer,"Oui, sous les mêmes conditions qu’un citoyen français. (نعم، تحت نفس الشروط التي يخضع لها المواطن الفرنسي.)",,1.0,
+answer,"Non, ce droit est réservé aux nationaux. (لا، هذا الحق مخصص للمواطنين فقط.)",,0.0,
+question,"Une femme peut-elle créer son entreprise ? (هل تستطيع المرأة إنشاء شركتها الخاصة؟)",,,lvl1
+answer,"Oui, mais seulement avec l'accord de son mari. (نعم، ولكن فقط بموافقة زوجها.)",,0.0,
+answer,"Non, si elle est mère. (لا، إذا كانت أماً.)",,0.0,
+answer,"Oui, elle a les mêmes droits que l'homme de créer et gérer une entreprise. (نعم، لديها نفس حقوق الرجل في إنشاء وإدارة شركة.)",,1.0,
+question,"À partir de quel âge un mineur peut-il travailler ? (من أي سن يمكن للقاصر العمل؟)",,,lvl1
+answer,"À partir de 14 ans sans aucune condition. (ابتداءً من ١٤ عاماً دون أي شروط.)",,0.0,
+answer,"À partir de 16 ans (ou 14 ans pour certains travaux légers ou stages). (ابتداءً من ١٦ عاماً (أو ١٤ عاماً لبعض الأعمال الخفيفة أو التدريبات).)",,1.0,
+answer,"À partir de 18 ans seulement. (ابتداءً من ١٨ عاماً فقط.)",,0.0,
+question,"Auprès de quel organisme faut-il demander le remboursement des frais de santé ? (إلى أي جهة يجب تقديم طلب استرداد تكاليف الصحة؟)",,,lvl1
+answer,"Auprès de la préfecture. (لدى المحافظة.)",,0.0,
+answer,"Auprès de l'Assurance Maladie (Caisse Primaire d'Assurance Maladie - CPAM). (لدى التأمين الصحي (صندوق التأمين الصحي الأولي - CPAM).)",,1.0,
+answer,"Auprès de la banque. (لدى البنك.)",,0.0,
+question,"Qu’est-ce qu’un numéro d’urgence ? (ما هو رقم الطوارئ؟)",,,lvl1
+answer,"Un numéro de téléphone pour commander de la nourriture. (رقم هاتف لطلب الطعام.)",,0.0,
+answer,"Un numéro gratuit permettant d'appeler les secours (police, pompiers, SAMU) pour un danger immédiat. (رقم مجاني يسمح بالاتصال بالإسعاف (الشرطة، الإطفاء، الإسعاف الطبي) لخطر مباشر.)",,1.0,
+answer,"Un numéro de service client. (رقم خدمة العملاء.)",,0.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? (بخصوص الحصول على الرعاية الصحية، أي اقتراح هو الصحيح؟)",,,lvl1
+answer,"Seuls les Français peuvent être soignés. (الفرنسيون فقط يمكن علاجهم.)",,0.0,
+answer,"Toute personne résidant en France a droit à une prise en charge de ses frais de santé (sous certaines conditions). (لكل شخص مقيم في فرنسا الحق في التكفل بتكاليفه الصحية (تحت شروط معينة).)",,1.0,
+answer,"Il faut payer la totalité de l'hospitalisation sans remboursement possible. (يجب دفع كامل تكاليف المستشفى دون إمكانية استردادها.)",,0.0,
+question,"En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ? (في حال وجود مشكلة صحية غير عاجلة، بمن يجب الاتصال أولاً؟)",,,lvl1
+answer,"Aux urgences de l'hôpital (إلى طوارئ المستشفى)",,0.0,
+answer,"Au médecin traitant (médecin généraliste déclaré). (إلى الطبيب المعالج (طبيب عام مسجل).)",,1.0,
+answer,"Aux pompiers (إلى الإطفاء)",,0.0,
+question,"Quel est le rôle du médecin traitant ? (ما هو دور الطبيب المعالج؟)",,,lvl1
+answer,"Il assure le suivi régulier du patient et l'oriente vers des spécialistes (parcours de soins coordonnés). (يضمن المتابعة المنتظمة للمريض ويوجهه نحو المتخصصين (مسار الرعاية المنسق).)",,1.0,
+answer,"Il distribue les médicaments gratuitement. (يوزع الأدوية مجاناً.)",,0.0,
+answer,"Il donne des conseils pour trouver un emploi. (يقدم نصائح للعثور على عمل.)",,0.0,
+question,"Dans quelles situations doit-on se rendre aux urgences de l'hôpital ? (في أي حالات يجب التوجه إلى طوارئ المستشفى؟)",,,lvl1
+answer,"Pour un simple rhume. (من أجل زكام بسيط.)",,0.0,
+answer,"Pour faire renouveler une ordonnance. (من أجل تجديد وصفة طبية.)",,0.0,
+answer,"En cas d'urgence vitale (AVC, infarctus, blessure grave...) ou lorsque le médecin traitant n'est pas disponible et que l'état de santé le nécessite. (في حالات الطوارئ الحيوية (سكتة دماغية، نوبة قلبية، إصابة خطيرة...) أو عندما لا يتوفر الطبيب المعالج وتتطلب الحالة الصحية ذلك.)",,1.0,
+question,"Quel est l’objectif des vaccinations obligatoires ? (ما هو الهدف من اللقاحات الإجبارية؟)",,,lvl1
+answer,"Réduire le nombre d'enfants dans les écoles. (تقليل عدد الأطفال في المدارس.)",,0.0,
+answer,"Protéger l'enfant et l'ensemble de la population (immunité collective). (حماية الطفل وكافة السكان (المناعة الجماعية).)",,1.0,
+answer,"Augmenter les revenus des médecins. (زيادة دخل الأطباء.)",,0.0,
+question,"À quoi sert la carte Vitale ? (فيما تستخدم بطاقة فيتال - Carte Vitale؟)",,,lvl1
+answer,"À payer ses impôts. (لدفع الضرائب.)",,0.0,
+answer,"À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. (لإثبات الحقوق في التأمين الصحي وتسهيل استرداد تكاليف الرعاية.)",,1.0,
+answer,"À prouver son identité. (لإثبات الهوية.)",,0.0,
+question,"À quoi sert une mutuelle santé ? (فيما يستخدم التأمين التكميلي (Mutuelle)؟)",,,lvl1
+answer,"À remplacer l'Assurance Maladie. (لتحل محل التأمين الصحي العام.)",,0.0,
+answer,"À compléter le remboursement des frais de santé non couverts par l'Assurance Maladie. (لتكملة استرداد التكاليف الصحية التي لا يغطيها التأمين الصحي العام.)",,1.0,
+answer,"À payer l'école des enfants. (لدفع تكاليف مدرسة الأطفال.)",,0.0,
+question,"Jusqu'à quel âge l'école est-elle obligatoire ? (إلى أي سن يكون التعليم إلزامياً؟)",,,lvl1
+answer,"Jusqu'à 14 ans. (حتى سن ١٤ عاماً.)",,0.0,
+answer,"De 3 ans à 16 ans. (من سن ٣ سنوات إلى ١٦ عاماً.)",,1.0,
+answer,"Jusqu'à 18 ans. (حتى سن ١٨ عاماً.)",,0.0,
+question,"L'autorité parentale prévoit l'obligation : (تنص السلطة الأبوية على الالتزام بـ:)",,,lvl1
+answer,"D'envoyer son enfant travailler. (بإرسال الطفل للعمل.)",,0.0,
+answer,"De protéger son enfant, de l'éduquer et de subvenir à ses besoins. (بحماية الطفل، وتعليمه، وتلبية احتياجاته.)",,1.0,
+answer,"De laisser l'enfant choisir tout seul son école dès 6 ans. (بترك الطفل يختار مدرسته بنفسه ابتداءً من سن ٦ سنوات.)",,0.0,
+question,"Pour qui l'école est-elle obligatoire ? (لمن يكون التعليم إلزامياً؟)",,,lvl1
+answer,"Seulement pour les enfants de nationalité française. (فقط للأطفال من الجنسية الفرنسية.)",,0.0,
+answer,"Pour tous les enfants (français et étrangers) résidant sur le territoire français de 3 à 16 ans. (لجميع الأطفال (فرنسيين وأجانب) المقيمين في الأراضي الفرنسية من سن ٣ إلى ١٦ عاماً.)",,1.0,
+answer,"Seulement pour les garçons. (فقط للأولاد.)",,0.0,
+question,"Quel diplôme obtient-on à la fin du lycée ? (ما هي الشهادة التي يتم الحصول عليها في نهاية الثانوية؟)",,,lvl1
+answer,"Le Brevet des collèges (شهادة التعليم الإعدادي)",,0.0,
+answer,"Le Baccalauréat (BAC) (البكالوريا)",,1.0,
+answer,"Le Certificat d'études primaires (شهادة الدراسات الابتدائية)",,0.0,
+question,"Dans quels établissements scolaires vont les élèves après l'école élémentaire ? (إلى أي مؤسسات تعليمية يذهب الطلاب بعد المدرسة الابتدائية؟)",,,lvl1
+answer,"À l'université (إلى الجامعة)",,0.0,
+answer,"Au collège (إلى المدرسة الإعدادية)",,1.0,
+answer,"Au lycée (إلى الثانوية)",,0.0,
+question,"Quel établissement scolaire accueille les enfants de 6 à 11 ans ? (أي مؤسسة تعليمية تستقبل الأطفال من سن ٦ إلى ١١ عاماً؟)",,,lvl1
+answer,"L'école maternelle (المدرسة التمهيدية/الروضة)",,0.0,
+answer,"L'école élémentaire (المدرسة الابتدائية)",,1.0,
+answer,"Le lycée professionnel (الثانوية المهنية)",,0.0,
+question,"Un enfant inscrit à l'école : (الطفل المسجل في المدرسة:)",,,lvl1
+answer,"Peut faire ce qu'il veut pendant les cours. (يمكنه فعل ما يريد أثناء الدروس.)",,0.0,
+answer,"Doit respecter les règles de l'école (règlement intérieur) et le principe de laïcité. (يجب عليه احترام قواعد المدرسة (النظام الداخلي) ومبدأ العلمانية.)",,1.0,
+answer,"N'a pas besoin de respecter les enseignants. (لا يحتاج إلى احترام المعلمين.)",,0.0,
+question,"Les enfants qui ne parlent pas français : (الأطفال الذين لا يتحدثون الفرنسية:)",,,lvl1
+answer,"Ne peuvent pas aller à l'école. (لا يمكنهم الذهاب إلى المدرسة.)",,0.0,
+answer,"Sont accueillis à l'école et peuvent bénéficier de dispositifs pour l'apprentissage du français. (يتم استقبالهم في المدرسة ويمكنهم الاستفادة من برامج لتعلم اللغة الفرنسية.)",,1.0,
+answer,"Doivent apprendre le français seuls avant de venir en classe. (يجب عليهم تعلم الفرنسية وحدهم قبل المجيء إلى الفصل.)",,0.0,
+question,"Quel mariage est reconnu par l'État ? (أي زواج تعترف به الدولة؟)",,,lvl2
+answer,"Le mariage religieux. (الزواج الديني.)",,0.0,
+answer,"Le mariage civil (célébré à la mairie). (الزواج المدني (الذي يتم في البلدية).)",,1.0,
+answer,"Le mariage fait à l'étranger sans transcription. (الزواج الذي يتم في الخارج دون تسجيل.)",,0.0,
+question,"Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ? (في أي مؤسسة يمكن للوالدين تسجيل طفلهما في المدرسة العامة؟)",,,lvl2
+answer,"Auprès de la préfecture. (لدى المحافظة.)",,0.0,
+answer,"Auprès de la mairie de leur commune de résidence. (لدى بلدية مكان إقامتهم.)",,1.0,
+answer,"Auprès du tribunal. (لدى المحكمة.)",,0.0,
+question,"En cas de divorce, qui exerce l'autorité parentale ? (في حالة الطلاق، من يمارس السلطة الأبوية؟)",,,lvl2
+answer,"Seulement le parent qui a la garde des enfants. (فقط الوالد الذي لديه حضانة الأطفال.)",,0.0,
+answer,"Les deux parents en commun (sauf décision contraire du juge). (كلا الوالدين معاً (إلا إذا قرر القاضي خلاف ذلك).)",,1.0,
+answer,"Uniquement la mère. (الأم فقط.)",,0.0,
+question,"Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ? (ما هي المساعدة التي تسمح للأشخاص الذين لديهم صعوبات مالية بالحصول على محامٍ؟)",,,lvl2
+answer,"L'aide au logement. (المساعدة في السكن.)",,0.0,
+answer,"L'aide juridictionnelle. (المساعدة القضائية.)",,1.0,
+answer,"L'allocation chômage. (إعانة البطالة.)",,0.0,
+question,"Où faut-il déclarer la naissance d'un enfant ? (أين يجب التصريح بولادة طفل؟)",,,lvl2
+answer,"Auprès de la police. (لدى الشرطة.)",,0.0,
+answer,"Auprès de l'état civil de la mairie du lieu de naissance. (لدى مكتب الحالة المدنية في بلدية مكان الولادة.)",,1.0,
+answer,"Auprès du consulat. (لدى القنصلية.)",,0.0,
+question,"Quelle est l'une des conditions pour passer l'examen du permis de conduire ? (ما هو أحد شروط اجتياز امتحان رخصة القيادة؟)",,,lvl2
+answer,"Avoir déjà possédé une voiture. (أن يكون قد امتلك سيارة سابقاً.)",,0.0,
+answer,"Être âgé d'au moins 18 ans (sauf conduite accompagnée). (أن يبلغ من العمر ١٨ عاماً على الأقل (باستثناء القيادة برفقة مراقب).)",,1.0,
+answer,"Parler couramment le français. (التحدث بالفرنسية بطلاقة.)",,0.0,
+question,"Un bail locatif est valide s'il est : (عقد الإيجار يكون صالحاً إذا كان:)",,,lvl2
+answer,"Seulement oral. (شفهياً فقط.)",,0.0,
+answer,"Écrit et signé par le locataire et le propriétaire (ou agence). (مكتوباً وموقعاً من قبل المستأجر والمالك (أو الوكالة).)",,1.0,
+answer,"Seulement visé par le tribunal. (مصدقاً عليه من قبل المحكمة فقط.)",,0.0,
+question,"Où peut-on déposer un lave-vaisselle cassé ? (أين يمكن وضع غسالة أطباق مكسورة؟)",,,lvl2
+answer,"Dans les poubelles de la rue. (في صناديق قمامة الشارع.)",,0.0,
+answer,"À la déchetterie (ou par la collecte des encombrants). (في مركز تدوير النفايات (أو عبر جمع المخلفات الكبيرة).)",,1.0,
+answer,"Dans la forêt. (في الغابة.)",,0.0,
+question,"Quel numéro d'urgence permet d'appeler la police ? (أي رقم طوارئ يسمح بالاتصال بالشرطة؟)",,,lvl2
+answer,"18 (١٨)",,0.0,
+answer,"15 (١٥)",,0.0,
+answer,"17 (١٧)",,1.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? (بخصوص الحصول على الرعاية الصحية، أي اقتراح هو الصحيح؟)",,,lvl2
+answer,"L'accès aux soins est réservé aux Français. (الحصول على الرعاية مخصص للفرنسيين فقط.)",,0.0,
+answer,"Toute personne résidant régulièrement en France a droit à la protection sociale pour la santé. (لكل شخص يقيم بانتظام في فرنسا الحق في الحماية الاجتماعية للصحة.)",,1.0,
+answer,"Il faut payer la totalité des frais de santé soi-même. (يجب دفع كامل تكاليف الصحة بنفسك.)",,0.0,
+question,"À qui est accessible la contraception ? (لمن تتوفر وسائل منع الحمل؟)",,,lvl2
+answer,"Seulement aux femmes mariées. (فقط للنوع المتزوج.)",,0.0,
+answer,"À toute personne (homme ou femme), et gratuite pour les mineures et les moins de 26 ans. (لكل شخص (رجل أو امرأة)، ومجانية للقاصرين ولمن هم دون ٢٦ عاماً.)",,1.0,
+answer,"Seulement avec l'accord des parents pour les personnes majeures. (فقط بموافقة الوالدين للأشخاص البالغين.)",,0.0,
+question,"Qu’est-ce que le principe de confidentialité dans le domaine de la santé ? (ما هو مبدأ السرية في مجال الصحة؟)",,,lvl2
+answer,"L'obligation d'informer sa famille de sa maladie. (الالتزام بإبلاغ العائلة بالمرض.)",,0.0,
+answer,"L'interdiction pour les professionnels de santé de révéler les informations sur la santé du patient. (حظر قيام المتخصصين الصحيين بالكشف عن معلومات حول صحة المريض.)",,1.0,
+answer,"L'obligation pour le patient de ne parler de sa maladie à personne. (الالتزام على المريض بعدم التحدث عن مرضه لأي شخص.)",,0.0,
+question,"L'inscription à l'Assurance maladie est : (التسجيل في التأمين الصحي هو:)",,,lvl2
+answer,"Facultative pour les salariés. (اختياري للموظفين.)",,0.0,
+answer,"Obligatoire pour les personnes qui travaillent ou résident régulièrement en France. (إلزامي للأشخاص الذين يعملون أو يقيمون بانتظام في فرنسا.)",,1.0,
+answer,"Uniquement pour les personnes nées en France. (فقط للأشخاص الذين ولدوا في فرنسا.)",,0.0,
+question,"Qui peut demander un congé parental d'éducation ? (من يمكنه طلب إجازة الوالدية للتربية؟)",,,lvl2
+answer,"Le père et la mère (ou l'un des deux), sous certaines conditions liées à l'ancienneté. (الأب والأم (أو أحدهما)، تحت شروط معينة تتعلق بالأقدمية.)",,1.0,
+answer,"Uniquement la mère si elle est salariée. (الأم فقط إذا كانت موظفة.)",,0.0,
+answer,"Uniquement la grand-mère. (الجدة فقط.)",,0.0,
+question,"Quelles sont les affaires traitées par le conseil de prud'hommes ? (ما هي القضايا التي يعالجها مجلس التحكيم العمالي - conseil de prud'hommes؟)",,,lvl2
+answer,"Les litiges entre voisins. (النزاعات بين الجيران.)",,0.0,
+answer,"Les litiges individuels entre un employeur et un salarié (contrat de travail, licenciement...). (النزاعات الفردية بين صاحب العمل والموظف (عقد العمل، الفصل...).)",,1.0,
+answer,"Les infractions au code de la route. (مخالفات قانون المرور.)",,0.0,
+question,"Travailler sans être déclaré est : (العمل بدون تصريح هو:)",,,lvl2
+answer,"Un moyen normal de gagner de l'argent. (وسيلة عادية لكسب المال.)",,0.0,
+answer,"Un délit (travail dissimulé) puni par la loi. (جنحة (عمل خفي) يعاقب عليها القانون.)",,1.0,
+answer,"Un droit pour les personnes qui cherchent un emploi. (حق للأشخاص الذين يبحثون عن عمل.)",,0.0,
+question,"Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : (عندما يريد صاحب العمل أن يعمل الموظف لفترة أطول من المدة المنصوص عليها في عقد العمل:)",,,lvl2
+answer,"C'est interdit. (هذا ممنوع.)",,0.0,
+answer,"Le salarié doit le faire gratuitement. (يجب على الموظف القيام بذلك مجاناً.)",,0.0,
+answer,"Il peut lui demander de faire des heures supplémentaires, qui doivent être payées (ou compensées) selon la loi. (يمكنه أن يطلب منه القيام بساعات إضافية، والتي يجب دفع أجرها (أو تعويضها) وفقاً للقانون.)",,1.0,
+question,"Quelle est la mission de France Travail ? (ما هي مهمة France Travail؟)",,,lvl2
+answer,"Accompagner les demandeurs d'emploi et indemniser les chômeurs. (مرافقة الباحثين عن عمل وتعويض العاطلين.)",,1.0,
+answer,"Rédiger les contrats de travail. (كتابة عقود العمل.)",,0.0,
+answer,"Payer les loyers des demandeurs d'emploi. (دفع إيجارات الباحثين عن عمل.)",,0.0,
+question,"Dans une entreprise, le droit syndical permet : (في الشركة، يسمح الحق النقابي بـ:)",,,lvl2
+answer,"D'interdire les réunions de salariés. (بحظر اجتماعات الموظفين.)",,0.0,
+answer,"Aux salariés de créer une organisation pour défendre leurs droits (syndicat). (للموظفين بإنشاء منظمة للدفاع عن حقوقهم (نقابة).)",,1.0,
+answer,"Au patron d'augmenter les salaires sans l'accord des salariés. (لصاحب العمل بزيادة الرواتب دون موافقة الموظفين.)",,0.0,
+question,"Dans une entreprise, le droit de grève autorise : (في الشركة، يسمح حق الإضراب بـ:)",,,lvl2
+answer,"Les salariés à refuser d'aller travailler sans prévenir. (للموظفين برفض الذهاب للعمل دون إخطار.)",,0.0,
+answer,"L'arrêt collectif et concerté du travail pour la défense des intérêts professionnels. (التوقف الجماعي والمنسق عن العمل للدفاع عن المصالح المهنية.)",,1.0,
+answer,"Le chef d'entreprise à licencier tous les grévistes. (لصاحب العمل بفصل جميع المضربين.)",,0.0,
+question,"Quelles sont les conditions pour toucher les allocations chômage ? (ما هي شروط الحصول على إعانات البطالة؟)",,,lvl2
+answer,"Avoir plus de 60 ans. (أن يكون عمرك أكثر من ٦٠ عاماً.)",,0.0,
+answer,"Être inscrit à France Travail et justifier d'une période de travail suffisante. (أن تكون مسجلاً في France Travail وتقدم ما يثبت فترة عمل كافية.)",,1.0,
+answer,"Avoir démissionné de son dernier emploi. (أن تكون قد استقلت من عملك الأخير.)",,0.0,
+question,"Qu'est-ce que l'école maternelle ? (ما هي المدرسة التمهيدية/الروضة؟)",,,lvl2
+answer,"Un lieu de garde pour les bébés. (مكان لرعاية الرضع.)",,0.0,
+answer,"L'école des 6-11 ans. (مدرسة الأطفال من ٦-١١ عاماً.)",,0.0,
+answer,"La première étape de l'enseignement (pour les enfants de 3 à 6 ans). (المرحلة الأولى من التعليم (للأطفال من سن ٣ إلى ٦ سنوات).)",,1.0,
+question,"Comment s'appelle le diplôme passé par les élèves à la fin du collège ? (ما هو اسم الشهادة التي يجتازها الطلاب في نهاية الإعدادية؟)",,,lvl2
+answer,"Le Baccalauréat (البكالوريا)",,0.0,
+answer,"Le Diplôme National du Brevet (DNB) ou Brevet des collèges. (الشهادة الوطنية للإعدادية - DNB.)",,1.0,
+answer,"Le permis de conduire (رخصة القيادة)",,0.0,
+question,"Les parents d'élève ont le droit de : (لوالدي الطلاب الحق في:)",,,lvl2
+answer,"D'interdire l'enseignement de certaines matières. (بحظر تدريس مواد معينة.)",,0.0,
+answer,"D'être informés sur la scolarité de leur enfant et de participer à la vie de l'école (droit d'association et de réunion). (بالحصول على معلومات حول دراسة طفلهم والمشاركة في حياة المدرسة (حق الجمعية والاجتماع).)",,1.0,
+answer,"De choisir eux-mêmes les professeurs de leur enfant. (باختيار معلمي طفلهم بأنفسهم.)",,0.0,
+question,"Qui peut manger à la cantine scolaire ? (من يمكنه الأكل في مطعم المدرسة؟)",,,lvl2
+answer,"Uniquement les élèves de l'école élémentaire. (فقط طلاب المدرسة الابتدائية.)",,0.0,
+answer,"Tous les élèves inscrits, dans le respect des règles de laïcité et du règlement de la cantine. (جميع الطلاب المسجلين، مع احترام قواعد العلمانية ونظام المطعم.)",,1.0,
+answer,"Seulement les enfants dont les parents sont en difficulté financière. (فقط الأطفال الذين يعاني والداهم من صعوبات مالية.)",,0.0,
+question,"À quel âge commence l'instruction obligatoire des enfants ? (في أي عمر يبدأ التعليم الإلزامي للأطفال؟)",,,lvl2
+answer,"À 6 ans (في سن ٦ سنوات)",,0.0,
+answer,"À 3 ans (في سن ٣ سنوات)",,1.0,
+answer,"À 11 ans (في سن ١١ عاماً)",,0.0,
+question,"Quel est l'âge de la majorité ? (ما هو سن الرشد؟)",,,lvl2
+answer,"21 ans (٢١ عاماً)",,0.0,
+answer,"18 ans (١٨ عاماً)",,1.0,
+answer,"16 ans (١٦ عاماً)",,0.0,
+question,"À l'école, il est interdit aux parents de : (في المدرسة، يمنع الوالدان من:)",,,lvl2
+answer,"Devenir représentants des parents d'élèves. (أن يصبحوا ممثلين لأولياء الأمور.)",,0.0,
+answer,"Porter des signes religieux ostentatoires (en tant qu'accompagnateurs de sorties scolaires par exemple). (ارتداء رموز دينية واضحة (كمرافقين في الرحلات المدرسية مثلاً).)",,1.0,
+answer,"Demander un rendez-vous à l'enseignant. (طلب موعد مع المعلم.)",,0.0,
+question,"Quel motif d'absence est accepté par l'école ? (ما هو عذر الغياب المقبول من قبل المدرسة؟)",,,lvl2
+answer,"La maladie de l'enfant (justifiée par un certificat médical si l'absence est longue). (مرض الطفل (مبرر بشهادة طبية إذا كان الغياب طويلاً).)",,1.0,
+answer,"Un voyage familial imprévu. (رحلة عائلية غير متوقعة.)",,0.0,
+answer,"Une activité sportive ou culturelle non organisée par l'école. (نشاط رياضي أو ثقافي لا تنظمه المدرسة.)",,0.0,
+question,"Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ? (الوالدان لا يحترمان التزام التعليم لأطفالهما. ما هي أقصى عقوبة يواجهانها؟)",,,lvl2
+answer,"Une amende de 10 euros. (غرامة قدرها ١٠ يورو.)",,0.0,
+answer,"Une amende maximale de 7 500 euros et 6 mois de prison (en cas d'opposition aux contrôles). (غرامة تصل إلى ٧٥٠٠ يورو والسجن ٦ أشهر (في حالة الاعتراض على الفحص).)",,1.0,
+answer,"Le retrait de leur droit de vote. (سحب حقهم في التصويت.)",,0.0,
+question,"Quand ont lieu les vacances scolaires de Noël ? (متى تكون العطلة المدرسية لعيد الميلاد؟)",,,lvl2
+answer,"En février. (في فبراير.)",,0.0,
+answer,"En décembre. (في ديسمبر.)",,1.0,
+answer,"En juillet et août. (في يوليو وأغسطس.)",,0.0,
+question,"À l'école, un enfant en situation de handicap : (في المدرسة، الطفل في وضعية إعاقة:)",,,lvl2
+answer,"Ne peut pas être inscrit à l'école publique. (لا يمكن تسجيله في المدرسة العامة.)",,0.0,
+answer,"A le droit d'être scolarisé et de bénéficier d'un accompagnement adapté (AESH). (له الحق في التعليم والاستفادة من مرافق متخصص (AESH).)",,1.0,
+answer,"Est obligé de rester à la maison. (ملزم بالبقاء في المنزل.)",,0.0,
+question,"À l’école, il est interdit aux parents de : (في المدرسة، يمنع الوالدان من:)",,,lvl3
+answer,"Contester l’autorité des enseignants dans l’établissement. (الاعتراض على سلطة المعلمين داخل المؤسسة.)",,1.0,
+answer,"Dialoguer avec l’école. (الحوار مع المدرسة.)",,0.0,
+answer,"Participer aux réunions. (المشاركة في الاجتماعات.)",,0.0,
+question,"Qui peut demander un congé parental d’éducation ? (من يمكنه طلب إجازة الوالدية للتربية؟)",,,lvl3
+answer,"Les étudiants. (الطلاب.)",,0.0,
+answer,"Les employeurs. (أصحاب العمل.)",,0.0,
+answer,"Les parents salariés. (الوالدان الموظفان.)",,1.0,
+question,"À qui est accessible la contraception ? (لمن تتوفر وسائل منع الحمل؟)",,,lvl3
+answer,"Aux personnes mariées uniquement. (للمتزوجين فقط.)",,0.0,
+answer,"Aux personnes majeures seulement. (للبالغين فقط.)",,0.0,
+answer,"À toutes les personnes, majeures ou mineures. (لكل الأشخاص، بالغين أو قاصرين.)",,1.0,
+question,"Dans une entreprise, le droit syndical permet : (في الشركة، يسمح الحق النقابي بـ:)",,,lvl3
+answer,"De diriger l’entreprise. (بإدارة الشركة.)",,0.0,
+answer,"De fixer les salaires. (بتحديد الرواتب.)",,0.0,
+answer,"De créer ou rejoindre un syndicat. (بإنشاء أو الانضمام إلى نقابة.)",,1.0,
+question,"Quel motif d’absence est accepté par l’école ? (ما هو عذر الغياب المقبول من قبل المدرسة؟)",,,lvl3
+answer,"La maladie de l’enfant. (مرض الطفل.)",,1.0,
+answer,"Les vacances hors calendrier. (العطلات خارج التقويم.)",,0.0,
+answer,"Le refus d’aller en cours. (الرفض من الذهاب إلى الدرس.)",,0.0,
+question,"Lorsqu’un employeur veut qu’un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : (عندما يريد صاحب العمل أن يعمل الموظف لفترة أطول من المدة المنصوص عليها في عقد العمل:)",,,lvl3
+answer,"Il doit respecter la loi et payer les heures supplémentaires. (يجب عليه احترام القانون ودفع أجر الساعات الإضافية.)",,1.0,
+answer,"Il peut l’imposer librement. (يمكنه فرضها بحرية.)",,0.0,
+answer,"Aucune règle ne s’applique. (لا تنطبق أي قاعدة.)",,0.0,
+question,"Dans une entreprise, le droit de grève autorise : (في الشركة، يسمح حق الإضراب بـ:)",,,lvl3
+answer,"À empêcher les non-grévistes de travailler. (بمنع غير المضربين من العمل.)",,0.0,
+answer,"À bloquer l’entreprise indéfiniment. (بإغلاق الشركة إلى أجل غير مسمى.)",,0.0,
+answer,"À cesser collectivement le travail pour défendre des revendications. (بالتوقف الجماعي عن العمل للدفاع عن المطالب.)",,1.0,

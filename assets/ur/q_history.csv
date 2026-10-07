@@ -1,0 +1,893 @@
+type,text,placeholder,is_correct,level
+question,"En quelle année a débuté la Révolution française ? (فرانسیسی انقلاب کس سال شروع ہوا؟)",,,lvl1
+answer,"1815 (1815)",,0.0,
+answer,"1789 (1789)",,1.0,
+answer,"1944 (1944)",,0.0,
+question,"Qui était Napoléon Ier ? (نیپولین اول کون تھا؟)",,,lvl1
+answer,"Un roi de France (فرانس کا ایک بادشاہ)",,0.0,
+answer,"L'Empereur des Français (فرانسیسیوں کا شہنشاہ)",,1.0,
+answer,"Un philosophe du 18e siècle (18ویں صدی کا ایک فلسفی)",,0.0,
+question,"Lequel de ces personnages historiques est français ? (ان میں سے کون سی تاریخی شخصیت فرانسیسی ہے؟)",,,lvl1
+answer,"Albert Einstein (البرٹ آئنسٹائن)",,0.0,
+answer,"Marie Curie (میری کیوری)",,1.0,
+answer,"Isaac Newton (آئیزک نیوٹن)",,0.0,
+question,"Dans quelle République est-on aujourd'hui ? (آج ہم کس جمہوریہ میں رہ رہے ہیں؟)",,,lvl1
+answer,"La Troisième République (تیسری جمہوریہ)",,0.0,
+answer,"La Cinquième République (پانچویں جمہوریہ)",,1.0,
+answer,"La Sixième République (چھٹی جمہوریہ)",,0.0,
+question,"Qu'est-ce que la Shoah ? ?) (شوہ (Shoah) کیا ہے؟)",,,lvl1
+answer,"La guerre entre la France et l'Allemagne (فرانس اور جرمنی کے درمیان جنگ)",,0.0,
+answer,"Le génocide des Juifs pendant la Seconde Guerre mondiale. (دوسری جنگ عظیم کے دوران یہودیوں کی نسل کشی۔)",,1.0,
+answer,"La période de la colonisation française (فرانسیسی نوآبادیات کا دور)",,0.0,
+question,"Quel pays ou région du monde a été colonisé par la France ? (دنیا کا کون سا ملک یا خطہ فرانس کی نوآبادی رہا ہے؟)",,,lvl1
+answer,"Le Japon (جاپان)",,0.0,
+answer,"L'Algérie (الجزائر)",,1.0,
+answer,"La Chine (چین)",,0.0,
+question,"Qui a rendu l’école gratuite, laïque et obligatoire ? (کس نے اسکول کو مفت، سیکولر اور لازمی قرار دیا؟)",,,lvl1
+answer,"Napoléon III (نیپولین III)",,0.0,
+answer,"Jules Ferry (جولس فیری)",,1.0,
+answer,"Le Général de Gaulle (جنرل ڈی گال)",,0.0,
+question,"Quand a eu lieu la Seconde Guerre mondiale ? (دوسری جنگ عظیم کب ہوئی تھی؟)",,,lvl1
+answer,"De 1914 à 1918 (1914 سے 1918 تک)",,0.0,
+answer,"De 1930 à 1935 (1930 سے 1935 تک)",,0.0,
+answer,"De 1939 à 1945 (1939 سے 1945 تک)",,1.0,
+question,"Quand a eu lieu la Première Guerre mondiale ? (پہلی جنگ عظیم کب ہوئی تھی؟)",,,lvl1
+answer,"De 1870 à 1871 (1870 سے 1871 تک)",,0.0,
+answer,"De 1914 à 1918 (1914 سے 1918 تک)",,1.0,
+answer,"De 1940 à 1945 (1940 سے 1945 تک)",,0.0,
+question,"En quelle année a été créée la Communauté Économique Européenne (CEE) ? ?) (یورپی اقتصادی برادری (CEE) کس سال قائم ہوئی تھی؟)",,,lvl1
+answer,"1945 (1945)",,0.0,
+answer,"1957 (1957)",,1.0,
+answer,"1992 (1992)",,0.0,
+question,"Le 11 novembre est un jour férié. À quoi correspond cette date ? (11 نومبر عام تعطیل ہے۔ یہ تاریخ کس چیز کی علامت ہے؟)",,,lvl1
+answer,"La Fête de la Victoire de 1945. (1945 کی فتح کا جشن۔)",,0.0,
+answer,"L'Armistice de 1918 (fin de la Première Guerre mondiale).।) (1918 کی جنگ بندی (پہلی جنگ عظیم کا خاتمہ)۔)",,1.0,
+answer,"La Fête Nationale. (قومی دن۔)",,0.0,
+question,"Qui a été le premier Président élu sous la Ve République ? (پانچویں جمہوریہ کے تحت منتخب ہونے والے پہلے صدر کون تھے؟)",,,lvl1
+answer,"François Mitterrand (فرانسوا متراں)",,0.0,
+answer,"Charles de Gaulle (چارلس ڈی گال)",,1.0,
+answer,"Georges Pompidou (جارج پومپیڈو)",,0.0,
+question,"En quelle année l'esclavage a-t-il été aboli définitivement en France ? (فرانس میں غلامی کا مکمل خاتمہ کس سال ہوا؟)",,,lvl1
+answer,"1789 (1789)",,0.0,
+answer,"1905 (1905)",,0.0,
+answer,"1848 (1848)",,1.0,
+question,"Depuis quelle année l'école publique est-elle gratuite ? (سرکاری اسکول کس سال سے مفت ہیں؟)",,,lvl1
+answer,"1804 (1804)",,0.0,
+answer,"1881 (1881)",,1.0,
+answer,"1958 (1958)",,0.0,
+question,"Combien y a-t-il eu de républiques en France ? (فرانس میں اب تک کتنی جمہوریتیں رہی ہیں؟)",,,lvl1
+answer,"Trois (تین)",,0.0,
+answer,"Quatre (چار)",,0.0,
+answer,"Cinq (پانچ)",,1.0,
+question,"Qui était le roi de France au moment de la Révolution française ? (فرانسیسی انقلاب کے وقت فرانس کا بادشاہ کون تھا؟)",,,lvl1
+answer,"Henri IV (ہنری IV)",,0.0,
+answer,"Louis XVI (لوئی XVI)",,1.0,
+answer,"Louis XIV (لوئی XIV)",,0.0,
+question,"Qui a fondé la Ve République ? (پانچویں جمہوریہ کی بنیاد کس نے رکھی؟)",,,lvl1
+answer,"François Mitterrand (فرانسوا متراں)",,0.0,
+answer,"Le Général de Gaulle (جنرل ڈی گال)",,1.0,
+answer,"Georges Clemenceau (جارج کلیمینساؤ)",,0.0,
+question,"Que célèbre-t-on le 14 juillet ? (14 جولائی کو کیا منایا جاتا ہے؟)",,,lvl1
+answer,"La prise de la Bastille (et la Fête de la Fédération).।) (بستی کا زوال (اور فیڈریشن کا جشن)۔)",,1.0,
+answer,"La fin de la Seconde Guerre mondiale (دوسری جنگ عظیم کا خاتمہ)",,0.0,
+answer,"L'abolition de l'esclavage (غلامی کا خاتمہ)",,0.0,
+question,"Quelle guerre a eu lieu entre 1914 et 1918 ? (1914 اور 1918 کے درمیان کون سی جنگ ہوئی تھی؟)",,,lvl1
+answer,"La guerre franco-prussienne (فرانسیسی-پروشین جنگ)",,0.0,
+answer,"La Seconde Guerre mondiale (دوسری جنگ عظیم)",,0.0,
+answer,"La Première Guerre mondiale (پہلی جنگ عظیم)",,1.0,
+question,"Pourquoi l’année 1958 est importante pour la France ? (فرانس کے لیے سال 1958 کیوں اہم ہے؟)",,,lvl1
+answer,"Fin de la Seconde Guerre mondiale (دوسری جنگ عظیم کا خاتمہ)",,0.0,
+answer,"Adoption de la Constitution de la Ve République (پانچویں جمہوریہ کے آئین کی منظوری)",,1.0,
+answer,"Vote de la loi de séparation des Églises et de l'État (چرچ اور ریاست کی علیحدگی کے قانون کی ووٹنگ)",,0.0,
+question,"Quel fleuve coule en France ? (فرانس میں کون سا دریا بہتا ہے؟)",,,lvl1
+answer,"Le Danube (دریائے ڈینیوب)",,0.0,
+answer,"La Seine (دریائے سین)",,1.0,
+answer,"Le Rhin (دریائے رائن)",,0.0,
+question,"Quelle ville est française ? (کون سا شہر فرانسیسی ہے؟)",,,lvl1
+answer,"Genève (جنیوا)",,0.0,
+answer,"Lyon (لیون)",,1.0,
+answer,"Barcelone (بارسلونا)",,0.0,
+question,"Quel océan borde la côte ouest française ? (فرانس کے مغربی ساحل پر کون سا سمندر واقع ہے؟)",,,lvl1
+answer,"L'océan Indien (بحر ہند)",,0.0,
+answer,"L'océan Atlantique (بحر اوقیانوس)",,1.0,
+answer,"L'océan Pacifique (بحر الکاہل)",,0.0,
+question,"Qu'est-ce que Paris ? (پیرس کیا ہے؟)",,,lvl1
+answer,"Un département d'outre-mer (ایک سمندر پار محکمہ)",,0.0,
+answer,"Une région (ایک خطہ)",,0.0,
+answer,"La capitale de la France (فرانس کا دارالحکومت)",,1.0,
+question,"Quelle est la capitale de la France ? (فرانس کا دارالحکومت کون سا ہے؟)",,,lvl1
+answer,"Marseille (مارسیل)",,0.0,
+answer,"Paris (پیرس)",,1.0,
+answer,"Bordeaux (بورڈو)",,0.0,
+question,"Sur quel continent se situe la France métropolitaine ? (سرزمین فرانس کس براعظم پر واقع ہے؟)",,,lvl1
+answer,"L'Afrique (افریقہ)",,0.0,
+answer,"L'Europe (یورپ)",,1.0,
+answer,"L'Asie (ایشیا)",,0.0,
+question,"Quelle île est un département d'outre-mer français ??) (کون سا جزیرہ فرانس کا سمندر پار محکمہ ہے؟)",,,lvl1
+answer,"La Sicile (سسلی)",,0.0,
+answer,"La Martinique (مارٹینیک)",,1.0,
+answer,"La Corse (کورسیکا)",,0.0,
+question,"Combien y a-t-il de régions en France métropolitaine ? ?) (سرزمین فرانس میں کل کتنے خطے ہیں؟)",,,lvl1
+answer,"5 (5)",,0.0,
+answer,"13 (13)",,1.0,
+answer,"22 (22)",,0.0,
+question,"Quelle ville est un grand port maritime ? (کون سا شہر ایک بڑی سمندری بندرگاہ ہے؟)",,,lvl1
+answer,"Strasbourg (اسٹراسبرگ)",,0.0,
+answer,"Marseille (مارسیل)",,1.0,
+answer,"Dijon (ڈیجون)",,0.0,
+question,"Quelle est la mer au sud de la France métropolitaine ? (فرانس کے جنوب میں کون سا سمندر واقع ہے؟)",,,lvl1
+answer,"La Manche (انگریزی چینل)",,0.0,
+answer,"La mer du Nord (بحیرہ شمال)",,0.0,
+answer,"La mer Méditerranée (بحیرہ روم)",,1.0,
+question,"Quelle ville est située au bord de la mer Méditerranée ? (کون سا شہر بحیرہ روم کے ساحل پر واقع ہے؟)",,,lvl1
+answer,"Nantes (نانت)",,0.0,
+answer,"Nice (نیس)",,1.0,
+answer,"Lille (لیل)",,0.0,
+question,"Où se situe la Corse ? (کورسیکا کہاں واقع ہے؟)",,,lvl1
+answer,"Dans l'océan Atlantique (بحر اوقیانوس میں)",,0.0,
+answer,"Dans la mer du Nord (بحیرہ شمال میں)",,0.0,
+answer,"Dans la mer Méditerranée (بحیرہ روم میں)",,1.0,
+question,"Quelle chaîne de montagnes est située entre la France et l'Italie ? (فرانس اور اٹلی کے درمیان کون سا پہاڑی سلسلہ واقع ہے؟)",,,lvl1
+answer,"Les Pyrénées (پیرینیز)",,0.0,
+answer,"Les Alpes (الپس)",,1.0,
+answer,"Les Vosges (ووزج)",,0.0,
+question,"Qui était Molière ? (مولیئر کون تھا؟)",,,lvl1
+answer,"Un peintre (ایک مصور)",,0.0,
+answer,"Un dramaturge (auteur de théâtre) du 17e siècle.।) (17ویں صدی کا ایک ڈرامہ نگار (تھیٹر کا مصنف)۔)",,1.0,
+answer,"Un général de l'armée (فوج کا ایک جنرل)",,0.0,
+question,"Qui était Charles Baudelaire ? (چارلس بوڈلیر کون تھا؟)",,,lvl1
+answer,"Un chef d'orchestre (ایک آرکیسٹرا کنڈکٹر)",,0.0,
+answer,"Un poète français du 19e siècle (auteur des Fleurs du Mal).।) (19ویں صدی کا ایک فرانسیسی شاعر (لیس فلیورس ڈو مال کا مصنف)۔)",,1.0,
+answer,"Un architecte (ایک معمار)",,0.0,
+question,"Qui était George Sand ? (جارج سینڈ کون تھی؟)",,,lvl1
+answer,"Une mathématicienne (ایک ریاضی دان)",,0.0,
+answer,"Une écrivaine romantique française du 19e siècle. (19ویں صدی کی ایک فرانسیسی رومانوی مصنفہ۔)",,1.0,
+answer,"Une chanteuse d'opéra (اوپیرا گلوکارہ)",,0.0,
+question,"Qui était Simone de Beauvoir ? (سیمون ڈی بووائر کون تھی؟)",,,lvl1
+answer,"Une actrice célèbre (ایک مشہور اداکارہ)",,0.0,
+answer,"Une écrivaine et philosophe du 20e siècle (figure majeure du féminisme).।) (20ویں صدی کی ایک مصنفہ اور فلسفی (حقوق نسواں کی اہم شخصیت)۔)",,1.0,
+answer,"Une reine de France (فرانس کی ایک ملکہ)",,0.0,
+question,"Qui était Albert Camus ? (البرٹ کاموس کون تھا؟)",,,lvl1
+answer,"Un explorateur (ایک مہم جو)",,0.0,
+answer,"Un sculpteur (ایک مجسمہ ساز)",,0.0,
+answer,"Un écrivain et philosophe français (prix Nobel de littérature).।) (ایک فرانسیسی مصنف اور فلسفی (ادب کا نوبل انعام یافتہ)۔)",,1.0,
+question,"Qui était Paul Cézanne ? (پال سیزان کون تھا؟)",,,lvl1
+answer,"Un inventeur (ایک موجد)",,0.0,
+answer,"Un peintre post-impressionniste français. (ایک فرانسیسی مابعد تاثریت پسند مصور۔)",,1.0,
+answer,"Un homme politique (ایک سیاست دان)",,0.0,
+question,"Qui était Marc Chagall ? (مارک چاگل کون تھا؟)",,,lvl1
+answer,"Un mathématicien (ایک ریاضی دان)",,0.0,
+answer,"Un peintre et graveur français d'origine biélorusse. (بیلاروسی نژاد فرانسیسی مصور اور نقاش۔)",,1.0,
+answer,"Un compositeur de musique (موسیقی کا ایک موسیقار)",,0.0,
+question,"Qui était Joséphine Baker ? (جوزفین بیکر کون تھی؟)",,,lvl1
+answer,"Une mathématicienne (ایک ریاضی دان)",,0.0,
+answer,"Une artiste de music-hall et résistante française (panthéonisée).।) (میوزک ہال کی فنکارہ اور فرانسیسی مزاحمتی کارکن۔)",,1.0,
+answer,"Une femme politique (ایک سیاست دان خاتون)",,0.0,
+question,"Qui était une chanteuse française célèbre ? (فرانس کی ایک مشہور گلوکارہ کون تھی؟)",,,lvl1
+answer,"Marie Curie (میری کیوری)",,0.0,
+answer,"Édith Piaf (ایڈتھ پیاف)",,1.0,
+answer,"George Sand (جارج سینڈ)",,0.0,
+question,"Qu'est-ce que le Louvre ? (لوور کیا ہے؟)",,,lvl1
+answer,"Le siège de l'Assemblée Nationale (نیشنل اسمبلی کا صدر دفتر)",,0.0,
+answer,"Le plus grand musée du monde (situé à Paris).।) (دنیا کا سب سے بڑا عجائب گھر (پیرس میں واقع)۔)",,1.0,
+answer,"Un grand magasin (ایک بڑا اسٹور)",,0.0,
+question,"Qui était Jean de la Fontaine ? (ژاں ڈی لا فونٹین کون تھا؟)",,,lvl1
+answer,"Un peintre (ایک مصور)",,0.0,
+answer,"Un poète français, célèbre pour ses fables. ।) (ایک فرانسیسی شاعر، جو اپنی تمثیلی کہانیوں کے لیے مشہور ہے۔)",,1.0,
+answer,"Un explorateur (ایک مہم جو)",,0.0,
+question,"Quel écrivain est français ? (کون سا مصنف فرانسیسی ہے؟)",,,lvl1
+answer,"William Shakespeare (ولیم شیکسپیئر)",,0.0,
+answer,"Victor Hugo (وکٹر ہیوگو)",,1.0,
+answer,"Jane Austen (جین آسٹن)",,0.0,
+question,"Dans quelle ville se trouve la tour Eiffel ? (ایفل ٹاور کس شہر میں واقع ہے؟)",,,lvl1
+answer,"Lyon (لیون)",,0.0,
+answer,"Paris (پیرس)",,1.0,
+answer,"Marseille (مارسیل)",,0.0,
+question,"Quand célèbre-t-on Noël ? ?) (کرسمس کب منایا جاتا ہے؟)",,,lvl2
+answer,"Le 1er janvier (یکم جنوری)",,0.0,
+answer,"Le 14 juillet (14 جولائی)",,0.0,
+answer,"Le 25 décembre (25 دسمبر)",,1.0,
+question,"Quel était le surnom de Louis XIV ? (لوئی XIV کا لقب کیا تھا؟)",,,lvl2
+answer,"Le Bon Roi (اچھا بادشاہ)",,0.0,
+answer,"Le Roi Soleil (سورج بادشاہ)",,1.0,
+answer,"Le Petit Roi (چھوٹا بادشاہ)",,0.0,
+question,"Quel roi de France a été exécuté pendant la Révolution française ? (فرانسیسی انقلاب کے دوران فرانس کے کس بادشاہ کو پھانسی دی گئی تھی؟)",,,lvl2
+answer,"Louis XV (لوئی XV)",,0.0,
+answer,"Louis XVI (لوئی XVI)",,1.0,
+answer,"Henri IV (ہنری IV)",,0.0,
+question,"En quelle année Napoléon Ier est-il devenu empereur ? (نیپولین اول کس سال شہنشاہ بنا؟)",,,lvl2
+answer,"1789 (1789)",,0.0,
+answer,"1800 (1800)",,0.0,
+answer,"1804 (1804)",,1.0,
+question,"Lequel de ces personnages a un lien avec la République française ? (ان میں سے کون سی شخصیت فرانسیسی جمہوریہ سے تعلق رکھتی ہے؟)",,,lvl2
+answer,"La Reine Victoria (ملکہ وکٹوریہ)",,0.0,
+answer,"Le Tsar Nicolas II (زار نکولس II)",,0.0,
+answer,"Georges Clemenceau (جارج کلیمینساؤ)",,1.0,
+question,"De quand date l'appel à la résistance du général de Gaulle ? (جنرل ڈی گال کی مزاحمت کی کال کب کی ہے؟)",,,lvl2
+answer,"Le 6 juin 1944 (6 جون 1944)",,0.0,
+answer,"Le 18 juin 1940 (18 جون 1940)",,1.0,
+answer,"Le 11 novembre 1918 (11 نومبر 1918)",,0.0,
+question,"Pourquoi la Shoah est-elle étudiée à l'école ? ?) (اسکول میں شوہ (نسل کشی) کیوں پڑھائی جاتی ہے؟)",,,lvl2
+answer,"Pour réviser l'Histoire ancienne. (قدیم تاریخ کا مطالعہ کرنے کے لیے۔)",,0.0,
+answer,"Pour transmettre le souvenir du génocide des Juifs et lutter contre le racisme. (یہودیوں کی نسل کشی کی یاد تازہ رکھنے اور نسل پرستی کے خلاف لڑنے کے لیے۔)",,1.0,
+answer,"Pour glorifier les héros de guerre. (جنگی ہیروز کی تعریف کرنے کے لیے۔)",,0.0,
+question,"Quel pays a été colonisé par la France ? (فرانس نے کس ملک کو اپنی نوآبادی بنایا تھا؟)",,,lvl2
+answer,"Le Brésil (برازیل)",,0.0,
+answer,"Le Sénégal (سینیگال)",,1.0,
+answer,"L'Australie (آسٹریلیا)",,0.0,
+question,"Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ? (فرانسیسی کب سے جمہوریہ کے صدر کا انتخاب براہ راست عام رائے دہی سے کرتے ہیں؟)",,,lvl2
+answer,"1945 (1945)",,0.0,
+answer,"1962 (1962)",,1.0,
+answer,"1981 (1981)",,0.0,
+question,"Quelle est la première étape de la construction européenne en 1951 ? (1951 میں یورپی تعمیر کا پہلا مرحلہ کیا تھا؟)",,,lvl2
+answer,"La création de l'Euro. (یورو کا اجرا۔)",,0.0,
+answer,"La création de la Communauté européenne du charbon et de l'acier (CECA). ।) (یورپی کول اینڈ اسٹیل کمیونٹی (CECA) کا قیام۔)",,1.0,
+answer,"La fin de la Seconde Guerre mondiale. (دوسری جنگ عظیم کا خاتمہ۔)",,0.0,
+question,"Durant le mandat de quel président la peine de mort a-t-elle été abolie ? (کس صدر کے دور اقتدار میں سزائے موت ختم کی گئی؟)",,,lvl2
+answer,"Charles de Gaulle (چارلس ڈی گال)",,0.0,
+answer,"Valéry Giscard d'Estaing (ویلے ری جِکارڈ ڈی اسٹینگ)",,0.0,
+answer,"François Mitterrand (فرانسوا متراں)",,1.0,
+question,"Quel régime politique a été mis en place pendant la Révolution française en 1792 ? (1792 میں فرانسیسی انقلاب کے دوران کون سا سیاسی نظام قائم کیا گیا؟)",,,lvl2
+answer,"L'Empire (سلطنت)",,0.0,
+answer,"La Première République (پہلی جمہوریہ)",,1.0,
+answer,"La monarchie constitutionnelle (آئینی بادشاہت)",,0.0,
+question,"Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ? (دوسری جنگ عظیم کے دوران فرانسیسی مزاحمت کی ایک اہم شخصیت کون تھی؟)",,,lvl2
+answer,"Napoléon Ier (نیپولین اول)",,0.0,
+answer,"Jean Moulin (ژاں مولن)",,1.0,
+answer,"Victor Hugo (وکٹر ہیوگو)",,0.0,
+question,"En 1944, qu'est-ce qui a changé pour les femmes ? (1944 میں خواتین کے لیے کیا تبدیلی آئی؟)",,,lvl2
+answer,"Elles ont eu le droit de travailler. (انہیں کام کرنے کا حق ملا۔)",,0.0,
+answer,"Elles ont obtenu le droit de vote. (انہیں ووٹ دینے کا حق ملا۔)",,1.0,
+answer,"Elles sont devenues éligibles au Sénat. (وہ سینیٹ کے لیے اہل ہو گئیں۔)",,0.0,
+question,"Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ? (دوسری جنگ عظیم کے بعد 1945 میں کون سی بین الاقوامی تنظیم قائم کی گئی؟)",,,lvl2
+answer,"L'Union Européenne (یورپی یونین)",,0.0,
+answer,"L'Organisation des Nations unies (ONU)) (اقوام متحدہ)",,1.0,
+answer,"L'OTAN (NATO) (نیٹو)",,0.0,
+question,"Quelle peine a été supprimée en 1981 ? (1981 میں کون سی سزا ختم کی گئی تھی؟)",,,lvl2
+answer,"L'emprisonnement à vie (عمر قید)",,0.0,
+answer,"La peine de mort (سزائے موت)",,1.0,
+answer,"L'amende pour stationnement (پارکنگ کا جرمانہ)",,0.0,
+question,"En quelle année l'euro est-elle devenue la monnaie utilisée en France ? (یورو کس سال فرانس کی کرنسی بنا؟)",,,lvl2
+answer,"1999 (1999)",,0.0,
+answer,"2002 (2002)",,1.0,
+answer,"2007 (2007)",,0.0,
+question,"En quelle année a commencé la Première Guerre mondiale ? (پہلی جنگ عظیم کس سال شروع ہوئی؟)",,,lvl2
+answer,"1939 (1939)",,0.0,
+answer,"1914 (1914)",,1.0,
+answer,"1940 (1940)",,0.0,
+question,"Où a eu lieu le débarquement en 1944 ? ?) (1944 میں اتحادی فوجوں کا اترنا کہاں ہوا؟)",,,lvl2
+answer,"Sur les côtes de la Méditerranée (بحیرہ روم کے ساحلوں پر)",,0.0,
+answer,"En Normandie (نارمنڈی میں)",,1.0,
+answer,"Dans le Nord de la France (شمالی فرانس میں)",,0.0,
+question,"Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ? (دوسری جنگ عظیم کے بعد فرانسیسی نوآبادیات کے خاتمے سے سب سے زیادہ کون سا براعظم متاثر ہوا؟)",,,lvl2
+answer,"L'Amérique (براعظم امریکہ)",,0.0,
+answer,"L'Afrique (براعظم افریقہ)",,1.0,
+answer,"L'Océanie (براعظم اوقیانوسیہ)",,0.0,
+question,"Que fête-t-on le 8 mai ? (8 مئی کو کیا منایا جاتا ہے؟)",,,lvl2
+answer,"La prise de la Bastille (بستی کا زوال)",,0.0,
+answer,"La Victoire des Alliés sur l'Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe).।) (1945 میں نازی جرمنی پر اتحادیوں کی فتح (یورپ میں دوسری جنگ عظیم کا خاتمہ)۔)",,1.0,
+answer,"La Fête du Travail (یوم مزدور)",,0.0,
+question,"Quelle mer ou océan borde la France métropolitaine ? (سرزمین فرانس کے ساتھ کون سا سمندر یا بحر واقع ہے؟)",,,lvl2
+answer,"La mer Noire (بحیرہ اسود)",,0.0,
+answer,"La mer Méditerranée (بحیرہ روم)",,1.0,
+answer,"La mer Baltique (بحیرہ بالٹک)",,0.0,
+question,"Quel pays a une frontière terrestre avec la France métropolitaine ? (سرزمین فرانس کے ساتھ کس ملک کی زمینی سرحد ملتی ہے؟)",,,lvl2
+answer,"Le Royaume-Uni (برطانیہ)",,0.0,
+answer,"L'Espagne (اسپین)",,1.0,
+answer,"La Norvège (ناروے)",,0.0,
+question,"Quelle ville française est un port maritime ? (فرانس کا کون سا شہر بحری بندرگاہ ہے؟)",,,lvl2
+answer,"Toulouse (ٹولوز)",,0.0,
+answer,"Bordeaux (بورڈو)",,1.0,
+answer,"Clermont-Ferrand (کلمون فیراں)",,0.0,
+question,"Quelle mer se situe entre la France et l'Angleterre ? (فرانس اور انگلستان کے درمیان کون سا سمندر واقع ہے؟)",,,lvl2
+answer,"La mer Baltique (بحیرہ بالٹک)",,0.0,
+answer,"La Manche (انگریزی چینل)",,1.0,
+answer,"La mer Noire (بحیرہ اسود)",,0.0,
+question,"Qu'est-ce que la France d'outre-mer ? ?) (سمندر پار فرانس کیا ہے؟)",,,lvl2
+answer,"Les pays qui ont été colonisés par la France. (وہ ممالک جو فرانس کی نوآبادی رہے ہیں۔)",,0.0,
+answer,"Les territoires français situés en dehors du continent européen. (فرانسیسی علاقے جو براعظم یورپ سے باہر واقع ہیں۔)",,1.0,
+answer,"Les pays membres de l'Union européenne. (یورپی یونین کے رکن ممالک۔)",,0.0,
+question,"Quelle chaîne de montagnes est située entre la France et l’Espagne ? (فرانس اور اسپین کے درمیان کون سا پہاڑی سلسلہ واقع ہے؟)",,,lvl2
+answer,"Les Alpes (الپس)",,0.0,
+answer,"Les Pyrénées (پیرینیز)",,1.0,
+answer,"Les Vosges (ووزج)",,0.0,
+question,"Quelle île française se trouve dans l'océan Indien ? (فرانس کا کون سا جزیرہ بحر ہند میں واقع ہے؟)",,,lvl2
+answer,"La Guadeloupe (گواڈیلوپ)",,0.0,
+answer,"La Réunion (لا ری یونین)",,1.0,
+answer,"La Martinique (مارٹینیک)",,0.0,
+question,"Quelle est la population approximative de la France en 2025 ? (2025 میں فرانس کی تخمینی آبادی کتنی ہے؟)",,,lvl2
+answer,"Environ 50 millions d'habitants (تقریباً 5 کروڑ باشندے)",,0.0,
+answer,"Environ 68 millions d'habitants (تقریباً 6 کروڑ 80 لاکھ باشندے)",,1.0,
+answer,"Plus de 100 millions d'habitants (10 کروڑ سے زیادہ باشندے)",,0.0,
+question,"Quel fleuve traverse Paris ? (کون سا دریا پیرس سے گزرتا ہے؟)",,,lvl2
+answer,"Le Rhône (دریائے رون)",,0.0,
+answer,"La Seine (دریائے سین)",,1.0,
+answer,"La Loire (دریائے لوار)",,0.0,
+question,"Lequel de ces pays partage des frontières terrestres avec la France ? (ان میں سے کون سا ملک فرانس کے ساتھ زمینی سرحدیں بانٹتا ہے؟)",,,lvl2
+answer,"La Suède (سویڈن)",,0.0,
+answer,"Le Danemark (ڈنمارک)",,0.0,
+answer,"La Belgique (بیلجیم)",,1.0,
+question,"Quel pays a une frontière avec la France métropolitaine au nord-est ? (سرزمین فرانس کے شمال مشرق میں کس ملک کی سرحد ہے؟)",,,lvl2
+answer,"L'Espagne (اسپین)",,0.0,
+answer,"L'Allemagne (جرمنی)",,1.0,
+answer,"L'Italie (اٹلی)",,0.0,
+question,"Où se trouvent les principales activités économiques en France ? (فرانس میں اہم اقتصادی سرگرمیاں کہاں واقع ہیں؟)",,,lvl2
+answer,"Uniquement dans les régions rurales. (صرف دیہی علاقوں میں۔)",,0.0,
+answer,"Principalement dans les zones montagneuses. (بنیادی طور پر پہاڑی علاقوں میں۔)",,0.0,
+answer,"Dans les grandes métropoles et les régions transfrontalières (Paris, Lyon, frontières allemande et suisse).।) (بڑے شہروں اور سرحدی علاقوں (پیرس، لیون، جرمن اور سوئس سرحدیں) میں۔)",,1.0,
+question,"Parmi ces pays, lequel attire le plus de visiteurs chaque année ? (ان ممالک میں سے کون سا ہر سال سب سے زیادہ سیاحوں کو راغب کرتا ہے؟)",,,lvl2
+answer,"L'Espagne (اسپین)",,0.0,
+answer,"La France (فرانس)",,1.0,
+answer,"L'Italie (اٹلی)",,0.0,
+question,"Où habite la majorité des Français ? (فرانسیسیوں کی اکثریت کہاں رہتی ہے؟)",,,lvl2
+answer,"Dans les zones de montagne. (پہاڑی علاقوں میں۔)",,0.0,
+answer,"Dans les zones urbaines et les grandes agglomérations. (شہری علاقوں اور بڑے شہروں میں۔)",,1.0,
+answer,"Dans les campagnes isolées. (دور دراز کے دیہاتوں میں۔)",,0.0,
+question,"Quelle région est la plus peuplée ? (کون سا خطہ سب سے زیادہ گنجان آباد ہے؟)",,,lvl2
+answer,"La Nouvelle-Aquitaine (نوویل ایکویٹین)",,0.0,
+answer,"L'Île-de-France (région parisienne) (ایل ڈی فرانس (پیرس کا خطہ))",,1.0,
+answer,"La Bretagne (بریٹانی)",,0.0,
+question,"Quelle ville française fait partie des 10 plus grandes métropoles du pays ? (کون سا فرانسیسی شہر ملک کے 10 بڑے شہروں میں شامل ہے؟)",,,lvl2
+answer,"La Rochelle (لا روچیل)",,0.0,
+answer,"Toulouse (ٹولوز)",,1.0,
+answer,"Avignon (ایوینیو)",,0.0,
+question,"Lequel de ces départements de France est le plus touristique ? ?) (فرانس کے ان محکموں میں سے کون سا سب سے زیادہ سیاحتی ہے؟)",,,lvl2
+answer,"La Creuse (لا کروز)",,0.0,
+answer,"Le Finistère (لی فینیسٹیئر)",,0.0,
+answer,"Paris (پیرس)",,1.0,
+question,"Quand peut-on visiter gratuitement des lieux culturels en France ? (فرانس میں ثقافتی مقامات کی مفت زیارت کب کی جا سکتی ہے؟)",,,lvl2
+answer,"Tous les jours fériés. (تمام عام تعطیلات پر۔)",,0.0,
+answer,"Lors des Journées européennes du Patrimoine (en septembre).।) (یورپی ثقافتی ورثہ کے دنوں کے دوران (ستمبر میں)۔)",,1.0,
+answer,"Uniquement en janvier. (صرف جنوری میں۔)",,0.0,
+question,"Combien de personnes parlent français dans le monde ? (دنیا میں کتنے لوگ فرانسیسی بولتے ہیں؟)",,,lvl2
+answer,"Environ 50 millions (تقریباً 5 کروڑ)",,0.0,
+answer,"Environ 150 millions (تقریباً 15 کروڑ)",,0.0,
+answer,"Plus de 320 millions (32 کروڑ سے زیادہ)",,1.0,
+question,"Qui était Marguerite Yourcenar ? (مارگریٹ یورسنار کون تھی؟)",,,lvl2
+answer,"Une mathématicienne (ایک ریاضی دان)",,0.0,
+answer,"Une écrivaine française (première femme élue à l'Académie française).।) (فرانسیسی مصنفہ (فرانسیسی اکیڈمی کے لیے منتخب ہونے والی پہلی خاتون)۔)",,1.0,
+answer,"Une chanteuse d'opéra (اوپیرا گلوکارہ)",,0.0,
+question,"Quel peintre est français ? (کون سا مصور فرانسیسی ہے؟)",,,lvl2
+answer,"Salvador Dalí (سلواڈور ڈالی)",,0.0,
+answer,"Pablo Picasso (پابلو پکاسو)",,0.0,
+answer,"Claude Monet (کلاڈ مونیٹ)",,1.0,
+question,"Quel musée est situé à Paris ? (کون سا عجائب گھر پیرس میں واقع ہے؟)",,,lvl2
+answer,"Le Musée du Prado (پراڈو میوزیم)",,0.0,
+answer,"Le Centre Pompidou (پومپیڈو سینٹر)",,1.0,
+answer,"Le British Museum (برٹش میوزیم)",,0.0,
+question,"Qui était Auguste Rodin ? (اگست روڈن کون تھا؟)",,,lvl2
+answer,"Un compositeur (ایک موسیقار)",,0.0,
+answer,"Un sculpteur français du 19e siècle (auteur du Penseur).।) (19ویں صدی کا ایک فرانسیسی مجسمہ ساز (دی تھنکر کا خالق)۔)",,1.0,
+answer,"Un explorateur (ایک مہم جو)",,0.0,
+question,"Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ? (دنیا کی سب سے زیادہ بولی جانے والی زبانوں میں فرانسیسی کا کون سا نمبر ہے؟)",,,lvl2
+answer,"La deuxième langue (دوسری زبان)",,0.0,
+answer,"La cinquième langue (پانچویں زبان)",,1.0,
+answer,"La dixième langue (دسویں زبان)",,0.0,
+question,"Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ? (کون سا مشہور گرجا گھر 2019 میں آگ لگنے سے جزوی طور پر تباہ ہو گیا تھا؟)",,,lvl2
+answer,"La Cathédrale de Reims (ریمس کیتھڈرل)",,0.0,
+answer,"Notre-Dame de Paris (نوٹرے ڈیم ڈی پیرس)",,1.0,
+answer,"La Cathédrale de Strasbourg (اسٹراسبرگ کیتھڈرل)",,0.0,
+question,"Qui était une écrivaine française célèbre ? (فرانس کی ایک مشہور مصنفہ کون تھی؟)",,,lvl2
+answer,"Marie Curie (میری کیوری)",,0.0,
+answer,"Simone Veil (سیمون ویل)",,1.0,
+answer,"Marie-Madeleine Fourcade (ماری میڈلین فورکیڈ)",,0.0,
+question,"Qui était un célèbre musicien français ? (فرانس کا ایک مشہور موسیقار کون تھا؟)",,,lvl2
+answer,"Wolfgang Amadeus Mozart (وولف گینگ اماڈیوس موزارٹ)",,0.0,
+answer,"Claude Debussy (کلاڈ ڈیبوسی)",,1.0,
+answer,"Johann Sebastian Bach (ژاں سیبسٹین باخ)",,0.0,
+question,"Qui était Auguste Renoir ? (اگست رینوائر کون تھا؟)",,,lvl2
+answer,"Un architecte (ایک معمار)",,0.0,
+answer,"Un peintre impressionniste français. (ایک فرانسیسی تاثریت پسند مصور۔)",,1.0,
+answer,"Un dramaturge (ایک ڈرامہ نگار)",,0.0,
+question,"Quelle fête est française ? (کون سا تہوار فرانسیسی ہے؟)",,,lvl2
+answer,"L'Oktoberfest (اوکٹوبر فیسٹ)",,0.0,
+answer,"La Saint-Patrick (سینٹ پیٹرک ڈے)",,0.0,
+answer,"Le 14 juillet (Fête Nationale)) (14 جولائی (قومی دن))",,1.0,
+question,"Sur quel fleuve est situé le château d’Amboise? ?) (امبوائز قلعہ کس دریا پر واقع ہے؟)",,,lvl3
+answer,"Sur la Seine (دریاۓ سین پر)",,0.0,
+answer,"Sur le Rhône (دریاۓ رون پر)",,0.0,
+answer,"Sur la Loire (دریاۓ لوار پر)",,1.0,
+question,"Qu’a mené Napoléon Ier en Europe? (نیپولین اول نے یورپ میں کیا کیا؟)",,,lvl3
+answer,"La Révolution industrielle (صنعتی انقلاب)",,0.0,
+answer,"De nombreuses guerres (کئی جنگیں)",,1.0,
+answer,"La colonisation de l’Afrique (افریقہ کی نوآبادیات)",,0.0,
+question,"Qui a été le chef de la Résistance française contre l’occupation allemande? ?) (جرمن قبضے کے خلاف فرانسیسی مزاحمت کا سربراہ کون تھا؟)",,,lvl3
+answer,"Philippe Pétain (فلپ پیٹین)",,0.0,
+answer,"Georges Clemenceau (جارج کلیمینساؤ)",,0.0,
+answer,"Charles de Gaulle (چارلس ڈی گال)",,1.0,
+question,"Quelle religion Clovis adopte-t-il? (کلووس نے کون سا مذہب اختیار کیا؟)",,,lvl3
+answer,"La religion musulmane (اسلام)",,0.0,
+answer,"Le judaïsme (یہودیت)",,0.0,
+answer,"La religion chrétienne (عیسائیت)",,1.0,
+question,"Quel dictateur nazi a déclenché la Seconde Guerre mondiale? (کس نازی آمر نے دوسری جنگ عظیم شروع کی تھی؟)",,,lvl3
+answer,"Joseph Staline (جوزف اسٹالن)",,0.0,
+answer,"Benito Mussolini (بینیٹو مسولینی)",,0.0,
+answer,"Adolf Hitler (ایڈولف ہٹلر)",,1.0,
+question,"Que concentre Louis XIV sous son règne? (لوئی XIV نے اپنے دور اقتدار میں کیا جمع کیا؟)",,,lvl3
+answer,"Uniquement le pouvoir militaire (صرف فوجی طاقت)",,0.0,
+answer,"Tous les pouvoirs (تمام اختیارات)",,1.0,
+answer,"Uniquement le pouvoir religieux (صرف مذہبی طاقت)",,0.0,
+question,"Quel est le rôle du tourisme dans l’économie française? (فرانسیسی معیشت میں سیاحت کا کیا کردار ہے؟)",,,lvl3
+answer,"Un secteur marginal (ایک معمولی شعبہ)",,0.0,
+answer,"Un élément essentiel (ایک ضروری عنصر)",,1.0,
+answer,"Une activité en déclin (ایک زوال پذیر سرگرمی)",,0.0,
+question,"Que symbolisent les 12 étoiles du drapeau européen? (یورپی جھنڈے کے 12 ستارے کس چیز کی علامت ہیں؟)",,,lvl3
+answer,"Les idéaux d’unité et d’harmonie entre les Européens (یورپیوں کے درمیان اتحاد اور ہم آہنگی کے نظریات)",,1.0,
+answer,"Les 12 mois de l’année (سال کے 12 مہینے)",,0.0,
+answer,"Les 12 pays fondateurs (12 بانی ممالک)",,0.0,
+question,"En quelle année l’esclavage a-t-il été aboli en France? (فرانس میں غلامی کس سال ختم ہوئی؟)",,,lvl3
+answer,"En 1789 (1789 میں)",,0.0,
+answer,"En 1918 (1918 میں)",,0.0,
+answer,"En 1848 (1848 میں)",,1.0,
+question,"Contre quoi Victor Hugo s’est-il engagé? (وکٹر ہیوگو نے کس کے خلاف جدوجہد کی؟)",,,lvl3
+answer,"La monarchie absolue (مطلق العنان بادشاہت)",,0.0,
+answer,"La colonisation (نوآبادیات)",,0.0,
+answer,"Les inégalités sociales et la peine de mort (سماجی عدم مساوات اور سزائے موت)",,1.0,
+question,"De quelle origine est Valérie Benguigui? ?) (ویلری بینگوئیگی کا تعلق کہاں سے ہے؟)",,,lvl3
+answer,"Italienne (اطالوی)",,0.0,
+answer,"Américaine (امریکی)",,0.0,
+answer,"Algérienne (الجزائری)",,1.0,
+question,"Quel est le plus long fleuve français? (فرانس کا سب سے طویل دریا کون سا ہے؟)",,,lvl3
+answer,"Le Rhône (دریاۓ رون)",,0.0,
+answer,"La Seine (دریاۓ سین)",,0.0,
+answer,"La Loire (دریاۓ لوار)",,1.0,
+question,"Où se trouve l’une des plus importantes grottes préhistoriques de France? (فرانس کی سب سے اہم قبل از تاریخ غاروں میں سے ایک کہاں واقع ہے؟)",,,lvl3
+answer,"À Marseille (مارسیل میں)",,0.0,
+answer,"À Chartres (چارٹرس میں)",,0.0,
+answer,"À Lascaux (لاسکو میں)",,1.0,
+question,"Entre quelles dates se situent les peintures de la grotte de Lascaux? (لاسکو غار کی پینٹنگز کن تاریخوں کے درمیان کی ہیں؟)",,,lvl3
+answer,"Entre 2000 et 1500 ap. J.-C. (2000 اور 1500 عیسوی کے درمیان)",,0.0,
+answer,"Entre 18 000 et 15 000 av. J.-C. (18000 اور 15000 قبل مسیح کے درمیان)",,1.0,
+answer,"Entre 500 et 200 av. J.-C. (500 اور 200 قبل مسیح کے درمیان)",,0.0,
+question,"Quels modes de transport sont connectés au port de Nantes-Saint-Nazaire? (نانٹ-سینٹ-نازائر کی بندرگاہ سے کون سے ذرائع نقل و حمل جڑے ہوئے ہیں؟)",,,lvl3
+answer,"Routier, fluvial, spatial et aérien (سڑک، دریا، خلائی اور ہوائی)",,0.0,
+answer,"Maritime, fluvial, ferroviaire, terrestre et aérien (سمندری، دریا، ریل، سڑک اور ہوائی)",,1.0,
+answer,"Maritime, spatial, cycliste et aérien (سمندری، خلائی، سائیکل اور ہوائی)",,0.0,
+question,"À quelle période historique correspond l’installation des Romains? (رومیوں کی آمد کس تاریخی دور سے مطابقت رکھتی ہے؟)",,,lvl3
+answer,"À l’Antiquité (عہد قدیم)",,1.0,
+answer,"À la Préhistoire (قبل از تاریخ)",,0.0,
+answer,"Au Moyen Âge (قرون وسطیٰ)",,0.0,
+question,"À quelle période appartiennent les peintures de la grotte de Lascaux? (لاسکو غار کی پینٹنگز کس دور سے تعلق رکھتی ہیں؟)",,,lvl3
+answer,"À la Préhistoire (قبل از تاریخ)",,1.0,
+answer,"Au Moyen Âge (قرون وسطیٰ)",,0.0,
+answer,"À l’Antiquité (عہد قدیم)",,0.0,
+question,"Où se situe le Mont-Saint-Michel? (مونٹ سینٹ مشیل کہاں واقع ہے؟)",,,lvl3
+answer,"En Bretagne (بریٹانی میں)",,0.0,
+answer,"En Provence (پروونس میں)",,0.0,
+answer,"En Normandie (نارمنڈی میں)",,1.0,
+question,"Quelle nationalité d’origine avait Joséphine Baker? (جوزفین بیکر کی اصل شہریت کیا تھی؟)",,,lvl3
+answer,"Italienne (اطالوی)",,0.0,
+answer,"Algérienne (الجزائری)",,0.0,
+answer,"Américaine (امریکی)",,1.0,
+question,"De quelle origine est Romain Gary? (رومین گیری کا تعلق کہاں سے تھا؟)",,,lvl3
+answer,"Égyptienne (مصری)",,0.0,
+answer,"Polonaise (پولش)",,0.0,
+answer,"Russe (روسی)",,1.0,
+question,"Quel était l’objectif du traité de Rome? (معاہدہ روم کا مقصد کیا تھا؟)",,,lvl3
+answer,"Supprimer toutes les frontières intérieures immédiatement (تمام اندرونی سرحدوں کو فوری ختم کرنا)",,0.0,
+answer,"Créer une armée commune (مشترکہ فوج بنانا)",,0.0,
+answer,"Établir une union étroite entre les peuples européens (یورپی عوام کے درمیان قریبی اتحاد قائم کرنا)",,1.0,
+question,"Quelle est l’altitude du Mont-Blanc? ?) (ماؤنٹ بلانک کی بلندی کتنی ہے؟)",,,lvl3
+answer,"3 200 m (3200 میٹر)",,0.0,
+answer,"5 500 m (5500 میٹر)",,0.0,
+answer,"4 810 m (4810 میٹر)",,1.0,
+question,"Quel peintre d’origine russe a décoré le plafond de l’Opéra Garnier de Paris? ?) (روسی نژاد کس مصور نے پیرس کے اوپیرا گارنیئر کی چھت کو سجایا؟)",,,lvl3
+answer,"Pablo Picasso (پابلو پکاسو)",,0.0,
+answer,"Claude Monet (کلاڈ مونیٹ)",,0.0,
+answer,"Marc Chagall (مارک چاگل)",,1.0,
+question,"Pour quelle raison la grotte de Lascaux est-elle célèbre? (لاسکو غار کس وجہ سے مشہور ہے؟)",,,lvl3
+answer,"Pour la qualité de ses peintures (اپنی پینٹنگز کے معیار کی وجہ سے)",,1.0,
+answer,"Pour ses poteries anciennes (اپنے قدیم مٹی کے برتنوں کی وجہ سے)",,0.0,
+answer,"Pour ses sculptures en pierre (اپنے پتھر کے مجسموں کی وجہ سے)",,0.0,
+question,"Quel mouvement social éclate en mai 1968? (مئی 1968 میں کون سی سماجی تحریک شروع ہوئی؟)",,,lvl3
+answer,"Un mouvement initié par les étudiants, étendu aux salariés et ouvriers (طلباء کی شروع کردہ تحریک جو ملازمین اور مزدوروں تک پھیل گئی)",,1.0,
+answer,"Une réforme constitutionnelle (آئینی اصلاحات)",,0.0,
+answer,"Une révolution armée (مسلح انقلاب)",,0.0,
+question,"Qui est Alain Mimoun? ?) (ایلن میمون کون ہے؟)",,,lvl3
+answer,"Un peintre d’origine russe (روسی نژاد مصور)",,0.0,
+answer,"Un chanteur franco-égyptien (فرانسیسی مصری گلوکار)",,0.0,
+answer,"Un athlète d’origine algérienne, ancien combattant de la Seconde Guerre mondiale (الجزائری نژاد کھلاڑی، دوسری جنگ عظیم کے سابق فوجی)",,1.0,
+question,"Quelle caractéristique politique la IIIᵉ République a-t-elle apportée? ?) (تیسری جمہوریہ نے کیا سیاسی خصوصیت فراہم کی؟)",,,lvl3
+answer,"Le retour de l’Empire (سلطنت کی واپسی)",,0.0,
+answer,"La forme républicaine stable du Gouvernement (حکومت کی مستحکم جمہوری شکل)",,1.0,
+answer,"L’instauration d’une monarchie parlementaire (پارلیمانی بادشاہت کا قیام)",,0.0,
+question,"Par quels moyens la France a-t-elle constitué son empire colonial au 19ᵉ siècle? (19ویں صدی میں فرانس نے اپنی نوآبادیاتی سلطنت کن ذرائع سے قائم کی؟)",,,lvl3
+answer,"Par des guerres de conquêtes (فتوحات کی جنگوں کے ذریعے)",,1.0,
+answer,"Par des élections locales (مقامی انتخابات کے ذریعے)",,0.0,
+answer,"Par des accords commerciaux pacifiques (پرامن تجارتی معاہدوں کے ذریعے)",,0.0,
+question,"Quel exploit sportif Alain Mimoun a-t-il réalisé en 1956? (ایلن میمون نے 1956 میں کون سا کھیلوں کا کارنامہ انجام دیا؟)",,,lvl3
+answer,"Il a gagné le Tour de France (اس نے ٹور ڈی فرانس جیتا)",,0.0,
+answer,"Il a remporté le marathon des Jeux olympiques (اس نے اولمپک گیمز کی میراتھن جیتی)",,1.0,
+answer,"Il a battu le record du monde de saut en longueur (اس نے لمبی چھلانگ کا عالمی ریکارڈ توڑ دیا)",,0.0,
+question,"Où repose Marie Curie? (میری کیوری کہاں دفن ہیں؟)",,,lvl3
+answer,"À Versailles (ورسائی میں)",,0.0,
+answer,"Au Panthéon (پینتھین میں)",,1.0,
+answer,"Au Louvre (لوور میں)",,0.0,
+question,"Quel physicien d’origine polonaise a reçu le prix Nobel de physique en 1992? (1992 میں پولش نژاد کس ماہر طبیعیات نے فزکس کا نوبل انعام حاصل کیا؟)",,,lvl3
+answer,"Louis de Broglie (لوئی ڈی بروگلی)",,0.0,
+answer,"Pierre Curie (پیئر کیوری)",,0.0,
+answer,"Georges Charpak (جارج چارپک)",,1.0,
+question,"Comment était qualifié le régime de Vichy? ?) (وشی حکومت کو کیسا قرار دیا گیا تھا؟)",,,lvl3
+answer,"Non démocratique (غیر جمہوری)",,1.0,
+answer,"Parlementaire (پارلیمانی)",,0.0,
+answer,"Républicain (جمہوری)",,0.0,
+question,"Combien de morts la Seconde Guerre mondiale a-t-elle causés selon les historiens? (مورخین کے مطابق دوسری جنگ عظیم میں کتنی ہلاکتیں ہوئیں؟)",,,lvl3
+answer,"Moins de 5 millions (50 لاکھ سے کم)",,0.0,
+answer,"Plus de 50 millions (5 کروڑ سے زیادہ)",,1.0,
+answer,"Plus de 9 millions (90 لاکھ سے زیادہ)",,0.0,
+question,"Dans quels secteurs l’économie française a-t-elle des pôles d’excellence? ?) (فرانسیسی معیشت کے کن شعبوں میں بہترین مراکز ہیں؟)",,,lvl3
+answer,"L’aéronautique et le luxe (ہوا بازی اور تعیشات)",,1.0,
+answer,"L’agriculture et la pêche (زراعت اور ماہی گیری)",,0.0,
+answer,"Le textile et la sidérurgie (ٹیکسٹائل اور فولاد سازی)",,0.0,
+question,"Pour quel roman Romain Gary a-t-il reçu le prix Goncourt en 1956? ?) (رومین گیری کو 1956 میں کس ناول کے لیے گونکورٹ انعام ملا؟)",,,lvl3
+answer,"Notre-Dame de (نوٹرے ڈیم ڈی)",,0.0,
+answer,"Les Racines du ciel (آسمان کی جڑیں)",,1.0,
+answer,"La Vie devant soi (زندگی آپ کے سامنے ہے)",,0.0,
+question,"Qui est Léon Gambetta? ?) (لیون گیمبیٹا کون ہے؟)",,,lvl3
+answer,"Un fervent républicain, l’un des pères de la IIIᵉ République (ایک پرجوش جمہوری، تیسری جمہوریہ کے بانیوں میں سے ایک)",,1.0,
+answer,"Un roi de France (فرانس کا ایک بادشاہ)",,0.0,
+answer,"Un empereur romain (ایک رومی شہنشاہ)",,0.0,
+question,"Qui unifie les royaumes des peuples francs au 5e siècle? (5ویں صدی میں فرانک عوام کی ریاستوں کو کس نے متحد کیا؟)",,,lvl3
+answer,"Louis XIV (لوئی XIV)",,0.0,
+answer,"Charlemagne (شارلمین)",,0.0,
+answer,"Clovis (کلووس)",,1.0,
+question,"Qui a préparé la loi sur l’interruption volontaire de grossesse de 1975? ?) (1975 کے اسقاط حمل کے قانون کو کس نے تیار کیا تھا؟)",,,lvl3
+answer,"Charles de Gaulle (چارلس ڈی گال)",,0.0,
+answer,"François Mitterrand (فرانسوا متراں)",,0.0,
+answer,"Simone Veil (سیمون ویل)",,1.0,
+question,"Qui est l’auteur de «Alcools»? ?) (""Alcools"" کا مصنف کون ہے؟)",,,lvl3
+answer,"Guillaume Apollinaire (گیلوم اپولینیئر)",,1.0,
+answer,"Paul Valéry (پال ویلیری)",,0.0,
+answer,"Jacques Prévert (جیک پریورٹ)",,0.0,
+question,"Quel écrivain d’origine russe a reçu deux fois le prix Goncourt, dont une sous le nom d’Émile Ajar? ?) (روسی نژاد کس مصنف نے دو بار گونکورٹ انعام حاصل کیا، جس میں سے ایک بار ایمل اجار کے نام سے؟)",,,lvl3
+answer,"Albert Camus (البرٹ کاموس)",,0.0,
+answer,"Romain Gary (رومین گیری)",,1.0,
+answer,"Victor Hugo (وکٹر ہیوگو)",,0.0,
+question,"Quelle chanson est associée à Miriam Makeba? (مریم ماکیبا کا نام کس گانے سے جڑا ہوا ہے؟)",,,lvl3
+answer,"Bambino (بیمبینو)",,0.0,
+answer,"Pata Pata (پاٹا پاٹا)",,1.0,
+answer,"L’Avare (کنجوس)",,0.0,
+question,"Qui est l’auteur de Les Misérables? (""Les Misérables"" کا مصنف کون ہے؟)",,,lvl3
+answer,"Victor Hugo (وکٹر ہیوگو)",,1.0,
+answer,"Voltaire (وولٹیئر)",,0.0,
+answer,"Molière (مولیئر)",,0.0,
+question,"Quels sont deux ouvrages célèbres de Victor Hugo? (وکٹر ہیوگو کی دو مشہور تصانیف کون سی ہیں؟)",,,lvl3
+answer,"Germinal et Madame Bovary (جرمینل اور میڈم بوواری)",,0.0,
+answer,"Les Misérables et Notre-Dame de Paris (لیس میزریبلز اور نوٹرے ڈیم ڈی پیرس)",,1.0,
+answer,"L’Avare et Le Cid (کنجوس اور لی سیڈ)",,0.0,
+question,"Quel traité fonde la Communauté économique européenne en 1957? (1957 میں کس معاہدے نے یورپی اقتصادی برادری کی بنیاد رکھی؟)",,,lvl3
+answer,"Le traité de Versailles (معاہدہ ورسائی)",,0.0,
+answer,"Le traité de Maastricht (معاہدہ ماسٹرخٹ)",,0.0,
+answer,"Le traité de Rome (معاہدہ روم)",,1.0,
+question,"Qui est l’auteur de «Calligrammes»? (""Calligrammes"" کا مصنف کون ہے؟)",,,lvl3
+answer,"Victor Hugo (وکٹر ہیوگو)",,0.0,
+answer,"Guillaume Apollinaire (گیلوم اپولینیئر)",,1.0,
+answer,"André Breton (آندرے بریٹن)",,0.0,
+question,"Sous quel pseudonyme Romain Gary a-t-il reçu le prix Goncourt en 1975? (رومین گیری نے 1975 میں کس فرضی نام سے گونکورٹ انعام حاصل کیا؟)",,,lvl3
+answer,"André Gide (آندرے گائڈ)",,0.0,
+answer,"Paul Valéry (پال ویلیری)",,0.0,
+answer,"Émile Ajar (ایمل اجار)",,1.0,
+question,"À quelle période historique appartient Clovis? (کلووس کا تعلق کس تاریخی دور سے ہے؟)",,,lvl3
+answer,"À la Renaissance (16e siècle)) (پنرجہرن کے دور سے (16ویں صدی))",,0.0,
+answer,"À l’Antiquité (1er siècle)) (عہد قدیم سے (پہلی صدی))",,0.0,
+answer,"Au Moyen Âge (5e siècle)) (قرون وسطیٰ سے (5ویں صدی))",,1.0,
+question,"Où la décolonisation française a-t-elle débuté? ?) (فرانسیسی نوآبادیات کا خاتمہ کہاں سے شروع ہوا؟)",,,lvl3
+answer,"En Amérique (براعظم امریکہ میں)",,0.0,
+answer,"En Asie (براعظم ایشیا میں)",,1.0,
+answer,"En Europe (براعظم یورپ میں)",,0.0,
+question,"Où se trouvait la capitale du régime de Vichy? ?) (وشی حکومت کا دارالحکومت کہاں واقع تھا؟)",,,lvl3
+answer,"À Lyon (لیون میں)",,0.0,
+answer,"À Bordeaux (بورڈو میں)",,0.0,
+answer,"À Vichy (وشی میں)",,1.0,
+question,"Quel magazine Françoise Giroud a-t-elle cofondé? - ?) (فرانسوا گیروڈ نے کس میگزین کی مشترکہ بنیاد رکھی تھی؟)",,,lvl3
+answer,"Paris Match (پیرس میچ)",,0.0,
+answer,"L’Express (ایل ایکسپریس)",,1.0,
+answer,"Le Monde (لی مونڈے)",,0.0,
+question,"Quand la IIIᵉ République a-t-elle été instaurée? ?) (تیسری جمہوریہ کب قائم کی گئی تھی؟)",,,lvl3
+answer,"En 1875 (1875 میں)",,1.0,
+answer,"En 1958 (1958 میں)",,0.0,
+answer,"En 1848 (1848 میں)",,0.0,
+question,"Quelles entreprises ont leur siège social à Paris La Défense? ?) (کن کمپنیوں کے ہیڈ کوارٹر پیرس لا ڈیفنس میں واقع ہیں؟)",,,lvl3
+answer,"Les plus grosses entreprises du CAC 40 (سی اے سی 40 کی سب سے بڑی کمپنیاں)",,1.0,
+answer,"Des PME locales (مقامی چھوٹے اور درمیانے درجے کے کاروبار)",,0.0,
+answer,"Des start-ups étrangères (غیر ملکی اسٹارٹ اپس)",,0.0,
+question,"Quels événements sportifs Léon Zitrone a-t-il commentés? (لیون زیٹرون نے کن کھیلوں کے مقابلوں کی کمنٹری کی تھی؟)",,,lvl3
+answer,"Le Tour de France et les Jeux olympiques (ٹور ڈی فرانس اور اولمپک گیمز)",,1.0,
+answer,"La Coupe du monde de rugby et le Dakar (رگبی ورلڈ کپ اور ڈاکار)",,0.0,
+answer,"Le marathon de Paris et Roland-Garros (پیرس میراتھن اور رولینڈ گیروس)",,0.0,
+question,"Quel prix international Miriam Makeba a-t-elle obtenu? (مریم ماکیبا نے کون سا بین الاقوامی انعام حاصل کیا تھا؟)",,,lvl3
+answer,"Un Grammy Award (گریمی ایوارڈ)",,1.0,
+answer,"Un Oscar (آسکر)",,0.0,
+answer,"Un prix Nobel de la paix (نوبل امن انعام)",,0.0,
+question,"Pour quel événement la tour Eiffel a-t-elle été construite? ?) (ایفل ٹاور کس تقریب کے لیے تعمیر کیا گیا تھا؟)",,,lvl3
+answer,"La Révolution française (فرانسیسی انقلاب)",,0.0,
+answer,"L’Exposition universelle de 1889 (1889 کی عالمی نمائش)",,1.0,
+answer,"Les Jeux olympiques de 1924 (1924 کے اولمپک گیمز)",,0.0,
+question,"Qui est Miriam Makeba? (مریم ماکیبا کون ہے؟)",,,lvl3
+answer,"Une poétesse née en Égypte (مصر میں پیدا ہونے والی ایک شاعرہ)",,0.0,
+answer,"Une actrice d’origine algérienne (الجزائری نژاد ایک اداکارہ)",,0.0,
+answer,"Une chanteuse sud-africaine engagée contre l’apartheid (نسل پرستی کے خلاف سرگرم جنوبی افریقی گلوکارہ)",,1.0,
+question,"En quelle année Joseph Kessel est-il élu à l’Académie française? ?) (جوزف کیسل کس سال فرانسیسی اکیڈمی کے لیے منتخب ہوئے؟)",,,lvl3
+answer,"1956 (1956)",,0.0,
+answer,"1975 (1975)",,0.0,
+answer,"1962 (1962)",,1.0,
+question,"Quel statut possède le Mont-Saint-Michel? ?) (مونٹ سینٹ مشیل کو کیا مقام حاصل ہے؟)",,,lvl3
+answer,"Monument historique national uniquement (صرف قومی تاریخی یادگار)",,0.0,
+answer,"Patrimoine mondial de l’UNESCO (یونیسکو کا عالمی ثقافتی ورثہ)",,1.0,
+answer,"Site naturel protégé uniquement (صرف محفوظ قدرتی مقام)",,0.0,
+question,"Quelle opération militaire a eu lieu le 6 juin 1944 en Normandie? (6 جون 1944 کو نارمنڈی میں کون سا فوجی آپریشن ہوا تھا؟)",,,lvl3
+answer,"La prise de la Bastille (بستی کا زوال)",,0.0,
+answer,"Le débarquement des alliés (اتحادیوں کا ساحل پر اترنا)",,1.0,
+answer,"L’armistice de 1918 (1918 کی جنگ بندی)",,0.0,
+question,"Où est née la poétesse Andrée Chedid? (شاعرہ آندرے شدید کہاں پیدا ہوئی تھیں؟)",,,lvl3
+answer,"En Pologne (پولینڈ میں)",,0.0,
+answer,"En Russie (روس میں)",,0.0,
+answer,"En Égypte (مصر میں)",,1.0,
+question,"De quoi le régime de Vichy est-il en partie responsable? (وشی حکومت جزوی طور پر کس چیز کی ذمہ دار ہے؟)",,,lvl3
+answer,"De la colonisation de l’Algérie (الجزائر کی نوآبادیات کی)",,0.0,
+answer,"De l’armistice de 1918 (1918 کی جنگ بندی کی)",,0.0,
+answer,"De la déportation des Juifs (یہودیوں کی جلاوطنی کی)",,1.0,
+question,"Qui conduit les troupes françaises pendant la guerre de Cent Ans contre l’Angleterre? (انگلستان کے خلاف سو سالہ جنگ کے دوران فرانسیسی فوجوں کی قیادت کس نے کی؟)",,,lvl3
+answer,"Marie-Antoinette (میری اینٹونیٹ)",,0.0,
+answer,"Catherine de Médicis (کیترین ڈی میڈیسی)",,0.0,
+answer,"Jeanne d’Arc (جان آف آرک)",,1.0,
+question,"Quel est l’effet principal de l’édit de Nantes? ?) (نانٹ کے فرمان کا بنیادی اثر کیا تھا؟)",,,lvl3
+answer,"Le rétablissement de la paix religieuse (مذہبی امن کی بحالی)",,1.0,
+answer,"L’abolition de la monarchie (بادشاہت کا خاتمہ)",,0.0,
+answer,"Le début de la guerre de Cent Ans (سو سالہ جنگ کا آغاز)",,0.0,
+question,"Dans quelle vallée se trouve le théâtre romain d’Orange? (اورنج کا رومی تھیٹر کس وادی میں واقع ہے؟)",,,lvl3
+answer,"Dans la vallée de la Seine (دریاۓ سین کی وادی میں)",,0.0,
+answer,"Dans la vallée du Rhône (دریاۓ رون کی وادی میں)",,1.0,
+answer,"Dans la vallée de la Loire (دریاۓ لوار کی وادی میں)",,0.0,
+question,"Quel roi de France règne de 1643 à 1715? (فرانس کا کون سا بادشاہ 1643 سے 1715 تک حکومت کرتا ہے؟)",,,lvl3
+answer,"François Ier (فرانسوا اول)",,0.0,
+answer,"Louis XVI (لوئی XVI)",,0.0,
+answer,"Louis XIV (لوئی XIV)",,1.0,
+question,"Dans quels domaines Léon Zitrone s’est-il illustré? (لیون زیٹرون نے کن شعبوں میں شہرت حاصل کی؟)",,,lvl3
+answer,"Littérature et poésie (ادب اور شاعری)",,0.0,
+answer,"Télévision et grands événements sportifs (ٹیلی ویژن اور کھیلوں کے بڑے مقابلے)",,1.0,
+answer,"Cinéma et théâtre (فلم اور تھیٹر)",,0.0,
+question,"Quels sont des exemples de talents français issus de l’immigration? (تارکین وطن سے تعلق رکھنے والے فرانسیسی ٹیلنٹ کی مثالیں کیا ہیں؟)",,,lvl3
+answer,"Molière, Corneille, Racine, La Fontaine (مولیئر، کارنیل، ریسین، لا فونٹین)",,0.0,
+answer,"Michel Platini, Zinédine Zidane, Jamel Debbouze, Marie N’Diaye (مشیل پلاٹینی، زین الدین زیدان، جمال دبوز، ماری این ڈیائے)",,1.0,
+answer,"Victor Hugo, Louis XIV, Jeanne d’Arc, Napoléon Ier (وکٹر ہیوگو، لوئی XIV، جان آف آرک، نیپولین اول)",,0.0,
+question,"Quelle était l’origine sociale de Jeanne d’Arc? (جان آف آرک کا سماجی پس منظر کیا تھا؟)",,,lvl3
+answer,"Une princesse (ایک شہزادی)",,0.0,
+answer,"Une bourgeoise de Paris (پیرس کی ایک متوسط طبقے کی خاتون)",,0.0,
+answer,"Une jeune paysanne (ایک نوجوان کسان لڑکی)",,1.0,
+question,"Qui a animé l’émission télévisée «Intervilles»? ?) (""Intervilles"" ٹی وی شو کی میزبانی کس نے کی تھی؟)",,,lvl3
+answer,"Alain Mimoun (ایلن میمون)",,0.0,
+answer,"Léon Zitrone (لیون زیٹرون)",,1.0,
+answer,"Georges Moustaki (جارج موسٹاکی)",,0.0,
+question,"Quel est le domaine scientifique de Marie Curie? (میری کیوری کا سائنسی شعبہ کون سا تھا؟)",,,lvl3
+answer,"La biologie (بیالوجی)",,0.0,
+answer,"La géologie (جیولوجی)",,0.0,
+answer,"La physique (فزکس)",,1.0,
+question,"Qui a mis en place le régime de Vichy après la défaite française? ?) (فرانسیسی شکست کے بعد وشی حکومت کس نے قائم کی تھی؟)",,,lvl3
+answer,"Charles de Gaulle (چارلس ڈی گال)",,0.0,
+answer,"Napoléon III (نیپولین III)",,0.0,
+answer,"Le maréchal Pétain (مارشل پیٹین)",,1.0,
+question,"Quelle est une des comédies les plus connues de Molière? (مولیئر کی مشہور ترین کامیڈیوں میں سے ایک کون سی ہے؟)",,,lvl3
+answer,"Le Cid (لی سیڈ)",,0.0,
+answer,"L’Avare (کنجوس)",,1.0,
+answer,"Les Misérables (بدقسمت لوگ/لیس میزریبلز)",,0.0,
+question,"Que s’est-il passé en 1848 en France? (1848 میں فرانس میں کیا ہوا تھا؟)",,,lvl3
+answer,"La mort de Napoléon Ier (نیپولین اول کی موت)",,0.0,
+answer,"L’abolition de l’esclavage (غلامی کا خاتمہ)",,1.0,
+answer,"La naissance de la IIIᵉ République (تیسری جمہوریہ کی پیدائش)",,0.0,
+question,"Quelle actrice d’origine algérienne a joué dans «Le Prénom» et «Avocats et associés»? (الجزائری نژاد کس اداکارہ نے ""Le Prénom"" اور ""Avocats et associés"" میں کام کیا؟)",,,lvl3
+answer,"Catherine Deneuve (کیتھرین ڈینیو)",,0.0,
+answer,"Isabelle Huppert (ازابیل ہوپرٹ)",,0.0,
+answer,"Valérie Benguigui (ویلری بینگوئیگی)",,1.0,
+question,"Qui est Georges Moustaki? ?) (جارج موسٹاکی کون ہے؟)",,,lvl3
+answer,"Un chanteur d’origine italo-grecque (اطالوی-یونانی نژاد ایک گلوکار)",,1.0,
+answer,"Un peintre d’origine russe (روسی نژاد ایک مصور)",,0.0,
+answer,"Un journaliste d’origine russe (روسی نژاد ایک صحافی)",,0.0,
+question,"À partir de quelle date les Romains s’installent-ils dans ce qui est aujourd’hui la France? (رومیوں نے کس تاریخ سے اس علاقے میں بسنا شروع کیا جو آج فرانس کہلاتا ہے؟)",,,lvl3
+answer,"50 av. J.-C. (50 قبل مسیح)",,1.0,
+answer,"500 ap. J.-C. (500 عیسوی)",,0.0,
+answer,"500 av. J.-C. (500 قبل مسیح)",,0.0,
+question,"À partir de quelle décennie Georges Moustaki s’impose-t-il comme un grand nom de la chanson française? ?) (کس دہائی سے جارج موسٹاکی فرانسیسی گلوکاری میں ایک بڑا نام بن کر ابھرے؟)",,,lvl3
+answer,"Années 1960 (1960 کی دہائی)",,1.0,
+answer,"Années 1980 (1980 کی دہائی)",,0.0,
+answer,"Années 1940 (1940 کی دہائی)",,0.0,
+question,"Le Rhône est… (دریاۓ رون ہے...)",,,lvl3
+answer,"Une chaîne de montagnes (ایک پہاڑی سلسلہ)",,0.0,
+answer,"Un fleuve (ایک دریا)",,1.0,
+answer,"Un lac (ایک جھیل)",,0.0,
+question,"La Garonne est… (دریاۓ گارون ہے...)",,,lvl3
+answer,"Un volcan (ایک آتش فشاں)",,0.0,
+answer,"Une montagne (ایک پہاڑ)",,0.0,
+answer,"Un fleuve (ایک دریا)",,1.0,
+question,"Quelle poétesse née en Égypte est aussi une femme de lettres française? (مصر میں پیدا ہونے والی کون سی شاعرہ فرانسیسی ادیبہ بھی ہیں؟)",,,lvl3
+answer,"George Sand (جارج سینڈ)",,0.0,
+answer,"Marguerite Duras (مارگریٹ دوراس)",,0.0,
+answer,"Andrée Chedid (آندرے شدید)",,1.0,
+question,"Quel type d’État se met en place sous Louis XIV? (لوئی XIV کے دور میں کس قسم کی ریاست قائم ہوئی؟)",,,lvl3
+answer,"Un État faible et divisé (ایک کمزور اور منقسم ریاست)",,0.0,
+answer,"Un État puissant et centralisé (ایک طاقتور اور مرکزی ریاست)",,1.0,
+answer,"Un État fédéral (ایک وفاقی ریاست)",,0.0,
+question,"Quelle était l’origine de Haroun Tazieff? (ہارون تازیف کا تعلق کہاں سے تھا؟)",,,lvl3
+answer,"Varsovie (وارسا)",,1.0,
+answer,"Athènes (ایتھنز)",,0.0,
+answer,"Moscou (ماسکو)",,0.0,
+question,"Qui étaient persécutés ou exterminés par les nazis? (نازیوں کے ہاتھوں کن پر ظلم ہوا یا کن کا خاتمہ کیا گیا؟)",,,lvl3
+answer,"Juifs, Tziganes, homosexuels, handicapés et opposants politiques (یہودی، خانہ بدوش، ہم جنس پرست، معذور اور سیاسی مخالفین)",,1.0,
+answer,"Seuls les militaires (صرف فوجی)",,0.0,
+answer,"Nobles et prêtres (امرا اور پادری)",,0.0,
+question,"Quelles sont les trois caractéristiques de l’école instaurée par Jules Ferry? ?) (جولس فیری کے قائم کردہ اسکول کی تین خصوصیات کیا ہیں؟)",,,lvl3
+answer,"Privée, payante et catholique (نجی، با معاوضہ اور کیتھولک)",,0.0,
+answer,"Obligatoire, militaire et religieuse (لازمی، فوجی اور مذہبی)",,0.0,
+answer,"Publique, gratuite et laïque (سرکاری، مفت اور سیکولر/غیر مذہبی)",,1.0,
+question,"Quelle fonction Françoise Giroud a-t-elle exercée dans la vie politique française? ?) (فرانسوا گیروڈ نے فرانسیسی سیاسی زندگی میں کون سا عہدہ سنبھالا؟)",,,lvl3
+answer,"Ministre de la Défense (وزیر دفاع)",,0.0,
+answer,"Deux fois Secrétaire d’État (دو بار ریاستی سکریٹری)",,1.0,
+answer,"Première ministre (وزیر اعظم)",,0.0,
+question,"Quelle discipline Haroun Tazieff a-t-il fait connaître au grand public? (ہارون تازیف نے کس شعبے کو عوام میں متعارف کروایا؟)",,,lvl3
+answer,"L’astronomie (علم فلکیات)",,0.0,
+answer,"La volcanologie (آتش فشانیات)",,1.0,
+answer,"La météorologie (علم موسمیات)",,0.0,
+question,"Combien d’entreprises sont regroupées à Paris La Défense? (پیرس لا ڈیفنس میں کتنی کمپنیاں جمع ہیں؟)",,,lvl3
+answer,"500 (500)",,1.0,
+answer,"5 000 (5000)",,0.0,
+answer,"50 (50)",,0.0,
+question,"Quel roi a lancé la construction du château de Versailles? ?) (قلعہ ورسائی کی تعمیر کس بادشاہ نے شروع کروائی تھی؟)",,,lvl3
+answer,"Napoléon Ier (نیپولین اول)",,0.0,
+answer,"François Ier (فرانسوا اول)",,0.0,
+answer,"Louis XIV (لوئی XIV)",,1.0,
+question,"Quelle physicienne née en Pologne a découvert la radioactivité? (پولینڈ میں پیدا ہونے والی کس ماہر طبیعیات نے ریڈیو ایکٹیویٹی دریافت کی؟)",,,lvl3
+answer,"Rosalind Franklin (روزالینڈ فرینکلن)",,0.0,
+answer,"Irène Joliot-Curie (ارین جولیٹ کیوری)",,0.0,
+answer,"Marie Curie (میری کیوری)",,1.0,
+question,"Qui est Joseph Kessel? ?) (جوزف کیسل کون ہے؟)",,,lvl3
+answer,"Un journaliste d’origine russe (روسی نژاد صحافی)",,0.0,
+answer,"Un chanteur d’origine italo-grecque (اطالوی-یونانی نژاد گلوکار)",,0.0,
+answer,"Un grand reporter et romancier né en Argentine (ارجنٹائن میں پیدا ہونے والے عظیم رپورٹر اور ناول نگار)",,1.0,
+question,"Avec quelle République Léon Gambetta est-il associé? ?) (لیون گیمبیٹا کا تعلق کس جمہوریہ سے ہے؟)",,,lvl3
+answer,"La Ve République (پانچویں جمہوریہ)",,0.0,
+answer,"La IIIᵉ République (تیسری جمہوریہ)",,1.0,
+answer,"La Iʳᵉ République (پہلی جمہوریہ)",,0.0,
+question,"Avec quelle découverte Georges Charpak est-il associé? ?) (جارج چارپک کا نام کس دریافت سے جڑا ہوا ہے؟)",,,lvl3
+answer,"La vaccination (ویکسینیشن)",,0.0,
+answer,"La détection des particules (ذرہ کی کھوج/ڈیٹیکشن)",,1.0,
+answer,"La biologie cellulaire (خلیاتی حیاتیات)",,0.0,
+question,"Quelle est la plus haute montagne d’Europe? (یورپ کا سب سے اونچا پہاڑ کون سا ہے؟)",,,lvl3
+answer,"Le Mont-Blanc (ماؤنٹ بلانک)",,1.0,
+answer,"Le Kilimandjaro (کلیمنجارو)",,0.0,
+answer,"L’Elbrouz (ایلبروس)",,0.0,
+question,"Quel roi de France publie l’édit de Nantes en 1598? ?) (فرانس کے کس بادشاہ نے 1598 میں نانٹ کا فرمان جاری کیا؟)",,,lvl3
+answer,"Henri IV (ہنری IV)",,1.0,
+answer,"François Ier (فرانسوا اول)",,0.0,
+answer,"Louis XIII (لوئی XIII)",,0.0,
+question,"Combien de temps environ Napoléon Ier a-t-il dirigé la France? (نیپولین اول نے تقریباً کتنے عرصے تک فرانس پر حکومت کی؟)",,,lvl3
+answer,"Près de 30 ans (تقریباً 30 سال)",,0.0,
+answer,"Près de 5 ans (تقریباً 5 سال)",,0.0,
+answer,"Près de 15 ans (تقریباً 15 سال)",,1.0,
+question,"Qui est considéré comme le père de la volcanologie contemporaine? (جدید آتش فشانیات کا باپ کسے سمجھا جاتا ہے؟)",,,lvl3
+answer,"Haroun Tazieff (ہارون تازیف)",,1.0,
+answer,"Georges Charpak (جارج چارپک)",,0.0,
+answer,"Joseph Kessel (جوزف کیسل)",,0.0,
+question,"Combien d’agglomérations françaises comptent plus de 500 000 habitants? (فرانس کے کتنے شہری علاقوں کی آبادی 5 لاکھ سے زیادہ ہے؟)",,,lvl3
+answer,"17 (17)",,1.0,
+answer,"27 (27)",,0.0,
+answer,"10 (10)",,0.0,
+question,"Combien de fois Romain Gary a-t-il reçu le prix Goncourt? (رومین گیری نے کتنی بار گونکورٹ انعام حاصل کیا؟)",,,lvl3
+answer,"Une fois (ایک بار)",,0.0,
+answer,"Trois fois (تین بار)",,0.0,
+answer,"Deux fois (دو بار)",,1.0,
+question,"Qui est Vassily Kandinsky? (Vassily Kandinsky) ?) (واسیلی کنڈینسکی کون ہے؟)",,,lvl3
+answer,"Un journaliste d’origine russe (روسی نژاد ایک صحافی)",,0.0,
+answer,"Un écrivain né en Argentine (ارجنٹائن میں پیدا ہونے والا ایک مصنف)",,0.0,
+answer,"Un peintre d’origine russe, fondateur de l’art abstrait (روسی نژاد مصور، تجریدی آرٹ کا بانی)",,1.0,
+question,"Dans quel film a joué Valérie Benguigui? (ویلری بینگوئیگی نے کس فلم میں کام کیا؟)",,,lvl3
+answer,"Le Prénom (لی پرینوم)",,1.0,
+answer,"Les Misérables (لیس میزریبلز)",,0.0,
+answer,"La Grande Vadrouille (لا گرانڈ واڈرول)",,0.0,
+question,"Quelle est la superficie du territoire français (métropole et outre-mer)? ?) (فرانسیسی علاقے (سرزمین اور سمندر پار) کا کل رقبہ کتنا ہے؟)",,,lvl3
+answer,"1 million km² (10 لاکھ مربع کلومیٹر)",,0.0,
+answer,"450 000 km² (4 لاکھ 50 ہزار مربع کلومیٹر)",,0.0,
+answer,"675 000 km² (6 لاکھ 75 ہزار مربع کلومیٹر)",,1.0,
+question,"Quelles guerres ont marqué la décolonisation française? (کن جنگوں نے فرانسیسی نوآبادیاتی خاتمے کی نشاندہی کی؟)",,,lvl3
+answer,"Les guerres d’Indochine et d’Algérie (انڈوچائنا اور الجزائر کی جنگیں)",,1.0,
+answer,"La guerre de Crimée et la guerre de 1870 (جنگ کریمیا اور 1870 کی جنگ)",,0.0,
+answer,"La guerre de Corée et la guerre du Vietnam (کوریا کی جنگ اور ویتنام کی جنگ)",,0.0,
+question,"Combien de grands groupes de plus de 10 000 salariés compte la France? (فرانس میں 10 ہزار سے زائد ملازمین والے کتنے بڑے گروپس ہیں؟)",,,lvl3
+answer,"Plusieurs milliers (کئی ہزار)",,0.0,
+answer,"Une centaine (تقریباً ایک سو)",,1.0,
+answer,"Une dizaine (تقریباً دس)",,0.0,
+question,"En quelles années a eu lieu la décolonisation française? ?) (فرانسیسی نوآبادیات کا خاتمہ کن سالوں میں ہوا؟)",,,lvl3
+answer,"Entre 1914 et 1918 (1914 اور 1918 کے درمیان)",,0.0,
+answer,"Entre 1950 et 1962 (1950 اور 1962 کے درمیان)",,1.0,
+answer,"Entre 1981 et 1995 (1981 اور 1995 کے درمیان)",,0.0,
+question,"Qui est considéré comme le plus célèbre auteur de théâtre français du 17e siècle? (17ویں صدی کا سب سے مشہور فرانسیسی تھیٹر مصنف کسے مانا جاتا ہے؟)",,,lvl3
+answer,"Molière (مولیئر)",,1.0,
+answer,"Corneille (کارنیل)",,0.0,
+answer,"Victor Hugo (وکٹر ہیوگو)",,0.0,
+question,"Combien de morts la Première Guerre mondiale a-t-elle faits environ? (پہلی جنگ عظیم میں تقریباً کتنی ہلاکتیں ہوئی تھیں؟)",,,lvl3
+answer,"Moins d’un million (10 لاکھ سے کم)",,0.0,
+answer,"Plus de 9 millions (90 لاکھ سے زیادہ)",,1.0,
+answer,"Plus de 50 millions (5 کروڑ سے زیادہ)",,0.0,
+question,"Comment est qualifiée la monarchie sous Louis XIV? (لوئی XIV کے دور میں بادشاہت کو کیا قرار دیا جاتا ہے؟)",,,lvl3
+answer,"Une monarchie élective (انتخابی بادشاہت)",,0.0,
+answer,"Une monarchie absolue (مطلق العنان بادشاہت)",,1.0,
+answer,"Une monarchie parlementaire (پارلیمانی بادشاہت)",,0.0,
+question,"En quelle année l’âge de la majorité a-t-il été fixé à 18 ans? (بلوغت کی عمر 18 سال کس سال مقرر کی گئی تھی؟)",,,lvl3
+answer,"En 1981 (1981 میں)",,0.0,
+answer,"En 1957 (1957 میں)",,0.0,
+answer,"En 1974 (1974 میں)",,1.0,
+question,"Quelle artiste d’origine américaine fut danseuse, chanteuse et résistante en France pendant la Seconde Guerre mondiale? ?) (امریکی نژاد کون سی فنکارہ دوسری جنگ عظیم کے دوران فرانس میں ڈانسر، گلوکارہ اور مزاحمتی کارکن تھی؟)",,,lvl3
+answer,"Joséphine Baker (جوزفین بیکر)",,1.0,
+answer,"Nina Simone (نینا سیمون)",,0.0,
+answer,"Aretha Franklin (ارتھا فرینکلن)",,0.0,
+question,"Quelle école artistique Vassily Kandinsky contribue-t-il à fonder? (واسیلی کنڈینسکی نے کس آرٹ اسکول کے قیام میں حصہ لیا؟)",,,lvl3
+answer,"L’art abstrait (تجریدی آرٹ)",,1.0,
+answer,"L’impressionnisme (تاثریت پسندی)",,0.0,
+answer,"Le cubisme (کیوبزم)",,0.0,
+question,"Quelle République est proclamée en 1792? (1792 میں کس جمہوریہ کا اعلان کیا گیا تھا؟)",,,lvl3
+answer,"La Première République (پہلی جمہوریہ)",,1.0,
+answer,"La Deuxième République (دوسری جمہوریہ)",,0.0,
+answer,"La Cinquième République (پانچویں جمہوریہ)",,0.0,
+question,"Au temps de quel roi Molière a-t-il vécu? ?) (مولیئر کس بادشاہ کے زمانے میں رہا؟)",,,lvl3
+answer,"Louis XIV (لوئی XIV)",,1.0,
+answer,"Louis XVI (لوئی XVI)",,0.0,
+answer,"Napoléon Ier (نیپولین اول)",,0.0,
+question,"Dans quelles régions du monde la France a-t-elle constitué un empire colonial au 19ᵉ siècle? (19ویں صدی میں فرانس نے دنیا کے کن خطوں میں اپنی نوآبادیاتی سلطنت قائم کی؟)",,,lvl3
+answer,"En Océanie et en Amérique du Nord (براعظم اوقیانوسیہ اور شمالی امریکہ میں)",,0.0,
+answer,"En Scandinavie et au Moyen-Orient (اسکینڈینیویا اور مشرق وسطیٰ میں)",,0.0,
+answer,"Aux Antilles, en Afrique et en Asie (اینٹیلز، افریقہ اور ایشیا میں)",,1.0,
+question,"Qu’adoptent les populations locales après l’installation des Romains? (رومیوں کی آمد کے بعد مقامی آبادی نے کیا اپنایا؟)",,,lvl3
+answer,"Leur mode de vie et la culture latine (ان کا طرز زندگی اور لاطینی ثقافت)",,1.0,
+answer,"Leur organisation viking (ان کی وائکنگ تنظیم)",,0.0,
+answer,"Leur langue grecque (ان کی یونانی زبان)",,0.0,
+question,"Quel pays Adolf Hitler a-t-il envahi notamment? (ایڈولف ہٹلر نے خاص طور پر کس ملک پر حملہ کیا؟)",,,lvl3
+answer,"La France (فرانس)",,1.0,
+answer,"Les États-Unis (ریاستہائے متحدہ امریکہ)",,0.0,
+answer,"Le Royaume-Uni (برطانیہ)",,0.0,
+question,"Qu’est-ce qui s’élève sur le Mont-Saint-Michel? ?) (مونٹ سینٹ مشیل پر کیا واقع ہے؟)",,,lvl3
+answer,"Une abbaye (ایک خانقاہ)",,1.0,
+answer,"Un palais royal (ایک شاہی محل)",,0.0,
+answer,"Un château fort (ایک قلعہ)",,0.0,
+question,"Où la décolonisation française s’est-elle poursuivie après l’Asie? (ایشیا کے بعد فرانسیسی نوآبادیاتی خاتمہ کہاں جاری رہا؟)",,,lvl3
+answer,"En Afrique (براعظم افریقہ میں)",,1.0,
+answer,"En Amérique du Sud (جنوبی امریکہ میں)",,0.0,
+answer,"En Océanie (براعظم اوقیانوسیہ میں)",,0.0,
+question,"Quelle importance a l’action de Clovis dans l’histoire de France? (فرانس کی تاریخ میں کلووس کے اقدامات کی کیا اہمیت ہے؟)",,,lvl3
+answer,"Elle divise définitivement le territoire (اس نے علاقے کو مستقل طور پر تقسیم کر دیا)",,0.0,
+answer,"Elle constitue une étape vers l’unité du territoire français (یہ فرانسیسی علاقے کے اتحاد کی طرف ایک قدم ہے)",,1.0,
+answer,"Elle entraîne la disparition de la royauté (یہ شاہی نظام کے خاتمے کا سبب بنی)",,0.0,
+question,"Quelle expression décrit Joséphine Baker? (جوزفین بیکر کی وضاحت کے لیے کون سی اصطلاح استعمال ہوتی ہے؟)",,,lvl3
+answer,"Poétesse symboliste (علامت نگار شاعرہ)",,0.0,
+answer,"Actrice comique (کامیڈی اداکارہ)",,0.0,
+answer,"Meneuse de revue noire (سیاہ فام میوزیکل شو کی اسٹار/لیڈر)",,1.0,
+question,"Quels philosophes du 18e siècle ont combattu pour la tolérance et la liberté de pensée? (18ویں صدی کے کن فلسفیوں نے رواداری اور فکر کی آزادی کے لیے جدوجہد کی؟)",,,lvl3
+answer,"Rousseau, Voltaire, Diderot (روسو، وولٹیئر، ڈیڈروٹ)",,1.0,
+answer,"Montesquieu, Balzac, Hugo (مونٹیسکو، بالزاک، ہیوگو)",,0.0,
+answer,"Pasteur, Descartes, Zola (پاسچر، ڈیکارٹ، زولا)",,0.0,
+question,"Quelle chanteuse d’origine égyptienne a connu de grands succès populaires comme «Bambino» ou «Laissez-moi danser»? (مصری نژاد کون سی گلوکارہ ""بیمبینو"" یا ""لیسیز موئی ڈانسیر"" جیسے عظیم عوامی گانوں کے لیے مشہور ہوئیں؟)",,,lvl3
+answer,"Barbara (باربرا)",,0.0,
+answer,"Dalida (دالیدہ)",,1.0,
+answer,"Edith Piaf (ایڈتھ پیاف)",,0.0,
+question,"Quel est le premier quartier d’affaires d’Europe? (یورپ کا سب سے بڑا تجارتی ضلع کون سا ہے؟)",,,lvl3
+answer,"La City de Londres (لندن کی سٹی)",,0.0,
+answer,"Paris La Défense (پیرس لا ڈیفنس)",,1.0,
+answer,"Francfort (فرینکفرٹ)",,0.0,
+question,"À quel siècle a vécu Diderot? ?) (ڈیڈروٹ کس صدی میں رہا؟)",,,lvl3
+answer,"Au 19ᵉ siècle (19ویں صدی میں)",,0.0,
+answer,"Au 15ᵉ siècle (15ویں صدی میں)",,0.0,
+answer,"Au 18ᵉ siècle (18ویں صدی میں)",,1.0,
+question,"Dans quels domaines de transport la France est-elle un leader mondial? (نقل و حمل کے کن شعبوں میں فرانس عالمی لیڈر ہے؟)",,,lvl3
+answer,"Transport maritime et ferroviaire (سمندری اور ریل نقل و حمل)",,1.0,
+answer,"Transport spatial et fluvial (خلائی اور دریا نقل و حمل)",,0.0,
+answer,"Transport routier et aérien (سڑک اور ہوائی نقل و حمل)",,0.0,
+question,"À quel siècle a vécu Voltaire? ?) (وولٹیئر کس صدی میں رہا؟)",,,lvl3
+answer,"Au 18ᵉ siècle (18ویں صدی میں)",,1.0,
+answer,"Au 16ᵉ siècle (16ویں صدی میں)",,0.0,
+answer,"Au 20ᵉ siècle (20ویں صدی میں)",,0.0,
+question,"À quel siècle a vécu Rousseau? ?) (روسو کس صدی میں رہا؟)",,,lvl3
+answer,"Au 18ᵉ siècle (18ویں صدی میں)",,1.0,
+answer,"Au 17ᵉ siècle (17ویں صدی میں)",,0.0,
+answer,"Au 19ᵉ siècle (19ویں صدی میں)",,0.0,
+question,"Combien de pays participaient à la CEE à sa création? ?) (اپنی تشکیل کے وقت یورپی اقتصادی برادری (CEE) میں کتنے ممالک شامل تھے؟)",,,lvl3
+answer,"Six, dont la France (چھ، بشمول فرانس)",,1.0,
+answer,"Douze (بارہ)",,0.0,
+answer,"Vingt-sept (ستائیس)",,0.0,

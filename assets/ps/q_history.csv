@@ -1,0 +1,893 @@
+type,text,placeholder,is_correct,level
+question,En quelle année a débuté la Révolution française ? [د فرانسې انقلاب په کوم کال پیل شو؟],,,lvl1
+answer,1815 [۱۸۱۵],,0.0,
+answer,1789 [۱۷۸۹],,1.0,
+answer,1944 [۱۹۴۴],,0.0,
+question,Qui était Napoléon Ier ? [ناپلیون لومړی څوک و؟],,,lvl1
+answer,Un roi de France [د فرانسې یو پاچا],,0.0,
+answer,L'Empereur des Français [د فرانسویانو امپراتور],,1.0,
+answer,Un philosophe du 18e siècle [د ۱۸مې پېړۍ یو فیلسوف],,0.0,
+question,Lequel de ces personnages historiques est français ? [له دې تاریخي شخصیتونو څخه کوم یو فرانسوی دی؟],,,lvl1
+answer,Albert Einstein [البرټ آینشټاین],,0.0,
+answer,Marie Curie [ماري کوري],,1.0,
+answer,Isaac Newton [اسحاق نیوټن],,0.0,
+question,Dans quelle République est-on aujourd'hui ? [موږ نن په کوم جمهوریت کې یو؟],,,lvl1
+answer,La Troisième République [دریم جمهوریت],,0.0,
+answer,La Cinquième République [پنځم جمهوریت],,1.0,
+answer,La Sixième République [شپږم جمهوریت],,0.0,
+question,Qu'est-ce que la Shoah ? ?) [شواه (هولوکاسټ) څه شی دی؟],,,lvl1
+answer,La guerre entre la France et l'Allemagne [د فرانسې او جرمني ترمنځ جګړه],,0.0,
+answer,Le génocide des Juifs pendant la Seconde Guerre mondiale. [د دویمې نړیوالې جګړې پرمهال د یهودانو نسل وژنه.],,1.0,
+answer,La période de la colonisation française [د فرانسې د استعمار دوره],,0.0,
+question,Quel pays ou région du monde a été colonisé par la France ? [د نړۍ کوم هیواد یا سیمه د فرانسې لخوا استعمار شوې وه؟],,,lvl1
+answer,Le Japon [جاپان],,0.0,
+answer,L'Algérie [الجزایر],,1.0,
+answer,La Chine [چین],,0.0,
+question,"Qui a rendu l’école gratuite, laïque et obligatoire ? [چا ښوونځی وړیا، بې طرفه (لاییک) او لازمي کړ؟]",,,lvl1
+answer,Napoléon III [دریم ناپلیون],,0.0,
+answer,Jules Ferry [ژول فیری],,1.0,
+answer,Le Général de Gaulle [جنرال دي ګول],,0.0,
+question,Quand a eu lieu la Seconde Guerre mondiale ? [دویمه نړیواله جګړه کله وشوه؟],,,lvl1
+answer,De 1914 à 1918 [له ۱۹۱۴ څخه تر ۱۹۱۸ پورې],,0.0,
+answer,De 1930 à 1935 [له ۱۹۳۰ څخه تر ۱۹۳۵ پورې],,0.0,
+answer,De 1939 à 1945 [له ۱۹۳۹ څخه تر ۱۹۴۵ پورې],,1.0,
+question,Quand a eu lieu la Première Guerre mondiale ? [لومړۍ نړیواله جګړه کله وشوه؟],,,lvl1
+answer,De 1870 à 1871 [له ۱۸۷۰ څخه تر ۱۸۷۱ پورې],,0.0,
+answer,De 1914 à 1918 [له ۱۹۱۴ څخه تر ۱۹۱۸ پورې],,1.0,
+answer,De 1940 à 1945 [له ۱۹۴۰ څخه تر ۱۹۴۵ پورې],,0.0,
+question,En quelle année a été créée la Communauté Économique Européenne (CEE) ? ?) [د اروپا اقتصادي ټولنه (CEE) په کوم کال جوړه شوه؟],,,lvl1
+answer,1945 [۱۹۴۵],,0.0,
+answer,1957 [۱۹۵۷],,1.0,
+answer,1992 [۱۹۹۲],,0.0,
+question,Le 11 novembre est un jour férié. À quoi correspond cette date ? [د نومبر ۱۱مه رخصتي ده. دا نیټه د څه شی سره سمون لري؟],,,lvl1
+answer,La Fête de la Victoire de 1945. [د ۱۹۴۵ د بریا ورځ.],,0.0,
+answer,L'Armistice de 1918 (fin de la Première Guerre mondiale).।) [د ۱۹۱۸ اوربند (د لومړۍ نړیوالې جګړې پای).],,1.0,
+answer,La Fête Nationale. [ملي ورځ.],,0.0,
+question,Qui a été le premier Président élu sous la Ve République ? [د پنځم جمهوریت لاندې لومړنی ټاکل شوی ولسمشر څوک و؟],,,lvl1
+answer,François Mitterrand [فرانسوا میتران],,0.0,
+answer,Charles de Gaulle [چارلس دي ګول],,1.0,
+answer,Georges Pompidou [ژرژ پومپیدو],,0.0,
+question,En quelle année l'esclavage a-t-il été aboli définitivement en France ? [په فرانسه کې غلامي په کوم کال کې په بشپړه توګه لغوه شوه؟],,,lvl1
+answer,1789 [۱۷۸۹],,0.0,
+answer,1905 [۱۹۰۵],,0.0,
+answer,1848 [۱۸۴۸],,1.0,
+question,Depuis quelle année l'école publique est-elle gratuite ? [له کوم کال راهیسې دولتي ښوونځي وړیا دي؟],,,lvl1
+answer,1804 [۱۸۰۴],,0.0,
+answer,1881 [۱۸۸۱],,1.0,
+answer,1958 [۱۹۵۸],,0.0,
+question,Combien y a-t-il eu de républiques en France ? [په فرانسه کې څو جمهوریتونه تیر شوي دي؟],,,lvl1
+answer,Trois [درې],,0.0,
+answer,Quatre [څلور],,0.0,
+answer,Cinq [پنځه],,1.0,
+question,Qui était le roi de France au moment de la Révolution française ? [د فرانسې د انقلاب پرمهال د فرانسې پاچا څوک و؟],,,lvl1
+answer,Henri IV [څلورم هنري],,0.0,
+answer,Louis XVI [شپاړسم لویس],,1.0,
+answer,Louis XIV [څوارلسم لویس],,0.0,
+question,Qui a fondé la Ve République ? [پنځم جمهوریت چا تاسیس کړ؟],,,lvl1
+answer,François Mitterrand [فرانسوا میتران],,0.0,
+answer,Le Général de Gaulle [جنرال دي ګول],,1.0,
+answer,Georges Clemenceau [ژرژ کلمانسو],,0.0,
+question,Que célèbre-t-on le 14 juillet ? [د جولای په ۱۴مه څه لمانځل کیږي؟],,,lvl1
+answer,La prise de la Bastille (et la Fête de la Fédération).।) [د باسټیل نیول (او د فدراسیون ورځ).],,1.0,
+answer,La fin de la Seconde Guerre mondiale [د دویمې نړیوالې جګړې پای],,0.0,
+answer,L'abolition de l'esclavage [د غلامۍ له منځه وړل],,0.0,
+question,Quelle guerre a eu lieu entre 1914 et 1918 ? [د ۱۹۱۴ او ۱۹۱۸ ترمنځ کومه جګړه وشوه؟],,,lvl1
+answer,La guerre franco-prussienne [د فرانسې او پروس جګړه],,0.0,
+answer,La Seconde Guerre mondiale [دویمه نړیواله جګړه],,0.0,
+answer,La Première Guerre mondiale [لومړۍ نړیواله جګړه],,1.0,
+question,Pourquoi l’année 1958 est importante pour la France ? [ولې ۱۹۵۸ کال د فرانسې لپاره مهم دی؟],,,lvl1
+answer,Fin de la Seconde Guerre mondiale [د دویمې نړیوالې جګړې پای],,0.0,
+answer,Adoption de la Constitution de la Ve République [د پنځم جمهوریت د اساسي قانون تصویب],,1.0,
+answer,Vote de la loi de séparation des Églises et de l'État [د کلیسا او دولت د جلا کولو قانون تصویب],,0.0,
+question,Quel fleuve coule en France ? [په فرانسه کې کوم سیند بهیږي؟],,,lvl1
+answer,Le Danube [دانیوب],,0.0,
+answer,La Seine [سین],,1.0,
+answer,Le Rhin [راین],,0.0,
+question,Quelle ville est française ? [کوم ښار فرانسوی دی؟],,,lvl1
+answer,Genève [جینوا],,0.0,
+answer,Lyon [لیون],,1.0,
+answer,Barcelone [بارسلونا],,0.0,
+question,Quel océan borde la côte ouest française ? [د فرانسې په لویدیځ ساحل کې کوم سمندر دی؟],,,lvl1
+answer,L'océan Indien [د هند سمندر],,0.0,
+answer,L'océan Atlantique [اتلانتیک سمندر],,1.0,
+answer,L'océan Pacifique [ارام سمندر],,0.0,
+question,Qu'est-ce que Paris ? [پاریس څه شی دی؟],,,lvl1
+answer,Un département d'outre-mer [د بهرنیو چارو څانګه],,0.0,
+answer,Une région [یوه سیمه],,0.0,
+answer,La capitale de la France [د فرانسې پلازمینه],,1.0,
+question,Quelle est la capitale de la France ? [د فرانسې پلازمینه کومه ده؟],,,lvl1
+answer,Marseille [مارسیل],,0.0,
+answer,Paris [پاریس],,1.0,
+answer,Bordeaux [بوردو],,0.0,
+question,Sur quel continent se situe la France métropolitaine ? [د فرانسې اصلي خاوره په کومه وچه کې موقعیت لري؟],,,lvl1
+answer,L'Afrique [افریقا],,0.0,
+answer,L'Europe [اروپا],,1.0,
+answer,L'Asie [آسیا],,0.0,
+question,Quelle île est un département d'outre-mer français ??) [کومه ټاپو د فرانسې د بهرنیو چارو یوه څانګه ده؟],,,lvl1
+answer,La Sicile [سیسیل],,0.0,
+answer,La Martinique [مارتینیک],,1.0,
+answer,La Corse [کورس],,0.0,
+question,Combien y a-t-il de régions en France métropolitaine ? ?) [په فرانسه کې څو سیمې دي؟],,,lvl1
+answer,5 [۵],,0.0,
+answer,13 [۱۳],,1.0,
+answer,22 [۲۲],,0.0,
+question,Quelle ville est un grand port maritime ? [کوم ښار یو لوی سمندري بندر دی؟],,,lvl1
+answer,Strasbourg [سټراسبورګ],,0.0,
+answer,Marseille [مارسیل],,1.0,
+answer,Dijon [دیجون],,0.0,
+question,Quelle est la mer au sud de la France métropolitaine ? [د فرانسې په سویل کې کوم سمندر دی؟],,,lvl1
+answer,La Manche [د انګلستان کانال],,0.0,
+answer,La mer du Nord [د شمال سمندر],,0.0,
+answer,La mer Méditerranée [د مدیترانې سمندر],,1.0,
+question,Quelle ville est située au bord de la mer Méditerranée ? [کوم ښار د مدیترانې سمندر په غاړه موقعیت لري؟],,,lvl1
+answer,Nantes [نانټس],,0.0,
+answer,Nice [نیس],,1.0,
+answer,Lille [لیل],,0.0,
+question,Où se situe la Corse ? [کورس چیرته موقعیت لري؟],,,lvl1
+answer,Dans l'océan Atlantique [په اتلانتیک سمندر کې],,0.0,
+answer,Dans la mer du Nord [په شمال سمندر کې],,0.0,
+answer,Dans la mer Méditerranée [په مدیترانې سمندر کې],,1.0,
+question,Quelle chaîne de montagnes est située entre la France et l'Italie ? [د فرانسې او ایټالیا ترمنځ د غرونو کومه لړۍ ده؟],,,lvl1
+answer,Les Pyrénées [پیریني],,0.0,
+answer,Les Alpes [الپ],,1.0,
+answer,Les Vosges [ووز],,0.0,
+question,Qui était Molière ? [مولیر څوک و؟],,,lvl1
+answer,Un peintre [یو انځورګر],,0.0,
+answer,Un dramaturge (auteur de théâtre) du 17e siècle.।) [د ۱۷مې پېړۍ یو ډرامه لیکونکی.],,1.0,
+answer,Un général de l'armée [د پوځ یو جنرال],,0.0,
+question,Qui était Charles Baudelaire ? [چارلس بودلیر څوک و؟],,,lvl1
+answer,Un chef d'orchestre [یو ارکسترا مشر],,0.0,
+answer,Un poète français du 19e siècle (auteur des Fleurs du Mal).।) [د ۱۹مې پېړۍ یو فرانسوی شاعر.],,1.0,
+answer,Un architecte [یو معمار],,0.0,
+question,Qui était George Sand ? [جورج سانډ څوک و؟],,,lvl1
+answer,Une mathématicienne [یوه ریاضي پوه],,0.0,
+answer,Une écrivaine romantique française du 19e siècle. [د ۱۹مې پېړۍ یوه فرانسوۍ رومانتيک لیکواله.],,1.0,
+answer,Une chanteuse d'opéra [یوه اوپرا سندرغاړې],,0.0,
+question,Qui était Simone de Beauvoir ? [سیمون دي بووار څوک وه؟],,,lvl1
+answer,Une actrice célèbre [یوه مشهوره اداکاره],,0.0,
+answer,Une écrivaine et philosophe du 20e siècle (figure majeure du féminisme).।) [د ۲۰مې پېړۍ یوه لیکواله او فیلسوفه.],,1.0,
+answer,Une reine de France [د فرانسې یوه ملکه],,0.0,
+question,Qui était Albert Camus ? [البرټ کامو څوک و؟],,,lvl1
+answer,Un explorateur [یو لوڅاوونکی],,0.0,
+answer,Un sculpteur [یو مجسمه جوړونکی],,0.0,
+answer,Un écrivain et philosophe français (prix Nobel de littérature).।) [یو فرانسوی لیکوال او فیلسوف.],,1.0,
+question,Qui était Paul Cézanne ? [پاول سیزان څوک و؟],,,lvl1
+answer,Un inventeur [یو مخترع],,0.0,
+answer,Un peintre post-impressionniste français. [یو فرانسوی انځورګر.],,1.0,
+answer,Un homme politique [یو سیاستوال],,0.0,
+question,Qui était Marc Chagall ? [مارک شګال څوک و؟],,,lvl1
+answer,Un mathématicien [یو ریاضي پوه],,0.0,
+answer,Un peintre et graveur français d'origine biélorusse. [یو فرانسوی انځورګر.],,1.0,
+answer,Un compositeur de musique [یو موسیقي جوړونکی],,0.0,
+question,Qui était Joséphine Baker ? [جوزفین بیکر څوک وه؟],,,lvl1
+answer,Une mathématicienne [یوه ریاضي پوه],,0.0,
+answer,Une artiste de music-hall et résistante française (panthéonisée).।) [یوه فرانسوۍ هنرمنده او د مقاومت غړې.],,1.0,
+answer,Une femme politique [یوه ښځینه سیاستواله],,0.0,
+question,Qui était une chanteuse française célèbre ? [کومه یوه مشهوره فرانسوۍ سندرغاړې وه؟],,,lvl1
+answer,Marie Curie [ماري کوري],,0.0,
+answer,Édith Piaf [ایډیت پیاف],,1.0,
+answer,George Sand [جورج سانډ],,0.0,
+question,Qu'est-ce que le Louvre ? [لوور څه شی دی؟],,,lvl1
+answer,Le siège de l'Assemblée Nationale [د ملي شورا مرکزي دفتر],,0.0,
+answer,Le plus grand musée du monde (situé à Paris).।) [د نړۍ ترټولو لوی موزیم (چې په پاریس کې دی).],,1.0,
+answer,Un grand magasin [یو لوی پلورنځی],,0.0,
+question,Qui était Jean de la Fontaine ? [ژان دي لا فونتین څوک و؟],,,lvl1
+answer,Un peintre [یو انځورګر],,0.0,
+answer,"Un poète français, célèbre pour ses fables. ।) [یو فرانسوی شاعر، چې د خپلو کیسو لپاره مشهور دی.]",,1.0,
+answer,Un explorateur [یو لوڅاوونکی],,0.0,
+question,Quel écrivain est français ? [کوم لیکوال فرانسوی دی؟],,,lvl1
+answer,William Shakespeare [ویلیم شکسپیر],,0.0,
+answer,Victor Hugo [ویکتور هوګو],,1.0,
+answer,Jane Austen [جین اسټن],,0.0,
+question,Dans quelle ville se trouve la tour Eiffel ? [د ایفل برج په کوم ښار کې دی؟],,,lvl1
+answer,Lyon [لیون],,0.0,
+answer,Paris [پاریس],,1.0,
+answer,Marseille [مارسیل],,0.0,
+question,Quand célèbre-t-on Noël ? ?) [کرسمس کله لمانځل کیږي؟],,,lvl2
+answer,Le 1er janvier [د جنوري لومړۍ],,0.0,
+answer,Le 14 juillet [د جولای ۱۴مه],,0.0,
+answer,Le 25 décembre [د دسمبر ۲۵مه],,1.0,
+question,Quel était le surnom de Louis XIV ? [د څوارلسم لویس مستعار نوم څه و؟],,,lvl2
+answer,Le Bon Roi [ښه پاچا],,0.0,
+answer,Le Roi Soleil [لمر پاچا],,1.0,
+answer,Le Petit Roi [کوچنی پاچا],,0.0,
+question,Quel roi de France a été exécuté pendant la Révolution française ? [د فرانسې کوم پاچا د انقلاب پر مهال اعدام شو؟],,,lvl2
+answer,Louis XV [پنځلسم لویس],,0.0,
+answer,Louis XVI [شپاړسم لویس],,1.0,
+answer,Henri IV [څلورم هنري],,0.0,
+question,En quelle année Napoléon Ier est-il devenu empereur ? [ناپلیون لومړی په کوم کال کې امپراتور شو؟],,,lvl2
+answer,1789 [۱۷۸۹],,0.0,
+answer,1800 [۱۸۰۰],,0.0,
+answer,1804 [۱۸۰۴],,1.0,
+question,Lequel de ces personnages a un lien avec la République française ? [له دې شخصیتونو څخه کوم یو د فرانسې له جمهوریت سره تړاو لري؟],,,lvl2
+answer,La Reine Victoria [ملکه ویکتوریا],,0.0,
+answer,Le Tsar Nicolas II [تزار نیکولاس دویم],,0.0,
+answer,Georges Clemenceau [ژرژ کلمانسو],,1.0,
+question,De quand date l'appel à la résistance du général de Gaulle ? [د جنرال دي ګول د مقاومت غوښتنه د کومې نیټې ده؟],,,lvl2
+answer,Le 6 juin 1944 [د ۱۹۴۴ د جون ۶مه],,0.0,
+answer,Le 18 juin 1940 [د ۱۹۴۰ د جون ۱۸مه],,1.0,
+answer,Le 11 novembre 1918 [د ۱۹۱۸ د نومبر ۱۱مه],,0.0,
+question,Pourquoi la Shoah est-elle étudiée à l'école ? ?) [ولې هولوکاسټ په ښوونځي کې لوستل کیږي؟],,,lvl2
+answer,Pour réviser l'Histoire ancienne. [د لرغوني تاریخ د بیا کتنې لپاره.],,0.0,
+answer,Pour transmettre le souvenir du génocide des Juifs et lutter contre le racisme. [د یهودانو د نسل وژنې یاد ساتلو او د نژادپالنې پروړاندې مبارزې لپاره.],,1.0,
+answer,Pour glorifier les héros de guerre. [د جګړې د اتلانو د ستاینې لپاره.],,0.0,
+question,Quel pays a été colonisé par la France ? [کوم هیواد د فرانسې لخوا استعمار شوی و؟],,,lvl2
+answer,Le Brésil [برازیل],,0.0,
+answer,Le Sénégal [سینیګال],,1.0,
+answer,L'Australie [آسټرالیا],,0.0,
+question,Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ? [له کوم وخت راهیسې فرانسویان خپل ولسمشر په مستقیمه عمومي رایه ټاکي؟],,,lvl2
+answer,1945 [۱۹۴۵],,0.0,
+answer,1962 [۱۹۶۲],,1.0,
+answer,1981 [۱۹۸۱],,0.0,
+question,Quelle est la première étape de la construction européenne en 1951 ? [په ۱۹۵۱ کې د اروپا د جوړولو لومړی ګام څه و؟],,,lvl2
+answer,La création de l'Euro. [د یورو رامنځته کول.],,0.0,
+answer,La création de la Communauté européenne du charbon et de l'acier (CECA). ।) [د ډبرو سکرو او فولادو د اروپایی ټولنې (CECA) جوړول.],,1.0,
+answer,La fin de la Seconde Guerre mondiale. [د دویمې نړیوالې جګړې پای.],,0.0,
+question,Durant le mandat de quel président la peine de mort a-t-elle été abolie ? [د کوم ولسمشر په دوره کې د اعدام سزا لغوه شوه؟],,,lvl2
+answer,Charles de Gaulle [چارلس دي ګول],,0.0,
+answer,Valéry Giscard d'Estaing [والیري ژیسکار دستان],,0.0,
+answer,François Mitterrand [فرانسوا میتران],,1.0,
+question,Quel régime politique a été mis en place pendant la Révolution française en 1792 ? [په ۱۷۹۲ کې د فرانسې د انقلاب پرمهال کوم سیاسي نظام رامنځته شو؟],,,lvl2
+answer,L'Empire [امپراتوري],,0.0,
+answer,La Première République [لومړی جمهوریت],,1.0,
+answer,La monarchie constitutionnelle [اساسي قانوني پاچاهي],,0.0,
+question,Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ? [د دویمې نړیوالې جګړې پرمهال د فرانسوي مقاومت یوه څېره څوک وه؟],,,lvl2
+answer,Napoléon Ier [ناپلیون لومړی],,0.0,
+answer,Jean Moulin [ژان مولین],,1.0,
+answer,Victor Hugo [ویکتور هوګو],,0.0,
+question,"En 1944, qu'est-ce qui a changé pour les femmes ? [په ۱۹۴۴ کې د ښځو لپاره څه بدل شول؟]",,,lvl2
+answer,Elles ont eu le droit de travailler. [هغوی د کار کولو حق ترلاسه کړ.],,0.0,
+answer,Elles ont obtenu le droit de vote. [هغوی د رایې ورکولو حق ترلاسه کړ.],,1.0,
+answer,Elles sont devenues éligibles au Sénat. [هغوی د سنا لپاره وړ شوې.],,0.0,
+question,Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ? [په ۱۹۴۵ کې د دویمې نړیوالې جګړې وروسته کوم نړیوال سازمان جوړ شو؟],,,lvl2
+answer,L'Union Européenne [اروپایي ټولنه],,0.0,
+answer,L'Organisation des Nations unies (ONU)) [ملګري ملتونه],,1.0,
+answer,L'OTAN (NATO) [ناټو],,0.0,
+question,Quelle peine a été supprimée en 1981 ? [په ۱۹۸۱ کې کومه سزا له منځه یوړل شوه؟],,,lvl2
+answer,L'emprisonnement à vie [عمري بند],,0.0,
+answer,La peine de mort [د اعدام سزا],,1.0,
+answer,L'amende pour stationnement [د پارکینګ جریمه],,0.0,
+question,En quelle année l'euro est-elle devenue la monnaie utilisée en France ? [په کوم کال کې یورو په فرانسه کې کارول کیدونکې پیسې شوې؟],,,lvl2
+answer,1999 [۱۹۹۹],,0.0,
+answer,2002 [۲۰۰۲],,1.0,
+answer,2007 [۲۰۰۷],,0.0,
+question,En quelle année a commencé la Première Guerre mondiale ? [لومړۍ نړیواله جګړه په کوم کال پیل شوه؟],,,lvl2
+answer,1939 [۱۹۳۹],,0.0,
+answer,1914 [۱۹۱۴],,1.0,
+answer,1940 [۱۹۴۰],,0.0,
+question,Où a eu lieu le débarquement en 1944 ? ?) [په ۱۹۴۴ کې د ځواکونو ښکته کیدل چیرته وشول؟],,,lvl2
+answer,Sur les côtes de la Méditerranée [د مدیترانې په ساحلونو کې],,0.0,
+answer,En Normandie [په نورمانډي کې],,1.0,
+answer,Dans le Nord de la France [د فرانسې په شمال کې],,0.0,
+question,Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ? [د دویمې نړیوالې جګړې وروسته د فرانسې له استعمار څخه خلاصون کې کومه وچه تر ټولو ډیره اغیزمنه وه؟],,,lvl2
+answer,L'Amérique [امریکا],,0.0,
+answer,L'Afrique [افریقا],,1.0,
+answer,L'Océanie [اوشیانا],,0.0,
+question,Que fête-t-on le 8 mai ? [د مې په ۸مه څه لمانځل کیږي؟],,,lvl2
+answer,La prise de la Bastille [د باسټیل نیول],,0.0,
+answer,La Victoire des Alliés sur l'Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe).।) [په ۱۹۴۵ کې په نازي جرمني د متحدینو بریا.],,1.0,
+answer,La Fête du Travail [د کار ورځ],,0.0,
+question,Quelle mer ou océan borde la France métropolitaine ? [کوم سمندر د فرانسې له اصلي خاورې سره پوله لري؟],,,lvl2
+answer,La mer Noire [تور سمندر],,0.0,
+answer,La mer Méditerranée [مدیترانې سمندر],,1.0,
+answer,La mer Baltique [بالتیک سمندر],,0.0,
+question,Quel pays a une frontière terrestre avec la France métropolitaine ? [کوم هیواد د فرانسې له اصلي خاورې سره ځمکنۍ پوله لري؟],,,lvl2
+answer,Le Royaume-Uni [انګلستان],,0.0,
+answer,L'Espagne [اسپانیا],,1.0,
+answer,La Norvège [ناروې],,0.0,
+question,Quelle ville française est un port maritime ? [د فرانسې کوم ښار سمندري بندر دی؟],,,lvl2
+answer,Toulouse [تولوز],,0.0,
+answer,Bordeaux [بوردو],,1.0,
+answer,Clermont-Ferrand [کلیرمون فیران],,0.0,
+question,Quelle mer se situe entre la France et l'Angleterre ? [د فرانسې او انګلستان ترمنځ کوم سمندر دی؟],,,lvl2
+answer,La mer Baltique [بالتیک سمندر],,0.0,
+answer,La Manche [د انګلستان کانال],,1.0,
+answer,La mer Noire [تور سمندر],,0.0,
+question,Qu'est-ce que la France d'outre-mer ? ?) [د فرانسې بهرنۍ سیمې څه شی دي؟],,,lvl2
+answer,Les pays qui ont été colonisés par la France. [هغه هیوادونه چې د فرانسې لخوا استعمار شوي وو.],,0.0,
+answer,Les territoires français situés en dehors du continent européen. [د فرانسې هغه سیمې چې له اروپا وچې بهر دي.],,1.0,
+answer,Les pays membres de l'Union européenne. [د اروپایي ټولنې غړي هیوادونه.],,0.0,
+question,Quelle chaîne de montagnes est située entre la France et l’Espagne ? [د فرانسې او اسپانیا ترمنځ د غرونو کومه لړۍ ده؟],,,lvl2
+answer,Les Alpes [الپ],,0.0,
+answer,Les Pyrénées [پیریني],,1.0,
+answer,Les Vosges [ووز],,0.0,
+question,Quelle île française se trouve dans l'océan Indien ? [د هند په سمندر کې د فرانسې کومه ټاپو ده؟],,,lvl2
+answer,La Guadeloupe [ګوادلوپ],,0.0,
+answer,La Réunion [ریونیون],,1.0,
+answer,La Martinique [مارتینیک],,0.0,
+question,Quelle est la population approximative de la France en 2025 ? [په ۲۰۲۵ کې د فرانسې نږدې نفوس څومره دی؟],,,lvl2
+answer,Environ 50 millions d'habitants [شاوخوا ۵۰ میلیونه اوسیدونکي],,0.0,
+answer,Environ 68 millions d'habitants [شاوخوا ۶۸ میلیونه اوسیدونکي],,1.0,
+answer,Plus de 100 millions d'habitants [له ۱۰۰ میلیونو ډیر اوسیدونکي],,0.0,
+question,Quel fleuve traverse Paris ? [کوم سیند له پاریس څخه تیریږي؟],,,lvl2
+answer,Le Rhône [رون],,0.0,
+answer,La Seine [سین],,1.0,
+answer,La Loire [لوار],,0.0,
+question,Lequel de ces pays partage des frontières terrestres avec la France ? [له دې هیوادونو څخه کوم یو له فرانسې سره ځمکنۍ پولې لري؟],,,lvl2
+answer,La Suède [سویډن],,0.0,
+answer,Le Danemark [ډنمارک],,0.0,
+answer,La Belgique [بلجیم],,1.0,
+question,Quel pays a une frontière avec la France métropolitaine au nord-est ? [کوم هیواد په شمال ختیځ کې له فرانسې سره پوله لري؟],,,lvl2
+answer,L'Espagne [اسپانیا],,0.0,
+answer,L'Allemagne [جرمني],,1.0,
+answer,L'Italie [ایټالیا],,0.0,
+question,Où se trouvent les principales activités économiques en France ? [په فرانسه کې اصلي اقتصادي فعالیتونه چیرته دي؟],,,lvl2
+answer,Uniquement dans les régions rurales. [یوازې په کلیوالو سیمو کې.],,0.0,
+answer,Principalement dans les zones montagneuses. [په عمده توګه په غرنیو سیمو کې.],,0.0,
+answer,"Dans les grandes métropoles et les régions transfrontalières (Paris, Lyon, frontières allemande et suisse).।) [په لویو ښارونو او سرحدي سیمو کې.]",,1.0,
+question,"Parmi ces pays, lequel attire le plus de visiteurs chaque année ? [د دې هیوادونو په مینځ کې، کوم یو هر کال ترټولو ډیر لیدونکي راجلبوي؟]",,,lvl2
+answer,L'Espagne [اسپانیا],,0.0,
+answer,La France [فرانسه],,1.0,
+answer,L'Italie [ایټالیا],,0.0,
+question,Où habite la majorité des Français ? [د فرانسویانو ډیری برخه چیرته اوسیږي؟],,,lvl2
+answer,Dans les zones de montagne. [په غرنیو سیمو کې.],,0.0,
+answer,Dans les zones urbaines et les grandes agglomérations. [په ښاري سیمو او لویو ښارونو کې.],,1.0,
+answer,Dans les campagnes isolées. [په لیرې پرتو کلیو کې.],,0.0,
+question,Quelle région est la plus peuplée ? [کومه سیمه ترټولو ډیر نفوس لري؟],,,lvl2
+answer,La Nouvelle-Aquitaine [نوی اکویتین],,0.0,
+answer,L'Île-de-France (région parisienne) [ایل-دی-فرانس (د پاریس سیمه)],,1.0,
+answer,La Bretagne [بریتاني],,0.0,
+question,Quelle ville française fait partie des 10 plus grandes métropoles du pays ? [د فرانسې کوم ښار د هیواد په ۱۰ لویو ښارونو کې شامل دی؟],,,lvl2
+answer,La Rochelle [لا روشیل],,0.0,
+answer,Toulouse [تولوز],,1.0,
+answer,Avignon [اوینیون],,0.0,
+question,Lequel de ces départements de France est le plus touristique ? ?) [د فرانسې له دې سیمو څخه کومه یوه ترټولو ډیره سیاحتي ده؟],,,lvl2
+answer,La Creuse [کروز],,0.0,
+answer,Le Finistère [فینیسټر],,0.0,
+answer,Paris [پاریس],,1.0,
+question,Quand peut-on visiter gratuitement des lieux culturels en France ? [په فرانسه کې کله کلتوري ځایونه په وړیا توګه لیدل کیدی شي؟],,,lvl2
+answer,Tous les jours fériés. [په ټولو رخصتیو کې.],,0.0,
+answer,Lors des Journées européennes du Patrimoine (en septembre).।) [د اروپا د کلتوري میراث په ورځو کې (په سپتمبر کې).],,1.0,
+answer,Uniquement en janvier. [یوازې په جنوري کې.],,0.0,
+question,Combien de personnes parlent français dans le monde ? [په نړۍ کې څو کسان فرانسوي خبرې کوي؟],,,lvl2
+answer,Environ 50 millions [شاوخوا ۵۰ میلیونه],,0.0,
+answer,Environ 150 millions [شاوخوا ۱۵۰ میلیونه],,0.0,
+answer,Plus de 320 millions [له ۳۲۰ میلیونو ډیر],,1.0,
+question,Qui était Marguerite Yourcenar ? [مارګریټ یورسنار څوک وه؟],,,lvl2
+answer,Une mathématicienne [یوه ریاضي پوه],,0.0,
+answer,Une écrivaine française (première femme élue à l'Académie française).।) [یوه فرانسوۍ لیکواله.],,1.0,
+answer,Une chanteuse d'opéra [یوه اوپرا سندرغاړې],,0.0,
+question,Quel peintre est français ? [کوم انځورګر فرانسوی دی؟],,,lvl2
+answer,Salvador Dalí [سلواډور دالي],,0.0,
+answer,Pablo Picasso [پابلو پیکاسو],,0.0,
+answer,Claude Monet [کلاډ مونیټ],,1.0,
+question,Quel musée est situé à Paris ? [کوم موزیم په پاریس کې دی؟],,,lvl2
+answer,Le Musée du Prado [د پراډو موزیم],,0.0,
+answer,Le Centre Pompidou [د پومپیدو مرکز],,1.0,
+answer,Le British Museum [د برتانیا موزیم],,0.0,
+question,Qui était Auguste Rodin ? [اګسټ روډین څوک و؟],,,lvl2
+answer,Un compositeur [یو موسیقي جوړونکی],,0.0,
+answer,Un sculpteur français du 19e siècle (auteur du Penseur).।) [د ۱۹مې پېړۍ یو فرانسوی مجسمه جوړونکی.],,1.0,
+answer,Un explorateur [یو لوڅاوونکی],,0.0,
+question,Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ? [د نړۍ په ترټولو زیاتو ویل کیدونکو ژبو کې د فرانسوي ژبې ځای کوم دی؟],,,lvl2
+answer,La deuxième langue [دویمه ژبه],,0.0,
+answer,La cinquième langue [پنځمه ژبه],,1.0,
+answer,La dixième langue [لسمه ژبه],,0.0,
+question,Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ? [کومه مشهوره کلیسا په ۲۰۱۹ کې د اورلګیدنې له امله یو څه ویجاړه شوه؟],,,lvl2
+answer,La Cathédrale de Reims [د ریمس کلیسا],,0.0,
+answer,Notre-Dame de Paris [د پاریس نوټر-ډیم],,1.0,
+answer,La Cathédrale de Strasbourg [د سټراسبورګ کلیسا],,0.0,
+question,Qui était une écrivaine française célèbre ? [کومه یوه مشهوره فرانسوۍ لیکواله وه؟],,,lvl2
+answer,Marie Curie [ماري کوري],,0.0,
+answer,Simone Veil [سیمون ویل],,1.0,
+answer,Marie-Madeleine Fourcade [ماري میډلین فورکیډ],,0.0,
+question,Qui était un célèbre musicien français ? [مشهور فرانسوی موسیقار څوک و؟],,,lvl2
+answer,Wolfgang Amadeus Mozart [موزارټ],,0.0,
+answer,Claude Debussy [کلاډ ډیبووسي],,1.0,
+answer,Johann Sebastian Bach [باخ],,0.0,
+question,Qui était Auguste Renoir ? [اګسټ رینوار څوک و؟],,,lvl2
+answer,Un architecte [یو معمار],,0.0,
+answer,Un peintre impressionniste français. [یو فرانسوی انځورګر.],,1.0,
+answer,Un dramaturge [یو ډرامه لیکونکی],,0.0,
+question,Quelle fête est française ? [کوم جشن فرانسوی دی؟],,,lvl2
+answer,L'Oktoberfest [اوکټوبر فیسټ],,0.0,
+answer,La Saint-Patrick [د سینټ پیټریک ورځ],,0.0,
+answer,Le 14 juillet (Fête Nationale)) [د جولای ۱۴مه (ملي ورځ)],,1.0,
+question,Sur quel fleuve est situé le château d’Amboise? ?) [د امبواز کلا په کوم سیند کې ده؟],,,lvl3
+answer,Sur la Seine [د سین سیند],,0.0,
+answer,Sur le Rhône [د رون سیند],,0.0,
+answer,Sur la Loire [د لوار سیند],,1.0,
+question,Qu’a mené Napoléon Ier en Europe? [ناپلیون لومړي په اروپا کې څه وکړل؟],,,lvl3
+answer,La Révolution industrielle [صنعتي انقلاب],,0.0,
+answer,De nombreuses guerres [ډیری جګړې],,1.0,
+answer,La colonisation de l’Afrique [د افریقا استعمار],,0.0,
+question,Qui a été le chef de la Résistance française contre l’occupation allemande? ?) [د جرمني د نیواک پر وړاندې د فرانسوي مقاومت مشر څوک و؟],,,lvl3
+answer,Philippe Pétain [فیلیپ پیټین],,0.0,
+answer,Georges Clemenceau [ژرژ کلمانسو],,0.0,
+answer,Charles de Gaulle [چارلس دي ګول],,1.0,
+question,Quelle religion Clovis adopte-t-il? [کلوویس کوم مذهب غوره کړ؟],,,lvl3
+answer,La religion musulmane [اسلام],,0.0,
+answer,Le judaïsme [یهودیت],,0.0,
+answer,La religion chrétienne [عیسویت],,1.0,
+question,Quel dictateur nazi a déclenché la Seconde Guerre mondiale? [کوم نازي دیکتاتور دویمه نړیواله جګړه پیل کړه؟],,,lvl3
+answer,Joseph Staline [جوزف سټالین],,0.0,
+answer,Benito Mussolini [بنیټو موسولیني],,0.0,
+answer,Adolf Hitler [اډولف هټلر],,1.0,
+question,Que concentre Louis XIV sous son règne? [څوارلسم لویس د خپلې واکمنۍ پرمهال څه متمرکز کړل؟],,,lvl3
+answer,Uniquement le pouvoir militaire [یوازې پوځي ځواک],,0.0,
+answer,Tous les pouvoirs [ټول واکونه],,1.0,
+answer,Uniquement le pouvoir religieux [یوازې مذهبي واک],,0.0,
+question,Quel est le rôle du tourisme dans l’économie française? [د فرانسې په اقتصاد کې د سیاحت رول څه دی؟],,,lvl3
+answer,Un secteur marginal [یوه کوچنۍ برخه],,0.0,
+answer,Un élément essentiel [یو اړین عنصر],,1.0,
+answer,Une activité en déclin [یو مخ پر ځوړ فعالیت],,0.0,
+question,Que symbolisent les 12 étoiles du drapeau européen? [د اروپا بیرغ ۱۲ ستوري د څه شي سمبول دي؟],,,lvl3
+answer,Les idéaux d’unité et d’harmonie entre les Européens [د اروپایانو ترمنځ د یووالي او همغږۍ نظریات],,1.0,
+answer,Les 12 mois de l’année [د کال ۱۲ میاشتې],,0.0,
+answer,Les 12 pays fondateurs [۱۲ بنسټ ایښودونکي هیوادونه],,0.0,
+question,En quelle année l’esclavage a-t-il été aboli en France? [په فرانسه کې غلامي په کوم کال لغوه شوه؟],,,lvl3
+answer,En 1789 [په ۱۷۸۹ کې],,0.0,
+answer,En 1918 [په ۱۹۱۸ کې],,0.0,
+answer,En 1848 [په ۱۸۴۸ کې],,1.0,
+question,Contre quoi Victor Hugo s’est-il engagé? [ویکتور هوګو د څه شی پروړاندې مبارزه وکړه؟],,,lvl3
+answer,La monarchie absolue [مطلق پاچاهي],,0.0,
+answer,La colonisation [استعمار],,0.0,
+answer,Les inégalités sociales et la peine de mort [ټولنیز نابرابري او د اعدام سزا],,1.0,
+question,De quelle origine est Valérie Benguigui? ?) [والیري بینګیګی د کوم ځای ده؟],,,lvl3
+answer,Italienne [ایټالوي],,0.0,
+answer,Américaine [امریکایي],,0.0,
+answer,Algérienne [الجزایري],,1.0,
+question,Quel est le plus long fleuve français? [تر ټولو اوږد فرانسوی سیند کوم دی؟],,,lvl3
+answer,Le Rhône [رون],,0.0,
+answer,La Seine [سین],,0.0,
+answer,La Loire [لوار],,1.0,
+question,Où se trouve l’une des plus importantes grottes préhistoriques de France? [په فرانسه کې د تاریخ څخه مخکې دوره کې یو تر ټولو مهم غار چیرته دی؟],,,lvl3
+answer,À Marseille [په مارسیل کې],,0.0,
+answer,À Chartres [په چارټرس کې],,0.0,
+answer,À Lascaux [په لاسکو کې],,1.0,
+question,Entre quelles dates se situent les peintures de la grotte de Lascaux? [د لاسکو غار انځورونه د کومو نیټو ترمنځ دي؟],,,lvl3
+answer,Entre 2000 et 1500 ap. J.-C. [د ۲۰۰۰ او ۱۵۰۰ میلادي کال ترمنځ],,0.0,
+answer,Entre 18 000 et 15 000 av. J.-C. [له میلاد څخه ۱۸۰۰۰ او ۱۵۰۰۰ کاله مخکې],,1.0,
+answer,Entre 500 et 200 av. J.-C. [له میلاد څخه ۵۰۰ او ۲۰۰ کاله مخکې],,0.0,
+question,Quels modes de transport sont connectés au port de Nantes-Saint-Nazaire? [کوم ډول ټرانسپورټونه د نانت-سینټ-نازیر بندر سره وصل دي؟],,,lvl3
+answer,"Routier, fluvial, spatial et aérien [سړک، سیند، فضا او هوا]",,0.0,
+answer,"Maritime, fluvial, ferroviaire, terrestre et aérien [سمندر، سیند، ریل پټلۍ، ځمکه او هوا]",,1.0,
+answer,"Maritime, spatial, cycliste et aérien [سمندر، فضا، بایسکل او هوا]",,0.0,
+question,À quelle période historique correspond l’installation des Romains? [د رومیانو میشت کیدل د کومې تاریخي دورې سره سمون لري؟],,,lvl3
+answer,À l’Antiquité [د لرغوني زمانې],,1.0,
+answer,À la Préhistoire [د تاریخ څخه مخکې دورې],,0.0,
+answer,Au Moyen Âge [منځنۍ پیړۍ],,0.0,
+question,À quelle période appartiennent les peintures de la grotte de Lascaux? [د لاسکو غار انځورونه په کومه دوره پورې اړه لري؟],,,lvl3
+answer,À la Préhistoire [د تاریخ څخه مخکې دورې],,1.0,
+answer,Au Moyen Âge [منځنۍ پیړۍ],,0.0,
+answer,À l’Antiquité [د لرغوني زمانې],,0.0,
+question,Où se situe le Mont-Saint-Michel? [مونټ سینټ میشل چیرته موقعیت لري؟],,,lvl3
+answer,En Bretagne [په بریتاني کې],,0.0,
+answer,En Provence [په پروونس کې],,0.0,
+answer,En Normandie [په نورمانډي کې],,1.0,
+question,Quelle nationalité d’origine avait Joséphine Baker? [جوزفین بیکر اصلاً د کوم هیواد وه؟],,,lvl3
+answer,Italienne [ایټالوي],,0.0,
+answer,Algérienne [الجزایري],,0.0,
+answer,Américaine [امریکایي],,1.0,
+question,De quelle origine est Romain Gary? [رومین ګیري د کوم ځای دی؟],,,lvl3
+answer,Égyptienne [مصري],,0.0,
+answer,Polonaise [پولنډي],,0.0,
+answer,Russe [روسي],,1.0,
+question,Quel était l’objectif du traité de Rome? [د روم تړون هدف څه و؟],,,lvl3
+answer,Supprimer toutes les frontières intérieures immédiatement [سمدستي ټول داخلي سرحدونه لیرې کول],,0.0,
+answer,Créer une armée commune [ګډ پوځ جوړول],,0.0,
+answer,Établir une union étroite entre les peuples européens [د اروپایی خلکو ترمنځ نږدې اړیکې جوړول],,1.0,
+question,Quelle est l’altitude du Mont-Blanc? ?) [د مونټ بلانک لوړوالی څومره دی؟],,,lvl3
+answer,3 200 m [۳۲۰۰ متره],,0.0,
+answer,5 500 m [۵۵۰۰ متره],,0.0,
+answer,4 810 m [۴۸۱۰ متره],,1.0,
+question,Quel peintre d’origine russe a décoré le plafond de l’Opéra Garnier de Paris? ?) [کوم روسي انځورګر د پاریس د ګارنییر اوپرا چت ښایسته کړی؟],,,lvl3
+answer,Pablo Picasso [پابلو پیکاسو],,0.0,
+answer,Claude Monet [کلاډ مونیټ],,0.0,
+answer,Marc Chagall [مارک شګال],,1.0,
+question,Pour quelle raison la grotte de Lascaux est-elle célèbre? [د لاسکو غار د کوم دلیل لپاره مشهور دی؟],,,lvl3
+answer,Pour la qualité de ses peintures [د انځورونو د کیفیت لپاره],,1.0,
+answer,Pour ses poteries anciennes [د لرغونو لوښو لپاره],,0.0,
+answer,Pour ses sculptures en pierre [د تیږو مجسمو لپاره],,0.0,
+question,Quel mouvement social éclate en mai 1968? [په می ۱۹۶۸ کې کوم ټولنیز حرکت پیل شو؟],,,lvl3
+answer,"Un mouvement initié par les étudiants, étendu aux salariés et ouvriers [یو حرکت چې زده کونکو پیل کړ او بیا کارګرانو ته وغزید]",,1.0,
+answer,Une réforme constitutionnelle [اساسي قانوني اصالحات],,0.0,
+answer,Une révolution armée [یو وسله وال انقلاب],,0.0,
+question,Qui est Alain Mimoun? ?) [الین میمون څوک دی؟],,,lvl3
+answer,Un peintre d’origine russe [یو روسي انځورګر],,0.0,
+answer,Un chanteur franco-égyptien [یو فرانسوي-مصري سندرغاړی],,0.0,
+answer,"Un athlète d’origine algérienne, ancien combattant de la Seconde Guerre mondiale [یو الجزایري لوبغاړی او د دویمې نړیوالې جګړې پخوانی سرتیری]",,1.0,
+question,Quelle caractéristique politique la IIIᵉ République a-t-elle apportée? ?) [دریم جمهوریت کوم سیاسي ځانګړتیا راوړې؟],,,lvl3
+answer,Le retour de l’Empire [د امپراتورۍ راستنیدل],,0.0,
+answer,La forme républicaine stable du Gouvernement [د حکومت باثباته جمهوري بڼه],,1.0,
+answer,L’instauration d’une monarchie parlementaire [د پارلماني پاچاهۍ رامنځته کول],,0.0,
+question,Par quels moyens la France a-t-elle constitué son empire colonial au 19ᵉ siècle? [په ۱۹مه پیړۍ کې فرانسې خپله استعماري امپراتوري څنګه جوړه کړه؟],,,lvl3
+answer,Par des guerres de conquêtes [د فتحو جګړو له لارې],,1.0,
+answer,Par des élections locales [د محلي ټاکنو له لارې],,0.0,
+answer,Par des accords commerciaux pacifiques [د سوله ایزو سوداګریزو تړونونو له لارې],,0.0,
+question,Quel exploit sportif Alain Mimoun a-t-il réalisé en 1956? [الین میمون په ۱۹۵۶ کې کومه سپورتي بریا ترلاسه کړه؟],,,lvl3
+answer,Il a gagné le Tour de France [هغه د ټور ډي فرانس وګاټه],,0.0,
+answer,Il a remporté le marathon des Jeux olympiques [هغه د المپیک لوبو میراتون وګاټه],,1.0,
+answer,Il a battu le record du monde de saut en longueur [هغه د اوږد ټوپ د نړۍ ریکارډ مات کړ],,0.0,
+question,Où repose Marie Curie? [ماري کوري چیرته خښه شوې؟],,,lvl3
+answer,À Versailles [په ورسیلز کې],,0.0,
+answer,Au Panthéon [په پینتیون کې],,1.0,
+answer,Au Louvre [په لوور کې],,0.0,
+question,Quel physicien d’origine polonaise a reçu le prix Nobel de physique en 1992? [کوم پولنډي فزیک پوه په ۱۹۹۲ کې د فزیک نوبل جایزه ترلاسه کړه؟],,,lvl3
+answer,Louis de Broglie [لوئس دي برولي],,0.0,
+answer,Pierre Curie [پیری کوري],,0.0,
+answer,Georges Charpak [ژرژ چارپک],,1.0,
+question,Comment était qualifié le régime de Vichy? ?) [د ویچي رژیم څنګه یادیږي؟],,,lvl3
+answer,Non démocratique [غیر ډیموکراتیک],,1.0,
+answer,Parlementaire [پارلماني],,0.0,
+answer,Républicain [جمهوري غوښتونکی],,0.0,
+question,Combien de morts la Seconde Guerre mondiale a-t-elle causés selon les historiens? [د تاریخ پوهانو په وینا دویمې نړیوالې جګړې څومره مړینې درلودې؟],,,lvl3
+answer,Moins de 5 millions [له ۵ میلیونو څخه کم],,0.0,
+answer,Plus de 50 millions [له ۵۰ میلیونو ډیر],,1.0,
+answer,Plus de 9 millions [له ۹ میلیونو ډیر],,0.0,
+question,Dans quels secteurs l’économie française a-t-elle des pôles d’excellence? ?) [د فرانسې اقتصاد په کومو برخو کې غوره والی لري؟],,,lvl3
+answer,L’aéronautique et le luxe [اوايي چلند او لوکس شیان],,1.0,
+answer,L’agriculture et la pêche [کرنه او کب نیونه],,0.0,
+answer,Le textile et la sidérurgie [نسج او فلزات],,0.0,
+question,Pour quel roman Romain Gary a-t-il reçu le prix Goncourt en 1956? ?) [رومین ګیري په ۱۹۵۶ کې د کوم ناول لپاره ګونکورټ جایزه ترلاسه کړه؟],,,lvl3
+answer,Notre-Dame de [نوټر ډیم],,0.0,
+answer,Les Racines du ciel [د اسمان ریښې],,1.0,
+answer,La Vie devant soi [ژوند په مخ کې دی],,0.0,
+question,Qui est Léon Gambetta? ?) [لیون ګمبیټا څوک دی؟],,,lvl3
+answer,"Un fervent républicain, l’un des pères de la IIIᵉ République [یو پیاوړی جمهوري غوښتونکی، د دریم جمهوریت له بنسټ ایښودونکو څخه]",,1.0,
+answer,Un roi de France [د فرانسې یو پاچا],,0.0,
+answer,Un empereur romain [یو رومي امپراتور],,0.0,
+question,Qui unifie les royaumes des peuples francs au 5e siècle? [په ۵مه پیړۍ کې د فرانک خلکو سلطنتونه چا متحد کړل؟],,,lvl3
+answer,Louis XIV [څوارلسم لویس],,0.0,
+answer,Charlemagne [چارلمین],,0.0,
+answer,Clovis [کلوویس],,1.0,
+question,Qui a préparé la loi sur l’interruption volontaire de grossesse de 1975? ?) [د ۱۹۷۵ کال د سقط حمل قانون چا چمتو کړ؟],,,lvl3
+answer,Charles de Gaulle [چارلس دي ګول],,0.0,
+answer,François Mitterrand [فرانسوا میتران],,0.0,
+answer,Simone Veil [سیمون ویل],,1.0,
+question,Qui est l’auteur de «Alcools»? ?) [د «Alcools» لیکوال څوک دی؟],,,lvl3
+answer,Guillaume Apollinaire [ګیلوم اپولینیر],,1.0,
+answer,Paul Valéry [پاول والیری],,0.0,
+answer,Jacques Prévert [جاک پریورټ],,0.0,
+question,"Quel écrivain d’origine russe a reçu deux fois le prix Goncourt, dont une sous le nom d’Émile Ajar? ?) [کوم روسي لیکوال دوه ځله د ګونکورټ جایزه ترلاسه کړه، چې یوه یې د ایمل آجر په نوم وه؟]",,,lvl3
+answer,Albert Camus [البرټ کامو],,0.0,
+answer,Romain Gary [رومین ګیري],,1.0,
+answer,Victor Hugo [ویکتور هوګو],,0.0,
+question,Quelle chanson est associée à Miriam Makeba? [کومه سندره له مریم میکیبا سره تړاو لري؟],,,lvl3
+answer,Bambino [بامبینو],,0.0,
+answer,Pata Pata [پاټا پاټا],,1.0,
+answer,L’Avare [د بخیل],,0.0,
+question,Qui est l’auteur de Les Misérables? [د بدبختانو (Les Misérables) لیکوال څوک دی؟],,,lvl3
+answer,Victor Hugo [ویکتور هوګو],,1.0,
+answer,Voltaire [ولټیر],,0.0,
+answer,Molière [مولیر],,0.0,
+question,Quels sont deux ouvrages célèbres de Victor Hugo? [د ویکتور هوګو دوه مشهور اثار کوم دي؟],,,lvl3
+answer,Germinal et Madame Bovary [جرمینل او مادام بواري],,0.0,
+answer,Les Misérables et Notre-Dame de Paris [Les Misérables او د پاریس نوټر-ډیم],,1.0,
+answer,L’Avare et Le Cid [د بخیل او لی سیډ],,0.0,
+question,Quel traité fonde la Communauté économique européenne en 1957? [کوم تړون په ۱۹۵۷ کې د اروپا اقتصادي ټولنې بنسټ کیښود؟],,,lvl3
+answer,Le traité de Versailles [د ورسای تړون],,0.0,
+answer,Le traité de Maastricht [د ماستریخت تړون],,0.0,
+answer,Le traité de Rome [د روم تړون],,1.0,
+question,Qui est l’auteur de «Calligrammes»? [د «Calligrammes» لیکوال څوک دی؟],,,lvl3
+answer,Victor Hugo [ویکتور هوګو],,0.0,
+answer,Guillaume Apollinaire [ګیلوم اپولینیر],,1.0,
+answer,André Breton [اندری بریټن],,0.0,
+question,Sous quel pseudonyme Romain Gary a-t-il reçu le prix Goncourt en 1975? [رومین ګیري په ۱۹۷۵ کې په کوم مستعار نوم د ګونکورټ جایزه ترلاسه کړه؟],,,lvl3
+answer,André Gide [اندری ګیډ],,0.0,
+answer,Paul Valéry [پاول والیری],,0.0,
+answer,Émile Ajar [ایمل آجر],,1.0,
+question,À quelle période historique appartient Clovis? [کلوویس په کومه تاریخي دوره پورې اړه لري؟],,,lvl3
+answer,À la Renaissance (16e siècle)) [د رینانسانس (۱۶مه پیړۍ)],,0.0,
+answer,À l’Antiquité (1er siècle)) [لرغونې دوره (۱مه پیړۍ)],,0.0,
+answer,Au Moyen Âge (5e siècle)) [منځنۍ پیړۍ (۵مه پیړۍ)],,1.0,
+question,Où la décolonisation française a-t-elle débuté? ?) [د فرانسې استعمار له منځه وړل چیرته پیل شول؟],,,lvl3
+answer,En Amérique [په امریکا کې],,0.0,
+answer,En Asie [په آسیا کې],,1.0,
+answer,En Europe [په اروپا کې],,0.0,
+question,Où se trouvait la capitale du régime de Vichy? ?) [د ویچي رژیم پلازمینه چیرته وه؟],,,lvl3
+answer,À Lyon [په لیون کې],,0.0,
+answer,À Bordeaux [په بوردو کې],,0.0,
+answer,À Vichy [په ویچي کې],,1.0,
+question,Quel magazine Françoise Giroud a-t-elle cofondé? - ?) [فرانسواز ژیرو د کومې مجلې شریکه بنسټګره وه؟],,,lvl3
+answer,Paris Match [پاریس میش],,0.0,
+answer,L’Express [ایکسپریس],,1.0,
+answer,Le Monde [لی موند],,0.0,
+question,Quand la IIIᵉ République a-t-elle été instaurée? ?) [دریم جمهوریت کله تاسیس شو؟],,,lvl3
+answer,En 1875 [په ۱۸۷۵ کې],,1.0,
+answer,En 1958 [په ۱۹۵۸ کې],,0.0,
+answer,En 1848 [په ۱۸۴۸ کې],,0.0,
+question,Quelles entreprises ont leur siège social à Paris La Défense? ?) [کومو شرکتونو خپل مرکزي دفترونه په پاریس لا ډیفینس کې دي؟],,,lvl3
+answer,Les plus grosses entreprises du CAC 40 [د CAC 40 تر ټولو لوی شرکتونه],,1.0,
+answer,Des PME locales [سیمه ایز شرکتونه],,0.0,
+answer,Des start-ups étrangères [بهرني پیل کونکي شرکتونه],,0.0,
+question,Quels événements sportifs Léon Zitrone a-t-il commentés? [لیون زیترون د کومو سپورتي پیښو تبصره کړې؟],,,lvl3
+answer,Le Tour de France et les Jeux olympiques [د ټور ډي فرانس او المپیک لوبې],,1.0,
+answer,La Coupe du monde de rugby et le Dakar [د رګبي نړیوال جام او داکار],,0.0,
+answer,Le marathon de Paris et Roland-Garros [د پاریس میراتون او رولانډ ګاروس],,0.0,
+question,Quel prix international Miriam Makeba a-t-elle obtenu? [مریم میکیبا کومه نړیواله جایزه ترلاسه کړې؟],,,lvl3
+answer,Un Grammy Award [ګرامي جایزه],,1.0,
+answer,Un Oscar [اسکار جایزه],,0.0,
+answer,Un prix Nobel de la paix [د سولې نوبل جایزه],,0.0,
+question,Pour quel événement la tour Eiffel a-t-elle été construite? ?) [د ایفل برج د کومې پیښې لپاره جوړ شوی و؟],,,lvl3
+answer,La Révolution française [د فرانسې انقلاب],,0.0,
+answer,L’Exposition universelle de 1889 [د ۱۸۸۹ نړیوال نندارتون],,1.0,
+answer,Les Jeux olympiques de 1924 [د ۱۹۲۴ المپیک لوبې],,0.0,
+question,Qui est Miriam Makeba? [مریم میکیبا څوک ده؟],,,lvl3
+answer,Une poétesse née en Égypte [یوه مصري شاعره],,0.0,
+answer,Une actrice d’origine algérienne [یوه الجزایري اداکاره],,0.0,
+answer,Une chanteuse sud-africaine engagée contre l’apartheid [یوه سویلي افریقایي سندرغاړې چې د اپارتاید پر وړاندې جنګیدله],,1.0,
+question,En quelle année Joseph Kessel est-il élu à l’Académie française? ?) [په کوم کال کې جوزف کیسل د فرانسې په اکاډمۍ کې وټاکل شو؟],,,lvl3
+answer,1956 [۱۹۵۶],,0.0,
+answer,1975 [۱۹۷۵],,0.0,
+answer,1962 [۱۹۶۲],,1.0,
+question,Quel statut possède le Mont-Saint-Michel? ?) [مونټ سینټ میشل کوم حیثیت لري؟],,,lvl3
+answer,Monument historique national uniquement [یوازې ملي تاریخي یادگار],,0.0,
+answer,Patrimoine mondial de l’UNESCO [د یونیسکو نړیوال میراث],,1.0,
+answer,Site naturel protégé uniquement [یوازې طبیعي خوندي سیمه],,0.0,
+question,Quelle opération militaire a eu lieu le 6 juin 1944 en Normandie? [د ۱۹۴۴ کال د جون په ۶مه په نورمانډي کې کوم نظامي عملیات ترسره شول؟],,,lvl3
+answer,La prise de la Bastille [د باسټیل نیول],,0.0,
+answer,Le débarquement des alliés [د متحدینو کښته کیدل],,1.0,
+answer,L’armistice de 1918 [د ۱۹۱۸ اوربند],,0.0,
+question,Où est née la poétesse Andrée Chedid? [شاعره اندری چیدد چیرته زیږیدلې ده؟],,,lvl3
+answer,En Pologne [په پولنډ کې],,0.0,
+answer,En Russie [په روسیه کې],,0.0,
+answer,En Égypte [په مصر کې],,1.0,
+question,De quoi le régime de Vichy est-il en partie responsable? [د ویچي رژیم د څه شی لپاره یو څه مسؤل دی؟],,,lvl3
+answer,De la colonisation de l’Algérie [د الجزایر د استعمار لپاره],,0.0,
+answer,De l’armistice de 1918 [د ۱۹۱۸ اوربند لپاره],,0.0,
+answer,De la déportation des Juifs [د یهودانو د شړلو لپاره],,1.0,
+question,Qui conduit les troupes françaises pendant la guerre de Cent Ans contre l’Angleterre? [د انګلستان پر وړاندې د سوه کلنې جګړې پرمهال د فرانسوي ځواکونو مشري چا کوله؟],,,lvl3
+answer,Marie-Antoinette [ماري انټوینټ],,0.0,
+answer,Catherine de Médicis [کاترین دي میډیسیس],,0.0,
+answer,Jeanne d’Arc [جان ډارک],,1.0,
+question,Quel est l’effet principal de l’édit de Nantes? ?) [د نانټس د فرمان اصلي اغیزه څه وه؟],,,lvl3
+answer,Le rétablissement de la paix religieuse [د مذهبي سولې بیا رغونه],,1.0,
+answer,L’abolition de la monarchie [د پاچاهۍ لغوه کول],,0.0,
+answer,Le début de la guerre de Cent Ans [د سلو کلونو جګړې پیل],,0.0,
+question,Dans quelle vallée se trouve le théâtre romain d’Orange? [د اورینج رومي تیاتر په کومه دره کې موقعیت لري؟],,,lvl3
+answer,Dans la vallée de la Seine [د سین دره کې],,0.0,
+answer,Dans la vallée du Rhône [د رون دره کې],,1.0,
+answer,Dans la vallée de la Loire [د لوار دره کې],,0.0,
+question,Quel roi de France règne de 1643 à 1715? [د فرانسې کوم پاچا له ۱۶۴۳ څخه تر ۱۷۱۵ پورې واکمني وکړه؟],,,lvl3
+answer,François Ier [فرانسوا لومړی],,0.0,
+answer,Louis XVI [شپاړسم لویس],,0.0,
+answer,Louis XIV [څوارلسم لویس],,1.0,
+question,Dans quels domaines Léon Zitrone s’est-il illustré? [لیون زیترون په کومو برخو کې مشهور و؟],,,lvl3
+answer,Littérature et poésie [ادبیات او شاعري],,0.0,
+answer,Télévision et grands événements sportifs [تلویزیون او لویې سپورتي پیښې],,1.0,
+answer,Cinéma et théâtre [سینما او تیاتر],,0.0,
+question,Quels sont des exemples de talents français issus de l’immigration? [کوم د مهاجرت څخه د راغلو فرانسوي استعدادونو بیلګې دي؟],,,lvl3
+answer,"Molière, Corneille, Racine, La Fontaine [مولیر، کورنیل، راسین، لا فونټین]",,0.0,
+answer,"Michel Platini, Zinédine Zidane, Jamel Debbouze, Marie N’Diaye [میشل پلاتیني، زین الدین زیدان، جمال دیبوز، ماری ندیای]",,1.0,
+answer,"Victor Hugo, Louis XIV, Jeanne d’Arc, Napoléon Ier [ویکتور هوګو، څوارلسم لویس، جان ډارک، ناپلیون لومړی]",,0.0,
+question,Quelle était l’origine sociale de Jeanne d’Arc? [د جان ډارک ټولنیز اصل څه و؟],,,lvl3
+answer,Une princesse [یوه شهزادګۍ],,0.0,
+answer,Une bourgeoise de Paris [د پاریس یوه شتمنه ښځه],,0.0,
+answer,Une jeune paysanne [یوه ځوانه بزګره نجلۍ],,1.0,
+question,Qui a animé l’émission télévisée «Intervilles»? ?) [د تلویزیوني پروګرام «انټرویلز» کوربه څوک و؟],,,lvl3
+answer,Alain Mimoun [الین میمون],,0.0,
+answer,Léon Zitrone [لیون زیترون],,1.0,
+answer,Georges Moustaki [ژرژ موستاکي],,0.0,
+question,Quel est le domaine scientifique de Marie Curie? [د ماري کوري ساینسي برخه څه وه؟],,,lvl3
+answer,La biologie [بیولوژي],,0.0,
+answer,La géologie [جیولوژي],,0.0,
+answer,La physique [فزیک],,1.0,
+question,Qui a mis en place le régime de Vichy après la défaite française? ?) [د فرانسې له ماتې وروسته چا د ویچي رژیم رامنځته کړ؟],,,lvl3
+answer,Charles de Gaulle [چارلس دي ګول],,0.0,
+answer,Napoléon III [دریم ناپلیون],,0.0,
+answer,Le maréchal Pétain [مارشال پیټین],,1.0,
+question,Quelle est une des comédies les plus connues de Molière? [د مولیر یوه له خورا مشهورو کامیډي ډرامو څخه کومه ده؟],,,lvl3
+answer,Le Cid [لی سیډ],,0.0,
+answer,L’Avare [د بخیل],,1.0,
+answer,Les Misérables [د بدبختانو],,0.0,
+question,Que s’est-il passé en 1848 en France? [په فرانسه کې په ۱۸۴۸ کې څه وشول؟],,,lvl3
+answer,La mort de Napoléon Ier [د ناپلیون لومړي مړینه],,0.0,
+answer,L’abolition de l’esclavage [د غلامۍ لغوه کول],,1.0,
+answer,La naissance de la IIIᵉ République [د دریم جمهوریت زیږون],,0.0,
+question,Quelle actrice d’origine algérienne a joué dans «Le Prénom» et «Avocats et associés»? [کومې الجزایري الاصلې اداکارې په «Le Prénom» او «Avocats et associés» کې رول لوبولی دی؟],,,lvl3
+answer,Catherine Deneuve [کاترین دینوف],,0.0,
+answer,Isabelle Huppert [ایزابیل هوپیرټ],,0.0,
+answer,Valérie Benguigui [والیري بینګیګی],,1.0,
+question,Qui est Georges Moustaki? ?) [ژرژ موستاکي څوک دی؟],,,lvl3
+answer,Un chanteur d’origine italo-grecque [یو ایټالوي-یوناني سندرغاړی],,1.0,
+answer,Un peintre d’origine russe [یو روسي انځورګر],,0.0,
+answer,Un journaliste d’origine russe [یو روسي خبریال],,0.0,
+question,À partir de quelle date les Romains s’installent-ils dans ce qui est aujourd’hui la France? [رومیانو له کومې نیټې څخه په هغه ځای کې میشتیدل پیل کړل چې نن فرانسه ده؟],,,lvl3
+answer,50 av. J.-C. [له میلاد څخه ۵۰ کاله مخکې],,1.0,
+answer,500 ap. J.-C. [۵۰۰ میلادي کال],,0.0,
+answer,500 av. J.-C. [له میلاد څخه ۵۰۰ کاله مخکې],,0.0,
+question,À partir de quelle décennie Georges Moustaki s’impose-t-il comme un grand nom de la chanson française? ?) [له کومې لسیزې څخه ژرژ موستاکي ځان د فرانسوي سندرې په توګه ثابت کړ؟],,,lvl3
+answer,Années 1960 [د ۱۹۶۰ لسیزه],,1.0,
+answer,Années 1980 [د ۱۹۸۰ لسیزه],,0.0,
+answer,Années 1940 [د ۱۹۴۰ لسیزه],,0.0,
+question,Le Rhône est… [رون دی...],,,lvl3
+answer,Une chaîne de montagnes [د غرونو لړۍ],,0.0,
+answer,Un fleuve [یو سیند],,1.0,
+answer,Un lac [یو جهيل],,0.0,
+question,La Garonne est… [ګارون دی...],,,lvl3
+answer,Un volcan [یو اورښیندونکی غره],,0.0,
+answer,Une montagne [یو غر],,0.0,
+answer,Un fleuve [یو سیند],,1.0,
+question,Quelle poétesse née en Égypte est aussi une femme de lettres française? [کومه شاعره چې په مصر کې زیږیدلې، هم یوه فرانسوۍ لیکواله ده؟],,,lvl3
+answer,George Sand [جورج سانډ],,0.0,
+answer,Marguerite Duras [مارګوریټ دوراس],,0.0,
+answer,Andrée Chedid [اندری چیدد],,1.0,
+question,Quel type d’État se met en place sous Louis XIV? [د څوارلسم لویس لاندې کوم ډول دولت رامینځته کیږي؟],,,lvl3
+answer,Un État faible et divisé [یو کمزوری او ویشل شوی دولت],,0.0,
+answer,Un État puissant et centralisé [یو پیاوړی او متمرکز دولت],,1.0,
+answer,Un État fédéral [یو فدرالي دولت],,0.0,
+question,Quelle était l’origine de Haroun Tazieff? [د هارون تازیف اصل د کوم ځای و؟],,,lvl3
+answer,Varsovie [وارسا],,1.0,
+answer,Athènes [اتن],,0.0,
+answer,Moscou [مسکو],,0.0,
+question,Qui étaient persécutés ou exterminés par les nazis? [څوک د نازیانو لخوا ځورول کیدل یا وژل کیدل؟],,,lvl3
+answer,"Juifs, Tziganes, homosexuels, handicapés et opposants politiques [یهودان، روما، همجنسبازان، معیوبین او سیاسي مخالفین]",,1.0,
+answer,Seuls les militaires [یوازې پوځیان],,0.0,
+answer,Nobles et prêtres [اشراف او کشیشان],,0.0,
+question,Quelles sont les trois caractéristiques de l’école instaurée par Jules Ferry? ?) [د ژول فیری لخوا رامینځته شوي ښوونځي درې ځانګړتیاوې څه دي؟],,,lvl3
+answer,"Privée, payante et catholique [شخصي، د پیسو ورکولو او کاتولیک]",,0.0,
+answer,"Obligatoire, militaire et religieuse [لازمي، پوځي او مذهبي]",,0.0,
+answer,"Publique, gratuite et laïque [عامه، وړیا او سیکولر]",,1.0,
+question,Quelle fonction Françoise Giroud a-t-elle exercée dans la vie politique française? ?) [فرانسواز ژیرو د فرانسې په سیاسي ژوند کې کومه دنده ترسره کړې؟],,,lvl3
+answer,Ministre de la Défense [د دفاع وزیر],,0.0,
+answer,Deux fois Secrétaire d’État [دوه ځله د بهرنیو چارو وزیره],,1.0,
+answer,Première ministre [لومړی وزیر],,0.0,
+question,Quelle discipline Haroun Tazieff a-t-elle fait connaître au grand public? [هارون تازیف کومه موضوع خلکو ته ور وپېژندله؟],,,lvl3
+answer,L’astronomie [ستورپوهنه],,0.0,
+answer,La volcanologie [اورښیندونکي غره پوهنه],,1.0,
+answer,La météorologie [هواپوهنه],,0.0,
+question,Combien d’entreprises sont regroupées à Paris La Défense? [په پاریس لا ډیفینس کې څو شرکتونه شتون لري؟],,,lvl3
+answer,500 [۵۰۰],,1.0,
+answer,5 000 [۵۰۰۰],,0.0,
+answer,50 [۵۰],,0.0,
+question,Quel roi a lancé la construction du château de Versailles? ?) [کوم پاچا د ورسیلز کلا جوړول پیل کړل؟],,,lvl3
+answer,Napoléon Ier [ناپلیون لومړی],,0.0,
+answer,François Ier [فرانسوا لومړی],,0.0,
+answer,Louis XIV [څوارلسم لویس],,1.0,
+question,Quelle physicienne née en Pologne a découvert la radioactivité? [په پولنډ کې کوم فزیک پوه د رادیو اکتیفټي کشف کړه؟],,,lvl3
+answer,Rosalind Franklin [روزالینډ فرانکلین],,0.0,
+answer,Irène Joliot-Curie [ایرین جولیټ کیوري],,0.0,
+answer,Marie Curie [ماري کوري],,1.0,
+question,Qui est Joseph Kessel? ?) [جوزف کیسل څوک دی؟],,,lvl3
+answer,Un journaliste d’origine russe [یو روسي خبریال],,0.0,
+answer,Un chanteur d’origine italo-grecque [یو ایټالوي-یوناني سندرغاړی],,0.0,
+answer,Un grand reporter et romancier né en Argentine [یو لوی راپور ورکوونکی او ناول لیکونکی چې په ارجنټاین کې زیږیدلی],,1.0,
+question,Avec quelle République Léon Gambetta est-il associé? ?) [لیون ګمبیټا له کوم جمهوریت سره تړاو لري؟],,,lvl3
+answer,La Ve République [پنځم جمهوریت],,0.0,
+answer,La IIIᵉ République [دریم جمهوریت],,1.0,
+answer,La Iʳᵉ République [لومړی جمهوریت],,0.0,
+question,Avec quelle découverte Georges Charpak est-il associé? ?) [ژرژ چارپک د کوم کشف سره تړاو لري؟],,,lvl3
+answer,La vaccination [واکسیناسیون],,0.0,
+answer,La détection des particules [د ذراتو کشف],,1.0,
+answer,La biologie cellulaire [حجروي بیولوژي],,0.0,
+question,Quelle est la plus haute montagne d’Europe? [په اروپا کې تر ټولو لوړ غر کوم دی؟],,,lvl3
+answer,Le Mont-Blanc [مونټ بلانک],,1.0,
+answer,Le Kilimandjaro [کلیمانجارو],,0.0,
+answer,L’Elbrouz [البروز],,0.0,
+question,Quel roi de France publie l’édit de Nantes en 1598? ?) [د فرانسې کوم پاچا په ۱۵۹۸ کې د نانټس فرمان خپور کړ؟],,,lvl3
+answer,Henri IV [څلورم هنري],,1.0,
+answer,François Ier [فرانسوا لومړی],,0.0,
+answer,Louis XIII [دیارلسم لویس],,0.0,
+question,Combien de temps environ Napoléon Ier a-t-il dirigé la France? [ناپلیون لومړي د فرانسې څومره وخت رهبري وکړه؟],,,lvl3
+answer,Près de 30 ans [شاوخوا ۳۰ کاله],,0.0,
+answer,Près de 5 ans [شاوخوا ۵ کاله],,0.0,
+answer,Près de 15 ans [شاوخوا ۱۵ کاله],,1.0,
+question,Qui est considéré comme le père de la volcanologie contemporaine? [څوک د معاصر آتش فشان پوهنې پلار ګڼل کیږي؟],,,lvl3
+answer,Haroun Tazieff [هارون تازیف],,1.0,
+answer,Georges Charpak [ژرژ چارپک],,0.0,
+answer,Joseph Kessel [جوزف کیسل],,0.0,
+question,Combien d’agglomérations françaises comptent plus de 500 000 habitants? [څومره فرانسوي ښارونه تر ۵۰۰،۰۰۰ ډیر نفوس لري؟],,,lvl3
+answer,17 [۱۷],,1.0,
+answer,27 [۲۷],,0.0,
+answer,10 [۱۰],,0.0,
+question,Combien de fois Romain Gary a-t-il reçu le prix Goncourt? [رومین ګیري څو ځله د ګونکورټ جایزه ترلاسه کړه؟],,,lvl3
+answer,Une fois [یو ځل],,0.0,
+answer,Trois fois [درې ځله],,0.0,
+answer,Deux fois [دوه ځله],,1.0,
+question,Qui est Vassily Kandinsky? (Vassily Kandinsky) ?) [واسیلي کانډینسکي څوک دی؟],,,lvl3
+answer,Un journaliste d’origine russe [یو روسي خبریال],,0.0,
+answer,Un écrivain né en Argentine [یو لیکوال چې په ارجنټاین کې زیږیدلی],,0.0,
+answer,"Un peintre d’origine russe, fondateur de l’art abstrait [یو روسي انځورګر، د خلاص هنر بنسټ ایښودونکی]",,1.0,
+question,Dans quel film a joué Valérie Benguigui? [والیري بینګیګی په کوم فلم کې رول لوبولی دی؟],,,lvl3
+answer,Le Prénom [Le Prénom],,1.0,
+answer,Les Misérables [Les Misérables],,0.0,
+answer,La Grande Vadrouille [La Grande Vadrouille],,0.0,
+question,Quelle est la superficie du territoire français (métropole et outre-mer)? ?) [د فرانسې مساحت څومره دی؟],,,lvl3
+answer,1 million km² [یو میلیون کیلومتره مربع],,0.0,
+answer,450 000 km² [۴۵۰،۰۰۰ کیلومتره مربع],,0.0,
+answer,675 000 km² [۶۷۵،۰۰۰ کیلومتره مربع],,1.0,
+question,Quelles guerres ont marqué la décolonisation française? [کومو جګړو د فرانسې د استعمار د پای ته رسیدو نښه کړه؟],,,lvl3
+answer,Les guerres d’Indochine et d’Algérie [د هندوچین او الجزایر جګړې],,1.0,
+answer,La guerre de Crimée et la guerre de 1870 [د کریمیا او د ۱۸۷۰ جګړه],,0.0,
+answer,La guerre de Corée et la guerre du Vietnam [د کوریا او ویتنام جګړې],,0.0,
+question,Combien de grands groupes de plus de 10 000 salariés compte la France? [په فرانسه کې د ۱۰۰۰۰ څخه ډیر کارمندانو څومره لوی ګروپونه شتون لري؟],,,lvl3
+answer,Plusieurs milliers [څو زره],,0.0,
+answer,Une centaine [شاوخوا سل],,1.0,
+answer,Une dizaine [شاوخوا لس],,0.0,
+question,En quelles années a eu lieu la décolonisation française? ?) [د فرانسې د استعمار لمنځه وړل په کومو کلونو کې وشول؟],,,lvl3
+answer,Entre 1914 et 1918 [د ۱۹۱۴ او ۱۹۱۸ ترمنځ],,0.0,
+answer,Entre 1950 et 1962 [د ۱۹۵۰ او ۱۹۶۲ ترمنځ],,1.0,
+answer,Entre 1981 et 1995 [د ۱۹۸۱ او ۱۹۹۵ ترمنځ],,0.0,
+question,Qui est considéré comme le plus célèbre auteur de théâtre français du 17e siècle? [څوک د ۱۷مې پیړۍ ترټولو مشهور فرانسوی تیاتر لیکوال ګڼل کیږي؟],,,lvl3
+answer,Molière [مولیر],,1.0,
+answer,Corneille [کورنیل],,0.0,
+answer,Victor Hugo [ویکتور هوګو],,0.0,
+question,Combien de morts la Première Guerre mondiale a-t-elle faits environ? [په لومړۍ نړیواله جګړه کې شاوخوا څومره کسان مړه شول؟],,,lvl3
+answer,Moins d’un million [له یو میلیون څخه کم],,0.0,
+answer,Plus de 9 millions [له ۹ میلیونو څخه ډیر],,1.0,
+answer,Plus de 50 millions [له ۵۰ میلیونو څخه ډیر],,0.0,
+question,Comment est qualifiée la monarchie sous Louis XIV? [د څوارلسم لویس لاندې پاچاهي څنګه یادیږي؟],,,lvl3
+answer,Une monarchie élective [یوه ټاکنیز پاچاهي],,0.0,
+answer,Une monarchie absolue [یوه بشپړه پاچاهي],,1.0,
+answer,Une monarchie parlementaire [یوه پارلماني پاچاهي],,0.0,
+question,En quelle année l’âge de la majorité a-t-il été fixé à 18 ans? [په کوم کال کې قانوني عمر ۱۸ کلونو ته وټاکل شو؟],,,lvl3
+answer,En 1981 [په ۱۹۸۱ کې],,0.0,
+answer,En 1957 [په ۱۹۵۷ کې],,0.0,
+answer,En 1974 [په ۱۹۷۴ کې],,1.0,
+question,"Quelle artiste d’origine américaine fut danseuse, chanteuse et résistante en France pendant la Seconde Guerre mondiale? ?) [کومه امریکایی-فرانسوي هنرمنده په دویمه نړیواله جګړه کې نڅاګره، سندرغاړې او د مقاومت کوونکې وه؟]",,,lvl3
+answer,Joséphine Baker [جوزفین بیکر],,1.0,
+answer,Nina Simone [نینا سیمون],,0.0,
+answer,Aretha Franklin [اریتا فرانکلین],,0.0,
+question,Quelle école artistique Vassily Kandinsky contribue-t-il à fonder? [واسیلي کانډینسکي د کوم هنر په جوړولو کې مرسته وکړه؟],,,lvl3
+answer,L’art abstrait [د خلاصون هنر],,1.0,
+answer,L’impressionnisme [امپریسیونیزم],,0.0,
+answer,Le cubisme [کیوبیزم],,0.0,
+question,Quelle République est proclamée en 1792? [په ۱۷۹۲ کې کوم جمهوریت اعلان شو؟],,,lvl3
+answer,La Première République [لومړی جمهوریت],,1.0,
+answer,La Deuxième République [دویم جمهوریت],,0.0,
+answer,La Cinquième République [پنځم جمهوریت],,0.0,
+question,Au temps de quel roi Molière a-t-il vécu? ?) [مولیر د کوم پاچا په وخت کې ژوند کاوه؟],,,lvl3
+answer,Louis XIV [څوارلسم لویس],,1.0,
+answer,Louis XVI [شپاړسم لویس],,0.0,
+answer,Napoléon Ier [ناپلیون لومړی],,0.0,
+question,Dans quelles régions du monde la France a-t-elle constitué un empire colonial au 19ᵉ siècle? [په ۱۹مه پیړۍ کې فرانسې د نړۍ په کومو سیمو کې استعماري امپراتوري جوړه کړه؟],,,lvl3
+answer,En Océanie et en Amérique du Nord [په اوشیانا او شمالي امریکا کې],,0.0,
+answer,En Scandinavie et au Moyen-Orient [په سکینډینیویا او مینځني ختیځ کې],,0.0,
+answer,"Aux Antilles, en Afrique et en Asie [په انټیلز، افریقا او آسیا کې]",,1.0,
+question,Qu’adoptent les populations locales après l’installation des Romains? [د رومیانو له میشتیدو وروسته ځایي خلکو څه ومنل؟],,,lvl3
+answer,Leur mode de vie et la culture latine [د دوی د ژوند طرز او لاتیني کلتور],,1.0,
+answer,Leur organisation viking [د وائکینګ سازمان],,0.0,
+answer,Leur langue grecque [د دوی یوناني ژبه],,0.0,
+question,Quel pays Adolf Hitler a-t-il envahi notamment? [اډولف هټلر په ځانګړې توګه په کوم هیواد برید وکړ؟],,,lvl3
+answer,La France [فرانسه],,1.0,
+answer,Les États-Unis [متحده ایالات],,0.0,
+answer,Le Royaume-Uni [انګلستان],,0.0,
+question,Qu’est-ce qui s’élève sur le Mont-Saint-Michel? ?) [په مونټ سینټ میشل کې څه شی ولاړ دی؟],,,lvl3
+answer,Une abbaye [یوه خانقاه],,1.0,
+answer,Un palais royal [یو شاهي ماڼۍ],,0.0,
+answer,Un château fort [یوه پیاوړې کلا],,0.0,
+question,Où la décolonisation française s’est-elle poursuivie après l’Asie? [له آسیا وروسته د فرانسې استعمار چیرته ادامه ومونده؟],,,lvl3
+answer,En Afrique [په افریقا کې],,1.0,
+answer,En Amérique du Sud [په سویلي امریکا کې],,0.0,
+answer,En Océanie [په اوشیانا کې],,0.0,
+question,Quelle importance a l’action de Clovis dans l’histoire de France? [د فرانسې په تاریخ کې د کلوویس عمل څه اهمیت درلود؟],,,lvl3
+answer,Elle divise définitivement le territoire [هغه سیمه په بشپړ ډول وویشله],,0.0,
+answer,Elle constitue une étape vers l’unité du territoire français [دا د فرانسې د خاورې د یووالي پر لور یو ګام و],,1.0,
+answer,Elle entraîne la disparition de la royauté [دا د پاچاهۍ د ورکیدو لامل شو],,0.0,
+question,Quelle expression décrit Joséphine Baker? [کومه اصطلاح د جوزفین بیکر تشریح کوي؟],,,lvl3
+answer,Poétesse symboliste [سمبولیسټ شاعره],,0.0,
+answer,Actrice comique [کامیډي اداکاره],,0.0,
+answer,Meneuse de revue noire [توره نڅاګره مشره],,1.0,
+question,Quels philosophes du 18e siècle ont combattu pour la tolérance et la liberté de pensée? [د ۱۸مې پیړۍ کومو فیلسوفانو د زغم او د فکر د ازادۍ لپاره مبارزه وکړه؟],,,lvl3
+answer,"Rousseau, Voltaire, Diderot [روسو، ولټیر، ډیډروټ]",,1.0,
+answer,"Montesquieu, Balzac, Hugo [مونټیسکیو، بالزاک، هوګو]",,0.0,
+answer,"Pasteur, Descartes, Zola [پاستور، ډیکارتس، زولا]",,0.0,
+question,Quelle chanteuse d’origine égyptienne a connu de grands succès populaires comme «Bambino» ou «Laissez-moi danser»? [کومې مصري سندرغاړې لکه د «Bambino» او «Laissez-moi danser» په څیر سترې بریاوې درلودې؟],,,lvl3
+answer,Barbara [باربرا],,0.0,
+answer,Dalida [دالیدا],,1.0,
+answer,Edith Piaf [ایډیت پیاف],,0.0,
+question,Quel est le premier quartier d’affaires d’Europe? [د اروپا لومړی سوداګریز مرکز کوم دی؟],,,lvl3
+answer,La City de Londres [د لندن ښار],,0.0,
+answer,Paris La Défense [پاریس لا ډیفینس],,1.0,
+answer,Francfort [فرانکفورټ],,0.0,
+question,À quel siècle a vécu Diderot? ?) [ډیډروټ په کومه پیړۍ کې ژوند کاوه؟],,,lvl3
+answer,Au 19ᵉ siècle [په ۱۹مه پیړۍ کې],,0.0,
+answer,Au 15ᵉ siècle [په ۱۵مه پیړۍ کې],,0.0,
+answer,Au 18ᵉ siècle [په ۱۸مه پیړۍ کې],,1.0,
+question,Dans quels domaines de transport la France est-elle un leader mondial? [فرانسه د ټرانسپورټ په کومو برخو کې د نړۍ مخکښ ده؟],,,lvl3
+answer,Transport maritime et ferroviaire [سمندري او ریل ټرانسپورټ],,1.0,
+answer,Transport spatial et fluvial [فضا او سیند ټرانسپورټ],,0.0,
+answer,Transport routier et aérien [سړک او هوايي ټرانسپورټ],,0.0,
+question,À quel siècle a vécu Voltaire? ?) [ولټیر په کومه پیړۍ کې ژوند کاوه؟],,,lvl3
+answer,Au 18ᵉ siècle [په ۱۸مه پیړۍ کې],,1.0,
+answer,Au 16ᵉ siècle [په ۱۶مه پیړۍ کې],,0.0,
+answer,Au 20ᵉ siècle [په ۲۰مه پیړۍ کې],,0.0,
+question,À quel siècle a vécu Rousseau? ?) [روسو په کومه پیړۍ کې ژوند کاوه؟],,,lvl3
+answer,Au 18ᵉ siècle [په ۱۸مه پیړۍ کې],,1.0,
+answer,Au 17ᵉ siècle [په ۱۷مه پیړۍ کې],,0.0,
+answer,Au 19ᵉ siècle [په ۱۹مه پیړۍ کې],,0.0,
+question,Combien de pays participaient à la CEE à sa création? ?) [کله چې CEE جوړه شوه څو هیوادونو پکې برخه واخیسته؟],,,lvl3
+answer,"Six, dont la France [شپږ، چې فرانسه هم پکې وه]",,1.0,
+answer,Douze [دولس],,0.0,
+answer,Vingt-sept [اوه ویشت],,0.0,

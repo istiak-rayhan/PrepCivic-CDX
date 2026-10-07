@@ -1,0 +1,697 @@
+type,text,placeholder,is_correct,level
+question,Qui nomme le Premier ministre ? [من يعين رئيس الوزراء؟],,,lvl1
+answer,Le Président de l'Assemblée Nationale [رئيس الجمعية الوطنية],,0.0,
+answer,Le Président du Sénat [رئيس مجلس الشيوخ],,0.0,
+answer,Le Président de la République [رئيس الجمهورية],,1.0,
+question,Le Parlement est composé : [يتكون البرلمان من:],,,lvl1
+answer,Du Président de la République et du Premier ministre [من رئيس الجمهورية ورئيس الوزراء],,0.0,
+answer,Du Gouvernement et du Conseil d'État [من الحكومة ومجلس الدولة],,0.0,
+answer,De l'Assemblée Nationale et du Sénat [من الجمعية الوطنية ومجلس الشيوخ],,1.0,
+question,Qu'est-ce que le pouvoir exécutif ? Le pouvoir : [ما هي السلطة التنفيذية؟ القوة :],,,lvl1
+answer,Qui fait les lois [الذي يسن القوانين],,0.0,
+answer,Qui juge et sanctionne les personnes [من يحكم ويعاقب الناس],,0.0,
+answer,Qui met en œuvre les lois et conduit la politique de la Nation [والذي ينفذ القوانين ويقود سياسة الأمة],,1.0,
+question,Les dirigeants sont élus par les citoyens dans : [يتم انتخاب القادة من قبل المواطنين في:],,,lvl1
+answer,Une dictature [ديكتاتورية],,0.0,
+answer,Une monarchie [نظام ملكي],,0.0,
+answer,Une démocratie [ديمقراطية],,1.0,
+question,A-t-on le droit de ne pas respecter une loi ? [هل لدينا الحق في عدم احترام القانون؟],,,lvl1
+answer,"Oui, si la loi est ancienne. [نعم، إذا كان القانون قديماً.]",,0.0,
+answer,"Oui, si l'on n'est pas d'accord avec la loi. [نعم، إذا كان الشخص لا يوافق على القانون.]",,0.0,
+answer,"Non, la loi s'applique à tous et doit être respectée . [لا، القانون ينطبق على الجميع ويجب احترامه.]",,1.0,
+question,Qui doit respecter la loi ? [من يجب أن يحترم القانون؟],,,lvl1
+answer,Uniquement les citoyens français. [فقط المواطنين الفرنسيين.],,0.0,
+answer,Uniquement les fonctionnaires. [المسؤولين فقط.],,0.0,
+answer,"Toutes les personnes résidant en France, y compris les visiteurs. [جميع الأشخاص المقيمين في فرنسا، بما في ذلك الزوار.]",,1.0,
+question,Quel est le rôle de l'autorité judiciaire ? [ما هو دور السلطة القضائية؟],,,lvl1
+answer,Faire la guerre et signer les traités internationaux. [شن الحرب وتوقيع المعاهدات الدولية.],,0.0,
+answer,Voter les lois. [التصويت على القوانين.],,0.0,
+answer,Veiller au respect de la loi et sanctionner son non-respect. [التأكد من احترام القانون ومعاقبة عدم الالتزام به.],,1.0,
+question,Quel pouvoir détient un juge ? Le pouvoir : [ما هي السلطة التي يملكها القاضي؟ القوة :],,,lvl1
+answer,Exécutif [تنفيذي],,0.0,
+answer,Législatif [تشريعي],,0.0,
+answer,Judiciaire [قضائية],,1.0,
+question,L'autorité judiciaire est exercée par : [تمارس السلطة القضائية من قبل:],,,lvl1
+answer,Le Gouvernement et les préfets. [الحكومة والمحافظين.],,0.0,
+answer,Le Parlement et les maires. [البرلمان ورؤساء البلديات.],,0.0,
+answer,Les magistrats (juges et procureurs). [القضاة (القضاة والمدعون العامون).],,1.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ? [ماذا يحدث إذا لم يحترم الوزير القانون؟],,,lvl1
+answer,"Rien, car il est protégé par son statut. [لا شيء لأنه محمي بوضعه.]",,0.0,
+answer,Il est jugé par le Président de la République. [ويحكم عليه رئيس الجمهورية.],,0.0,
+answer,Il est jugé par la Cour de Justice de la République (CJR) ou les tribunaux ordinaires. [وتتم محاكمته أمام محكمة عدل الجمهورية (CJR) أو المحاكم العادية.],,1.0,
+question,Qui est élu lors des élections législatives ? [من يتم انتخابه خلال الانتخابات التشريعية؟],,,lvl1
+answer,Le Président de la République [رئيس الجمهورية],,0.0,
+answer,Les députés à l'Assemblée Nationale [النواب في الجمعية الوطنية],,1.0,
+answer,Les maires et leurs conseillers municipaux [العمد ومستشاريهم البلديين],,0.0,
+question,Combien de députés composent l’Assemblée nationale ? [كم عدد النواب الذين تتكون منهم الجمعية الوطنية؟],,,lvl1
+answer,Environ 350 [حوالي 350],,0.0,
+answer,577 [577],,1.0,
+answer,Environ 700 [حوالي 700],,0.0,
+question,Quand sont élus les sénateurs ? [متى يتم انتخاب أعضاء مجلس الشيوخ؟],,,lvl1
+answer,Au suffrage universel direct par tous les citoyens. [بالاقتراع العام المباشر من قبل جميع المواطنين.],,0.0,
+answer,Lors des élections présidentielles. [خلال الانتخابات الرئاسية.],,0.0,
+answer,"Au suffrage universel indirect par les grands électeurs (élus locaux). [بالاقتراع العام غير المباشر من قبل كبار الناخبين (المسؤولين المنتخبين محليًا).]",,1.0,
+question,Qui est élu lors des élections municipales ? [من يتم انتخابه خلال الانتخابات البلدية؟],,,lvl1
+answer,Les conseillers régionaux et départementaux [المستشارين الإقليميين والمقاطعات],,0.0,
+answer,Les maires et les conseillers municipaux [العمد والمجالس البلدية],,1.0,
+answer,Les députés au Parlement européen [نواب في البرلمان الأوروبي],,0.0,
+question,Qui est élu lors des élections présidentielles ? [من يتم انتخابه في الانتخابات الرئاسية؟],,,lvl1
+answer,Le Premier ministre [الوزير الأول],,0.0,
+answer,Le Président de la République [رئيس الجمهورية],,1.0,
+answer,Le Président du Sénat [رئيس مجلس الشيوخ],,0.0,
+question,À partir de quel âge a-t-on le droit de voter ? [في أي عمر يكون لك الحق في التصويت؟],,,lvl1
+answer,21 ans [21 سنة],,0.0,
+answer,16 ans [16 سنة],,0.0,
+answer,18 ans [18 سنة],,1.0,
+question,Pour combien de temps est élu le président de la République française ? [كم من الوقت يُنتخب رئيس الجمهورية الفرنسية؟],,,lvl1
+answer,7 ans [7 سنوات],,0.0,
+answer,6 ans [6 سنوات],,0.0,
+answer,5 ans [5 سنوات],,1.0,
+question,Pour combien de temps sont élus les députés ? [ما هي مدة انتخاب النواب؟],,,lvl1
+answer,7 ans [7 سنوات],,0.0,
+answer,6 ans [6 سنوات],,0.0,
+answer,5 ans [5 سنوات],,1.0,
+question,Pour combien de temps sont élus les sénateurs ? [ما هي مدة انتخاب أعضاء مجلس الشيوخ؟],,,lvl1
+answer,5 ans [5 سنوات],,0.0,
+answer,6 ans [6 سنوات],,1.0,
+answer,7 ans [7 سنوات],,0.0,
+question,Qui possède le pouvoir exécutif ? [من يملك السلطة التنفيذية؟],,,lvl1
+answer,Le Parlement [البرلمان],,0.0,
+answer,Le Président de la République et le Gouvernement [رئيس الجمهورية والحكومة],,1.0,
+answer,La Cour de Cassation [محكمة النقض],,0.0,
+question,Quelle condition est nécessaire pour voter aux élections ? [ما هو الشرط الضروري للتصويت في الانتخابات؟],,,lvl1
+answer,Être propriétaire d'un logement en France. [امتلاك منزل في فرنسا.],,0.0,
+answer,Être titulaire de la nationalité française depuis 10 ans. [أن يكون حاصلاً على الجنسية الفرنسية لمدة 10 سنوات.],,0.0,
+answer,Être âgé de 18 ans et être de nationalité française. [يجب أن يكون عمرك 18 عامًا وتحمل الجنسية الفرنسية.],,1.0,
+question,Qui peut voter aux élections en France ? [من يحق له التصويت في الانتخابات في فرنسا؟],,,lvl1
+answer,Tous les résidents étrangers. [جميع المقيمين الأجانب.],,0.0,
+answer,Tous les citoyens français majeurs. [جميع المواطنين الفرنسيين في السن القانوني.],,1.0,
+answer,Uniquement les hommes majeurs. [فقط الرجال في السن القانوني.],,0.0,
+question,Que signifie « suffrage universel » ? [ماذا يعني ""الاقتراع العام""؟],,,lvl1
+answer,Que seuls les hommes peuvent voter. [أنه يُسمح للرجال فقط بالتصويت.],,0.0,
+answer,Que seuls les plus riches peuvent voter. [أنه لا يحق إلا للأغنياء التصويت.],,0.0,
+answer,"Que tous les citoyens majeurs peuvent voter, sans distinction. [أنه يمكن لجميع المواطنين البالغين التصويت، دون تمييز.]",,1.0,
+question,"Concernant les partis politiques, quelle proposition est correcte ? [فيما يتعلق بالأحزاب السياسية أي العبارات صحيحة؟]",,,lvl1
+answer,Ils sont interdits par la Constitution française. [وهم محظورون بموجب الدستور الفرنسي.],,0.0,
+answer,Un seul parti est autorisé par l'État. [يسمح للولاية بجهة واحدة فقط.],,0.0,
+answer,Ils sont libres de se créer et d'exercer leur activité dans le respect de la loi. [لهم الحرية في إنشاء وممارسة أنشطتهم بما يتوافق مع القانون.],,1.0,
+question,Quel est le rôle des députés ? [ما هو دور النواب؟],,,lvl1
+answer,Exécuter les lois et gérer l'administration. [تنفيذ القوانين وإدارة الإدارة.],,0.0,
+answer,Voter les lois et contrôler l'action du Gouvernement. [التصويت على القوانين ومراقبة عمل الحكومة.],,1.0,
+answer,Juger les crimes et délits. [الحكم على الجرائم والجنح.],,0.0,
+question,La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ? [إن فصل السلطات مبدأ أساسي. ما هي القوى الثلاث المعنية؟],,,lvl1
+answer,"Le pouvoir militaire, le pouvoir civil, le pouvoir religieux. [القوة العسكرية، القوة المدنية، القوة الدينية.]",,0.0,
+answer,"Le pouvoir exécutif, le pouvoir législatif, le pouvoir judiciaire. [السلطة التنفيذية، السلطة التشريعية، السلطة القضائية.]",,1.0,
+answer,"Le pouvoir national, le pouvoir régional, le pouvoir local. [السلطة الوطنية، السلطة الإقليمية، السلطة المحلية.]",,0.0,
+question,Qui possède le pouvoir législatif ? [من يملك السلطة التشريعية؟],,,lvl1
+answer,Le Président de la République [رئيس الجمهورية],,0.0,
+answer,Le Parlement [البرلمان],,1.0,
+answer,Les juges [القضاة],,0.0,
+question,Qui sanctionne l'auteur d'un vol ? [من يعاقب مرتكب السرقة؟],,,lvl1
+answer,Le préfet [المحافظ],,0.0,
+answer,Le maire [العمدة],,0.0,
+answer,L'autorité judiciaire [السلطة القضائية],,1.0,
+question,Qui élit les députés ? [من ينتخب النواب؟],,,lvl1
+answer,Le Président de la République [رئيس الجمهورية],,0.0,
+answer,Les grands électeurs [كبار الناخبين],,0.0,
+answer,Les citoyens français par vote direct. [المواطنين الفرنسيين عن طريق التصويت المباشر.],,1.0,
+question,Qui vote les lois ? [من يصوت على القوانين؟],,,lvl1
+answer,Le Gouvernement [الحكومة],,0.0,
+answer,Le Parlement [البرلمان],,1.0,
+answer,Le Conseil d'État [مجلس الدولة],,0.0,
+question,Qui réside au palais de l'Élysée ? [من يقيم في قصر الاليزيه؟],,,lvl1
+answer,Le Premier ministre [الوزير الأول],,0.0,
+answer,Le Président de la République [رئيس الجمهورية],,1.0,
+answer,Le Président de l'Assemblée Nationale [رئيس الجمعية الوطنية],,0.0,
+question,Combien y a-t-il de départements en France ? [كم عدد الأقسام الموجودة في فرنسا؟],,,lvl1
+answer,Environ 50 [حوالي 50],,0.0,
+answer,101 [101],,1.0,
+answer,Environ 150 [حوالي 150],,0.0,
+question,Qui représente l'État dans un département ? [من يمثل الدولة في القسم؟],,,lvl1
+answer,Le Président du Conseil départemental [رئيس مجلس المحافظة],,0.0,
+answer,Le Préfet [المحافظ],,1.0,
+answer,Le Président de la Région [رئيس المنطقة],,0.0,
+question,Qui dirige la commune ? [من يدير البلدية؟],,,lvl1
+answer,Le Préfet [المحافظ],,0.0,
+answer,Le Maire [العمدة],,1.0,
+answer,Le Président de la Région [رئيس المنطقة],,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ? [هل رئيس الجمهورية يملك كل الصلاحيات؟],,,lvl1
+answer,"Oui, il détient tous les pouvoirs exécutifs et législatifs. [نعم، يملك كافة السلطات التنفيذية والتشريعية.]",,0.0,
+answer,"Non, les pouvoirs sont séparés entre l'Exécutif, le Législatif et le Judiciaire. [لا، السلطات مفصولة بين التنفيذية والتشريعية والقضائية.]",,1.0,
+answer,"Oui, car il est le chef des armées. [نعم، لأنه قائد الجيوش.]",,0.0,
+question,Qui est le préfet ? [من هو المحافظ؟],,,lvl1
+answer,L'élu local chargé de l'urbanisme. [المسؤول المحلي المنتخب المسؤول عن تخطيط المدن.],,0.0,
+answer,Le représentant de l'État dans un département ou une région. [ممثل الدولة في مقاطعة أو منطقة.],,1.0,
+answer,Le chef de la police municipale. [رئيس الشرطة البلدية.],,0.0,
+question,Quel est le rôle du Parlement ? [ما هو دور البرلمان؟],,,lvl1
+answer,Diriger le pays et appliquer les lois. [قيادة البلاد وتطبيق القوانين.],,0.0,
+answer,"Voter les lois, contrôler l'action du Gouvernement et évaluer les politiques publiques. [التصويت على القوانين والرقابة على عمل الحكومة وتقييم السياسات العامة.]",,1.0,
+answer,Juger les crimes et délits les plus graves. [الحكم على أخطر الجرائم والجنح.],,0.0,
+question,Quel est le régime politique de la France aujourd'hui ? [ما هو النظام السياسي في فرنسا اليوم؟],,,lvl1
+answer,Une monarchie constitutionnelle [ملكية دستورية],,0.0,
+answer,Une République démocratique [جمهورية ديمقراطية],,1.0,
+answer,Une fédération de régions [اتحاد المناطق],,0.0,
+question,Combien d'États font partie de l'Union européenne au 1er janvier 2025 ? [كم عدد الدول الأعضاء في الاتحاد الأوروبي في الأول من كانون الثاني (يناير) 2025؟],,,lvl1
+answer,26 [26],,0.0,
+answer,27 [27],,1.0,
+answer,28 [28],,0.0,
+question,Quel État n'est pas membre de l'Union européenne ? [ما هي الدولة غير العضو في الاتحاد الأوروبي؟],,,lvl1
+answer,L'Allemagne [ألمانيا],,0.0,
+answer,L'Espagne [إسبانيا],,0.0,
+answer,La Suisse [سويسرا],,1.0,
+question,Quelle condition est nécessaire pour voter aux élections européennes ? [ما هو الشرط الضروري للتصويت في الانتخابات الأوروبية؟],,,lvl1
+answer,Être titulaire d'une carte de résident. [يحمل تصريح إقامة.],,0.0,
+answer,Être citoyen français ou citoyen d'un autre État membre de l'Union européenne résidant en France. [أن تكون مواطنًا فرنسيًا أو مواطنًا لدولة أخرى عضو في الاتحاد الأوروبي مقيمًا في فرنسا.],,1.0,
+answer,Avoir plus de 25 ans. [أن يكون عمرك أكثر من 25 عامًا.],,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ? [كم مرة يتم إجراء الانتخابات الأوروبية؟],,,lvl1
+answer,Tous les 4 ans [كل 4 سنوات],,0.0,
+answer,Tous les 5 ans [كل 5 سنوات],,1.0,
+answer,Tous les 7 ans [كل 7 سنوات],,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ? [أي دولة هي الدولة المؤسسة للاتحاد الأوروبي؟],,,lvl1
+answer,La Pologne [بولندا],,0.0,
+answer,L'Allemagne [ألمانيا],,1.0,
+answer,L'Espagne [إسبانيا],,0.0,
+question,Quelle est la monnaie utilisée en France ? [ما هي العملة المستخدمة في فرنسا؟],,,lvl1
+answer,Le Franc [الفرنك],,0.0,
+answer,L'Euro [اليورو],,1.0,
+answer,Le Dollar [الدولار],,0.0,
+question,Qui élit les députés européens ? [من ينتخب أعضاء البرلمان الأوروبي؟],,,lvl1
+answer,Les parlements nationaux. [البرلمانات الوطنية.],,0.0,
+answer,Les citoyens européens par vote direct. [المواطنون الأوروبيون بالتصويت المباشر.],,1.0,
+answer,Le Conseil européen [المجلس الأوروبي],,0.0,
+question,Quand célèbre-t-on la journée de l'Europe ? [متى نحتفل بيوم أوروبا؟],,,lvl1
+answer,Le 1er janvier [الأول من يناير],,0.0,
+answer,Le 14 juillet [14 يوليو],,0.0,
+answer,Le 9 mai [9 مايو],,1.0,
+question,Qu'est-ce que l'État de droit ? [ما هي سيادة القانون؟],,,lvl2
+answer,Un État dirigé par un monarque. [دولة يحكمها ملك.],,0.0,
+answer,Un État où le chef a tous les pouvoirs. [دولة حيث يتمتع الزعيم بكل السلطة.],,0.0,
+answer,Un État dans lequel la puissance publique est soumise au droit. [دولة تخضع فيها السلطة العامة للقانون.],,1.0,
+question,Le président de la République a commis un crime. Quelle proposition est correcte ? [ارتكب رئيس الجمهورية جريمة. أي اقتراح هو الصحيح؟],,,lvl2
+answer,Il bénéficie d'une immunité totale à vie. [ويتمتع بالحصانة الكاملة مدى الحياة.],,0.0,
+answer,Il peut être jugé par une juridiction spéciale pour les actes commis en dehors de ses fonctions. [ويمكن أن يحاكم أمام محكمة خاصة على الأفعال المرتكبة خارج نطاق واجباته.],,1.0,
+answer,Seul le Parlement peut le juger. [والبرلمان وحده هو الذي يستطيع أن يحكم عليه.],,0.0,
+question,La loi est l'expression de : [القانون هو تعبير عن:],,,lvl2
+answer,La volonté du Gouvernement. [إرادة الحكومة.],,0.0,
+answer,La volonté du Président de la République. [إرادة رئيس الجمهورية.],,0.0,
+answer,La volonté générale. [الإرادة العامة.],,1.0,
+question,Quelle est la durée du mandat du conseil municipal et du maire ? [ما هي مدة ولاية المجلس البلدي ورئيس البلدية؟],,,lvl2
+answer,5 ans [5 سنوات],,0.0,
+answer,6 ans [6 سنوات],,1.0,
+answer,7 ans [7 سنوات],,0.0,
+question,Que garantit l’État de droit ? [ما الذي تضمنه سيادة القانون؟],,,lvl2
+answer,Que les lois peuvent changer sans contrôle. [أن القوانين يمكن أن تتغير دون رقابة.],,0.0,
+answer,Que l'administration est au-dessus des lois. [أن الإدارة فوق القوانين.],,0.0,
+answer,Que tous sont soumis au respect du droit et de la loi. [أن الجميع يخضعون لاحترام القانون والقانون.],,1.0,
+question,Une personne peut-elle voter à la place d'une autre ? [هل يمكن لشخص أن يصوت لشخص آخر؟],,,lvl2
+answer,"Oui, si elle présente la carte d'identité de l'autre personne. [نعم، إذا أبرزت بطاقة هوية الشخص الآخر.]",,0.0,
+answer,"Non, le vote est personnel, sauf en cas de procuration dans les conditions fixées par la loi. [لا، فالتصويت شخصي إلا في حالة التوكيل بالشروط التي يحددها القانون.]",,1.0,
+answer,"Oui, si la personne qui vote est de la même famille. [نعم إذا كان المصوت من نفس العائلة.]",,0.0,
+question,Est-ce que le vote est obligatoire ? [هل التصويت إلزامي؟],,,lvl2
+answer,"Non, le vote est un droit et une liberté, mais il n'est pas obligatoire en France. [لا، التصويت حق وحرية، لكنه ليس إلزاميا في فرنسا.]",,1.0,
+answer,"Oui, il est obligatoire pour tous les citoyens de plus de 18 ans. [نعم هو إلزامي لجميع المواطنين فوق سن 18 عاما.]",,0.0,
+answer,"Oui, sauf pour les élections européennes. [نعم، باستثناء الانتخابات الأوروبية.]",,0.0,
+question,"À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ? [وفي نهاية ولايته، هل يستطيع رئيس الجمهورية أن يقرر البقاء في السلطة؟]",,,lvl2
+answer,"Oui, s'il a le soutien du Gouvernement. [نعم إذا حظي بدعم الحكومة.]",,0.0,
+answer,"Non, il doit se représenter et être réélu par les citoyens. [لا، يجب عليه أن يترشح مرة أخرى وينتخبه المواطنون مرة أخرى.]",,1.0,
+answer,"Oui, en cas de crise nationale grave. [نعم، في حالة حدوث أزمة وطنية حادة.]",,0.0,
+question,Qui dirige l'action du Gouvernement ? [من يدير عمل الحكومة؟],,,lvl2
+answer,Le Président de l'Assemblée Nationale [رئيس الجمعية الوطنية],,0.0,
+answer,Le Premier ministre [الوزير الأول],,1.0,
+answer,Le Président de la République [رئيس الجمهورية],,0.0,
+question,Quelle est l'organisation administrative de la France ? [ما هو التنظيم الإداري في فرنسا؟],,,lvl2
+answer,Un État fédéral [دولة اتحادية],,0.0,
+answer,Un État unitaire décentralisé [دولة وحدوية لا مركزية],,1.0,
+answer,Une confédération d'États [اتحاد الدول],,0.0,
+question,Pourquoi séparer les trois pouvoirs dans une démocratie ? [لماذا الفصل بين السلطات الثلاث في النظام الديمقراطي؟],,,lvl2
+answer,Pour simplifier le travail du Gouvernement. [لتبسيط عمل الحكومة.],,0.0,
+answer,Pour donner plus d'autorité au Président. [لإعطاء المزيد من الصلاحيات للرئيس.],,0.0,
+answer,Pour éviter l'abus de pouvoir et garantir les libertés des citoyens. [لتجنب إساءة استخدام السلطة وضمان حريات المواطنين.],,1.0,
+question,Quel est le rôle du gouvernement ? [ما هو دور الحكومة؟],,,lvl2
+answer,Voter les lois et contrôler le Parlement. [التصويت على القوانين ومراقبة البرلمان.],,0.0,
+answer,Conduire la politique de la Nation et appliquer les lois votées par le Parlement. [قيادة سياسة الأمة وتطبيق القوانين التي أقرها البرلمان.],,1.0,
+answer,Juger les crimes et les délits. [الحكم على الجرائم والجنح.],,0.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ? [ماذا يحدث إذا لم يحترم الوزير القانون؟],,,lvl2
+answer,Il démissionne sans conséquence judiciaire. [يستقيل دون عواقب قانونية.],,0.0,
+answer,Il est jugé par la Cour de Justice de la République. [ويحاكم أمام محكمة عدل الجمهورية.],,1.0,
+answer,Il est jugé par le Premier ministre. [ويحكم عليه من قبل رئيس الوزراء.],,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ? [هل رئيس الجمهورية يملك كل الصلاحيات؟],,,lvl2
+answer,"Oui, il est le chef de l'État et du Gouvernement. [نعم هو رئيس الدولة والحكومة.]",,0.0,
+answer,"Non, le pouvoir est séparé entre trois organes. [لا، السلطة مفصولة بين ثلاث هيئات.]",,1.0,
+answer,"Oui, pendant les cinq ans de son mandat. [نعم، خلال سنوات ولايته الخمس.]",,0.0,
+question,Qui est le préfet ? [من هو المحافظ؟],,,lvl2
+answer,L'élu à la tête du Conseil départemental. [المسؤول المنتخب على رأس مجلس المحافظة.],,0.0,
+answer,Le chef de la police nationale. [رئيس الشرطة الوطنية.],,0.0,
+answer,Le représentant de l'État dans une région ou un département. [ممثل الدولة في المنطقة أو الدائرة.],,1.0,
+question,Quelle condition est nécessaire pour voter aux élections ? [ما هو الشرط الضروري للتصويت في الانتخابات؟],,,lvl2
+answer,Avoir plus de 21 ans. [أن يكون عمرك أكثر من 21 عامًا.],,0.0,
+answer,Être majeur et de nationalité française. [أن يكون بالغًا ويحمل الجنسية الفرنسية.],,1.0,
+answer,Résider en France depuis au moins 5 ans. [مقيم في فرنسا لمدة 5 سنوات على الأقل.],,0.0,
+question,Qu'est-ce que l'Hôtel de Matignon ? [ما هو فندق ماتينيون؟],,,lvl2
+answer,La résidence officielle du Président de la République. [المقر الرسمي لرئيس الجمهورية.],,0.0,
+answer,La résidence officielle et le bureau du Premier ministre. [المقر الرسمي ومكتب رئيس مجلس الوزراء.],,1.0,
+answer,Le siège de l'Assemblée Nationale. [مقر الجمعية الوطنية.],,0.0,
+question,Le Parlement est composé : [يتكون البرلمان من:],,,lvl2
+answer,Du Président de la République et du Premier ministre. [رئيس الجمهورية ورئيس الوزراء.],,0.0,
+answer,Du Conseil d'État et de la Cour de Cassation. [مجلس الدولة ومحكمة النقض.],,0.0,
+answer,De l'Assemblée Nationale et du Sénat. [من الجمعية الوطنية ومجلس الشيوخ.],,1.0,
+question,Quel est le rôle du président de la République ? [ما هو دور رئيس الجمهورية؟],,,lvl2
+answer,Appliquer les lois et gérer le budget. [تطبيق القوانين وإدارة الموازنة.],,0.0,
+answer,Garantir le bon fonctionnement des institutions et l'indépendance nationale. [ضمان حسن سير العمل في المؤسسات والاستقلال الوطني.],,1.0,
+answer,Juger les crimes et délits. [الحكم على الجرائم والجنح.],,0.0,
+question,Quel est le rôle du Premier ministre ? [ما هو دور رئيس الوزراء؟],,,lvl2
+answer,"Diriger l'action du Gouvernement, responsable devant le Parlement. [توجيه عمل الحكومة المسؤولة أمام البرلمان.]",,1.0,
+answer,Représenter la France dans le monde. [تمثيل فرنسا في العالم.],,0.0,
+answer,Contrôler les juges. [السيطرة على القضاة.],,0.0,
+question,Qui est le chef du Gouvernement ? [من هو رئيس الحكومة؟],,,lvl2
+answer,Le Président de la République [رئيس الجمهورية],,0.0,
+answer,Le Premier ministre [الوزير الأول],,1.0,
+answer,Le Président de la Région [رئيس المنطقة],,0.0,
+question,Combien y a-t-il de régions en France ? [كم عدد المناطق الموجودة في فرنسا؟],,,lvl2
+answer,18 [18],,1.0,
+answer,22 [22],,0.0,
+answer,96 [96],,0.0,
+question,Quel est le rôle du Défenseur des droits ? [ما هو دور المدافع عن الحقوق؟],,,lvl2
+answer,Défendre le territoire national. [الدفاع عن التراب الوطني.],,0.0,
+answer,Veiller au respect des droits et libertés par les administrations et lutter contre les discriminations. [ضمان احترام الحقوق والحريات من قبل الإدارات ومكافحة التمييز.],,1.0,
+answer,Rédiger les projets de loi du Gouvernement. [صياغة مشاريع قوانين الحكومة.],,0.0,
+question,Depuis quand l'euro est-elle la monnaie unique ? [منذ متى واليورو هو العملة الموحدة؟],,,lvl2
+answer,1999 [1999],,0.0,
+answer,2002 [2002],,1.0,
+answer,2007 [2007],,0.0,
+question,Quel est le rôle principal du département ? [ما هو الدور الرئيسي للقسم؟],,,lvl2
+answer,La défense nationale et la diplomatie. [الدفاع الوطني والدبلوماسية.],,0.0,
+answer,"L’action sociale, la gestion des collèges et des routes départementales. [العمل الاجتماعي وإدارة الكليات وطرق المقاطعة.]",,1.0,
+answer,La politique étrangère et la monnaie. [السياسة الخارجية والمال.],,0.0,
+question,Quel est le rôle principal des communes ? [ما هو الدور الرئيسي للبلديات؟],,,lvl2
+answer,L'enseignement supérieur et la défense nationale. [التعليم العالي والدفاع الوطني.],,0.0,
+answer,"L’état civil, l’urbanisme local et la gestion des écoles maternelles et primaires. [الحالة المدنية والتخطيط الحضري المحلي وإدارة المدارس التمهيدية والابتدائية.]",,1.0,
+answer,La politique étrangère et la monnaie. [السياسة الخارجية والمال.],,0.0,
+question,Combien de communes environ existe-t-il en France ? [كم عدد البلديات الموجودة في فرنسا تقريبًا؟],,,lvl2
+answer,Environ 5 000 [حوالي 5000],,0.0,
+answer,Environ 15 000 [حوالي 15000],,0.0,
+answer,Plus de 34 000 [أكثر من 34000],,1.0,
+question,Quel traité concerne la construction de l'Union européenne ? [ما هي المعاهدة التي تتعلق ببناء الاتحاد الأوروبي؟],,,lvl2
+answer,Le traité de Versailles [معاهدة فرساي],,0.0,
+answer,Le traité de Paris [معاهدة باريس],,0.0,
+answer,Le traité de Rome. [معاهدة روما.],,1.0,
+question,Quel État a quitté l'Union européenne en 2020 ? [ما هي الدولة التي غادرت الاتحاد الأوروبي في عام 2020؟],,,lvl2
+answer,La Norvège [النرويج],,0.0,
+answer,Le Royaume-Uni [المملكة المتحدة],,1.0,
+answer,La Suisse [سويسرا],,0.0,
+question,Quelle est la devise de l’Union européenne ? [ما هو شعار الاتحاد الأوروبي؟],,,lvl2
+answer,"Liberté, Égalité, Fraternité [الحرية والمساواة والأخوة]",,0.0,
+answer,Unie dans la diversité [متحدون في التنوع],,1.0,
+answer,Paix et Prospérité [السلام والازدهار],,0.0,
+question,Quel est l'hymne de l'Union européenne ? [ما هو النشيد الوطني للاتحاد الأوروبي؟],,,lvl2
+answer,L'Ode à la joie. [قصيدة الفرح.],,1.0,
+answer,La Marseillaise [المرسيليا],,0.0,
+answer,Le Chant du départ [أغنية المغادرة],,0.0,
+question,De quoi est composé le drapeau européen ? [مما يتكون العلم الأوروبي؟],,,lvl2
+answer,Un cercle de 27 étoiles de couleurs différentes. [دائرة مكونة من 27 نجمة بألوان مختلفة.],,0.0,
+answer,Un cercle de 12 étoiles dorées sur fond bleu. [دائرة مكونة من 12 نجمة ذهبية على خلفية زرقاء.],,1.0,
+answer,Un aigle impérial et des étoiles. [نسر إمبراطوري ونجوم.],,0.0,
+question,De quelle couleur est le drapeau européen ? [ما هو لون العلم الأوروبي؟],,,lvl2
+answer,Vert et blanc [أخضر وأبيض],,0.0,
+answer,Rouge et or [أحمر وذهبي],,0.0,
+answer,Bleu et or. [الأزرق والذهبي.],,1.0,
+question,En quelle année le traité de Maastricht a-t-il été signé ? [في أي عام تم التوقيع على معاهدة ماستريخت؟],,,lvl2
+answer,1957 [1957],,0.0,
+answer,1989 [1989],,0.0,
+answer,1992 [1992],,1.0,
+question,Où est le siège du Parlement européen ? [أين يقع مقر البرلمان الأوروبي؟],,,lvl2
+answer,Bruxelles [بروكسل],,0.0,
+answer,Strasbourg [ستراسبورغ],,1.0,
+answer,Berlin [برلين],,0.0,
+question,Où est le siège de la Commission européenne ? [أين يقع مقر المفوضية الأوروبية؟],,,lvl2
+answer,Strasbourg [ستراسبورغ],,0.0,
+answer,Bruxelles [بروکسل],,1.0,
+answer,Luxembourg [لوكسمبورغ],,0.0,
+question,Quel État n'est pas membre de l'Union européenne ? [ما هي الدولة غير العضو في الاتحاد الأوروبي؟],,,lvl2
+answer,L'Autriche [النمسا],,0.0,
+answer,La Norvège [النرويج],,1.0,
+answer,La Pologne [بولندا],,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ? [كم مرة يتم إجراء الانتخابات الأوروبية؟],,,lvl2
+answer,Tous les 4 ans [كل 4 سنوات],,0.0,
+answer,Tous les 5 ans [كل 5 سنوات],,1.0,
+answer,Tous les 6 ans [كل 6 سنوات],,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ? [أي دولة هي الدولة المؤسسة للاتحاد الأوروبي؟],,,lvl2
+answer,L'Irlande [أيرلندا],,0.0,
+answer,L'Italie [إيطاليا],,1.0,
+answer,La Grèce [اليونان],,0.0,
+question,Dans combien de pays le français est-il parlé? [في كم دولة يتم التحدث باللغة الفرنسية؟],,,lvl3
+answer,27 [27],,0.0,
+answer,18 [18],,0.0,
+answer,70 [70],,1.0,
+question,Que comprend l’état civil tenu par les communes? [ما الذي تتضمنه الحالة المدنية التي تحتفظ بها البلديات؟],,,lvl3
+answer,"Les naissances, mariages et décès [المواليد والزواج والوفيات]",,1.0,
+answer,Les résultats électoraux [نتائج الانتخابات],,0.0,
+answer,Les jugements judiciaires [أحكام قضائية],,0.0,
+question,Les Terres australes et antarctiques françaises sont… [الأراضي الفرنسية الجنوبية والقطب الجنوبي هي...],,,lvl3
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+answer,Une commune d’outre-mer [بلدية في الخارج],,0.0,
+question,Quelle est la durée du mandat des sénateurs en France? [ما هي مدة ولاية أعضاء مجلس الشيوخ في فرنسا؟],,,lvl3
+answer,7 ans [7 سنوات],,0.0,
+answer,6 ans [6 سنوات],,1.0,
+answer,5 ans [5 سنوات],,0.0,
+question,Qui est responsable des collèges? [من المسؤول عن الكليات؟],,,lvl3
+answer,La commune [المدينة],,0.0,
+answer,Le département [القسم],,1.0,
+answer,La région [المنطقة],,0.0,
+question,Qui administre une région en France? [من يدير منطقة في فرنسا؟],,,lvl3
+answer,Le conseil départemental [مجلس المحافظة],,0.0,
+answer,Le conseil régional [المجلس الإقليمي],,1.0,
+answer,Le préfet [المحافظ],,0.0,
+question,Quelle est la capitale de la région Hauts-de-France? [ما هي عاصمة منطقة أوت دو فرانس؟],,,lvl3
+answer,Arras [أراس],,0.0,
+answer,Amiens [أميان],,0.0,
+answer,Lille [ليل],,1.0,
+question,Mayotte est… [مايوت هي...],,,lvl3
+answer,Un conseil d’outre-mer [مجلس في الخارج],,0.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,1.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,0.0,
+question,Saint-Martin est… [القديس مارتن هو...],,,lvl3
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+answer,Un conseil d’outre-mer [مجلس في الخارج],,0.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+question,Quel est le principe de la démocratie française? [ما هو مبدأ الديمقراطية الفرنسية؟],,,lvl3
+answer,"Le gouvernement des élites, pour les élites [حكومة النخب، من أجل النخب]",,0.0,
+answer,Le gouvernement par l’armée [الحكومة من قبل الجيش],,0.0,
+answer,"Le gouvernement du peuple, par le peuple et pour le peuple [حكومة الشعب بالشعب وللشعب]",,1.0,
+question,Quelle est la capitale de la Martinique? [ما هي عاصمة المارتينيك؟],,,lvl3
+answer,Saint-Pierre [القديس بطرس],,0.0,
+answer,Fort-de-France [فور دو فرانس],,1.0,
+answer,Le Lamentin [رثاء],,0.0,
+question,Quelle est la capitale de La Réunion? [ما هي عاصمة لاريونيون؟],,,lvl3
+answer,Saint-Denis [سان دوني],,1.0,
+answer,Mamoudzou [مامودزو],,0.0,
+answer,Saint-Pierre [القديس بطرس],,0.0,
+question,Que peuvent faire librement les partis politiques en France? [ما الذي تستطيع الأحزاب السياسية أن تفعله بحرية في فرنسا؟],,,lvl3
+answer,Se former et exercer leur activité [تدريب وممارسة نشاطهم],,1.0,
+answer,Exister seulement s’ils sont religieux [توجد فقط إذا كانت دينية],,0.0,
+answer,Être autorisés uniquement par le président [أن يؤذن فقط من قبل الرئيس],,0.0,
+question,Saint-Barthélemy est… [سانت بارتيليمي هي...],,,lvl3
+answer,Une commune d’outre-mer [بلدية في الخارج],,0.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+question,À quoi est soumis le pouvoir politique en France? [ما الذي تخضع له السلطة السياسية في فرنسا؟],,,lvl3
+answer,À la volonté d’un seul chef [بناء على رغبة قائد واحد],,0.0,
+answer,À la loi [للقانون],,1.0,
+answer,À la religion dominante [للديانة السائدة],,0.0,
+question,De quoi les départements sont-ils responsables? [ما هي الإدارات المسؤولة عن؟],,,lvl3
+answer,De la défense nationale [عن الدفاع الوطني],,0.0,
+answer,"Des collèges, de la protection de l’enfance, de l’aide aux personnes âgées [الكليات وحماية الطفل ورعاية المسنين]",,1.0,
+answer,De la politique étrangère [السياسة الخارجية],,0.0,
+question,Quelle est la capitale de la Guadeloupe? [ما هي عاصمة جوادلوب؟],,,lvl3
+answer,Saint-François [سانت فرانسوا],,0.0,
+answer,Basse-Terre [باس تير],,1.0,
+answer,Pointe-à-Pitre [بوانت-آ-بيتر],,0.0,
+question,La Guyane est… [جويانا هي...],,,lvl3
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,1.0,
+answer,Un conseil d’outre-mer [مجلس في الخارج],,0.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,0.0,
+question,Qui est responsable des écoles primaires? [من المسؤول عن المدارس الابتدائية؟],,,lvl3
+answer,La région [المنطقة],,0.0,
+answer,La commune [المدينة],,1.0,
+answer,Le département [القسم],,0.0,
+question,La Nouvelle-Calédonie est… [كاليدونيا الجديدة هي...],,,lvl3
+answer,Une commune d’outre-mer [بلدية في الخارج],,0.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+question,Tous les combien d’années ont lieu les élections législatives pour élire les députés? [كم مرة تجرى الانتخابات التشريعية لانتخاب النواب؟],,,lvl3
+answer,Tous les 5 ans [كل 5 سنوات],,1.0,
+answer,Tous les 4 ans [كل 4 سنوات],,0.0,
+answer,Tous les 6 ans [كل 6 سنوات],,0.0,
+question,Quelle est la capitale de la région Occitanie? [ما هي عاصمة منطقة أوكسيتاني؟],,,lvl3
+answer,Toulouse [تولوز],,1.0,
+answer,Nîmes [نيم],,0.0,
+answer,Montpellier [مونبلييه],,0.0,
+question,Quelle place occupe la France à l’ONU? [ما هو الموقف الذي تحتله فرنسا في الأمم المتحدة؟],,,lvl3
+answer,Membre permanent du Conseil de sécurité [عضو دائم في مجلس الأمن],,1.0,
+answer,Secrétaire général [الأمين العام],,0.0,
+answer,Membre non permanent du Conseil de sécurité [عضو غير دائم في مجلس الأمن],,0.0,
+question,Quelle est la capitale de la région Grand Est? [ما هي عاصمة منطقة جراند إيست؟],,,lvl3
+answer,Strasbourg [ستراسبورغ],,1.0,
+answer,Metz [ميتز],,0.0,
+answer,Nancy [نانسي],,0.0,
+question,Que partagent les États membres de l’Union européenne? [ما الذي تتقاسمه الدول الأعضاء في الاتحاد الأوروبي؟],,,lvl3
+answer,Des principes démocratiques [المبادئ الديمقراطية],,1.0,
+answer,Une même langue [نفس اللغة],,0.0,
+answer,Une même armée [نفس الجيش],,0.0,
+question,Quelle est la capitale de Mayotte? [ما هي عاصمة مايوت؟],,,lvl3
+answer,Mamoudzou [مامودزو],,1.0,
+answer,Koungou [كونغو],,0.0,
+answer,Dzaoudzi [دزاودزي],,0.0,
+question,Qui est responsable de la formation professionnelle? [من هو المسؤول عن التدريب المهني؟],,,lvl3
+answer,Le département [القسم],,0.0,
+answer,La commune [المدينة],,0.0,
+answer,La région [المنطقة],,1.0,
+question,Que sanctionne la justice en France? [ما الذي يعاقب عليه القضاء في فرنسا؟],,,lvl3
+answer,Les choix religieux [الخيارات الدينية],,0.0,
+answer,Les infractions aux règles de droit [مخالفات سيادة القانون],,1.0,
+answer,Les opinions politiques [آراء سياسية],,0.0,
+question,En quelle année a été adoptée la Charte des droits fondamentaux de l’Union européenne? [في أي عام تم اعتماد ميثاق الحقوق الأساسية للاتحاد الأوروبي؟],,,lvl3
+answer,2000 [2000],,1.0,
+answer,1992 [1992],,0.0,
+answer,1957 [1957],,0.0,
+question,Quelle est la capitale de Wallis-et-Futuna? [ما هي عاصمة واليس وفوتونا؟],,,lvl3
+answer,Wallis [واليس],,0.0,
+answer,Mata-Utu [ماتا-أوتو],,1.0,
+answer,Futuna [فوتونا],,0.0,
+question,De quoi les communes sont-elles responsables? [ما هي البلديات المسؤولة عن؟],,,lvl3
+answer,"Des écoles maternelles et primaires, des activités sportives et culturelles, de la voirie communale, de l’état civil [المدارس التمهيدية والابتدائية، الأنشطة الرياضية والثقافية، الطرق البلدية، الحالة المدنية]",,1.0,
+answer,Des impôts nationaux [الضرائب الوطنية],,0.0,
+answer,Des universités et de la recherche [من الجامعات والبحث],,0.0,
+question,Tous les combien d’années ont lieu les élections du Parlement européen? [كم مرة تجرى انتخابات البرلمان الأوروبي؟],,,lvl3
+answer,Tous les 6 ans [كل 6 سنوات],,0.0,
+answer,Tous les 10 ans [كل 10 سنوات],,0.0,
+answer,Tous les 5 ans [كل 5 سنوات],,1.0,
+question,La Réunion est… [الاجتماع هو...],,,lvl3
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,1.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,0.0,
+answer,Une commune d’outre-mer [بلدية في الخارج],,0.0,
+question,Qui est responsable des transports publics régionaux? [من المسؤول عن وسائل النقل العام الإقليمية؟],,,lvl3
+answer,La commune [المدينة],,0.0,
+answer,Le département [القسم],,0.0,
+answer,La région [المنطقة],,1.0,
+question,Quelles peines peuvent être prononcées par la justice? [ما هي العقوبات التي يمكن أن ينطق بها القضاء؟],,,lvl3
+answer,"Emprisonnement, amende [السجن والغرامة]",,1.0,
+answer,Déchéance automatique de nationalité [الفقدان التلقائي للجنسية],,0.0,
+answer,Travail bénévole obligatoire [العمل التطوعي الإلزامي],,0.0,
+question,Par qui la justice est-elle rendue en France? [من يطبق العدالة في فرنسا؟],,,lvl3
+answer,Par les députés [عن طريق النواب],,0.0,
+answer,Par les juges [من قبل القضاة],,1.0,
+answer,Par le Président [من قبل الرئيس],,0.0,
+question,Donne trois exemples de collectivités d’outre-mer françaises. [أعط ثلاثة أمثلة على المجتمعات الفرنسية في الخارج.],,,lvl3
+answer,"Luxembourg, Andorre, Suisse [لوكسمبورغ، أندورا، سويسرا]",,0.0,
+answer,"Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna [كاليدونيا الجديدة، بولينيزيا الفرنسية، واليس وفوتونا]",,1.0,
+answer,"Corse, Provence, Bretagne [كورسيكا وبروفانس وبريتاني]",,0.0,
+question,Qui est responsable de la construction des lycées? [من هو المسؤول عن بناء المدارس الثانوية؟],,,lvl3
+answer,Le département [القسم],,0.0,
+answer,La région [المنطقة],,1.0,
+answer,La commune [المدينة],,0.0,
+question,Comment les lois traitent-elles les citoyens? [كيف تعامل القوانين المواطنين؟],,,lvl3
+answer,Selon leur origine sociale [بحسب أصولهم الاجتماعية],,0.0,
+answer,Selon leur religion [بحسب دينهم],,0.0,
+answer,De façon égale [بالتساوي],,1.0,
+question,Quelle est la capitale de la Nouvelle-Calédonie? [ما هي عاصمة كاليدونيا الجديدة؟],,,lvl3
+answer,Papeete [بابيتي],,0.0,
+answer,Koné [كوني],,0.0,
+answer,Nouméa [نوميا],,1.0,
+question,Quelle est la capitale de Saint-Pierre-et-Miquelon? [ما هي عاصمة سان بيير وميكلون؟],,,lvl3
+answer,Miquelon [ميكلون],,0.0,
+answer,Saint-Denis [سان دوني],,0.0,
+answer,Saint-Pierre [القديس بطرس],,1.0,
+question,La Guadeloupe est… [جوادلوب هي...],,,lvl3
+answer,Une commune d’outre-mer [بلدية في الخارج],,0.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,1.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,0.0,
+question,Selon quel texte le pouvoir politique doit-il fonctionner? [وفقا لأي نص يجب أن تعمل السلطة السياسية؟],,,lvl3
+answer,Les traditions religieuses [التقاليد الدينية],,0.0,
+answer,Les coutumes locales [العادات المحلية],,0.0,
+answer,La Constitution et la loi [الدستور والقانون],,1.0,
+question,Wallis-et-Futuna est… [واليس وفوتونا هي...],,,lvl3
+answer,Une commune d’outre-mer [بلدية في الخارج],,0.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+question,Quelle est la capitale de la région Centre-Val de Loire? [ما هي عاصمة منطقة سانتر فال دو لوار؟],,,lvl3
+answer,Tours [أبراج],,0.0,
+answer,Orléans [اورليان],,1.0,
+answer,Blois [بلوا],,0.0,
+question,Quelle est la capitale de Saint-Martin? [ما هي عاصمة القديس مارتن؟],,,lvl3
+answer,Marigot [ماريجوت],,1.0,
+answer,Gustavia [غوستافيا],,0.0,
+answer,Phillipsburg [فيليبسبورج],,0.0,
+question,Quels droits sont associés à la citoyenneté européenne? [ما هي الحقوق المرتبطة بالمواطنة الأوروبية؟],,,lvl3
+answer,"Circuler, travailler, étudier, s’installer dans les autres pays de l’Union [السفر والعمل والدراسة والاستقرار في دول الاتحاد الأخرى]",,1.0,
+answer,Être exempté d’impôts [تكون معفاة من الضرائب],,0.0,
+answer,Avoir automatiquement deux nationalités [أن يكون لديك جنسيتين تلقائيا],,0.0,
+question,Dans combien de pays européens l’euro est-il utilisé avec la France? [في أي دولة أوروبية يتم استخدام اليورو مع فرنسا؟],,,lvl3
+answer,27 [27],,0.0,
+answer,20 [20],,1.0,
+answer,12 [12],,0.0,
+question,Quelle est la capitale de la région Corse? [ما هي عاصمة منطقة كورسيكا؟],,,lvl3
+answer,Bastia [باستيا],,0.0,
+answer,Calvi [كالفي],,0.0,
+answer,Ajaccio [أجاكسيو],,1.0,
+question,Quelle est la capitale de la région Normandie? [ما هي عاصمة منطقة نورماندي؟],,,lvl3
+answer,Rouen [روان],,1.0,
+answer,Caen [كاين],,0.0,
+answer,Le Havre [لوهافر],,0.0,
+question,Quelle autorité enregistre les décès? [ما هي الجهة التي تسجل الوفيات؟],,,lvl3
+answer,Le département [القسم],,0.0,
+answer,La commune [المدينة],,1.0,
+answer,La région [المنطقة],,0.0,
+question,Par quel mode de scrutin est élu le Président de la République? [ما هو نظام التصويت لانتخاب رئيس الجمهورية؟],,,lvl3
+answer,Au suffrage universel indirect [بالاقتراع العام غير المباشر],,0.0,
+answer,Au suffrage universel direct [بالاقتراع العام المباشر],,1.0,
+answer,Par nomination du Parlement [بالتعيين من قبل البرلمان],,0.0,
+question,Pour combien de temps le maire est-il élu? [كم من الوقت يتم انتخاب رئيس البلدية؟],,,lvl3
+answer,4 ans [4 سنوات],,0.0,
+answer,6 ans [6 سنوات],,1.0,
+answer,5 ans [5 سنوات],,0.0,
+question,Pour combien de temps les conseillers régionaux sont-ils élus? [ما هي مدة انتخاب أعضاء المجالس الإقليمية؟],,,lvl3
+answer,6 ans [6 سنوات],,1.0,
+answer,5 ans [5 سنوات],,0.0,
+answer,7 ans [7 سنوات],,0.0,
+question,Comment les communes sont-elles regroupées? [كيف يتم تجميع البلديات معًا؟],,,lvl3
+answer,En départements [في الأقسام],,0.0,
+answer,En régions [في المناطق],,0.0,
+answer,"En intercommunalités [في ما بين البلديات]",,1.0,
+question,Comment sont élus les sénateurs en France? [كيف يتم انتخاب أعضاء مجلس الشيوخ في فرنسا؟],,,lvl3
+answer,Au suffrage universel indirect [بالاقتراع العام غير المباشر],,1.0,
+answer,Par le Président de la République [من قبل رئيس الجمهورية],,0.0,
+answer,Au suffrage universel direct [بالاقتراع العام المباشر],,0.0,
+question,Qui est responsable de la voirie communale? [من هو المسؤول عن الطرق البلدية؟],,,lvl3
+answer,La région [المنطقة],,0.0,
+answer,La commune [المدينة],,1.0,
+answer,Le département [القسم],,0.0,
+question,Qui peut représenter l’État dans certaines collectivités d’outre-mer? [من يمكنه تمثيل الدولة في مجتمعات خارجية معينة؟],,,lvl3
+answer,Les hauts-commissaires [المفوضون الساميون],,1.0,
+answer,Les gouverneurs élus [المحافظين المنتخبين],,0.0,
+answer,Les ambassadeurs [السفراء],,0.0,
+question,Quelle est la capitale de la région Auvergne-Rhône-Alpes? [ما هي عاصمة منطقة أوفيرني رون ألب؟],,,lvl3
+answer,Chambéry [شامبيري],,0.0,
+answer,Grenoble [غرونوبل],,0.0,
+answer,Lyon [ليون],,1.0,
+question,Qui administre les départements? [من يدير الإدارات؟],,,lvl3
+answer,Les maires [العمد],,0.0,
+answer,Les conseils départementaux [مجالس المقاطعات],,1.0,
+answer,Les conseils régionaux [المجالس الإقليمية],,0.0,
+question,Qu’est-ce qui est garanti concernant la justice en France? [ما هو المضمون فيما يتعلق بالعدالة في فرنسا؟],,,lvl3
+answer,Son indépendance [استقلالها],,1.0,
+answer,Sa dépendance au gouvernement [اعتمادها على الحكومة],,0.0,
+answer,Sa soumission aux partis politiques [خضوعها للأحزاب السياسية],,0.0,
+question,Que règle la justice en France? [ما الذي تنظمه العدالة في فرنسا؟],,,lvl3
+answer,Les élections présidentielles [الانتخابات الرئاسية],,0.0,
+answer,"Les litiges entre particuliers, entreprises et citoyens avec l’administration [الخلافات بين الأفراد والشركات والمواطنين مع الإدارة]",,1.0,
+answer,Les décisions économiques du Gouvernement [القرارات الاقتصادية للحكومة],,0.0,
+question,Qui administre les régions? [من يدير المناطق؟],,,lvl3
+answer,Les préfets [المحافظين],,0.0,
+answer,Le Sénat [مجلس الشيوخ],,0.0,
+answer,Les conseils régionaux [المجالس الإقليمية],,1.0,
+question,Depuis quelle année les citoyens français sont-ils aussi citoyens européens? [منذ أي عام أصبح المواطنون الفرنسيون مواطنين أوروبيين أيضًا؟],,,lvl3
+answer,1957 [1957],,0.0,
+answer,1992 [1992],,1.0,
+answer,2000 [2000],,0.0,
+question,Qui est responsable de l’aide aux personnes âgées? [من المسؤول عن مساعدة كبار السن؟],,,lvl3
+answer,La région [المنطقة],,0.0,
+answer,Le département [القسم],,1.0,
+answer,La commune [المدينة],,0.0,
+question,Quel texte définit l’organisation de l’État en France? [ما هو النص الذي يحدد تنظيم الدولة في فرنسا؟],,,lvl3
+answer,Le Code civil [القانون المدني],,0.0,
+answer,La Constitution [الدستور],,1.0,
+answer,La Déclaration des droits de l’homme et du citoyen [إعلان حقوق الإنسان والمواطن],,0.0,
+question,Quels sont les cinq départements-régions d’outre-mer? [ما هي المقاطعات والمناطق الخمسة الواقعة فيما وراء البحار؟],,,lvl3
+answer,"Guadeloupe, Guyane, Martinique, Mayotte, La Réunion [جوادلوب، غيانا، المارتينيك، مايوت، لاريونيون]",,1.0,
+answer,"Corse, Monaco, Andorre, Luxembourg, Sardaigne [كورسيكا وموناكو وأندورا ولوكسمبورغ وسردينيا]",,0.0,
+answer,"Polynésie française, Wallis-et-Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon [بولينيزيا الفرنسية، واليس وفوتونا، سانت بارتيليمي، سانت مارتن، سان بيير وميكلون]",,0.0,
+question,Que garantit la Charte des droits fondamentaux de l’Union européenne? [ما الذي يضمنه ميثاق الحقوق الأساسية للاتحاد الأوروبي؟],,,lvl3
+answer,L’unité monétaire [وحدة العملة],,0.0,
+answer,Les droits des personnes [حقوق الناس],,1.0,
+answer,La politique étrangère commune [السياسة الخارجية المشتركة],,0.0,
+question,De quelle majorité politique le Premier ministre est-il issu? [ما هي الأغلبية السياسية التي يأتي منها رئيس الوزراء؟],,,lvl3
+answer,De la majorité au Sénat [من الأغلبية في مجلس الشيوخ],,0.0,
+answer,De la majorité présidentielle uniquement [من الأغلبية الرئاسية فقط],,0.0,
+answer,De la majorité aux élections législatives [من الأغلبية في الانتخابات التشريعية],,1.0,
+question,Quelle est la capitale de la région Nouvelle-Aquitaine? [ما هي عاصمة منطقة نوفيل آكيتاين؟],,,lvl3
+answer,Limoges [ليموج],,0.0,
+answer,Bordeaux [بوردو],,1.0,
+answer,Pau [باو],,0.0,
+question,Quelle est la capitale de la région Provence-Alpes-Côte d’Azur? [ما هي عاصمة منطقة بروفانس ألب كوت دازور؟],,,lvl3
+answer,Marseille [مرسيليا],,1.0,
+answer,Toulon [تولون],,0.0,
+answer,Nice [لطيف],,0.0,
+question,Qui est responsable de la protection de l’enfance? [من هو المسؤول عن حماية الطفل؟],,,lvl3
+answer,La région [المنطقة],,0.0,
+answer,Le département [القسم],,1.0,
+answer,La commune [المدينة],,0.0,
+question,De quoi les régions sont-elles responsables? [ما هي المناطق المسؤولة عنها؟],,,lvl3
+answer,"Des transports publics, de la formation professionnelle, de la construction et de l’entretien des lycées [وسائل النقل العام والتدريب المهني وبناء المدارس الثانوية وصيانتها]",,1.0,
+answer,Des écoles maternelles [من مدارس الحضانة],,0.0,
+answer,Des hôpitaux militaires [مستشفيات عسكرية],,0.0,
+question,Quelle est la capitale de la région Bourgogne-Franche-Comté? [ما هي عاصمة منطقة بورغوندي فرانش كومتيه؟],,,lvl3
+answer,Mâcon [ماكون],,0.0,
+answer,Besançon [بيزانسون],,0.0,
+answer,Dijon [ديجون],,1.0,
+question,Quelle est la capitale de la Polynésie française? [ما هي عاصمة بولينيزيا الفرنسية؟],,,lvl3
+answer,Raiatea [راياتيا],,0.0,
+answer,Papeete [بابيتي],,1.0,
+answer,Nouméa [نوميا],,0.0,
+question,Qui est responsable des activités culturelles locales? [من هو المسؤول عن الأنشطة الثقافية المحلية؟],,,lvl3
+answer,La région [المنطقة],,0.0,
+answer,Le département [القسم],,0.0,
+answer,La commune [المدينة],,1.0,
+question,Quelle est la place économique de la France dans le monde? [ما هو الوضع الاقتصادي لفرنسا في العالم؟],,,lvl3
+answer,Dixième puissance mondiale [عاشر قوة عالمية],,0.0,
+answer,Sixième puissance mondiale [سادس قوة عالمية],,1.0,
+answer,Première puissance mondiale [أول قوة عالمية],,0.0,
+question,Saint-Pierre-et-Miquelon est… [سان بيير وميكلون هو...],,,lvl3
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+answer,Un conseil d’outre-mer [مجلس في الخارج],,0.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+question,Qui est responsable de l’entretien des lycées? [من هو المسؤول عن صيانة المدارس الثانوية؟],,,lvl3
+answer,La commune [المدينة],,0.0,
+answer,La région [المنطقة],,1.0,
+answer,Le département [القسم],,0.0,
+question,Quelle est la capitale de la Guyane française? [ما هي عاصمة جويانا الفرنسية؟],,,lvl3
+answer,Fort-de-France [فور دو فرانس],,0.0,
+answer,Cayenne [فلفل حريف],,1.0,
+answer,Mamoudzou [مامودزو],,0.0,
+question,Combien de collectivités d’outre-mer la France compte-t-elle? [كم عدد المجتمعات الأجنبية في فرنسا؟],,,lvl3
+answer,7 [7],,1.0,
+answer,12 [12],,0.0,
+answer,5 [5],,0.0,
+question,Quelle est la capitale de Saint-Barthélemy? [ما هي عاصمة سان بارتليمي؟],,,lvl3
+answer,Marigot [ماريجوت],,0.0,
+answer,Saint-Martin [القديس مارتن],,0.0,
+answer,Gustavia [غوستافيا],,1.0,
+question,Qui représente l’État dans les départements et régions? [من يمثل الدولة في الإدارات والمناطق؟],,,lvl3
+answer,Le député [النائب],,0.0,
+answer,Le maire [العمدة],,0.0,
+answer,Le préfet [المحافظ],,1.0,
+question,Combien de chambres composent le Parlement français? [كم عدد الغرف التي يتكون منها البرلمان الفرنسي؟],,,lvl3
+answer,Trois [ثلاثة],,0.0,
+answer,Une [واحد],,0.0,
+answer,Deux [اثنان],,1.0,
+question,Quelle proportion de la population mondiale représentent les Français? [ما هي نسبة سكان العالم التي يمثلها الفرنسيون؟],,,lvl3
+answer,1 % [1%],,1.0,
+answer,10 % [10%],,0.0,
+answer,5 % [5%],,0.0,
+question,Quelle est la capitale de la région Bretagne? [ما هي عاصمة منطقة بريتاني؟],,,lvl3
+answer,Vannes [فان],,0.0,
+answer,Quimper [كويمبر],,0.0,
+answer,Rennes [رين],,1.0,
+question,La Polynésie française est… [بولينيزيا الفرنسية هي...],,,lvl3
+answer,Un conseil d’outre-mer [مجلس في الخارج],,0.0,
+answer,Une collectivité d’outre-mer [مجتمع خارجي],,1.0,
+answer,Un département et région d’outre-mer [قسم ومنطقة خارجية],,0.0,
+question,Combien de territoires d’outre-mer la France compte-t-elle au total? [كم عدد الأقاليم الموجودة في فرنسا إجمالاً؟],,,lvl3
+answer,5 [5],,0.0,
+answer,12 [12],,1.0,
+answer,7 [7],,0.0,
+question,Que peuvent faire les citoyens français installés dans un autre pays de l’Union? [ما الذي يمكن أن يفعله المواطنون الفرنسيون الذين استقروا في دولة أخرى في الاتحاد الأوروبي؟],,,lvl3
+answer,Être automatiquement fonctionnaires de ce pays [أن يصبحوا تلقائيا موظفين مدنيين في هذا البلد],,0.0,
+answer,Voter aux élections locales de ce pays [التصويت في الانتخابات المحلية في هذا البلد],,1.0,
+answer,Se présenter à la présidence de ce pays [الترشح لرئاسة هذا البلد],,0.0,

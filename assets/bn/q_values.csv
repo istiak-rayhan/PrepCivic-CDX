@@ -1,0 +1,501 @@
+Type,Text,Placeholder,IsCorrect,Level
+question,"Comment s’appelle la Constitution actuelle de la France ? (ফ্রান্সের বর্তমান সংবিধানের নাম কী ?)",,,lvl1
+answer,"La Constitution de 1946 (১৯৪৬ সালের সংবিধান)",,0,
+answer,"La Constitution de la Ve République (পঞ্চম প্রজাতন্ত্রের সংবিধান)",,1,
+answer,"La Charte des droits fondamentaux (মৌলিক অধিকারের চার্টার)",,0,
+question,"Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ? (ফ্রান্সে বসবাসকারী ব্যক্তিদের অধিকার ও কর্তব্য ঘোষণা করে এমন নথির নাম কী ?)",,,lvl1
+answer,"Le Code du travail (শ্রম আইন)",,0,
+answer,"La Charte des droits fondamentaux de l'Union européenne (ইউরোপীয় ইউনিয়নের মৌলিক অধিকারের চার্টার)",,0,
+answer,"La Déclaration des droits de l'homme et du citoyen (মানবাধিকার ও নাগরিক অধিকারের ঘোষণা)",,1,
+question,"Concernant les droits individuels, quelle proposition est correcte ? (ব্যক্তিগত অধিকারের বিষয়ে, কোন প্রস্তাবটি সঠিক ?)",,,lvl1
+answer,"Ils sont illimités. (তারা সীমাহীন।)",,0,
+answer,"Ils sont subordonnés aux intérêts religieux. (তারা ধর্মীয় স্বার্থের অধীন।)",,0,
+answer,"Ils sont limités par la loi et ne doivent pas nuire aux autres. (তারা আইন দ্বারা সীমাবদ্ধ এবং অন্যের ক্ষতি করা উচিত নয়।)",,1,
+question,"De quelle année date la Déclaration des droits de l’homme et du citoyen ? (মানবাধিকার ও নাগরিক অধিকারের ঘোষণার সাল কত ?)",,,lvl1
+answer,"1958 (১৯৫৮)",,0,
+answer,"1789 (১৭৮৯)",,1,
+answer,"1905 (১৯০৫)",,0,
+question,"Lequel de ces droits est un droit fondamental ? (এই অধিকারগুলির মধ্যে কোনটি একটি মৌলিক অধিকার ?)",,,lvl1
+answer,"Le droit d'ignorer la loi. (আইনকে উপেক্ষা করার অধিকার।)",,0,
+answer,"Le droit de propriété collective. (যৌথ সম্পত্তির অধিকার।)",,0,
+answer,"Le droit d'aller et venir (liberté de circulation). (চলাচলের অধিকার (চলাচলের স্বাধীনতা)।)",,1,
+question,"Parmi ces textes, lequel garantit les droits et libertés en France ? (এই নথিগুলির মধ্যে কোনটি ফ্রান্সে অধিকার ও স্বাধীনতা নিশ্চিত করে ?)",,,lvl1
+answer,"Le Code pénal (ফৌজদারি আইন)",,0,
+answer,"Le Bloc de constitutionnalité (DDHC 1789, Constitution...). (সাংবিধানিক ব্লক (DDHC ১৭৮৯, সংবিধান...)।)",,1,
+answer,"La loi sur la presse (প্রেস আইন)",,0,
+question,"Qu’est-ce que la liberté d’expression ? (মত প্রকাশের স্বাধীনতা কী ?)",,,lvl1
+answer,"Le droit de ne pas avoir à justifier ses propos. (নিজের বক্তব্য সমর্থন করার প্রয়োজন না থাকার অধিকার।)",,0,
+answer,"Le droit de communiquer ses idées et opinions, dans le respect de la loi. (আইন মেনে নিজের ধারণা ও মতামত জানানোর অধিকার।)",,1,
+answer,"Le droit d'insulter sans risque de sanction. (শাস্তি পাওয়ার ঝুঁকি ছাড়াই অপমান করার অধিকার।)",,0,
+question,"Quel droit permet à une personne de se défendre devant la justice ? (কোন অধিকার একজন ব্যক্তিকে বিচারের সামনে নিজের আত্মরক্ষা করার সুযোগ দেয় ?)",,,lvl1
+answer,"La liberté de culte (ধর্ম পালনের স্বাধীনতা)",,0,
+answer,"Le droit de grève (ধর্মঘট করার অধিকার)",,0,
+answer,"Le droit à un procès équitable (droit de la défense). (একটি ন্যায্য বিচার পাওয়ার অধিকার (আত্মরক্ষার অধিকার)।)",,1,
+question,"Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ? (ফ্রান্সে প্রতিটি নাগরিকের অধিকার ও কর্তব্য প্রতিষ্ঠা করে এমন মৌলিক নথি কোনটি ?)",,,lvl1
+answer,"Le Code civil (বেসামরিক আইন)",,0,
+answer,"La Déclaration des droits de l'homme et du citoyen de 1789 (DDHC). (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকারের ঘোষণা (DDHC)।)",,1,
+answer,"La Charte de la laïcité (ধর্মনিরপেক্ষতার চার্টার)",,0,
+question,"Quel texte a été adopté pendant la Révolution française ? (ফরাসি বিপ্লবের সময় কোন নথি গৃহীত হয়েছিল ?)",,,lvl1
+answer,"Le Traité de l'Élysée (এলিসি চুক্তি)",,0,
+answer,"La Charte de l'environnement (পরিবেশ চার্টার)",,0,
+answer,"La Déclaration des droits de l'homme et du citoyen (DDHC). (মানবাধিকার ও নাগরিক অধিকারের ঘোষণা (DDHC)।)",,1,
+question,"Quelle liberté permet à une personne de ne pas avoir de religion ? (কোন স্বাধীনতা একজন ব্যক্তিকে ধর্ম না রাখার সুযোগ দেয় ?)",,,lvl1
+answer,"La liberté d'association (সংঘবদ্ধ হওয়ার স্বাধীনতা)",,0,
+answer,"La liberté de conscience (ou de croyance). (বিবেকের স্বাধীনতা (বা বিশ্বাসের)।)",,1,
+answer,"La liberté d'expression (মত প্রকাশের স্বাধীনতা)",,0,
+question,"Une femme peut avorter : (একজন মহিলা গর্ভপাত করতে পারেন :)",,,lvl1
+answer,"Seulement en cas de viol (শুধুমাত্র ধর্ষণের ক্ষেত্রে)",,0,
+answer,"Seulement avec l'accord de son mari (শুধুমাত্র তার স্বামীর সম্মতিতে)",,0,
+answer,"Dans les conditions et les délais fixés par la loi (IVG). (আইন দ্বারা নির্ধারিত শর্ত ও সময়ের মধ্যে (IVG)।)",,1,
+question,"Est-il toujours possible de divorcer ? (বিবাহবিচ্ছেদ কি সর্বদা সম্ভব ?)",,,lvl1
+answer,"Non, seulement si l'un des conjoints est d'accord (না, শুধুমাত্র যদি একজন পত্নী সম্মত হন)",,0,
+answer,"Oui, selon les procédures prévues par la loi (avec ou sans juge). (হ্যাঁ, আইন দ্বারা নির্ধারিত পদ্ধতি অনুসারে (বিচারক সহ বা ছাড়া)।)",,1,
+answer,"Non, seulement après 10 ans de mariage (না, শুধুমাত্র ১০ বছর বিবাহের পরে)",,0,
+question,"La peine de mort est : (মৃত্যুদণ্ড হল :)",,,lvl1
+answer,"Légale mais seulement en temps de guerre (আইনগত তবে শুধুমাত্র যুদ্ধের সময়)",,0,
+answer,"Abolie et interdite par la Constitution française. (ফরাসি সংবিধান দ্বারা বিলুপ্ত এবং নিষিদ্ধ।)",,1,
+answer,"Autorisée seulement pour les crimes contre l'État (শুধুমাত্র রাষ্ট্রের বিরুদ্ধে অপরাধের জন্য অনুমোদিত)",,0,
+question,"Concernant les limites aux libertés individuelles, quelle proposition est correcte ? (ব্যক্তিগত স্বাধীনতার সীমাবদ্ধতার বিষয়ে, কোন প্রস্তাবটি সঠিক ?)",,,lvl1
+answer,"Les libertés sont totales et sans aucune limite. (স্বাধীনতাগুলি সম্পূর্ণ এবং কোনো সীমাবদ্ধতা ছাড়াই।)",,0,
+answer,"La loi seule fixe les limites nécessaires à l'exercice des libertés. (আইন একাই স্বাধীনতার প্রয়োগের জন্য প্রয়োজনীয় সীমা নির্ধারণ করে।)",,1,
+answer,"Le Président de la République peut seul limiter les libertés. (প্রজাতন্ত্রের রাষ্ট্রপতি একাই স্বাধীনতা সীমিত করতে পারেন।)",,0,
+question,"En France, est-ce légal d'être marié à plusieurs personnes en même temps ? (ফ্রান্সে, একই সাথে একাধিক ব্যক্তির সাথে বিবাহিত হওয়া কি বৈধ ?)",,,lvl1
+answer,"Oui, sous certaines conditions religieuses (হ্যাঁ, কিছু ধর্মীয় শর্তে)",,0,
+answer,"Non, la polygamie est interdite et sanctionnée par la loi. (না, বহুবিবাহ আইন দ্বারা নিষিদ্ধ এবং শাস্তিযোগ্য।)",,1,
+answer,"Oui, seulement pour les hommes (হ্যাঁ, শুধুমাত্র পুরুষদের জন্য)",,0,
+question,"Faut-il réduire ses déchets ? (নিজের বর্জ্য কি কমানো উচিত ?)",,,lvl1
+answer,"Non, les déchets sont recyclés en totalité (না, বর্জ্য সম্পূর্ণরূপে পুনর্ব্যবহার করা হয়)",,0,
+answer,"Oui, c'est une responsabilité individuelle pour protéger l'environnement. (হ্যাঁ, এটি পরিবেশ রক্ষার জন্য একটি ব্যক্তিগত দায়িত্ব।)",,1,
+answer,"Seulement les déchets organiques (শুধুমাত্র জৈব বর্জ্য)",,0,
+question,"Jeter une bouteille dans la rue est : (রাস্তায় একটি বোতল ফেলা হল :)",,,lvl1
+answer,"Un acte sans conséquence (একটি পরিণতিহীন কাজ)",,0,
+answer,"Une incivilité punie par la loi (amende). (আইন দ্বারা শাস্তিযোগ্য একটি অ-নাগরিক আচরণ (জরিমানা)।)",,1,
+answer,"Seulement interdit dans les grandes villes (শুধুমাত্র বড় শহরগুলিতে নিষিদ্ধ)",,0,
+question,"Pourquoi les libertés individuelles peuvent-elles être limitées ? (ব্যক্তিগত স্বাধীনতা কেন সীমাবদ্ধ হতে পারে ?)",,,lvl1
+answer,"Pour donner plus de pouvoir à l'État (রাষ্ট্রকে আরও ক্ষমতা দেওয়ার জন্য)",,0,
+answer,"Pour garantir la sûreté et les droits des autres citoyens. (অন্যান্য নাগরিকদের নিরাপত্তা ও অধিকার নিশ্চিত করার জন্য।)",,1,
+answer,"Pour faire plaisir à la majorité (সংখ্যাগরিষ্ঠকে খুশি করার জন্য)",,0,
+question,"Que doit faire une personne en cas d’accident ? (দুর্ঘটনার ক্ষেত্রে একজন ব্যক্তির কী করা উচিত ?)",,,lvl1
+answer,"Partir et appeler les secours de chez elle (চলে যাওয়া এবং বাড়ি থেকে জরুরি পরিষেবাগুলিকে কল করা)",,0,
+answer,"Secourir ou faire secourir la victime (obligation de porter assistance). (ভুক্তভোগীকে সাহায্য করা বা সাহায্য করার ব্যবস্থা করা (সহায়তা করার বাধ্যবাধকতা)।)",,1,
+answer,"Ne rien faire, car cela pourrait entraîner des problèmes légaux (কিছু না করা, কারণ এতে আইনি সমস্যা হতে পারে)",,0,
+question,"Que permet la citoyenneté française ? (ফরাসি নাগরিকত্ব কী করার সুযোগ দেয় ?)",,,lvl1
+answer,"Seulement le droit de vivre sur le territoire français. (শুধুমাত্র ফরাসি ভূখণ্ডে বসবাস করার অধিকার।)",,0,
+answer,"Le droit de ne pas payer d'impôts. (কর না দেওয়ার অধিকার।)",,0,
+answer,"Le droit de vote et d'éligibilité, ainsi que l'accès aux emplois publics. (ভোট দেওয়ার এবং নির্বাচিত হওয়ার অধিকার, পাশাপাশি সরকারি চাকরিতে প্রবেশাধিকার।)",,1,
+question,"Que risque une personne qui ne respecte pas la loi ? (যে ব্যক্তি আইন অমান্য করে তার কী ঝুঁকি থাকে ?)",,,lvl1
+answer,"D'être expulsé du pays. (দেশ থেকে বহিষ্কৃত হওয়ার।)",,0,
+answer,"D'être sanctionnée par la justice (amende ou peine de prison). (বিচার দ্বারা শাস্তি পাওয়ার (জরিমানা বা কারাদণ্ড)।)",,1,
+answer,"D'être privée de son droit de vote. (তার ভোট দেওয়ার অধিকার থেকে বঞ্চিত হওয়ার।)",,0,
+question,"Quel est le rôle de la gendarmerie ? (জেন্ডারমেরির (gendarmerie) ভূমিকা কী ?)",,,lvl1
+answer,"Assurer la sécurité et l'ordre public, principalement en zone rurale ou périurbaine. (প্রধানত গ্রামীণ বা আধা-শহুরে অঞ্চলে নিরাপত্তা ও জনশৃঙ্খলা নিশ্চিত করা।)",,1,
+answer,"Gérer les affaires de l'État civil. (নাগরিক অবস্থার বিষয়গুলি পরিচালনা করা।)",,0,
+answer,"Contrôler les frontières uniquement. (শুধুমাত্র সীমান্ত নিয়ন্ত্রণ করা।)",,0,
+question,"Quel est le rôle de la police ? (পুলিশের ভূমিকা কী ?)",,,lvl1
+answer,"Assurer la sécurité et l'ordre public, principalement en zone urbaine. (প্রধানত শহুরে অঞ্চলে নিরাপত্তা ও জনশৃঙ্খলা নিশ্চিত করা।)",,1,
+answer,"Rédiger les lois (আইন তৈরি করা)",,0,
+answer,"Organiser les élections (নির্বাচন আয়োজন করা)",,0,
+question,"Qu'est-ce qu'une infraction ? (একটি অপরাধ (infraction) কী ?)",,,lvl1
+answer,"Un acte interdit et puni par la loi (contravention, délit ou crime). (আইন দ্বারা নিষিদ্ধ এবং শাস্তিযোগ্য একটি কাজ (বিরোধিতা, অপরাধ বা গুরুতর অপরাধ)।)",,1,
+answer,"Un désaccord avec une administration (একটি প্রশাসনের সাথে একটি মতবিরোধ)",,0,
+answer,"Une opinion politique non majoritaire (একটি অ-সংখ্যাগরিষ্ঠ রাজনৈতিক মতামত)",,0,
+question,"Comment peut-on réduire ses déchets ? (নিজের বর্জ্য কীভাবে কমানো যায় ?)",,,lvl1
+answer,"En brûlant les emballages. (প্যাকেজিং জ্বালিয়ে।)",,0,
+answer,"En jetant les objets inutiles dans les égouts. (অকেজো জিনিসপত্র নর্দমায় ফেলে।)",,0,
+answer,"En privilégiant le réemploi et le tri des emballages recyclables. (পুনর্ব্যবহার এবং পুনর্ব্যবহারযোগ্য প্যাকেজিং পৃথকীকরণকে অগ্রাধিকার দিয়ে।)",,1,
+question,"Déposer une machine à laver cassée sur le trottoir est : (রাস্তায় একটি ভাঙা ওয়াশিং মেশিন রাখা হল :)",,,lvl1
+answer,"Une façon normale de s'en débarrasser. (এটি পরিত্রাণ পাওয়ার একটি স্বাভাবিক উপায়।)",,0,
+answer,"Une infraction qui peut être sanctionnée par une amende (dépôt illégal de déchets). (একটি অপরাধ যা জরিমানা দ্বারা শাস্তি পেতে পারে (অবৈধভাবে বর্জ্য জমা করা)।)",,1,
+answer,"Un service gratuit pour les éboueurs. (আবর্জনা সংগ্রহকারীদের জন্য একটি বিনামূল্যে পরিষেবা।)",,0,
+question,"En quoi consiste la traite des êtres humains ? (মানব পাচার (traite des êtres humains) কিসের উপর নির্ভর করে ?)",,,lvl1
+answer,"À aider les migrants à traverser les frontières. (অভিবাসীদের সীমান্ত পার হতে সাহায্য করা।)",,0,
+answer,"À recruter, transporter et exploiter une personne par la contrainte ou la tromperie. (জোর করে বা প্রতারণার মাধ্যমে একজন ব্যক্তিকে নিয়োগ, পরিবহন এবং শোষণ করা।)",,1,
+answer,"À organiser un voyage touristique à l'étranger. (বিদেশে একটি পর্যটন ভ্রমণের আয়োজন করা।)",,0,
+question,"Que doit faire une victime de violences ? (সহিংসতার শিকার একজন ব্যক্তির কী করা উচিত ?)",,,lvl1
+answer,"Garder le silence pour éviter les problèmes. (সমস্যা এড়াতে নীরব থাকা।)",,0,
+answer,"Contacter la police/gendarmerie et/ou un professionnel de la santé ou une association d'aide. (পুলিশ/জন্ডারমরি এবং/অথবা একজন স্বাস্থ্য পেশাদার বা সহায়তা সংস্থার সাথে যোগাযোগ করা।)",,1,
+answer,"Se venger de son agresseur par ses propres moyens. (নিজের উপায়ে আক্রমণকারীর উপর প্রতিশোধ নেওয়া।)",,0,
+question,"Quelle est l'infraction la plus grave ? (সবচেয়ে গুরুতর অপরাধ কোনটি ?)",,,lvl1
+answer,"La contravention (লঙ্ঘন)",,0,
+answer,"Le délit (অপরাধ)",,0,
+answer,"Le crime (গুরুতর অপরাধ)",,1,
+question,"À quelle liberté la PMA fait-elle référence ? (PMA (চিকিৎসাগতভাবে সহায়তা প্রাপ্ত প্রজনন) কোন স্বাধীনতার সাথে সম্পর্কিত ?)",,,lvl2
+answer,"La liberté de circulation (চলাচলের স্বাধীনতা)",,0,
+answer,"La liberté de procréation (ou liberté de choix de la vie personnelle). (প্রজননের স্বাধীনতা (বা ব্যক্তিগত জীবন পছন্দের স্বাধীনতা)।)",,1,
+answer,"La liberté d'expression (মত প্রকাশের স্বাধীনতা)",,0,
+question,"Au nom de quoi l'État justifie-t-il la restriction des droits ? (কার নামে রাষ্ট্র অধিকারের উপর বিধিনিষেধ আরোপকে সমর্থন করে ?)",,,lvl2
+answer,"Au nom du confort personnel des élus. (নির্বাচিত কর্মকর্তাদের ব্যক্তিগত আরামের নামে।)",,0,
+answer,"Au nom de l'ordre public, de la sécurité ou du respect des droits d'autrui. (জনশৃঙ্খলা, নিরাপত্তা বা অন্যের অধিকারের প্রতি শ্রদ্ধার নামে।)",,1,
+answer,"Au nom de la religion majoritaire. (সংখ্যাগরিষ্ঠ ধর্মের নামে।)",,0,
+question,"Concernant le droit de se marier, quelle proposition est correcte ? (বিবাহের অধিকারের বিষয়ে, কোন প্রস্তাবটি সঠিক ?)",,,lvl2
+answer,"Seuls les couples hétérosexuels peuvent se marier. (শুধুমাত্র বিপরীত লিঙ্গের দম্পতিরা বিবাহ করতে পারে।)",,0,
+answer,"Le mariage est autorisé entre deux personnes, quel que soit leur sexe. (দুই ব্যক্তির মধ্যে বিবাহ অনুমোদিত, তাদের লিঙ্গ নির্বিশেষে।)",,1,
+answer,"Le mariage est uniquement religieux. (বিবাহ শুধুমাত্র ধর্মীয়।)",,0,
+question,"Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকারের ঘোষণায় (DDHC) এই উদ্ধৃতিগুলির মধ্যে কোনটি লেখা আছে ?)",,,lvl2
+answer,"« Le travail est la loi de la République. » (« কাজ প্রজাতন্ত্রের আইন। »)",,0,
+answer,"« La loi est l'expression de la volonté générale. » (« আইন হল সাধারণ ইচ্ছার প্রকাশ। »)",,1,
+answer,"« La République française est indivisible, laïque, démocratique et sociale. » (« ফরাসি প্রজাতন্ত্র অবিভাজ্য, ধর্মনিরপেক্ষ, গণতান্ত্রিক ও সামাজিক। »)",,0,
+question,"Le recours à l'avortement est-il autorisé ? (গর্ভপাতের আশ্রয় নেওয়া কি অনুমোদিত ?)",,,lvl2
+answer,"Non, seulement en cas de danger pour la mère. (না, শুধুমাত্র মায়ের বিপদের ক্ষেত্রে।)",,0,
+answer,"Oui, l'Interruption Volontaire de Grossesse (IVG) est un droit garanti par la loi. (হ্যাঁ, গর্ভধারণের স্বেচ্ছাকৃত সমাপ্তি (IVG) আইন দ্বারা নিশ্চিত একটি অধিকার।)",,1,
+answer,"Non, sauf si le mariage a eu lieu il y a plus de 10 ans. (না, যদি না বিবাহের ১০ বছরের বেশি হয়ে থাকে।)",,0,
+question,"Que contient la Constitution ? (সংবিধানে কী রয়েছে ?)",,,lvl2
+answer,"La liste de tous les codes civils et pénaux. (সকল বেসামরিক ও ফৌজদারি আইনের তালিকা।)",,0,
+answer,"La liste des impôts à payer. (পরিশোধ করার জন্য করের তালিকা।)",,0,
+answer,"Les principes fondamentaux de l'État et l'organisation des pouvoirs publics. (রাষ্ট্রের মৌলিক নীতি এবং সরকারি ক্ষমতাগুলির সংগঠন।)",,1,
+question,"Que garantit la liberté de la presse ? (সংবাদপত্রের স্বাধীনতা কী নিশ্চিত করে ?)",,,lvl2
+answer,"Le droit de publier et de diffuser des informations sans censure préalable (sous réserve du respect de la loi). (পূর্ব সেন্সরশিপ ছাড়া তথ্য প্রকাশ ও প্রচার করার অধিকার (আইনের প্রতি শ্রদ্ধার সাপেক্ষে)।)",,1,
+answer,"L'interdiction de toute critique envers l'État. (রাষ্ট্রের প্রতি যেকোনো সমালোচনা নিষিদ্ধ।)",,0,
+answer,"Le droit d'avoir une opinion unique. (একটি একক মতামত রাখার অধিকার।)",,0,
+question,"Que prévoit la Charte de l'environnement ? (পরিবেশ চার্টার (Charte de l'environnement) কী প্রদান করে ?)",,,lvl2
+answer,"L'interdiction de l'industrie. (শিল্প নিষিদ্ধকরণ।)",,0,
+answer,"Le droit de vivre dans un environnement sain et le devoir de prévenir les atteintes à l'environnement. (একটি স্বাস্থ্যকর পরিবেশে জীবনযাপন করার অধিকার এবং পরিবেশের ক্ষতি প্রতিরোধ করার কর্তব্য।)",,1,
+answer,"Le paiement de taxes supplémentaires pour la nature. (প্রকৃতির জন্য অতিরিক্ত কর পরিশোধ।)",,0,
+question,"Que signifie la dignité humaine ? (মানবিক মর্যাদা (dignité humaine) মানে কী ?)",,,lvl2
+answer,"L'interdiction d'utiliser les transports publics. (পাবলিক পরিবহন ব্যবহার করা নিষিদ্ধ।)",,0,
+answer,"Le respect inconditionnel dû à toute personne, et l'interdiction de la dégrader. (প্রত্যেক ব্যক্তির প্রতি নিঃশর্ত সম্মান, এবং তাকে অপমান করা নিষিদ্ধ।)",,1,
+answer,"Le droit de recevoir de l'argent de l'État. (রাষ্ট্র থেকে টাকা পাওয়ার অধিকার।)",,0,
+question,"Que signifie le droit de manifester ? (বিক্ষোভ করার অধিকার মানে কী ?)",,,lvl2
+answer,"L'obligation d'accepter toutes les décisions du gouvernement. (সরকারের সকল সিদ্ধান্ত মেনে চলার বাধ্যবাধকতা।)",,0,
+answer,"Le droit de faire grève dans son entreprise. (নিজের সংস্থায় ধর্মঘট করার অধিকার।)",,0,
+answer,"La liberté d’exprimer collectivement des idées ou des revendications dans l'espace public. (জনসাধারণের স্থানে সম্মিলিতভাবে ধারণা বা দাবি প্রকাশ করার স্বাধীনতা।)",,1,
+question,"Que signifie PMA ? (PMA মানে কী ?)",,,lvl2
+answer,"Prévention du Maintien Administratif (প্রশাসনিক রক্ষণাবেক্ষণের প্রতিরোধ)",,0,
+answer,"Procréation Médicalement Assistée (চিকিৎসাগতভাবে সহায়তা প্রাপ্ত প্রজনন)",,1,
+answer,"Police Militaire de l'Armée (সেনাবাহিনীর সামরিক পুলিশ)",,0,
+question,"Quel texte est le plus difficile à modifier ? (কোন নথিটি পরিবর্তন করা সবচেয়ে কঠিন ?)",,,lvl2
+answer,"Les lois ordinaires (সাধারণ আইনগুলি)",,0,
+answer,"La Constitution (সংবিধান)",,1,
+answer,"Les règlements municipaux (পৌরসভা নিয়মাবলী)",,0,
+question,"Quelle liberté permet à une personne de croire en la religion de son choix ? (কোন স্বাধীনতা একজন ব্যক্তিকে তার পছন্দের ধর্মে বিশ্বাস করার সুযোগ দেয় ?)",,,lvl2
+answer,"La liberté de la presse (সংবাদপত্রের স্বাধীনতা)",,0,
+answer,"La liberté d'association (সংঘবদ্ধ হওয়ার স্বাধীনতা)",,0,
+answer,"La liberté de conscience (বিবেকের স্বাধীনতা)",,1,
+question,"Qu'est-ce que le droit de grève ? (ধর্মঘট করার অধিকার (droit de grève) কী ?)",,,lvl2
+answer,"Un droit fondamental garanti par la Constitution, qui permet l'arrêt collectif et concerté du travail. (সংবিধান দ্বারা নিশ্চিত একটি মৌলিক অধিকার, যা সম্মিলিত ও সমন্বিতভাবে কাজ বন্ধ করার সুযোগ দেয়।)",,1,
+answer,"Une infraction punie par la loi. (আইন দ্বারা শাস্তিযোগ্য একটি অপরাধ।)",,0,
+answer,"Une obligation de l'employeur. (নিয়োগকর্তার একটি বাধ্যবাধকতা।)",,0,
+question,"Qu'est-ce que la Constitution ? (সংবিধান কী ?)",,,lvl2
+answer,"Le texte fondamental qui définit l'organisation des pouvoirs et les droits essentiels. (মৌলিক নথি যা ক্ষমতাগুলির সংগঠন এবং অপরিহার্য অধিকারগুলি সংজ্ঞায়িত করে।)",,1,
+answer,"Le recueil de toutes les lois. (সকল আইনের সংগ্রহ।)",,0,
+answer,"Un texte religieux. (একটি ধর্মীয় নথি।)",,0,
+question,"Qui peut demander à avorter ? (কে গর্ভপাত করার জন্য অনুরোধ করতে পারে ?)",,,lvl2
+answer,"Uniquement les femmes mariées (শুধুমাত্র বিবাহিত মহিলা)",,0,
+answer,"Toute femme enceinte qui ne souhaite pas poursuivre sa grossesse (dans les délais légaux). (যে কোনো গর্ভবতী মহিলা যিনি তার গর্ভাবস্থা চালিয়ে যেতে চান না (আইনি সময়ের মধ্যে)।)",,1,
+answer,"Uniquement les femmes de nationalité française (শুধুমাত্র ফরাসি জাতীয়তার মহিলা)",,0,
+question,"Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ? (ফরাসি জাতীয়তার একজন প্রাপ্তবয়স্ক মহিলার কি নির্বাচনে ভোট দেওয়ার অধিকার আছে ?)",,,lvl2
+answer,"Non, uniquement si elle est mariée. (না, শুধুমাত্র যদি সে বিবাহিত হয়।)",,0,
+answer,"Non, si elle est mère de famille. (না, যদি সে একজন মা হয়।)",,0,
+answer,"Oui, le droit de vote est un droit civique garanti sans distinction de sexe. (হ্যাঁ, ভোট দেওয়ার অধিকার লিঙ্গ নির্বিশেষে নিশ্চিত একটি নাগরিক অধিকার।)",,1,
+question,"Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ? (সামাজিক নেটওয়ার্ক ব্যবহারের বিষয়ে, কোন প্রস্তাবটি সঠিক ?)",,,lvl2
+answer,"On peut tout dire, c'est la liberté d'expression. (সবকিছু বলা যেতে পারে, এটি মত প্রকাশের স্বাধীনতা।)",,0,
+answer,"La publication de propos injurieux ou discriminatoires peut être punie par la loi. (অপমানজনক বা বৈষম্যমূলক বক্তব্য প্রকাশ আইন দ্বারা শাস্তি পেতে পারে।)",,1,
+answer,"Les lois sur la diffamation ne s'appliquent pas aux réseaux sociaux. (মানহানির আইন সামাজিক নেটওয়ার্কের ক্ষেত্রে প্রযোজ্য নয়।)",,0,
+question,"Jeter un mégot par terre est : (রাস্তায় একটি সিগারেটের টুকরা ফেলা হল :)",,,lvl2
+answer,"Autorisé, car les mégots sont biodégradables. (অনুমোদিত, কারণ সিগারেটের টুকরাগুলি বায়োডিগ্রেডেবল।)",,0,
+answer,"Une incivilité punie par une amende. (একটি অ-নাগরিক আচরণ যা জরিমানা দ্বারা শাস্তিযোগ্য।)",,1,
+answer,"Seulement interdit à l'intérieur des bâtiments. (শুধুমাত্র ভবনের ভিতরে নিষিদ্ধ।)",,0,
+question,"L'État peut-il limiter les droits et libertés ? (রাষ্ট্র কি অধিকার ও স্বাধীনতা সীমিত করতে পারে ?)",,,lvl2
+answer,"Oui, mais seulement par la loi, pour des raisons de sécurité ou d'ordre public. (হ্যাঁ, তবে শুধুমাত্র আইন দ্বারা, নিরাপত্তা বা জনশৃঙ্খলার কারণে।)",,1,
+answer,"Non, les droits et libertés sont absolus et illimités. (না, অধিকার ও স্বাধীনতাগুলি সম্পূর্ণ এবং সীমাহীন।)",,0,
+answer,"Oui, par simple décision administrative du Préfet. (হ্যাঁ, শুধুমাত্র প্রিফেক্টের প্রশাসনিক সিদ্ধান্তের মাধ্যমে।)",,0,
+question,"Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ? (এই কাজগুলির মধ্যে কোনটি পরিবেশের প্রতি শ্রদ্ধাশীল মনোভাব গ্রহণ করতে সাহায্য করে ?)",,,lvl2
+answer,"Laisser son moteur tourner à l'arrêt. (স্থির থাকা অবস্থায় ইঞ্জিন চালু রাখা।)",,0,
+answer,"Privilégier les transports en commun ou le vélo. (পাবলিক পরিবহন বা সাইকেলকে অগ্রাধিকার দেওয়া।)",,1,
+answer,"Acheter des produits suremballés. (অতিরিক্ত মোড়কজাত পণ্য কেনা।)",,0,
+question,"Quelle proposition constitue une obligation ? (কোন প্রস্তাবটি একটি বাধ্যবাধকতা গঠন করে ?)",,,lvl2
+answer,"Le droit de se marier. (বিবাহ করার অধিকার।)",,0,
+answer,"La liberté de conscience. (বিবেকের স্বাধীনতা।)",,0,
+answer,"L'obligation de payer ses impôts. (নিজের কর পরিশোধ করার বাধ্যবাধকতা।)",,1,
+question,"Pour quel motif peut-on limiter la liberté d'expression ? (কোন কারণে মত প্রকাশের স্বাধীনতা সীমিত করা যেতে পারে ?)",,,lvl2
+answer,"Pour éviter toute critique du Président. (রাষ্ট্রপতির যেকোনো সমালোচনা এড়াতে।)",,0,
+answer,"Diffamation, injure ou incitation à la haine (racisme, sexisme...). (মানহানি, অপমান বা ঘৃণা উসকে দেওয়া (বর্ণবাদ, লিঙ্গবাদ...)।)",,1,
+answer,"Pour éviter des débats politiques. (রাজনৈতিক বিতর্ক এড়াতে।)",,0,
+question,"Pourquoi doit-on trier ses déchets ? (কেন নিজের বর্জ্য পৃথকীকরণ করা উচিত ?)",,,lvl2
+answer,"Pour créer des emplois pour les éboueurs. (আবর্জনা সংগ্রহকারীদের জন্য কর্মসংস্থান তৈরি করতে।)",,0,
+answer,"Pour faciliter le recyclage et préserver les ressources naturelles. (পুনর্ব্যবহার সহজ করতে এবং প্রাকৃতিক সম্পদ সংরক্ষণ করতে।)",,1,
+answer,"C'est une obligation seulement pour les entreprises. (এটি শুধুমাত্র সংস্থাগুলির জন্য একটি বাধ্যবাধকতা।)",,0,
+question,"Que doit faire une victime de violences ? (সহিংসতার শিকার একজন ব্যক্তির কী করা উচিত ?)",,,lvl2
+answer,"Déménager immédiatement. (অবিলম্বে স্থানান্তরিত হওয়া।)",,0,
+answer,"Alerter la police, la gendarmerie ou les services d'urgence (17, 112). (পুলিশ, জেন্ডারমেরি বা জরুরি পরিষেবাগুলিকে (১৭, ১১২) সতর্ক করা।)",,1,
+answer,"Attendre plusieurs semaines avant de parler. (কথা বলার আগে কয়েক সপ্তাহ অপেক্ষা করা।)",,0,
+question,"Que doit-on faire face aux ordres des policiers ou gendarmes ? (পুলিশ বা জেন্ডারমেরির আদেশের মুখে কী করা উচিত ?)",,,lvl2
+answer,"Négocier et exprimer son désaccord. (আলোচনা করা এবং নিজের অসম্মতি প্রকাশ করা।)",,0,
+answer,"Obéir, car ils représentent l'autorité publique, dans la limite de la loi. (আইনের সীমার মধ্যে, যেহেতু তারা সরকারি কর্তৃত্বের প্রতিনিধিত্ব করে, তাই মান্য করা।)",,1,
+answer,"Simplement s'éloigner rapidement. (সহজভাবে দ্রুত দূরে সরে যাওয়া।)",,0,
+question,"Quel est le rôle de la police ? (পুলিশের ভূমিকা কী ?)",,,lvl2
+answer,"Récolter les impôts. (কর সংগ্রহ করা।)",,0,
+answer,"Assurer la sécurité des personnes et des biens et maintenir l'ordre public. (ব্যক্তি এবং সম্পত্তির নিরাপত্তা নিশ্চিত করা এবং জনশৃঙ্খলা বজায় রাখা।)",,1,
+answer,"Rédiger la Constitution. (সংবিধান তৈরি করা।)",,0,
+question,"Quel est un exemple d’assistance à personne en danger ? (বিপদগ্রস্ত ব্যক্তিকে সহায়তার একটি উদাহরণ কী ?)",,,lvl2
+answer,"Prier pour la personne. (ব্যক্তিটির জন্য প্রার্থনা করা।)",,0,
+answer,"Ne rien faire, sauf si l'on est médecin. (কিছু না করা, যদি না আপনি ডাক্তার হন।)",,0,
+answer,"Alerter les secours (pompiers 18, SAMU 15) et si possible, sécuriser la zone. (জরুরি পরিষেবাগুলিকে সতর্ক করা (ফায়ার সার্ভিস ১৮, SAMU ১৫) এবং সম্ভব হলে, এলাকাটি সুরক্ষিত করা।)",,1,
+question,"Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ? (কোন উদাহরণটি সাধারণ স্বার্থ রক্ষার জন্য স্বাধীনতার সীমাবদ্ধতা তুলে ধরে ?)",,,lvl2
+answer,"L'interdiction de manger certains aliments. (নির্দিষ্ট কিছু খাবার খাওয়া নিষিদ্ধ।)",,0,
+answer,"L'interdiction de manifester dans un lieu très fréquenté pour des raisons de sécurité. (নিরাপত্তার কারণে খুব জনবহুল জায়গায় বিক্ষোভ করা নিষিদ্ধ।)",,1,
+answer,"L'obligation d'avoir une religion. (একটি ধর্ম থাকা বাধ্যতামূলক।)",,0,
+question,"Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ? (যখন কেউ সহিংসতার সাক্ষী হয় তখন কী মনোভাব থাকা উচিত ?)",,,lvl2
+answer,"Faire semblant de ne rien voir. (কিছুই না দেখার ভান করা।)",,0,
+answer,"Alerter les forces de l'ordre (Police 17 ou 112) et, si possible, porter assistance à la victime. (আইন প্রয়োগকারী সংস্থাকে সতর্ক করা (পুলিশ ১৭ বা ১১২) এবং সম্ভব হলে, ভুক্তভোগীকে সহায়তা করা।)",,1,
+answer,"Filmer la scène pour la mettre sur internet. (ইন্টারনেটে দেওয়ার জন্য দৃশ্যটি ফিল্ম করা।)",,0,
+question,"Quelle est l'infraction la plus grave ? (সবচেয়ে গুরুতর অপরাধ কোনটি ?)",,,lvl2
+answer,"Le vol simple (সাধারণ চুরি)",,0,
+answer,"La diffamation (মানহানি)",,0,
+answer,"Le crime (ex : meurtre ou viol). (গুরুতর অপরাধ (যেমন: খুন বা ধর্ষণ)।)",,1,
+question,"Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ? (কোন বাধ্যবাধকতাটি ফ্রান্সে বসবাসকারী সকল ব্যক্তির জন্য প্রযোজ্য, তাদের জাতীয়তা নির্বিশেষে ?)",,,lvl2
+answer,"L'obligation de voter à toutes les élections. (সকল নির্বাচনে ভোট দেওয়ার বাধ্যবাধকতা।)",,0,
+answer,"L'obligation de respecter la loi française. (ফরাসি আইনকে সম্মান করার বাধ্যবাধকতা।)",,1,
+answer,"L'obligation de s'engager dans le service militaire. (সামরিক পরিষেবাতে যোগ দেওয়ার বাধ্যবাধকতা।)",,0,
+question,"Quelle proposition représente un exemple de crime ? (কোন প্রস্তাবটি একটি গুরুতর অপরাধের (crime) উদাহরণ ?)",,,lvl2
+answer,"Le stationnement illégal (অবৈধ পার্কিং)",,0,
+answer,"Le vol à l'étalage (দোকান থেকে চুরি)",,0,
+answer,"Le viol (ধর্ষণ)",,1,
+question,"Quelle proposition représente un exemple de délit ? (কোন প্রস্তাবটি একটি অপরাধের (délit) উদাহরণ ?)",,,lvl2
+answer,"Un excès de vitesse de 10 km/h (১০ কিমি/ঘন্টা গতি সীমা অতিক্রম)",,0,
+answer,"Le vol simple (সাধারণ চুরি)",,1,
+answer,"Le meurtre (খুন)",,0,
+question,"Qui veille au maintien de l’ordre public ? (কে জনশৃঙ্খলা বজায় রাখার দিকে নজর রাখে ?)",,,lvl2
+answer,"Le Parlement (সংসদ)",,0,
+answer,"La Police et la Gendarmerie (sous l'autorité du Préfet). (পুলিশ এবং জেন্ডারমেরি (প্রিফেক্টের কর্তৃত্বের অধীনে)।)",,1,
+answer,"L'autorité judiciaire (বিচার ব্যবস্থা)",,0,
+question,"S'agissant des déchets, quelle proposition est correcte ? (বর্জ্যের বিষয়ে, কোন প্রস্তাবটি সঠিক ?)",,,lvl2
+answer,"Les jeter n'importe où est toléré. (যে কোনো জায়গায় ফেলে দেওয়া সহ্য করা হয়।)",,0,
+answer,"Le tri des déchets est une obligation de civisme. (বর্জ্য পৃথকীকরণ একটি নাগরিক কর্তব্য।)",,1,
+answer,"Seuls les produits chimiques doivent être triés. (শুধুমাত্র রাসায়নিক পণ্য পৃথকীকরণ করা উচিত।)",,0,
+question,"Un citoyen inscrit sur les listes électorales ne souhaite plus voter « car cela ne change rien ». Quelle attitude conforme à ses devoirs civiques ? (ভোটার তালিকায় নিবন্ধিত একজন নাগরিক আর ভোট দিতে চান না কারণ তার মতে 'এতে কিছুই পরিবর্তন হয় না'। তার নাগরিক কর্তব্যের সাথে সঙ্গতিপূর্ণ আচরণ কোনটি ?)",,,lvl3
+answer,"Voter ou au moins s’informer : la participation exprime la souveraineté populaire. (ভোট দেওয়া বা অন্তত তথ্য জেনে রাখা: অংশগ্রহণ জনগণের সার্বভৌমত্ব প্রকাশ করে।)",,1,
+answer,"Revendre sa carte d’électeur à un tiers. (নিজের ভোটার কার্ড অন্য কারো কাছে বিক্রি করা।)",,0,
+answer,"S’abstenir volontairement sans justification. (কোনো কারণ ছাড়াই স্বেচ্ছায় ভোটদানে বিরত থাকা।)",,0,
+question,"Un habitant brûle ses déchets verts dans son jardin pour « gagner de la place ». Est-ce autorisé ? (একজন বাসিন্দা তার বাগানে জায়গা বাঁচানোর জন্য সবুজ বর্জ্য পোড়াচ্ছেন। এটি কি অনুমোদিত ?)",,,lvl3
+answer,"Non, le brûlage à l’air libre est interdit. (না, খোলা জায়গায় পোড়ানো নিষিদ্ধ।)",,1,
+answer,"Oui, en période de pluie. (হ্যাঁ, বৃষ্টির সময়।)",,0,
+answer,"Oui, si cela ne gêne pas les voisins. (হ্যাঁ, যদি এটি প্রতিবেশীদের বিরক্ত না করে।)",,0,
+question,"Un restaurant refuse un client en fauteuil roulant pour « raisons de place ». Est-ce légal ? (একটি রেস্তোরাঁ জায়গা না থাকার অজুহাতে একজন হুইলচেয়ার ব্যবহারকারী গ্রাহককে প্রত্যাখ্যান করেছে। এটি কি বৈধ ?)",,,lvl3
+answer,"Oui, si le restaurant est petit. (হ্যাঁ, যদি রেস্তোরাঁটি ছোট হয়।)",,0,
+answer,"Non, refuser un client en raison de son handicap est interdit. (না, অক্ষমতার কারণে কোনো গ্রাহককে প্রত্যাখ্যান করা নিষিদ্ধ।)",,1,
+answer,"Oui, si le client vient seul. (হ্যাঁ, যদি গ্রাহক একা আসেন।)",,0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? (একজন প্রতিবেশী তার বাগানে সবুজ বর্জ্য পোড়াচ্ছেন, যার ফলে প্রচুর ধোঁয়া তৈরি হচ্ছে। নাগরিক সৌজন্য অনুযায়ী সঠিক প্রতিক্রিয়া কোনটি ?)",,,lvl3
+answer,"Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. (তাকে মনে করিয়ে দেওয়া যে এই কাজটি নিষিদ্ধ এবং প্রয়োজন হলে পৌরসভায় জানানো।)",,1,
+answer,"L’imiter pour “équilibrer les nuisances”. (বিরক্তি ""ভারসাম্য"" করার জন্য তাকে অনুকরণ করা।)",,0,
+answer,"Le laisser faire car c’est sa propriété. (তাকে এটি করতে দেওয়া কারণ এটি তার নিজস্ব সম্পত্তি।)",,0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? (একটি দুর্ঘটনার সময়, পথচারীরা সাহায্য করার পরিবর্তে ভিডিও করছেন। নৈতিক ও আইনি নিয়ম কোনটি ?)",,,lvl3
+answer,"Porter assistance en priorité. (অগ্রাধিকার ভিত্তিতে সহায়তা প্রদান করা।)",,1,
+answer,"Attendre que d’autres interviennent. (অন্যদের হস্তক্ষেপ করার জন্য অপেক্ষা করা।)",,0,
+answer,"Filmer pour les réseaux. (সোশ্যাল মিডিয়ার জন্য ভিডিও করা।)",,0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? (ফ্রান্সে যেকোনো মোটরচালিত স্থলযানের মালিকের জন্য ন্যূনতম আইনি বাধ্যবাধকতা কী, এমনকি যদি সেটি না-ও চলে ?)",,,lvl3
+answer,"L’obligation de souscrire une assurance tous risques. (একটি অল-রিস্ক বীমা করার বাধ্যবাধকতা।)",,0,
+answer,"Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. (যানবাহনটি ব্যক্তিগত সম্পত্তিতে পার্ক করা থাকলে কোনো বাধ্যবাধকতা নেই।)",,0,
+answer,"L’obligation de souscrire une assurance en responsabilité civile (au tiers). (একটি সিভিল লায়বিলিটি (থার্ড-পার্টি) বীমা করার বাধ্যবাধকতা।)",,1,
+question,"Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ? (রাস্তায় আপনি একজন আহত এবং অচেতন ব্যক্তিকে দেখলেন। আপনার কী করা উচিত ?)",,,lvl3
+answer,"Continuer votre chemin. (আপনার পথে চলতে থাকা।)",,0,
+answer,"Filmer pour garder une preuve. (প্রমাণ রাখার জন্য ভিডিও করা।)",,0,
+answer,"Alerter les secours et sécuriser les lieux . (জরুরি সেবাকে জানানো এবং স্থানটি নিরাপদ করা।)",,1,
+question,"Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? (একজন নিয়োগকর্তা তার পেশাদার কম্পিউটারে একজন কর্মচারীর ব্যক্তিগত মেইল পড়ছেন। এটি কি অনুমোদিত ?)",,,lvl3
+answer,"Non, les messages identifiés comme personnels sont protégés. (না, ব্যক্তিগত হিসেবে চিহ্নিত বার্তাগুলো সুরক্ষিত।)",,1,
+answer,"Oui, car le matériel appartient à l’entreprise. (হ্যাঁ, কারণ সরঞ্জামগুলো কোম্পানির মালিকানাধীন।)",,0,
+answer,"Oui, s’il ne les partage pas. (হ্যাঁ, যদি তিনি সেগুলো শেয়ার না করেন।)",,0,
+question,"Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? (একজন ফার্মাসিস্ট একজন গ্রাহকের অসুস্থতার কথা তার প্রতিবেশীদের কাছে বলছেন। এটি কি বৈধ ?)",,,lvl3
+answer,"Oui, s’il veut prévenir les autres. (হ্যাঁ, যদি তিনি অন্যদের সতর্ক করতে চান।)",,0,
+answer,"Non, il viole le secret professionnel. (না, তিনি পেশাগত গোপনীয়তা লঙ্ঘন করছেন।)",,1,
+answer,"Oui, si le client est d’accord après. (হ্যাঁ, যদি গ্রাহক পরে সম্মত হন।)",,0,
+question,"Que doit-on faire face aux ordres des policiers ou gendarmes ? (পুলিশ বা জেন্ডার্মের নির্দেশের মুখে আমাদের কী করা উচিত ?)",,,lvl3
+answer,"Les négocier sur place. (সঙ্গে সঙ্গে দর কষাকষি করা।)",,0,
+answer,"Les contester immédiatement. (তাৎক্ষণিকভাবে প্রতিবাদ করা।)",,0,
+answer,"Les respecter dans le cadre de la loi. (আইনের আওতায় তাদের নির্দেশ মানা।)",,1,
+question,"Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? (আলাদা থাকা বাবা-মায়ের মধ্যে সন্তানের স্কুল নির্বাচন নিয়ে মতবিরোধ হলে আইন কী বলে ?)",,,lvl3
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. (গুরুত্বপূর্ণ সিদ্ধান্ত দু’জন অভিভাবককে একসাথে নিতে হয়।)",,1,
+answer,"La mère a toujours le dernier mot. (মায়েরই শেষ কথা।)",,0,
+answer,"Le juge décide automatiquement. (বিচারক স্বয়ংক্রিয়ভাবে সিদ্ধান্ত নেন।)",,0,
+question,"Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? (সহিংসতার সাক্ষী হলে কী করা উচিত ?)",,,lvl3
+answer,"Intervenir seul physiquement. (একাই শারীরিকভাবে হস্তক্ষেপ করা।)",,0,
+answer,"Ne rien faire. (কিছু না করা।)",,0,
+answer,"Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. (জরুরি সেবা বা আইনশৃঙ্খলা বাহিনীকে জানানো এবং সম্ভব হলে সাহায্য করা।)",,1,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? (একজন ইন্টারনেট ব্যবহারকারী লিখেছে “অমুক গোষ্ঠী বিপজ্জনক, তাদের তাড়িয়ে দিতে হবে”। সঠিক প্রতিক্রিয়া কোনটি ?)",,,lvl3
+answer,"Signaler et sanctionner ces propos. (এই বক্তব্য রিপোর্ট করা এবং শাস্তি দেওয়া।)",,1,
+answer,"Tolérer car c’est une opinion. (এটা মতামত বলে মেনে নেওয়া।)",,0,
+answer,"Effacer seulement s’il s’excuse. (শুধু ক্ষমা চাইলে মুছে ফেলা।)",,0,
+question,"Est-il toujours possible de divorcer ? (সব সময় কি বিবাহবিচ্ছেদ সম্ভব ?)",,,lvl3
+answer,"Oui, uniquement avec l’accord des familles. (হ্যা, শুধু পরিবারের সম্মতিতে।)",,0,
+answer,"Non, sauf en cas de faute grave. (না, শুধু গুরুতর দোষ হলে।)",,0,
+answer,"Oui, le divorce est un droit reconnu par la loi. (হ্যাঁ, বিবাহবিচ্ছেদ আইন দ্বারা স্বীকৃত অধিকার।)",,1,
+question,"Le recours à l’avortement est-il autorisé ?(গর্ভপাত কি অনুমোদিত ?)",,,lvl3
+answer,"Non, il est interdit. (না, এটি নিষিদ্ধ।)",,0,
+answer,"Seulement avec l’accord du conjoint. (শুধু স্বামীর সম্মতিতে।)",,0,
+answer,"Oui, dans les conditions prévues par la loi. (হ্যাঁ, আইনে নির্ধারিত শর্তে।)",,1,
+question,"Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? (একজন স্বনির্ভর কর্মী সামাজিক নিরাপত্তায় চাঁদা দিতে অস্বীকার করলে কি তা বৈধ ?)",,,lvl3
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. (না, জাতীয় সংহতি বজায় রাখতে চাঁদা বাধ্যতামূলক।)",,1,
+answer,"Oui, s’il a une assurance privée. (হ্যাঁ, যদি তার ব্যক্তিগত বীমা থাকে।)",,0,
+answer,"Oui, s’il n’est jamais malade. (হ্যাঁ, যদি সে কখনো অসুস্থ না হয়।)",,0,
+question,"Quel est un exemple d’assistance à personne en danger ? (বিপদে থাকা ব্যক্তিকে সাহায্যের একটি উদাহরণ কোনটি ?)",,,lvl3
+answer,"Appeler les secours pour une personne blessée. (আহত ব্যক্তির জন্য জরুরি সেবায় ফোন করা।)",,1,
+answer,"Quitter les lieux sans agir. (কিছু না করে চলে যাওয়া।)",,0,
+answer,"Filmer la scène. (ঘটনা ভিডিও করা।)",,0,
+question,"Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? (দুইজন বিবাহিত ফরাসি নারী PMA ব্যবহার করলে সন্তানের আইনি সম্পর্ক কীভাবে নির্ধারিত হয় ?)",,,lvl3
+answer,"La loi ne reconnaît pas la seconde mère. (আইন দ্বিতীয় মাকে স্বীকৃতি দেয় না।)",,0,
+answer,"La seconde mère doit adopter l’enfant. (দ্বিতীয় মাকে দত্তক নিতে হয়।)",,0,
+answer,"Les deux mères sont reconnues comme parents dès la naissance. (জন্মের সময় থেকেই দু’জনই আইনি মা হিসেবে স্বীকৃত।)",,1,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? (একটি ভবনে বাসিন্দারা সারা রাত কমন লাইট জ্বালিয়ে রাখে। নাগরিক আচরণ কী হওয়া উচিত ?)",,,lvl3
+answer,"Ignorer le problème. (সমস্যা উপেক্ষা করা।)",,0,
+answer,"Retirer les ampoules de force. (জোর করে বাল্ব খুলে ফেলা।)",,0,
+answer,"Proposer des capteurs ou des minuteries pour réduire le gaspillage. (অপচয় কমাতে সেন্সর বা টাইমার বসানোর প্রস্তাব দেওয়া।)",,1,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? (অফিসিয়াল কাগজপত্রে নাম ও লিঙ্গ পরিবর্তনের জন্য কি একজন ট্রান্সজেন্ডার ব্যক্তির অস্ত্রোপচার করানো বাধ্যতামূলক ?)",,,lvl3
+answer,"Oui, c’est obligatoire. (হ্যাঁ, এটি বাধ্যতামূলক।)",,0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. (না, ২০১৭ সাল থেকে কোনো অস্ত্রোপচার বা চিকিৎসা হস্তক্ষেপ দরকার নেই।)",,1,
+answer,"Oui, mais seulement une attestation psychiatrique. (হ্যাঁ, তবে শুধু মনোরোগ বিশেষজ্ঞের সনদ লাগবে।)",,0,
+question,"Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? (আদালত কর্তৃক জরিমানা দেওয়ার নির্দেশ পাওয়ার পর কেউ অসম্মতির কারণে দিতে না চাইলে সঠিক আচরণ কোনটি ?)",,,lvl3
+answer,"Se faire justice soi-même. (নিজেই বিচার করা।)",,0,
+answer,"Exécuter la décision ou exercer un recours prévu par la loi. (রায় মানা অথবা আইনে নির্ধারিত আপিল করা।)",,1,
+answer,"Ignorer la décision. (রায় উপেক্ষা করা।)",,0,
+question,"Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? (একজন প্রতিবেশীর বিরুদ্ধে চুরির অভিযোগ আছে কিন্তু এখনো রায় হয়নি। কী করা উচিত ?)",,,lvl3
+answer,"Attendre la décision de justice avant de le juger. (রায় হওয়া পর্যন্ত অপেক্ষা করা।)",,1,
+answer,"Le considérer coupable immédiatement. (সঙ্গে সঙ্গে দোষী মনে করা।)",,0,
+answer,"Publier son nom sur les réseaux sociaux. (সোশ্যাল মিডিয়ায় তার নাম প্রকাশ করা।)",,0,
+question,"Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? (গণপরিবহনে ধর্মঘট ঘোষণা হলে আগেভাগে যাত্রীদের জানানোর ব্যবস্থা কোনটি ?)",,,lvl3
+answer,"Le droit de réquisition. (রেকুইজিশনের অধিকার।)",,0,
+answer,"Le service minimum avec publication des prévisions de circulation. (সার্ভিস মিনিমাম ও চলাচলের পূর্বাভাস প্রকাশ।)",,1,
+answer,"Une limitation légale du nombre de grévistes. (ধর্মঘটকারীর সংখ্যা সীমিত করা।)",,0,
+question,"Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? (একজন ব্যক্তি ব্যাংকের নামে ইমেইল পেয়ে তার গোপন কোড চাইলে কী করা উচিত ?)",,,lvl3
+answer,"Répondre pour vérifier. (যাচাই করতে উত্তর দেওয়া।)",,0,
+answer,"Ne pas répondre et signaler la fraude. (উত্তর না দিয়ে প্রতারণা হিসেবে রিপোর্ট করা।)",,1,
+answer,"Donner les codes si l’adresse semble officielle. (ঠিকানাটি অফিসিয়াল মনে হলে কোড দেওয়া।)",,0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? (পরিচয়পত্র না থাকলে পুলিশ কি থানায় নিতে পারে ?)",,,lvl3
+answer,"Non, jamais. (না, কখনোই না।)",,0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. (হ্যাঁ, পরিচয় যাচাইয়ের জন্য সর্বোচ্চ ৪ ঘণ্টা।)",,1,
+answer,"Non, elle doit vous laisser partir. (না, ছেড়ে দিতে হবে।)",,0,
+question,"Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? (একজন বাসিন্দা পৌর পরিষদের পাবলিক সভায় উপস্থিত। তিনি কি কথা বলতে পারেন ?)",,,lvl3
+answer,"Oui, si le maire l’autorise selon les règles locales. (হ্যাঁ, মেয়র অনুমতি দিলে।)",,1,
+answer,"Non, seuls les élus peuvent parler. (না, শুধু নির্বাচিত প্রতিনিধিরা।)",,0,
+answer,"Oui, librement et sans limite. (হ্যাঁ, যেকোনো সময়।)",,0,
+question,"Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? (একজন রেস্তোরাঁ মালিক সমকামী দম্পতিকে সেবা দিতে অস্বীকার করলে নিয়ম কী ?)",,,lvl3
+answer,"Autorisé si le restaurant est familial. (ফ্যামিলি রেস্তোরাঁ হলে অনুমোদিত।)",,0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. (এটি নিষিদ্ধ, যৌন অভিমুখিতার ভিত্তিতে সেবা অস্বীকার করা যায় না।)",,1,
+answer,"Autorisé s’il affiche ce refus. (আগে জানালে অনুমোদিত।)",,0,
+question,"Qui veille au maintien de l’ordre public ? (জনশৃঙ্খলা রক্ষার দায়িত্ব কার ?)",,,lvl3
+answer,"Le Parlement. (সংসদ।)",,0,
+answer,"Les mairies. (মেয়র অফিস।)",,0,
+answer,"La police et la gendarmerie. (পুলিশ ও জেন্ডার্মারি।)",,1,
+question,"Le respect des décisions de justice est-il obligatoire ? (আদালতের সিদ্ধান্ত মানা কি বাধ্যতামূলক ?)",,,lvl3
+answer,"Non, si on n’est pas d’accord. (অসম্মত হলে নয়।)",,0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. (হ্যাঁ, অসম্মত হলেও আইনগত আপিলের সুযোগ আছে।)",,1,
+answer,"Seulement pour les étrangers. (শুধু বিদেশিদের জন্য।)",,0,
+question,"Quelle proposition constitue une obligation ? (নিচের কোনটি একটি বাধ্যবাধকতা ?)",,,lvl3
+answer,"Respecter la loi. (আইন মেনে চলা।)",,1,
+answer,"Voter à chaque élection. (প্রতিটি নির্বাচনে ভোট দেওয়া।)",,0,
+answer,"Adhérer à une association. (কোনো সংগঠনে যোগ দেওয়া।)",,0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? (আইনি পরিচয় যাচাইয়ের সময় একজন ব্যক্তি নিজের পরিচয় জানাতে অস্বীকার করলে সঠিক আচরণ কোনটি ?)",,,lvl3
+answer,"Refuser au nom de la liberté individuelle. (ব্যক্তিগত স্বাধীনতার নামে অস্বীকার করা।)",,0,
+answer,"Reporter le contrôle à plus tard. (পরে করার কথা বলা।)",,0,
+answer,"Coopérer et présenter une pièce d’identité. (সহযোগিতা করা এবং পরিচয়পত্র দেখানো।)",,1,
+question,"Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? (আপনি আপনার মেয়রির সরকারি খরচের বিস্তারিত জানতে চান। নাগরিক হিসেবে আপনার অধিকার কী ?)",,,lvl3
+answer,"Passer obligatoirement par un avocat. (অবশ্যই আইনজীবীর মাধ্যমে যেতে হবে।)",,0,
+answer,"Vous n’avez pas ce droit. (আপনার এই অধিকার নেই।)",,0,
+answer,"Le droit d’accès aux documents administratifs. (প্রশাসনিক নথিতে প্রবেশের অধিকার।)",,1,
+question,"Des habitants signent une pétition pour créer une piste cyclable. Quel est l’effet juridique ? (সাইকেল লেন তৈরির জন্য বাসিন্দারা একটি পিটিশনে স্বাক্ষর করলে আইনি প্রভাব কী ?)",,,lvl3
+answer,"Elle remplace un vote municipal. (এটি পৌরসভার ভোটের বিকল্প।)",,0,
+answer,"Elle peut être transmise mais n’oblige pas la collectivité. (এটি কর্তৃপক্ষের কাছে পাঠানো যায়, কিন্তু বাধ্য করে না।)",,1,
+answer,"Elle crée immédiatement la piste. (সঙ্গে সঙ্গে লেন তৈরি হয়।)",,0,
+question,"Lors d’un repas, un convive refuse de s’asseoir à côté d’une personne d’une autre origine. Quelle réaction citoyenne ? (খাওয়ার সময় একজন ব্যক্তি ভিন্ন উৎসের মানুষের পাশে বসতে অস্বীকার করলে নাগরিক প্রতিক্রিয়া কী হওয়া উচিত ?)",,,lvl3
+answer,"Rappeler le principe d’égalité et de respect mutuel. (সমতা ও পারস্পরিক সম্মানের নীতি স্মরণ করানো।)",,1,
+answer,"Ignorer pour éviter le conflit. (ঝামেলা এড়াতে উপেক্ষা করা।)",,0,
+answer,"Accepter par politesse. (ভদ্রতার জন্য মেনে নেওয়া।)",,0,
+question,"Un enfant étranger sans papiers souhaite être scolarisé en France. L’école peut-elle refuser ? (কাগজপত্র না থাকা একটি বিদেশি শিশু ফ্রান্সে পড়াশোনা করতে চাইলে স্কুল কি তাকে ফিরিয়ে দিতে পারে ?)",,,lvl3
+answer,"Oui, s’il ne parle pas français. (হ্যাঁ, যদি সে ফরাসি না জানে।)",,0,
+answer,"Non, tout enfant a droit à l’éducation en France. (না, ফ্রান্সে প্রতিটি শিশুর শিক্ষার অধিকার আছে।)",,1,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. (হ্যাঁ, যদি তার বাবা-মার বৈধ কাগজ না থাকে।)",,0,
+question,"Un commerce laisse ses enseignes allumées toute la nuit. Est-ce conforme ? (একটি দোকান সারা রাত সাইনবোর্ড জ্বালিয়ে রাখে। এটি কি নিয়ম অনুযায়ী ?)",,,lvl3
+answer,"Oui, si cela attire les clients. (হ্যাঁ, যদি এতে গ্রাহক আসে।)",,0,
+answer,"Non, elles doivent être éteintes la nuit selon la réglementation. (না, নিয়ম অনুযায়ী রাতে বন্ধ রাখতে হয়।)",,1,
+answer,"Oui, s’il paie l’électricité. (হ্যাঁ, যদি বিদ্যুৎ বিল দেয়।)",,0,
+question,"Vous déménagez dans une nouvelle commune. Pour voter aux élections présidentielles, que faut-il faire ? (আপনি নতুন কমিউনে বাস শুরু করেছেন। প্রেসিডেন্ট নির্বাচনে ভোট দিতে কী করতে হবে ?)",,,lvl3
+answer,"Voter dans l’ancienne commune. (পুরোনো কমিউনে ভোট দেওয়া।)",,0,
+answer,"S’inscrire sur les listes électorales de la nouvelle commune. (নতুন কমিউনের ভোটার তালিকায় নাম লেখানো।)",,1,
+answer,"Rien faire, l’inscription est automatique. (কিছুই না, স্বয়ংক্রিয়ভাবে হয়ে যাবে।)",,0,
+question,"Deux salariés ont le même poste et la même ancienneté mais un salaire différent. Quelle règle s’applique ? (একই পদ ও একই অভিজ্ঞতার দুজন কর্মীর বেতন ভিন্ন। কোন নিয়মটি প্রযোজ্য ?)",,,lvl3
+answer,"L’employeur est libre sans justification. (কোনো ব্যাখ্যা ছাড়াই মালিক ঠিক করতে পারে।)",,0,
+answer,"La différence est normale selon le sexe. (লিঙ্গ অনুযায়ী পার্থক্য স্বাভাবিক।)",,0,
+answer,"L’égalité de rémunération pour un travail égal. (একই কাজের জন্য সমান বেতন।)",,1,
+question,"Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? (একজন নির্বাচিত প্রতিনিধি তার আর্থিক স্বার্থ ঘোষণা করতে অস্বীকার করলে এটি কি গুরুতর ?)",,,lvl3
+answer,"Non, c’est privé. (না, এটি ব্যক্তিগত।)",,0,
+answer,"Oui, seulement s’il gagne beaucoup. (হ্যাঁ, শুধু বেশি আয় করলে।)",,0,
+answer,"Oui, la transparence est obligatoire pour éviter les conflits d’intérêts. (হ্যাঁ, স্বার্থের সংঘাত এড়াতে স্বচ্ছতা বাধ্যতামূলক।)",,1,
+question,"Un collègue fait des blagues homophobes au travail. Que prévoit la loi ? (কর্মস্থলে একজন সহকর্মী সমকামবিদ্বেষী রসিকতা করে। আইন কী বলে ?)",,,lvl3
+answer,"C’est acceptable s’il n’y a pas d’intention méchante. (খারাপ উদ্দেশ্য না থাকলে গ্রহণযোগ্য।)",,0,
+answer,"Ces propos constituent une discrimination et peuvent être sanctionnés. (এগুলো বৈষম্যমূলক বক্তব্য এবং শাস্তিযোগ্য।)",,1,
+answer,"C’est humoristique donc toléré. (মজা হিসেবে ধরা হয়, তাই সহনীয়।)",,0,
+question,"Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? (একজন অসুস্থ কর্মী বৈধ মেডিকেল ছুটির কারণে বরখাস্তের চিঠি পেলে এটি কি বৈধ ?)",,,lvl3
+answer,"Oui, s’il est remplacé. (হ্যাঁ, যদি তাকে বদলি করা হয়।)",,0,
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. (না, স্বাস্থ্যের কারণে বরখাস্ত করা বৈষম্যমূলক।)",,1,
+answer,"Oui, après une semaine d’arrêt. (হ্যাঁ, এক সপ্তাহ পর।)",,0,
+question,"Un voisin installe une caméra qui filme l’entrée de votre domicile. Quel est votre recours légal immédiat ? (একজন প্রতিবেশী ক্যামেরা বসিয়ে আপনার বাড়ির প্রবেশপথ ধারণ করছে। আপনার তাৎক্ষণিক আইনি পদক্ষেপ কী ?)",,,lvl3
+answer,"Lui demander de réorienter la caméra et saisir la CNIL ou la justice en cas de refus. (ক্যামেরা ঘোরাতে বলা এবং অস্বীকার করলে CNIL বা আদালতে অভিযোগ করা।)",,1,
+answer,"Il n’y a aucun recours. (কোনো পদক্ষেপ নেই।)",,0,
+answer,"Couper les câbles de la caméra. (ক্যামেরার তার কেটে দেওয়া।)",,0,
+question,"Un patient refuse un traitement vital pour des raisons religieuses. Que peut faire le médecin ? (একজন রোগী ধর্মীয় কারণে জীবনরক্ষাকারী চিকিৎসা নিতে অস্বীকার করেন। ডাক্তার কী করতে পারেন ?)",,,lvl3
+answer,"L’obliger à être soigné. (জোর করে চিকিৎসা দেওয়া।)",,0,
+answer,"Respecter son refus après une information claire et loyale. (পরিষ্কার তথ্য দেওয়ার পর তার সিদ্ধান্ত সম্মান করা।)",,1,
+answer,"Le signaler à la police. (পুলিশে জানানো।)",,0,
+question,"Un citoyen français vivant en Espagne peut-il voter aux élections municipales ? (স্পেনে বসবাসরত একজন ফরাসি নাগরিক কি পৌরসভা নির্বাচনে ভোট দিতে পারেন ?)",,,lvl3
+answer,"Oui, en tant que citoyen de l’Union européenne. (হ্যাঁ, ইউরোপীয় ইউনিয়নের নাগরিক হিসেবে।)",,1,
+answer,"Non, il perd ce droit. (না, এই অধিকার হারায়।)",,0,
+answer,"Oui, seulement avec un passeport local. (হ্যাঁ, শুধু স্থানীয় পাসপোর্ট থাকলে।)",,0,
+question,"Un média publie la photo d’un suspect avec le mot « coupable ». Est-ce légal ? (একটি সংবাদমাধ্যম একজন সন্দেহভাজনের ছবি “দোষী” লিখে প্রকাশ করে। এটি কি বৈধ ?)",,,lvl3
+answer,"Oui, si le public veut savoir. (হ্যাঁ, জনগণ জানতে চাইলে।)",,0,
+answer,"Non, cela viole la présomption d’innocence. (না, এটি নির্দোষ ধরে নেওয়ার নীতি লঙ্ঘন করে।)",,1,
+answer,"Oui, s’il est arrêté. (হ্যাঁ, যদি গ্রেপ্তার হয়ে থাকে।)",,0,
+question,"Quelle proposition représente un exemple de délit ? (নিচের কোনটি একটি délit বা অপরাধ ?)",,,lvl3
+answer,"Un vol. (চুরি।)",,1,
+answer,"Un homicide volontaire. (ইচ্ছাকৃত হত্যা।)",,0,
+answer,"Un génocide. (গণহত্যা।)",,0,
+question,"Une personne est photographiée dans un lieu public pour un usage commercial. Le photographe est-il libre d’utiliser l’image ? (একজন ব্যক্তিকে পাবলিক স্থানে ছবি তুলে বাণিজ্যিকভাবে ব্যবহার করতে চাইলে কি অনুমতি লাগে ?)",,,lvl3
+answer,"Oui, si le lieu est public. (হ্যাঁ, জায়গা পাবলিক হলে।)",,0,
+answer,"Non, il doit obtenir l’autorisation de la personne. (না, ব্যক্তির স্পষ্ট অনুমতি নিতে হবে।)",,1,
+answer,"Oui, si la photo est professionnelle. (হ্যাঁ, পেশাদার ছবি হলে।)",,0,
+question,"Un citoyen apprend un crime grave et garde le silence. Est-ce légal ? (একজন নাগরিক গুরুতর অপরাধ জেনে চুপ থাকে। এটি কি বৈধ ?)",,,lvl3
+answer,"Oui, s’il ne connaît pas les auteurs. (হ্যাঁ, অপরাধী না জানলে।)",,0,
+answer,"Oui, si cela ne le concerne pas. (হ্যাঁ, নিজের সাথে সম্পর্ক না থাকলে।)",,0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. (না, গুরুতর অপরাধ গোপন করা শাস্তিযোগ্য।)",,1,
+question,"Sur un réseau social, un utilisateur insulte des élus locaux. Quelle règle s’applique ? (সোশ্যাল মিডিয়ায় কেউ স্থানীয় জনপ্রতিনিধিদের অপমান করলে কোন নিয়ম প্রযোজ্য ?)",,,lvl3
+answer,"C’est toléré en ligne. (অনলাইনে সহনীয়।)",,0,
+answer,"Autorisé si on supprime après. (পরে মুছে ফেললে বৈধ।)",,0,
+answer,"La liberté d’expression n’autorise pas l’injure publique. (মতপ্রকাশের স্বাধীনতা প্রকাশ্যে অপমানের অনুমতি দেয় না।)",,1,
+question,"Votre conjoint(e) lit vos messages privés sur votre téléphone sans autorisation. Est-ce illégal ? (আপনার সঙ্গী আপনার অনুমতি ছাড়া আপনার ফোনের ব্যক্তিগত মেসেজ পড়ে। এটি কি অবৈধ ?)",,,lvl3
+answer,"Non, la vie privée ne s’applique pas dans la famille. (না, পরিবারে ব্যক্তিগত গোপনীয়তা প্রযোজ্য নয়।)",,0,
+answer,"Non, le devoir de fidélité l’autorise. (না, দাম্পত্য দায়িত্বের কারণে এটি বৈধ।)",,0,
+answer,"Oui, l’accès sans consentement à des données personnelles est sanctionnable. (হ্যাঁ, অনুমতি ছাড়া ব্যক্তিগত ডেটায় প্রবেশ শাস্তিযোগ্য।)",,1,
+question,"Un citoyen français nouvellement naturalisé vote aux municipales. À quelle élection n’est-il pas autorisé à voter tant qu’il n’est pas inscrit ? (নতুনভাবে ফরাসি নাগরিক হওয়া একজন ব্যক্তি কোন নির্বাচনে ভোট দিতে পারবেন না, যদি তিনি তালিকাভুক্ত না হন ?)",,,lvl3
+answer,"Aux élections nationales ou européennes. (জাতীয় বা ইউরোপীয় নির্বাচনে।)",,1,
+answer,"À aucune, il peut voter partout. (সবখানেই ভোট দিতে পারবেন।)",,0,
+answer,"Seulement aux municipales pendant cinq ans. (পাঁচ বছর শুধু পৌরসভায়।)",,0,
+question,"Des citoyens veulent organiser une manifestation pacifique. Que doivent-ils faire ? (নাগরিকরা শান্তিপূর্ণ মিছিল করতে চাইলে কী করতে হবে ?)",,,lvl3
+answer,"Déclarer la manifestation et respecter l’ordre public. (মিছিল ঘোষণা করা এবং জনশৃঙ্খলা মানা।)",,1,
+answer,"Manifester sans prévenir la préfecture. (প্রিফেকচারকে না জানিয়ে মিছিল করা।)",,0,
+answer,"Empêcher les autres de défiler. (অন্যদের অংশ নিতে বাধা দেওয়া।)",,0,
+question,"Lors d’une manifestation non déclarée, quand l’usage de la force est-il légal ? (ঘোষণা ছাড়া মিছিলে পুলিশ কখন বলপ্রয়োগ করতে পারে ?)",,,lvl3
+answer,"Sans limite pour rétablir l’ordre. (শৃঙ্খলা ফেরাতে যেকোনোভাবে।)",,0,
+answer,"Automatiquement. (স্বয়ংক্রিয়ভাবে।)",,0,
+answer,"Seulement si la force est nécessaire, proportionnée et légale. (শুধু প্রয়োজনীয়, সামঞ্জস্যপূর্ণ ও আইনের মধ্যে হলে।)",,1,
+question,"Un journal critique le gouvernement. Peut-il être sanctionné ? (একটি পত্রিকা সরকার সমালোচনা করলে কি শাস্তি পেতে পারে ?)",,,lvl3
+answer,"Oui, si le gouvernement le décide. (হ্যাঁ, সরকার চাইলে।)",,0,
+answer,"Oui, si l’article dérange. (হ্যাঁ, বিরক্তিকর হলে।)",,0,
+answer,"Non, la liberté de la presse est protégée par la loi. (না, সংবাদমাধ্যমের স্বাধীনতা আইন দ্বারা সুরক্ষিত।)",,1,
+question,"Concernant les réseaux sociaux, quelle règle est correcte ? (সোশ্যাল মিডিয়ার ক্ষেত্রে কোন নিয়ম সঠিক ?)",,,lvl3
+answer,"Tout est autorisé sur internet. (ইন্টারনেটে সবকিছু বৈধ।)",,0,
+answer,"Les lois ne s’appliquent pas en ligne. (অনলাইনে আইন প্রযোজ্য নয়।)",,0,
+answer,"La liberté d’expression s’exerce dans le respect de la loi. (মতপ্রকাশের স্বাধীনতা আইন মেনে চলতে হয়।)",,1,
+question,"Lors d’une cérémonie officielle, un élu refuse de se lever pour l’hymne européen. Est-ce un droit ? (একটি আনুষ্ঠানিক অনুষ্ঠানে একজন নির্বাচিত প্রতিনিধি ইউরোপীয় সংগীতে দাঁড়াতে অস্বীকার করেন। এটি কি অধিকার ?)",,,lvl3
+answer,"Oui, c’est une liberté personnelle. (হ্যাঁ, এটি ব্যক্তিগত স্বাধীনতা।)",,0,
+answer,"Non, le respect des symboles relève du civisme. (না, প্রতীক সম্মান করা নাগরিক দায়িত্ব।)",,1,
+answer,"Oui, s’il n’aime pas la musique. (হ্যাঁ, যদি গান পছন্দ না হয়।)",,0,
+question,"Publier les coordonnées d’un voisin sur les réseaux sociaux sans son accord. Est-ce légal ? (কারও অনুমতি ছাড়া তার ঠিকানা বা নম্বর অনলাইনে প্রকাশ করা কি বৈধ ?)",,,lvl3
+answer,"Oui, si elles sont publiques. (হ্যাঁ, আগে থেকেই জানা থাকলে।)",,0,
+answer,"Oui, si on supprime après. (হ্যাঁ, পরে মুছে ফেললে।)",,0,
+answer,"Non, la diffusion de données personnelles est interdite. (না, ব্যক্তিগত তথ্য প্রকাশ নিষিদ্ধ।)",,1,
+question,"Un patron impose sept jours de travail par semaine. Est-ce autorisé ? (একজন মালিক সপ্তাহে সাত দিন কাজ করাতে চান। এটি কি বৈধ ?)",,,lvl3
+answer,"Oui, si le salarié accepte. (হ্যাঁ, কর্মী রাজি হলে।)",,0,
+answer,"Oui, s’il paie plus. (হ্যাঁ, বেশি টাকা দিলে।)",,0,
+answer,"Non, le repos hebdomadaire est un droit. (না, সাপ্তাহিক বিশ্রাম একটি অধিকার।)",,1,
+question,"Un résident joue de la batterie à 2 h du matin. Quelle règle s’applique ? (রাত ২টায় কেউ ড্রাম বাজায়। কোন নিয়ম প্রযোজ্য ?)",,,lvl3
+answer,"C’est autorisé le week-end. (সপ্তাহান্তে বৈধ।)",,0,
+answer,"C’est toléré s’il est musicien. (সংগীতশিল্পী হলে সহনীয়।)",,0,
+answer,"Il commet un tapage nocturne sanctionnable. (এটি রাতের শব্দদূষণ, শাস্তিযোগ্য।)",,1

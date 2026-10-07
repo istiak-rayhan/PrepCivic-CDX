@@ -1,0 +1,453 @@
+type,text,placeholder,is_correct,level
+question,Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? [A subsidized sports association imposes a prayer before each match. Is this authorized?],,,lvl1
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. [No, an association financed by public funds must respect neutrality.]",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. [Yes, if it is part of local tradition.]",,0.0,
+answer,"Oui, si les adhérents sont d’accord. [Yes, if the members agree.]",,0.0,
+question,Une élève porte un voile pendant les cours. Quelle règle s’applique ? [A student wears a veil during classes. What rule applies?],,,lvl1
+answer,Les signes religieux ostensibles sont interdits dans les établissements publics. [Conspicuous religious symbols are prohibited in public schools.],,1.0,
+answer,Autorisé pour les filles majeures. [Authorized for adult girls.],,0.0,
+answer,Autorisé si l’élève reste discrète. [Authorized if the student remains discreet.],,0.0,
+question,Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? [A citizen leaves their dog's droppings on the sidewalk. What rule applies?],,,lvl1
+answer,Couvrir avec du sable. [Cover with sand.],,0.0,
+answer,"Laisser sur place, la pluie nettoiera. [Leave in place, the rain will clean it up.]",,0.0,
+answer,Ramasser et jeter dans les poubelles prévues. [Pick it up and throw it in the provided bins.],,1.0,
+question,Un utilisateur partage un faux message d’alerte terroriste. Risque-t-il une sanction ? [A user shares a false terrorist alert message. Do they risk a penalty?],,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. [Yes, the dissemination of false news is punished.]",,1.0,
+answer,"Oui, seulement si cela devient viral. [Yes, only if it goes viral.]",,0.0,
+answer,"Non, s’il supprime après. [No, if they delete it afterwards.]",,0.0,
+question,Un passant photographie un inconnu dans la rue et publie la photo sans accord. Est-ce légal ? [A passerby photographs a stranger in the street and publishes the photo without consent. Is this legal?],,,lvl1
+answer,"Non, le droit à l’image protège toute personne identifiable. [No, the right to one's image protects any identifiable person.]",,1.0,
+answer,"Oui, si la photo est artistique. [Yes, if the photo is artistic.]",,0.0,
+answer,"Oui, si elle ne montre rien de choquant. [Yes, if it does not show anything shocking.]",,0.0,
+question,Un voisin filme en permanence l’entrée de votre domicile. Quel est votre recours immédiat ? [A neighbor permanently films the entrance to your home. What is your immediate recourse?],,,lvl1
+answer,Il n’y a pas de recours. [There is no recourse.],,0.0,
+answer,Lui demander de réorienter la caméra puis saisir la CNIL ou la justice si nécessaire. [Ask them to reorient the camera and then contact the CNIL or the courts if necessary.],,1.0,
+answer,Couper les câbles de la caméra. [Cut the camera cables.],,0.0,
+question,"Lors du 11 novembre, un élu prononce un discours religieux. Est-ce conforme ? [During November 11, an elected official delivers a religious speech. Is this compliant?]",,,lvl1
+answer,"Oui, pour honorer les croyants morts pour la France. [Yes, to honor believers who died for France.]",,0.0,
+answer,"Oui, si personne ne proteste. [Yes, if no one protests.]",,0.0,
+answer,"Non, les cérémonies publiques doivent rester neutres. [No, public ceremonies must remain neutral.]",,1.0,
+question,Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? [An elected official refuses to declare their financial interests. Is it serious?],,,lvl1
+answer,"Oui, la transparence est une obligation. [Yes, transparency is an obligation.]",,1.0,
+answer,"Non, c’est une vie privée. [No, it is a private life.]",,0.0,
+answer,"Oui, seulement s’il gagne beaucoup. [Yes, only if they earn a lot.]",,0.0,
+question,Un maire veut pardonner une contravention à un ami. En a-t-il le droit ? [A mayor wants to forgive a fine for a friend. Do they have the right to do so?],,,lvl1
+answer,"Oui, par amitié. [Yes, out of friendship.]",,0.0,
+answer,"Non, seul le juge ou l’administration compétente peut. [No, only the judge or the competent administration can.]",,1.0,
+answer,"Oui, par amitié. [Yes, out of friendship.]",,0.0,
+question,Un média publie la photo d’un suspect avec le mot coupable. Est-ce légal ? [A media outlet publishes the photo of a suspect with the word guilty. Is this legal?],,,lvl1
+answer,"Oui, si le public veut savoir. [Yes, if the public wants to know.]",,0.0,
+answer,"Oui, s’il est arrêté. [Yes, if they are arrested.]",,0.0,
+answer,"Non, cela viole la présomption d’innocence. [No, this violates the presumption of innocence.]",,1.0,
+question,Un internaute publie des propos incitant à la haine. Quelle réaction conforme ? [An internet user publishes remarks inciting hatred. What is the compliant reaction?],,,lvl1
+answer,Signaler et sanctionner ces propos. [Report and sanction these remarks.],,1.0,
+answer,Effacer seulement s’il s’excuse. [Delete only if they apologize.],,0.0,
+answer,Tolérer car c’est une opinion. [Tolerate because it is an opinion.],,0.0,
+question,Vous êtes témoin d’un comportement suspect pouvant être lié à la radicalisation. Que faire ? [You witness suspicious behavior that could be linked to radicalization. What should you do?],,,lvl1
+answer,Enquêter vous-même. [Investigate yourself.],,0.0,
+answer,Ne rien faire sauf danger immédiat. [Do nothing unless there is immediate danger.],,0.0,
+answer,Signaler via le numéro d’urgence ou la plateforme dédiée. [Report via the emergency number or dedicated platform.],,1.0,
+question,Un employeur refuse une promotion à cause de l’orientation sexuelle. Quelle base légale ? [An employer refuses a promotion because of sexual orientation. What is the legal basis?],,,lvl1
+answer,L’orientation sexuelle est un critère de discrimination interdit. [Sexual orientation is a prohibited discrimination criterion.],,1.0,
+answer,Il n’y a pas de discrimination. [There is no discrimination.],,0.0,
+answer,Le salarié doit prouver que son orientation sexuelle n’a aucun lien avec ses compétences. [The employee must prove that their sexual orientation has no connection to their skills.],,0.0,
+question,Des personnes rient pendant la minute de silence du 11 novembre. Est-ce sanctionnable ? [People laugh during the minute of silence on November 11. Is this punishable?],,,lvl1
+answer,"Oui, seulement si c’est filmé. [Yes, only if it is filmed.]",,0.0,
+answer,"Oui, c’est un outrage à la mémoire collective. [Yes, it is an outrage to collective memory.]",,1.0,
+answer,"Non, s’ils sont jeunes. [No, if they are young.]",,0.0,
+question,Vous voulez connaître les dépenses de votre mairie. Quel est votre droit ? [You want to know the expenses of your town hall. What is your right?],,,lvl1
+answer,Passer obligatoirement par un avocat. [Must go through a lawyer.],,0.0,
+answer,Vous n’avez pas ce droit. [You do not have this right.],,0.0,
+answer,Droit d’accès aux documents administratifs. [Right of access to administrative documents.],,1.0,
+question,Un citoyen devient bénévole dans une association alimentaire. Quel principe illustre-t-il ? [A citizen becomes a volunteer in a food association. What principle does this illustrate?],,,lvl1
+answer,La neutralité. [Neutrality.],,0.0,
+answer,L’égalité. [Equality.],,0.0,
+answer,La fraternité. [Fraternity.],,1.0,
+question,Un promeneur capture des grenouilles pour les observer. Est-ce autorisé ? [A walker captures frogs to observe them. Is this authorized?],,,lvl1
+answer,"Oui, pour usage personnel. [Yes, for personal use.]",,0.0,
+answer,"Oui, s’il les relâche plus tard. [Yes, if they release them later.]",,0.0,
+answer,"Non, certaines espèces sont protégées. [No, some species are protected.]",,1.0,
+question,Une voisine âgée tombe dans le hall. Que devez-vous faire ? [An elderly neighbor falls in the hall. What should you do?],,,lvl1
+answer,Passer votre chemin. [Go on your way.],,0.0,
+answer,Filmer la scène. [Film the scene.],,0.0,
+answer,L’aider immédiatement et appeler les secours. [Help her immediately and call for help.],,1.0,
+question,Un parent demande une dispense de sport pour raison religieuse. Quelle réponse conforme ? [A parent requests an exemption from sports for religious reasons. What is the compliant response?],,,lvl1
+answer,Remplacer le sport par une étude surveillée. [Replace sports with supervised study.],,0.0,
+answer,Accorder une dispense permanente. [Grant a permanent exemption.],,0.0,
+answer,Expliquer que les cours sont obligatoires pour tous. [Explain that classes are mandatory for everyone.],,1.0,
+question,Deux salariés ont des salaires différents pour le même poste. Quelle règle s’applique ? [Two employees have different salaries for the same job. What rule applies?],,,lvl1
+answer,L’entreprise peut fixer librement les salaires. [The company can freely set salaries.],,0.0,
+answer,Égalité de rémunération pour un travail égal. [Equal pay for equal work.],,1.0,
+answer,Différence normale selon le sexe. [Normal difference according to sex.],,0.0,
+question,"À l’hôpital public, une infirmière refuse un patient pour sa religion. Quelle conduite respecte la laïcité ? [In a public hospital, a nurse refuses a patient because of their religion. What conduct respects secularism?]",,,lvl1
+answer,Choisir les patients selon sa religion. [Choose patients according to their religion.],,0.0,
+answer,Soigner tous les patients sans distinction. [Treat all patients without distinction.],,1.0,
+answer,Soigner seulement ceux qui partagent ses convictions. [Treat only those who share their convictions.],,0.0,
+question,Parents séparés en désaccord sur l’école. Que dit la loi ? [Separated parents disagree on school. What does the law say?],,,lvl1
+answer,Les décisions importantes doivent être prises par les deux parents. [Important decisions must be taken by both parents.],,1.0,
+answer,Le juge décide toujours seul. [The judge always decides alone.],,0.0,
+answer,La mère décide seule. [The mother decides alone.],,0.0,
+question,Une commune refuse une salle municipale pour des funérailles laïques. Est-ce légal ? [A municipality refuses a municipal hall for secular funerals. Is this legal?],,,lvl1
+answer,"Oui, seules les cérémonies religieuses sont autorisées. [Yes, only religious ceremonies are authorized.]",,0.0,
+answer,"Non, le service public doit traiter toutes les convictions également. [No, the public service must treat all convictions equally.]",,1.0,
+answer,"Oui, car les funérailles sont privées. [Yes, because funerals are private.]",,0.0,
+question,Un cycliste circule la nuit sans éclairage sur une route non éclairée. Est-ce autorisé ? [A cyclist rides at night without lights on an unlit road. Is this authorized?],,,lvl1
+answer,"Oui, s’il roule lentement. [Yes, if they ride slowly.]",,0.0,
+answer,"Non, l’éclairage est obligatoire pour être visible. [No, lighting is mandatory to be visible.]",,1.0,
+answer,"Oui, s’il porte des vêtements sombres. [Yes, if they wear dark clothing.]",,0.0,
+question,Un agent d’accueil d’une préfecture affiche un verset religieux sur son bureau. Est-ce conforme ? [A receptionist at a prefecture displays a religious verse on their desk. Is this compliant?],,,lvl1
+answer,"Non, la neutralité interdit tout affichage de conviction personnelle. [No, neutrality prohibits any display of personal conviction.]",,1.0,
+answer,"Oui, si le public ne le remarque pas. [Yes, if the public does not notice it.]",,0.0,
+answer,"Oui, s’il s’agit d’un petit texte. [Yes, if it is a short text.]",,0.0,
+question,Un salarié demande quelques minutes de pause pour prier sans perturber le travail. Quelle réponse conforme ? [An employee asks for a few minutes of break to pray without disrupting work. What is the compliant response?],,,lvl1
+answer,L’employeur peut accepter si cela ne désorganise pas l’entreprise. [The employer can accept if it does not disorganize the company.],,1.0,
+answer,Refuser toute demande religieuse par principe. [Refuse any religious request on principle.],,0.0,
+answer,L’obliger à prier dans l’espace clients. [Force them to pray in the customer area.],,0.0,
+question,Un de vos voisins installe une caméra de surveillance qui filme de manière permanente l'entrée de votre domicile. Quel est votre recours légal immédiat ? [One of your neighbors installs a surveillance camera that permanently films the entrance to your home. What is your immediate legal recourse?],,,lvl1
+answer,"Lui demander de réorienter sa caméra pour qu'elle ne filme que sa propriété, et en cas de refus, saisir la CNIL ou la justice. [Ask them to reorient their camera so that it only films their property, and in case of refusal, contact the CNIL or the justice system.]",,1.0,
+answer,"Couper les câbles de la caméra, car elle porte atteinte à votre vie privée. [Cut the camera cables, because it infringes on your privacy.]",,0.0,
+answer,"Il n'y a pas de recours, car les caméras privées sont totalement libres. [There is no recourse, because private cameras are totally free.]",,0.0,
+question,Un automobiliste ne s’arrête pas au passage piéton. Est-ce autorisé ? [A motorist does not stop at the pedestrian crossing. Is this authorized?],,,lvl1
+answer,"Non, il doit céder le passage. [No, they must give way.]",,1.0,
+answer,"Oui, si personne n’est blessé. [Yes, if no one is hurt.]",,0.0,
+answer,"Oui, la route est prioritaire. [Yes, the road has priority.]",,0.0,
+question,Un maire décide d’installer une crèche de Noël dans le hall de la mairie. Dans quel cas est-ce légal ? [A mayor decides to install a nativity scene in the town hall lobby. In what case is this legal?],,,lvl1
+answer,Si la crèche a un caractère culturel ou festif et non religieux. [If the nativity scene has a cultural or festive and not religious character.],,1.0,
+answer,"Jamais, même pour célébrer la culture locale. [Never, even to celebrate local culture.]",,0.0,
+answer,"Toujours, car c’est une tradition. [Always, because it is a tradition.]",,0.0,
+question,Votre voisin construit une clôture qui empiète légèrement sur votre terrain. Quelle est la base de votre droit à exiger le retrait ? [Your neighbor builds a fence that slightly encroaches on your land. What is the basis of your right to demand removal?],,,lvl1
+answer,Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. [You can demand rent for the use of this small part of your land.],,0.0,
+answer,Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. [The right of property is absolute and inviolable: even a minimal encroachment must be removed.],,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. [You can do nothing, because the encroachment is too small to justify legal action.]",,0.0,
+question,Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? [A site collects users' contact details without authorization. Is this legal?],,,lvl1
+answer,"Oui, si les données restent en Europe. [Yes, if the data remains in Europe.]",,0.0,
+answer,"Oui, si c’est pour la publicité. [Yes, if it is for advertising.]",,0.0,
+answer,"Non, il faut le consentement clair de la personne. [No, clear consent from the person is required.]",,1.0,
+question,Un journal publie un article critiquant le gouvernement. Peut-il être sanctionné ? [A newspaper publishes an article criticizing the government. Can it be sanctioned?],,,lvl1
+answer,"Oui, si l’article dérange. [Yes, if the article is disturbing.]",,0.0,
+answer,"Oui, si le gouvernement le souhaite. [Yes, if the government wishes.]",,0.0,
+answer,"Non, la liberté de la presse est protégée dans le cadre de la loi. [No, press freedom is protected under the law.]",,1.0,
+question,Un enfant étranger résidant en France sans papiers souhaite être scolarisé. L’école peut-elle refuser ? [A foreign child residing in France without papers wishes to go to school. Can the school refuse?],,,lvl1
+answer,"Oui, s’il ne parle pas encore français. [Yes, if they do not yet speak French.]",,0.0,
+answer,"Non, tout enfant a droit à l’éducation en France. [No, every child has the right to education in France.]",,1.0,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. [Yes, if their parents do not have a residence permit.]",,0.0,
+question,Une candidate voilée postule dans un supermarché. L’employeur la rejette pour ce motif. Est-ce légal ? [A veiled candidate applies to a supermarket. The employer rejects her for this reason. Is this legal?],,,lvl1
+answer,"Non, c’est une discrimination fondée sur la religion. [No, this is discrimination based on religion.]",,1.0,
+answer,"Oui, si les clients sont gênés. [Yes, if customers are bothered.]",,0.0,
+answer,"Oui, car l’employeur refuse tous les signes religieux. [Yes, because the employer refuses all religious symbols.]",,0.0,
+question,Une voisine âgée chute dans l’escalier. Quelle conduite civique ? [An elderly neighbor falls on the stairs. What is the civic conduct?],,,lvl1
+answer,Alerter les secours immédiatement. [Alert emergency services immediately.],,1.0,
+answer,Filmer la scène pour preuve. [Film the scene for evidence.],,0.0,
+answer,"Ne rien faire, elle se relèvera. [Do nothing, she will get up.]",,0.0,
+question,Une commune refuse la location d’une salle municipale pour des funérailles laïques. Est-ce légal ? [A municipality refuses the rental of a municipal hall for a secular funeral. Is this legal?],,,lvl1
+answer,"Non, le service public doit traiter également toutes convictions. [No, the public service must treat all convictions equally.]",,1.0,
+answer,"Oui, car les funérailles sont privées. [Yes, because funerals are private.]",,0.0,
+answer,"Oui, les cérémonies religieuses seules sont autorisées. [Yes, only religious ceremonies are authorized.]",,0.0,
+question,"Votre voisin construit une clôture sur son terrain, mais une petite partie empiète de quelques centimètres sur le vôtre. Quelle est la base de votre droit à exiger le retrait de cette partie ? [Your neighbor builds a fence on his land, but a small part encroaches a few centimeters onto yours. What is the basis of your right to demand the removal of this part?]",,,lvl1
+answer,Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. [You can demand rent for the use of this small part of your land.],,0.0,
+answer,Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. [The right of property is absolute and inviolable: even a minimal encroachment must be removed.],,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. [You can do nothing, because the encroachment is too small to justify legal action.]",,0.0,
+question,"Sur un réseau social, un citoyen publie un photomontage satirique très offensant sur un responsable politique, mais sans appel à la violence. Le citoyen risque-t-il une condamnation ? [On a social network, a citizen publishes a highly offensive satirical photomontage of a politician, but without calling for violence. Does the citizen risk conviction?]",,,lvl1
+answer,"Non, la satire est toujours protégée par la liberté d'expression, même si elle est jugée de mauvais goût. [No, satire is always protected by freedom of expression, even if it is considered in bad taste.]",,0.0,
+answer,"Oui, car la loi interdit toute critique des responsables politiques sous quelque forme que ce soit. [Yes, because the law prohibits any criticism of politicians in any form whatsoever.]",,0.0,
+answer,"Le citoyen risque une condamnation pour injure publique, mais il pourra invoquer son droit à la satire politique. [The citizen risks conviction for public insult, but will be able to invoke his right to political satire.]",,1.0,
+question,Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? [A subsidized sports association imposes a prayer before each match. Is this authorized?],,,lvl1
+answer,"Oui, si les adhérents sont d’accord. [Yes, if the members agree.]",,0.0,
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. [No, an association financed by public funds must respect neutrality.]",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. [Yes, if it is part of local tradition.]",,0.0,
+question,"Lors d’une alerte inondation, certains habitants ignorent les consignes d’évacuation. Quelle attitude responsable ? [During a flood alert, some residents ignore evacuation instructions. What is a responsible attitude?]",,,lvl1
+answer,Suivre les instructions des autorités et aider les voisins vulnérables. [Follow the authorities' instructions and help vulnerable neighbors.],,1.0,
+answer,Publier une vidéo sur internet pour alerter sans partir. [Publish a video on the internet to alert without leaving.],,0.0,
+answer,Rester chez soi « pour protéger ses biens ». [Stay at home ""to protect your property"".],,0.0,
+question,Une association culturelle exclut un membre pour ses opinions politiques radicales. Est-ce légal ? [A cultural association excludes a member for their radical political opinions. Is this legal?],,,lvl1
+answer,"Oui, si cette possibilité est prévue dans les statuts de l’association. [Yes, if this possibility is provided for in the association's statutes.]",,1.0,
+answer,"Non, car une fois membre l’exclusion est impossible. [No, because once a member, exclusion is impossible.]",,0.0,
+answer,"Non, car toute exclusion pour opinions politiques est interdite. [No, because any exclusion for political opinions is prohibited.]",,0.0,
+question,Un promeneur capture des papillons pour les collectionner. Est-ce autorisé ? [A walker captures butterflies to collect them. Is this authorized?],,,lvl1
+answer,"Oui, s’il les relâche après. [Yes, if they release them afterwards.]",,0.0,
+answer,"Oui, s’il les garde chez lui. [Yes, if they keep them at home.]",,0.0,
+answer,"Non, certaines espèces sont protégées. [No, some species are protected.]",,1.0,
+question,Un homme refuse de s’adresser à une agente publique en raison de son sexe. Quelle marche à suivre ? [A man refuses to speak to a female public agent because of her sex. What is the procedure to follow?],,,lvl1
+answer,L'agente doit rappeler la loi de 1905 et refuser la démarche. [The agent must recall the law of 1905 and refuse the procedure.],,0.0,
+answer,L'agente informe que le service public ne peut être refusé pour ce motif et peut interrompre la démarche. [The agent informs that the public service cannot be refused for this reason and may interrupt the procedure.],,1.0,
+answer,L'agente doit demander à un collègue masculin d’assurer le service. [The agent must ask a male colleague to provide the service.],,0.0,
+question,Un restaurant refuse un client en fauteuil roulant pour raisons de place. Est-ce légal ? [A restaurant refuses a customer in a wheelchair for space reasons. Is this legal?],,,lvl1
+answer,"Oui, si le restaurant est petit. [Yes, if the restaurant is small.]",,0.0,
+answer,"Non, refuser un client en raison de son handicap est interdit. [No, refusing a customer because of their disability is prohibited.]",,1.0,
+answer,"Oui, si le client vient seul. [Yes, if the customer comes alone.]",,0.0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? [A neighbor burns their green waste in their garden, causing heavy smoke. What is a reaction consistent with civility?]",,,lvl1
+answer,Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. [Remind them that this practice is prohibited and report to the town hall if necessary.],,1.0,
+answer,L’imiter pour “équilibrer les nuisances”. [Imitate them to “balance the nuisances”.],,0.0,
+answer,Le laisser faire car c’est sa propriété. [Let them do it because it is their property.],,0.0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? [During an accident, passersby film instead of helping. What is the moral and legal rule?]",,,lvl1
+answer,Porter assistance en priorité. [Provide assistance as a priority.],,1.0,
+answer,Attendre que d’autres interviennent. [Wait for others to intervene.],,0.0,
+answer,Filmer pour les réseaux. [Film for the networks.],,0.0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? [What is the minimum legal obligation for any owner of a motor land vehicle in France, even if it is not running?]",,,lvl1
+answer,L’obligation de souscrire une assurance tous risques. [The obligation to take out comprehensive insurance.],,0.0,
+answer,Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. [There is no obligation if the vehicle remains parked on private property.],,0.0,
+answer,L’obligation de souscrire une assurance en responsabilité civile (au tiers). ।) [The obligation to take out third-party liability insurance. ।)],,1.0,
+question,"Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ? [In the street, you see an injured and unconscious person. What should you do?]",,,lvl1
+answer,Continuer votre chemin. [Continue on your way.],,0.0,
+answer,Filmer pour garder une preuve. [Film to keep a record.],,0.0,
+answer,Alerter les secours et sécuriser les lieux . [Alert the emergency services and secure the area.],,1.0,
+question,Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? [An employer reads an employee's personal emails on their work computer. Is this authorized?],,,lvl1
+answer,"Non, les messages identifiés comme personnels sont protégés. [No, messages identified as personal are protected.]",,1.0,
+answer,"Oui, car le matériel appartient à l’entreprise. [Yes, because the equipment belongs to the company.]",,0.0,
+answer,"Oui, s’il ne les partage pas. [Yes, if they do not share them.]",,0.0,
+question,Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? [A pharmacist tells a customer's illness to his neighbors. Is this legal?],,,lvl1
+answer,"Oui, s’il veut prévenir les autres. [Yes, if he wants to warn others.]",,0.0,
+answer,"Non, il viole le secret professionnel. [No, he violates professional secrecy.]",,1.0,
+answer,"Oui, si le client est d’accord après. [Yes, if the customer agrees afterwards.]",,0.0,
+question,Que doit-on faire face aux ordres des policiers ou gendarmes ? [What should be done in the face of orders from police officers or gendarmes?],,,lvl1
+answer,Les négocier sur place. [Negotiate them on the spot.],,0.0,
+answer,Les contester immédiatement. [Contest them immediately.],,0.0,
+answer,Les respecter dans le cadre de la loi. [Respect them within the framework of the law.],,1.0,
+question,Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? [Separated parents disagree on the choice of their child's school. How does the law define the exercise of parental authority in this situation?],,,lvl1
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. [Important decisions must be made by both parents together, even after separation.]",,1.0,
+answer,La mère a toujours le dernier mot. [The mother always has the final word.],,0.0,
+answer,Le juge décide automatiquement. [The judge decides automatically.],,0.0,
+question,Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? [What attitude should one have when witnessing violence?],,,lvl1
+answer,Intervenir seul physiquement. [Intervene alone physically.],,0.0,
+answer,Ne rien faire. [Do nothing.],,0.0,
+answer,Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. [Alert emergency services or law enforcement and help as much as possible.],,1.0,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? [An internet user publishes ""[Group X] are dangerous, we must chase them away"". What is the compliant reaction?]",,,lvl1
+answer,Signaler et sanctionner ces propos. [Report and sanction these remarks.],,1.0,
+answer,Tolérer car c’est une opinion. [Tolerate because it is an opinion.],,0.0,
+answer,Effacer seulement s’il s’excuse. [Delete only if they apologize.],,0.0,
+question,Est-il toujours possible de divorcer ? [Is it always possible to get a divorce?],,,lvl1
+answer,"Oui, uniquement avec l’accord des familles. [Yes, only with the agreement of the families.]",,0.0,
+answer,"Non, sauf en cas de faute grave. [No, except in cases of serious misconduct.]",,0.0,
+answer,"Oui, le divorce est un droit reconnu par la loi. [Yes, divorce is a right recognized by law.]",,1.0,
+question,Le recours à l’avortement est-il autorisé ? [Is access to abortion authorized?],,,lvl1
+answer,"Non, il est interdit. [No, it is prohibited.]",,0.0,
+answer,Seulement avec l’accord du conjoint. [Only with the spouse's agreement.],,0.0,
+answer,"Oui, dans les conditions prévues par la loi. [Yes, under the conditions provided by law.]",,1.0,
+question,Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? [A self-employed worker refuses to contribute to social security. Is this authorized?],,,lvl1
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. [No, contributions are mandatory to finance national solidarity.]",,1.0,
+answer,"Oui, s’il a une assurance privée. [Yes, if they have private insurance.]",,0.0,
+answer,"Oui, s’il n’est jamais malade. [Yes, if they are never sick.]",,0.0,
+question,Quel est un exemple d’assistance à personne en danger ? [What is an example of assistance to a person in danger?],,,lvl1
+answer,Appeler les secours pour une personne blessée. [Calling emergency services for an injured person.],,1.0,
+answer,Quitter les lieux sans agir. [Leaving the scene without taking action.],,0.0,
+answer,Filmer la scène. [Filming the scene.],,0.0,
+question,Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? [Two married French women resort to MAR (Medically Assisted Reproduction). How is the child legally linked to the second mother?],,,lvl1
+answer,La loi ne reconnaît pas la seconde mère. [The law does not recognize the second mother.],,0.0,
+answer,La seconde mère doit adopter l’enfant. [The second mother must adopt the child.],,0.0,
+answer,Les deux mères sont reconnues comme parents dès la naissance. [Both mothers are recognized as parents from birth.],,1.0,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? [In a building, residents leave the common lights on all night. What civic attitude should be adopted?]",,,lvl1
+answer,Ignorer le problème. [Ignore the problem.],,0.0,
+answer,Retirer les ampoules de force. [Forcibly remove the light bulbs.],,0.0,
+answer,Proposer des capteurs ou des minuteries pour réduire le gaspillage. [Propose sensors or timers to reduce waste.],,1.0,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? [To change their civil status (first name and gender) on their official documents, must a transgender person necessarily have undergone surgery?]",,,lvl1
+answer,"Oui, c’est obligatoire. [Yes, it is mandatory.]",,0.0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. [No, since 2017, no operation or medical intervention is required.]",,1.0,
+answer,"Oui, mais seulement une attestation psychiatrique. [Yes, but only a psychiatric certificate.]",,0.0,
+question,Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? [A citizen ordered to pay a fine refuses to pay it out of disagreement. What attitude is compliant with the law?],,,lvl1
+answer,Se faire justice soi-même. [Taking the law into one's own hands.],,0.0,
+answer,Exécuter la décision ou exercer un recours prévu par la loi. [Execute the decision or exercise an appeal provided by law.],,1.0,
+answer,Ignorer la décision. [Ignore the decision.],,0.0,
+question,Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? [A neighbor is accused of a theft but has not yet been tried. How to react?],,,lvl1
+answer,Attendre la décision de justice avant de le juger. [Wait for the court's decision before judging them.],,1.0,
+answer,Le considérer coupable immédiatement. [Consider them guilty immediately.],,0.0,
+answer,Publier son nom sur les réseaux sociaux. [Publish their name on social networks.],,0.0,
+question,Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? [A public transport strike is announced. What system allows users to be informed in advance?],,,lvl1
+answer,Le droit de réquisition. [The right of requisition.],,0.0,
+answer,Le service minimum avec publication des prévisions de circulation. [Minimum service with publication of traffic forecasts.],,1.0,
+answer,Une limitation légale du nombre de grévistes. [A legal limitation on the number of strikers.],,0.0,
+question,Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? [A person receives an email from a "bank" asking for their codes. What should they do?],,,lvl1
+answer,Répondre pour vérifier. [Reply to check.],,0.0,
+answer,Ne pas répondre et signaler la fraude. [Do not reply and report the fraud.],,1.0,
+answer,Donner les codes si l’adresse semble officielle. [Give the codes if the address seems official.],,0.0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? [During an identity check without documents, can the police take you to the station?]",,,lvl1
+answer,"Non, jamais. [No, never.]",,0.0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. [Yes, for an identity check that can last up to 4 hours.]",,1.0,
+answer,"Non, elle doit vous laisser partir. [No, they must let you go.]",,0.0,
+question,Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? [A resident attends a public meeting of the municipal council. Can they speak?],,,lvl1
+answer,"Oui, si le maire l’autorise selon les règles locales. [Yes, if the mayor authorizes it according to local rules.]",,1.0,
+answer,"Non, seuls les élus peuvent parler. [No, only elected officials can speak.]",,0.0,
+answer,"Oui, librement et sans limite. [Yes, freely and without limit.]",,0.0,
+question,Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? [A restaurateur refuses to serve a homosexual couple. What is the rule?],,,lvl1
+answer,Autorisé si le restaurant est familial. [Authorized if the restaurant is family-run.],,0.0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. [It is prohibited, access to a service cannot depend on sexual orientation.]",,1.0,
+answer,Autorisé s’il affiche ce refus. [Authorized if they post this refusal.],,0.0,
+question,Qui veille au maintien de l’ordre public ? [Who ensures the maintenance of public order?],,,lvl1
+answer,Le Parlement. [The Parliament.],,0.0,
+answer,Les mairies. [The town halls.],,0.0,
+answer,La police et la gendarmerie. [The police and the gendarmerie.],,1.0,
+question,Le respect des décisions de justice est-il obligatoire ? [Is respecting court decisions mandatory?],,,lvl1
+answer,"Non, si on n’est pas d’accord. [No, if you don't agree.]",,0.0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. [Yes, even in case of disagreement, with the possibility of legal appeal.]",,1.0,
+answer,Seulement pour les étrangers. [Only for foreigners.],,0.0,
+question,Quelle proposition constitue une obligation ? [Which proposition constitutes an obligation?],,,lvl1
+answer,Respecter la loi. [Respecting the law.],,1.0,
+answer,Voter à chaque élection. [Voting in every election.],,0.0,
+answer,Adhérer à une association. [Joining an association.],,0.0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? [During a legal check, a passerby refuses to state their identity. What attitude is correct?]",,,lvl1
+answer,Refuser au nom de la liberté individuelle. [Refusing in the name of individual freedom.],,0.0,
+answer,Reporter le contrôle à plus tard. [Postponing the check until later.],,0.0,
+answer,Coopérer et présenter une pièce d’identité. [Cooperating and presenting an ID.],,1.0,
+question,Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? [You wish to know the details of the public spending of your town hall. What is your right?],,,lvl1
+answer,Passer obligatoirement par un avocat. [Must necessarily go through a lawyer.],,0.0,
+answer,Vous n’avez pas ce droit. [You do not have this right.],,0.0,
+answer,Le droit d’accès aux documents administratifs. [The right of access to administrative documents.],,1.0,
+question,Une candidate voilée postule dans un supermarché ; l’employeur la rejette pour ce motif. Est-ce légal ? [A veiled candidate applies in a supermarket; the employer rejects her for this reason. Is this legal?],,,lvl1
+answer,"Oui, car l’employeur refuse tous les signes religieux. [Yes, because the employer refuses all religious signs.]",,0.0,
+answer,"Oui, si les clients sont gênés. [Yes, if the customers are bothered.]",,0.0,
+answer,"Non, c’est une discrimination fondée sur la religion. [No, it is a discrimination based on religion.]",,1.0,
+question,Un homme se présente à la mairie pour une démarche administrative et refuse de s'adresser à une agente publique en raison de son sexe. Quelle est la marche à suivre pour l'agente ? [A man goes to the town hall for an administrative procedure and refuses to address a female public official because of her gender. What is the correct course of action for the official?],,,lvl1
+answer,L'agente doit lui rappeler la loi de 1905 sur la laïcité et refuser d'effectuer la démarche. [The official must remind him of the 1905 law on secularism and refuse to carry out the procedure.],,0.0,
+answer,"L'agente doit l'informer que le service public ne peut être rendu qu'au guichet qu'il refuse, et que son refus est une rupture du principe d'égalité. [The official must inform him that the public service can only be provided at the counter he refuses, and that his refusal is a breach of the principle of equality.]",,1.0,
+answer,L'agente doit demander à un collègue masculin d'assurer le service pour éviter un conflit. [The official must ask a male colleague to provide the service to avoid a conflict.],,0.0,
+question,Un automobiliste voit une voiture accidentée mais poursuit sa route « pour ne pas être en retard ». Quelle attitude conforme ? [A motorist sees an crashed car but continues driving "so as not to be late". What is the compliant attitude?],,,lvl1
+answer,Filmer et poster la vidéo. [Film and post the video.],,0.0,
+answer,S’arrêter et prévenir les secours. [Stop and alert emergency services.],,1.0,
+answer,Poursuivre son trajet. [Continue the journey.],,0.0,
+question,Une commune refuse de proposer un hébergement d’urgence à une famille sans abri en hiver. Est-ce conforme ? [A municipality refuses to offer emergency accommodation to a homeless family in winter. Is this compliant?],,,lvl1
+answer,"Non, toute personne sans abri doit pouvoir accéder à un hébergement d’urgence. [No, any homeless person must be able to access emergency accommodation.]",,1.0,
+answer,"Oui, si la famille vient d’une autre région. [Yes, if the family comes from another region.]",,0.0,
+answer,"Oui, si les centres sont pleins. [Yes, if the centers are full.]",,0.0,
+question,Une entreprise déverse des solvants dans un ruisseau pour “économiser le traitement”. Quelle conséquence ? [A company dumps solvents into a stream to "save on treatment". What consequence?],,,lvl1
+answer,Toléré s’il s’agit d’une petite quantité. [Tolerated if it is a small amount.],,0.0,
+answer,Autorisé sur terrain privé. [Authorized on private land.],,0.0,
+answer,C’est une infraction environnementale grave. [It is a serious environmental offense.],,1.0,
+question,Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? [A citizen has free time and wishes to get involved in local life. Which initiative illustrates fraternity?],,,lvl1
+answer,S’engager comme bénévole dans une association. [Engage as a volunteer in an association.],,1.0,
+answer,Aider seulement contre rémunération. [Help only for remuneration.],,0.0,
+answer,Attendre que l’État fasse tout. [Wait for the State to do everything.],,0.0,
+question,Un utilisateur partage un faux message d’alerte “terroriste”. Risque-t-il une sanction ? [A user shares a false "terrorist" alert message. Do they risk a penalty?],,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. [Yes, the dissemination of false news is punished.]",,1.0,
+answer,"Non, s’il supprime après. [No, if they delete it afterwards.]",,0.0,
+answer,"Oui, seulement si cela devient viral. [Yes, only if it goes viral.]",,0.0,
+question,Un locataire organise des barbecues collectifs sur le balcon malgré l’interdiction de la copropriété. Est-ce légal ? [A tenant organizes collective barbecues on the balcony despite the co-ownership's prohibition. Is this legal?],,,lvl1
+answer,"Oui, s’il invite les voisins. [Yes, if they invite the neighbors.]",,0.0,
+answer,"Oui, si ce n’est pas fréquent. [Yes, if it is not frequent.]",,0.0,
+answer,"Non, le règlement intérieur s’impose à tous. [No, the internal regulations apply to everyone.]",,1.0,
+question,Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? [A person throws a can in the "paper" bin. Is it serious?],,,lvl1
+answer,"Non, c’est toujours mieux que par terre. [No, it's always better than on the ground.]",,0.0,
+answer,"Oui, seulement si quelqu’un la voit. [Yes, only if someone sees it.]",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. ।) [Yes, incorrect sorting prevents recycling. ।)]",,1.0,
+question,Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ?। ?) [A citizen wants to choose what their tax is used for (schools but not army). Is it possible?। ?)],,,lvl1
+answer,"Oui, sur demande à la mairie. [Yes, upon request at the town hall.]",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. [No, tax is collective and not individually allocated.]",,1.0,
+answer,"Oui, en cochant la bonne case. [Yes, by checking the right box.]",,0.0,
+question,Une entreprise paie différemment deux salariés pour le même poste et la même ancienneté. Quelle règle s’applique ? [A company pays two employees differently for the same position and the same seniority. What rule applies?],,,lvl1
+answer,La différence est normale si les employés sont de sexe différent. [The difference is normal if the employees are of different sexes.],,0.0,
+answer,L’entreprise peut fixer librement les salaires sans justification. [The company can freely set salaries without justification.],,0.0,
+answer,L’égalité de rémunération pour un travail égal. [Equal pay for equal work.],,1.0,
+question,"Sur un forum d'actualité, vous laissez un commentaire anonyme très agressif visant une personne publique, mais sans diffamation. Votre commentaire est-il protégé par la liberté d'expression ? [On a news forum, you leave a highly aggressive anonymous comment targeting a public figure, but without defamation. Is your comment protected by freedom of expression?]",,,lvl1
+answer,"Non, l'anonymat ne protège pas contre l'injure publique, et l'hébergeur pourra être contraint de communiquer votre identité. [No, anonymity does not protect against public insult, and the host may be forced to communicate your identity.]",,1.0,
+answer,"Oui, car la liberté d'expression en ligne est totale tant qu'on utilise un pseudonyme. [Yes, because freedom of expression online is total as long as a pseudonym is used.]",,0.0,
+answer,"Oui, car seule la presse est soumise à des lois strictes sur la diffamation et l'injure. [Yes, because only the press is subject to strict laws on defamation and insult.]",,0.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? [A driver is checked with 0.7 g of alcohol per liter of blood. What is the right reaction?]",,,lvl1
+answer,Tenter de négocier sur place. [Trying to negotiate on the spot.],,0.0,
+answer,Fuir le contrôle. [Fleeing the check.],,0.0,
+answer,Reconnaître l’infraction et accepter les sanctions prévues par la loi. [Admit the offense and accept the sanctions provided by law.],,1.0,
+question,Un collectif veut manifester demain sans déclaration préalable. Quelle démarche conforme ? [A collective wants to demonstrate tomorrow without prior declaration. What is the compliant procedure?],,,lvl1
+answer,Bloquer la circulation pour attirer l’attention. [Block traffic to attract attention.],,0.0,
+answer,Manifester librement sans formalité. [Demonstrate freely without formality.],,0.0,
+answer,Déclarer la manifestation et respecter l’ordre public. [Declare the demonstration and respect public order.],,1.0,
+question,Un propriétaire refuse de louer à un couple étranger malgré un dossier solide. Est-ce autorisé ? [A landlord refuses to rent to a foreign couple despite a solid file. Is this authorized?],,,lvl1
+answer,"Oui, car c’est son logement. [Yes, because it is his home.]",,0.0,
+answer,"Non, c’est une discrimination liée à l’origine. [No, it is a discrimination linked to origin.]",,1.0,
+answer,"Oui, si le loyer est augmenté. [Yes, if the rent is increased.]",,0.0,
+question,Un dessinateur publie une caricature jugée offensante par un groupe religieux qui porte plainte pour blasphème. Quelle règle s’applique ? [A cartoonist publishes a caricature deemed offensive by a religious group who files a complaint for blasphemy. What rule applies?],,,lvl1
+answer,Le juge peut condamner pour offense aux croyants. [The judge can condemn for offending believers.],,0.0,
+answer,Le blasphème n’est pas un délit en France ; seule l’incitation à la haine est punie. [Blasphemy is not an offense in France; only incitement to hatred is punished.],,1.0,
+answer,Toute moquerie de religion est interdite. [Any mockery of religion is prohibited.],,0.0,
+question,Un passager monte dans le train sans billet “parce que tout le monde le fait”. Quelle attitude civique ? [A passenger boards the train without a ticket "because everyone does it". What civic attitude?],,,lvl1
+answer,Se cacher du contrôleur. [Hide from the inspector.],,0.0,
+answer,Argumenter sur le prix trop élevé. [Argue about the price being too high.],,0.0,
+answer,Acheter un billet et respecter les règles de transport. [Buy a ticket and respect the transport rules.],,1.0,
+question,Un donneur est refusé parce qu’il est homosexuel. Est-ce légal ? [A donor is refused because they are homosexual. Is this legal?],,,lvl1
+answer,"Oui, pour des raisons morales. [Yes, for moral reasons.]",,0.0,
+answer,"Non, les critères doivent reposer uniquement sur la sécurité sanitaire. [No, criteria must be based solely on health safety.]",,1.0,
+answer,"Oui, car le personnel choisit librement. [Yes, because the staff chooses freely.]",,0.0,
+question,Un contribuable refuse de payer ses impôts en disant “je n’utilise pas les services publics”. Est-ce recevable ? [A taxpayer refuses to pay their taxes saying "I do not use public services". Is this acceptable?],,,lvl1
+answer,"Oui, s’il n’a pas d’enfants scolarisés. [Yes, if they have no school-aged children.]",,0.0,
+answer,"Non, l’impôt finance le fonctionnement collectif. [No, tax finances collective functioning.]",,1.0,
+answer,"Oui, s’il est né à l’étranger. [Yes, if they were born abroad.]",,0.0,
+question,Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? [A citizen leaves their dog's droppings on the sidewalk. What rule applies?],,,lvl1
+answer,"Laisser sur place, « la pluie nettoiera ». [Leave in place, ""the rain will clean it up"".]",,0.0,
+answer,Couvrir avec du sable. [Cover with sand.],,0.0,
+answer,Ramasser et jeter dans les poubelles prévues. [Pick it up and throw it in the provided bins.],,1.0,
+question,Un candidat à l'embauche se voit refuser le poste car il mentionne sur son CV qu'il est délégué syndical dans son entreprise actuelle. De quoi l'entreprise se rend-elle coupable ? [A job applicant is refused the position because he mentions on his CV that he is a union delegate in his current company. What is the company guilty of?],,,lvl1
+answer,"Le refus est légitime, car l'employeur peut juger que l'engagement syndical nuit à la productivité. [The refusal is legitimate, as the employer may judge that union involvement harms productivity.]",,0.0,
+answer,"Discrimination syndicale, un délit sévèrement puni par le Code du travail et le Code pénal. [Trade union discrimination, an offense severely punished by the Labor Code and the Penal Code.]",,1.0,
+answer,"Rupture d'égalité de traitement, mais qui ne constitue pas une discrimination punissable. [Breach of equal treatment, but which does not constitute punishable discrimination.]",,0.0,
+question,Un usager malentendant se présente à un guichet administratif sans interprète en langue des signes. L'agent public doit-il lui fournir une aide spécifique ? [A hearing-impaired user goes to an administrative counter without a sign language interpreter. Must the public agent provide them with specific assistance?],,,lvl1
+answer,"Non, l'usager doit se présenter avec les moyens nécessaires à sa compréhension. [No, the user must present themselves with the means necessary for their understanding.]",,0.0,
+answer,L'administration a une obligation d'adaptation et de compensation pour garantir l'égalité d'accès au service pour les personnes handicapées. [The administration has an obligation of adaptation and compensation to guarantee equal access to the service for people with disabilities.],,1.0,
+answer,"Non, car les services publics n'ont pas l'obligation d'engager des interprètes. [No, because public services are not obliged to hire interpreters.]",,0.0,
+question,Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? [Residents sign a petition to create a bike path. Legal effect?],,,lvl1
+answer,Elle crée immédiatement la piste. [It immediately creates the path.],,0.0,
+answer,Elle remplace un vote municipal. [It replaces a municipal vote.],,0.0,
+answer,Elle peut être transmise à la collectivité mais ne l’oblige pas. [It can be transmitted to the community but does not oblige it.],,1.0,
+question,Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ?। ?) [A citizen wants to choose what their tax is used for (schools but not army). Is it possible?। ?)],,,lvl1
+answer,"Oui, en cochant la bonne case. [Yes, by checking the right box.]",,0.0,
+answer,"Oui, sur demande à la mairie. [Yes, upon request at the town hall.]",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. [No, tax is collective and not individually allocated.]",,1.0,
+question,Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? [A sick employee receives a dismissal letter for justified medical absence. Is this legal?],,,lvl1
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. [No, dismissal based on health status is discriminatory.]",,1.0,
+answer,"Oui, dès qu’il dépasse une semaine d’arrêt. [Yes, as soon as it exceeds a week of sick leave.]",,0.0,
+answer,"Oui, s’il est remplacé par quelqu’un de plus disponible. [Yes, if they are replaced by someone more available.]",,0.0,
+question,"Lors d'un entretien d'embauche, un recruteur vous pose une question sur votre âge sans lien avec les compétences requises. Quelle est votre option de réponse la plus appropriée, du point de vue légal ? [During a job interview, a recruiter asks you a question about your age unrelated to the required skills. What is your most appropriate response option, from a legal point of view?]",,,lvl1
+answer,Rappeler poliment que l'âge est un critère de discrimination interdit et demander en quoi cette question est pertinente pour le poste. [Politely remind that age is a prohibited discrimination criterion and ask how this question is relevant to the position.],,1.0,
+answer,"Répondre que le Code du travail interdit de poser cette question, sous peine d'annulation de l'entretien. [Reply that the Labor Code prohibits asking this question, under penalty of cancellation of the interview.]",,0.0,
+answer,Mentir sur son âge pour éviter d'être pénalisé. [Lie about one's age to avoid being penalized.],,0.0,
+question,"Au collège, une élève se plaint de moqueries et d'insultes homophobes de la part d'autres élèves. Que doit faire l'équipe pédagogique ? [In middle school, a student complains of homophobic mockery and insults from other students. What should the teaching team do?]",,,lvl1
+answer,"L'équipe pédagogique doit engager des mesures disciplinaires contre les auteurs, car l'homophobie constitue un manquement grave aux principes de la République et du vivre-ensemble. [The teaching team must take disciplinary action against the perpetrators, as homophobia constitutes a serious breach of the principles of the Republic and of living together.]",,1.0,
+answer,"L'équipe pédagogique doit tolérer l'incident, car la liberté d'expression des élèves est protégée. [The teaching team must tolerate the incident, as students' freedom of expression is protected.]",,0.0,
+answer,"L'équipe doit se contenter d'un simple rappel à l'ordre, car ce sont des affaires privées qui ne relèvent pas du domaine scolaire. [The team should simply issue a warning, as these are private matters that do not fall within the school domain.]",,0.0,
+question,Des adolescents détériorent les bancs du parc public. Quelle réaction citoyenne ? [Teenagers damage the benches in the public park. What civic reaction?],,,lvl1
+answer,Considérer cela comme “jeu d’enfant”. [Consider it as ""child's play"".],,0.0,
+answer,Filmer et diffuser sur internet pour le buzz. [Film and broadcast on the internet for the buzz.],,0.0,
+answer,Signaler l’acte et sensibiliser au respect des biens communs. [Report the act and raise awareness about respect for common goods.],,1.0,
+question,"Dans une entreprise, le règlement intérieur interdit tout signe religieux pour des raisons de sécurité. Est-ce légal ? [In a company, the internal regulations prohibit any religious symbol for safety reasons. Is this legal?]",,,lvl1
+answer,"Oui, seulement pour certaines religions. [Yes, only for certain religions.]",,0.0,
+answer,"Oui, si la restriction est justifiée par la nature du travail. [Yes, if the restriction is justified by the nature of the work.]",,1.0,
+answer,"Non, toute interdiction est discriminatoire. [No, any prohibition is discriminatory.]",,0.0,
+question,Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? [A person throws a can in the "paper" bin. Is it serious?],,,lvl1
+answer,"Non, c’est toujours mieux que par terre. [No, it's always better than on the ground.]",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. ।) [Yes, incorrect sorting prevents recycling. ।)]",,1.0,
+answer,"Oui, seulement si quelqu’un la voit. [Yes, only if someone sees it.]",,0.0,
+question,Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? [A site collects users' contact details without authorization. Is this legal?],,,lvl1
+answer,"Oui, si c’est pour la publicité. [Yes, if it is for advertising.]",,0.0,
+answer,"Non, il faut le consentement clair de la personne. [No, clear consent from the person is required.]",,1.0,
+answer,"Oui, si les données restent en Europe. [Yes, if the data remains in Europe.]",,0.0,
+question,Un voyageur transporte une arme blanche dans le métro “pour se défendre”. Est-ce légal ? [A traveler carries a bladed weapon in the metro "to defend themselves". Is this legal?],,,lvl1
+answer,"Oui, s’il ne s’en sert pas. [Yes, if they don't use it.]",,0.0,
+answer,"Non, le port d’arme sans motif légitime est interdit. [No, carrying a weapon without a legitimate reason is prohibited.]",,1.0,
+answer,"Oui, si elle reste cachée. [Yes, if it remains hidden.]",,0.0,
+question,"Vous êtes témoin d'une violente dispute de couple dans la rue. L'un des partenaires pousse l'autre violemment, sans qu'il ne chute. N'intervenant pas, pouvez-vous être accusé de non-assistance à personne en danger ? [You witness a violent couple dispute in the street. One partner violently pushes the other, without them falling. By not intervening, can you be accused of failing to assist a person in danger?]",,,lvl1
+answer,"Non, car le délit exige que la personne soit confrontée à un péril certain et immédiat, ce qui n'est pas le cas ici (pas de chute ou de blessure apparente grave).।) [No, because the offense requires that the person be faced with certain and immediate peril, which is not the case here (no fall or apparent serious injury).।)]",,1.0,
+answer,"Oui, car le simple fait de ne pas alerter les secours ou d'intervenir est suffisant pour le délit de non-assistance. [Yes, because the simple fact of not alerting emergency services or intervening is sufficient for the offense of non-assistance.]",,0.0,
+answer,"Oui, car la loi oblige à intervenir dès qu'une violence est constatée en public. [Yes, because the law obliges to intervene as soon as violence is observed in public.]",,0.0,
+question,"Lors d’un spectacle, un humoriste se moque d’un groupe religieux sans appel à la haine. Est-ce autorisé ? [During a show, a comedian makes fun of a religious group without calling for hatred. Is this authorized?]",,,lvl1
+answer,"Oui, la satire est protégée si elle ne vise pas à humilier. [Yes, satire is protected if it does not aim to humiliate.]",,1.0,
+answer,"Non, on ne peut jamais plaisanter sur la religion. [No, you can never joke about religion.]",,0.0,
+answer,"Oui, même si cela provoque la violence. [Yes, even if it provokes violence.]",,0.0,
+question,Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? [An employer reads an employee's personal emails on their work computer. Is this authorized?],,,lvl1
+answer,"Oui, car le matériel appartient à l’entreprise. [Yes, because the equipment belongs to the company.]",,0.0,
+answer,"Non, les messages identifiés comme personnels sont protégés. [No, messages identified as personal are protected.]",,1.0,
+answer,"Oui, s’il ne les partage pas. [Yes, if they do not share them.]",,0.0,
+question,Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? [A citizen has free time and wishes to get involved in local life. Which initiative illustrates fraternity?],,,lvl1
+answer,Aider seulement contre rémunération. [Help only for remuneration.],,0.0,
+answer,S’engager comme bénévole dans une association. [Engage as a volunteer in an association.],,1.0,
+answer,Attendre que l’État fasse tout. [Wait for the State to do everything.],,0.0,
+question,Un citoyen apprend un crime grave et garde le silence “pour éviter des ennuis”. Est-ce légal ? [A citizen learns of a serious crime and keeps silent ""to avoid trouble"". Is this legal?],,,lvl1
+answer,"Oui, si le crime ne le concerne pas. [Yes, if the crime does not concern them.]",,0.0,
+answer,"Oui, s’il ne connaît pas les auteurs. [Yes, if they do not know the perpetrators.]",,0.0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. [No, failing to report a crime is punishable by law.]",,1.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? [A driver is checked with 0.7 g of alcohol per liter of blood. What is the right reaction?]",,,lvl1
+answer,Tenter de négocier sur place. [Trying to negotiate on the spot.],,0.0,
+answer,Fuir le contrôle. [Fleeing the check.],,0.0,
+answer,Reconnaître l’infraction et accepter les sanctions prévues par la loi. [Admit the offense and accept the sanctions provided by law.],,1.0,
+question,Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? [Residents sign a petition to create a bike path. Legal effect?],,,lvl1
+answer,Elle peut être transmise à la collectivité mais ne l’oblige pas. [It can be transmitted to the community but does not oblige it.],,1.0,
+answer,Elle crée immédiatement la piste. [It immediately creates the path.],,0.0,
+answer,Elle remplace un vote municipal. [It replaces a municipal vote.],,0.0,
+question,Des habitants veulent assister à un conseil municipal. Le maire refuse l’accès du public. Est-ce conforme ? [Residents want to attend a municipal council meeting. The mayor refuses public access. Is this compliant?],,,lvl1
+answer,"Oui, si la salle est petite. [Yes, if the room is small.]",,0.0,
+answer,"Non, les séances du conseil municipal sont publiques sauf exception prévue par la loi. [No, municipal council sessions are public except for exceptions provided by law.]",,1.0,
+answer,"Oui, le maire décide librement. [Yes, the mayor decides freely.]",,0.0,

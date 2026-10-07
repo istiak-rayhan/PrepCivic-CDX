@@ -1,0 +1,597 @@
+type,text,placeholder,is_correct,level
+question,"À quoi correspond la date du 14 juillet ? (১৪ই জুলাই তারিখটি কিসের সাথে সম্পর্কিত?)",,,lvl1
+answer,"Le jour de la signature de la Constitution (সংবিধান স্বাক্ষরের দিন)",,0,
+answer,"La fête de la Révolution et de la Nation (বিপ্লব ও জাতির উৎসব)",,1,
+answer,"La date de la fin de la Seconde Guerre mondiale (দ্বিতীয় বিশ্বযুদ্ধের সমাপ্তির তারিখ)",,0,
+question,"Quel est l’un des symboles de la République française ? (ফরাসি প্রজাতন্ত্রের প্রতীকগুলির মধ্যে একটি কী?)",,,lvl1
+answer,"Le lion et la couronne (সিংহ এবং মুকুট)",,0,
+answer,"Le drapeau rouge et noir (লাল ও কালো পতাকা)",,0,
+answer,"La Marianne (লা মারিয়ান)",,1,
+question,"Le principe d’égalité signifie que : (সমতার নীতিটির অর্থ কী?)",,,lvl1
+answer,"Tous les citoyens doivent avoir la même richesse et le même statut social. (সকল নাগরিকের একই ধনসম্পদ ও সামাজিক মর্যাদা থাকতে হবে।)",,0,
+answer,"La loi est la même pour tous, sans distinction d'origine, de race ou de religion. (আইন সকলের জন্য সমান, কোনো উৎপত্তি, জাতি বা ধর্মীয় ভেদাভেদ ছাড়া।)",,1,
+answer,"Seules les personnes nées en France sont égales devant la loi. (শুধুমাত্র ফ্রান্সে জন্মগ্রহণকারীরা আইনের সামনে সমান।)",,0,
+question,"""Liberté, égalité, fraternité"", c’est : (""স্বাধীনতা, সমতা, ভ্রাতৃত্ব"" – ""Liberté, égalité, fraternité"" কী?)",,,lvl1
+answer,"Le titre de l'hymne national français. (ফরাসি জাতীয় সঙ্গীতের শিরোনাম।)",,0,
+answer,"La devise de la République française. (ফরাসি প্রজাতন্ত্রের মূলমন্ত্র/আদর্শ।)",,1,
+answer,"Le slogan d’un parti politique. (একটি রাজনৈতিক দলের স্লোগান।)",,0,
+question,"A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ? (কাউকে তার ভিন্নতার কারণে (প্রতিবন্ধী, শারীরিক চেহারা, লিঙ্গ ইত্যাদি) প্রকাশ্যে অপমান করার অধিকার কি আছে?)",,,lvl1
+answer,"Oui, la liberté d'expression autorise toutes les paroles. (হ্যাঁ, মত প্রকাশের স্বাধীনতা সমস্ত কথা বলার অনুমতি দেয়।)",,0,
+answer,"Non, car cela constitue une discrimination punie par la loi. (না, কারণ এটি আইন দ্বারা শাস্তিযোগ্য বৈষম্য।)",,1,
+answer,"Oui, tant que l'insulte n'est pas écrite. (হ্যাঁ, যতক্ষণ না অপমানটি লিখিত হচ্ছে।)",,0,
+question,"Certains métiers peuvent-ils être réservés aux hommes ? (কিছু পেশা কি শুধুমাত্র পুরুষদের জন্য সংরক্ষিত থাকতে পারে?)",,,lvl1
+answer,"Oui, dans le secteur de la défense nationale. (হ্যাঁ, জাতীয় প্রতিরক্ষা ক্ষেত্রে।)",,0,
+answer,"Non, la loi garantit l’égalité professionnelle entre les femmes et les hommes. (না, আইন নারী ও পুরুষের মধ্যে পেশাগত সমতার নিশ্চয়তা দেয়।)",,1,
+answer,"Oui, les entreprises privées peuvent choisir librement leurs critères. (হ্যাঁ, বেসরকারি সংস্থাগুলি তাদের মানদণ্ড স্বাধীনভাবে বেছে নিতে পারে।)",,0,
+question,"De quand date la Constitution de la Ve République ? (পঞ্চম প্রজাতন্ত্রের সংবিধান কবে থেকে কার্যকর?)",,,lvl1
+answer,"1946 (১৯৪৬)",,0,
+answer,"1870 (১৮৭০)",,0,
+answer,"1958 (১৯৫৮)",,1,
+question,"Le régime de la France est : (ফ্রান্সের শাসন ব্যবস্থা হল:)",,,lvl1
+answer,"Une monarchie constitutionnelle (একটি সাংবিধানিক রাজতন্ত্র)",,0,
+answer,"Un régime totalitaire (একটি সর্বগ্রাসী শাসন ব্যবস্থা)",,0,
+answer,"Une République indivisible, laïque, démocratique et sociale. (একটি অবিভাজ্য, ধর্মনিরপেক্ষ, গণতান্ত্রিক ও সামাজিক প্রজাতন্ত্র।)",,1,
+question,"Lequel de ces symboles représente officiellement la République française ? (এই প্রতীকগুলির মধ্যে কোনটি আনুষ্ঠানিকভাবে ফরাসি প্রজাতন্ত্রকে প্রতিনিধিত্ব করে?)",,,lvl1
+answer,"Le lys (শাপলা/লিলি ফুল)",,0,
+answer,"La couronne royale (রাজকীয় মুকুট)",,0,
+answer,"Le drapeau tricolore (bleu, blanc, rouge) (ত্রিরঙ্গা পতাকা (নীল, সাদা, লাল))",,1,
+question,"Où peut-on voir la devise de la République ? (প্রজাতন্ত্রের মূলমন্ত্র কোথায় দেখা যায়?)",,,lvl1
+answer,"Uniquement dans les musées nationaux. (শুধুমাত্র জাতীয় জাদুঘরগুলিতে।)",,0,
+answer,"Sur la majorité des produits fabriqués en France. (ফ্রান্সে উৎপাদিত বেশিরভাগ পণ্যের উপর।)",,0,
+answer,"Sur les bâtiments publics (mairies, écoles, préfectures...). (সরকারি ভবনগুলিতে (মেয়র অফিস, স্কুল, প্রশাসনিক ভবন...)।)",,1,
+question,"Quels sont des symboles officiels de la République française ? (ফরাসি প্রজাতন্ত্রের আনুষ্ঠানিক প্রতীকগুলি কী কী?)",,,lvl1
+answer,"L'Aigle impérial et le Sceptre. (রাজকীয় ঈগল এবং রাজদণ্ড।)",,0,
+answer,"Le drapeau tricolore, la Marseillaise, Marianne. (ত্রিরঙ্গা পতাকা, মার্সেইয়েজ, মারিয়ান।)",,1,
+answer,"La fleur de lys et le chêne. (শাপলা/লিলি ফুল এবং ওক গাছ।)",,0,
+question,"Qu’est-ce que l’égalité ? (সমতা কী?)",,,lvl1
+answer,"Le fait de ne plus avoir d'impôts à payer. (কোনো কর দিতে না হওয়ার বিষয়।)",,0,
+answer,"Le droit de chacun d’avoir le même métier que son voisin. (প্রত্যেকের তার প্রতিবেশীর মতো একই পেশা থাকার অধিকার।)",,0,
+answer,"Le fait d’être traité de la même manière devant la loi et la justice. (আইন ও বিচারের সামনে একই ভাবে বিবেচিত হওয়ার বিষয়।)",,1,
+question,"Que signifie la liberté ? (স্বাধীনতা কী বোঝায়?)",,,lvl1
+answer,"Le droit de faire absolument tout ce que l’on veut. (একান্তভাবে যা খুশি তাই করার অধিকার।)",,0,
+answer,"Le droit de faire tout ce qui ne nuit pas aux autres. (অন্যদের ক্ষতি করে না এমন সবকিছু করার অধিকার।)",,1,
+answer,"Le droit d’insulter les représentants de l’État. (রাষ্ট্রীয় প্রতিনিধিদের অপমান করার অধিকার।)",,0,
+question,"Que signifie le mot ""fraternité"" dans la devise française ? (ফরাসি মূলমন্ত্রে ""ভ্রাতৃত্ব"" (fraternité) শব্দের অর্থ কী?)",,,lvl1
+answer,"Le fait d’avoir seulement des frères et des sœurs dans sa famille. (পরিবারে শুধুমাত্র ভাই ও বোন থাকার বিষয়।)",,0,
+answer,"Le droit de voyager sans visa dans les autres pays d'Europe. (ইউরোপের অন্যান্য দেশে ভিসা ছাড়া ভ্রমণের অধিকার।)",,0,
+answer,"La solidarité et l'entraide entre tous les citoyens. (সকল নাগরিকের মধ্যে সংহতি এবং পারস্পরিক সহায়তা।)",,1,
+question,"Quel animal est un symbole de la France ? (কোন প্রাণীটি ফ্রান্সের একটি প্রতীক?)",,,lvl1
+answer,"Le lion (সিংহ)",,0,
+answer,"L'aigle (ঈগল)",,0,
+answer,"Le coq (মোরগ)",,1,
+question,"Quel est l’un des rôles des associations ? (সংস্থাগুলির (associations) অন্যতম ভূমিকা কী?)",,,lvl1
+answer,"Remplacer l'État dans l'exercice de ses fonctions régaliennes. (রাষ্ট্রীয় কার্য সম্পাদনে রাষ্ট্রের স্থলাভিষিক্ত হওয়া।)",,0,
+answer,"Permettre aux citoyens de s’engager pour l'intérêt général. (নাগরিকদের সাধারণ স্বার্থে যুক্ত হওয়ার সুযোগ দেওয়া।)",,1,
+answer,"Gérer le système de défense nationale. (জাতীয় প্রতিরক্ষা ব্যবস্থা পরিচালনা করা।)",,0,
+question,"Quel est le nom de l'hymne national ? (জাতীয় সঙ্গীতের নাম কী?)",,,lvl1
+answer,"La Parisienne (লা প্যারিজিয়েন)",,0,
+answer,"Le Chant du Départ (ল্য শঁ দু দেপার)",,0,
+answer,"La Marseillaise (লা মার্সেইয়েজ)",,1,
+question,"Quel symbole de la République française est tricolore ? (ফরাসি প্রজাতন্ত্রের কোন প্রতীকটি ত্রিরঙ্গা?)",,,lvl1
+answer,"La Marianne (লা মারিয়ান)",,0,
+answer,"Le drapeau (পতাকা)",,1,
+answer,"L'Hymne national (জাতীয় সঙ্গীত)",,0,
+question,"Quelle est la date de la fête nationale française ? (ফরাসি জাতীয় দিবসের তারিখ কত?)",,,lvl1
+answer,"Le 1er mai (১লা মে)",,0,
+answer,"Le 11 novembre (১১ই নভেম্বর)",,0,
+answer,"Le 14 juillet (১৪ই জুলাই)",,1,
+question,"Quelle est la devise de la République française ? (ফরাসি প্রজাতন্ত্রের মূলমন্ত্র কী?)",,,lvl1
+answer,"Unité, Justice, Travail (ঐক্য, ন্যায়বিচার, কর্ম)",,0,
+answer,"Honneur et Patrie (সম্মান এবং স্বদেশ)",,0,
+answer,"Liberté, Égalité, Fraternité (স্বাধীনতা, সমতা, ভ্রাতৃত্ব)",,1,
+question,"Quelle est la langue officielle de la République française ? (ফরাসি প্রজাতন্ত্রের সরকারি ভাষা কী?)",,,lvl1
+answer,"Le français et l'anglais (ফরাসি ও ইংরেজি)",,0,
+answer,"Le français et toutes les langues régionales (ফরাসি ও সমস্ত আঞ্চলিক ভাষা)",,0,
+answer,"Le français (ফরাসি)",,1,
+question,"Quelle est la place de la langue française dans la République ? (প্রজাতন্ত্রে ফরাসি ভাষার স্থান কেমন?)",,,lvl1
+answer,"C'est la langue des élites et de l'administration. (এটি অভিজাত ও প্রশাসনের ভাষা।)",,0,
+answer,"C'est la langue privilégiée mais non obligatoire dans les services publics. (এটি পছন্দের ভাষা কিন্তু সরকারি পরিষেবাগুলিতে বাধ্যতামূলক নয়।)",,0,
+answer,"C'est la langue de l'enseignement, du travail, des échanges et des services publics. (এটি শিক্ষা, কর্মক্ষেত্র, আদান-প্রদান এবং সরকারি পরিষেবাগুলির ভাষা।)",,1,
+question,"Quelle liberté permet à chacun d’exprimer ses idées ? (কোন স্বাধীনতা প্রত্যেককে তার ধারণা প্রকাশ করার সুযোগ দেয়?)",,,lvl1
+answer,"La liberté de culte (ধর্ম পালনের স্বাধীনতা)",,0,
+answer,"La liberté d'association (সংস্থা তৈরি করার স্বাধীনতা)",,0,
+answer,"La liberté d'expression (মত প্রকাশের স্বাধীনতা)",,1,
+question,"Quelle proposition est correcte ? La liberté d'expression : (কোন প্রস্তাবটি সঠিক? মত প্রকাশের স্বাধীনতা:)",,,lvl1
+answer,"Est totale et ne connaît aucune limite en France. (ফ্রান্সে সম্পূর্ণ এবং এর কোনো সীমা নেই।)",,0,
+answer,"Est limitée par la loi et ne doit pas porter atteinte à l'ordre public et aux droits d'autrui. (আইন দ্বারা সীমাবদ্ধ এবং জনশৃঙ্খলা ও অন্যের অধিকার লঙ্ঘন করা উচিত নয়।)",,1,
+answer,"Permet de publier de fausses informations dans la presse. (প্রেসের মধ্যে মিথ্যা তথ্য প্রকাশ করার অনুমতি দেয়।)",,0,
+question,"Quelles sont les couleurs du drapeau français ? (ফরাসি পতাকার রং কী কী?)",,,lvl1
+answer,"Rouge, Blanc, Vert (লাল, সাদা, সবুজ)",,0,
+answer,"Jaune, Bleu, Rouge (হলুদ, নীল, লাল)",,0,
+answer,"Bleu, Blanc, Rouge (নীল, সাদা, লাল)",,1,
+question,"Qu'est-ce que la Marseillaise ? (মার্সেইয়েজ কী?)",,,lvl1
+answer,"Un chant militaire sans importance. (একটি গুরুত্বহীন সামরিক সঙ্গীত।)",,0,
+answer,"Un chant religieux chanté dans toutes les églises. (সমস্ত গির্জায় গাওয়া একটি ধর্মীয় গান।)",,0,
+answer,"L'hymne national français. (ফরাসি জাতীয় সঙ্গীত।)",,1,
+question,"Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ? (জাতীয় দিবস উদযাপনের জন্য ১৪ই জুলাই ঐতিহ্যগতভাবে শঁজ এলিজেতে কী আয়োজন করা হয়?)",,,lvl1
+answer,"Une course cycliste internationale. (একটি আন্তর্জাতিক সাইকেল রেস।)",,0,
+answer,"Un grand concert de musique classique. (একটি বড় শাস্ত্রীয় সঙ্গীতের কনসার্ট।)",,0,
+answer,"Un défilé militaire. (একটি সামরিক কুচকাওয়াজ।)",,1,
+question,"Qui est Marianne ? (মারিয়ান কে?)",,,lvl1
+answer,"L'épouse du président de la République. (প্রজাতন্ত্রের রাষ্ট্রপতির স্ত্রী।)",,0,
+answer,"La mère de la Déclaration des Droits de l'Homme et du Citoyen. (মানবাধিকার ও নাগরিক অধিকার ঘোষণার জননী।)",,0,
+answer,"La figure symbolique de la République française. (ফরাসি প্রজাতন্ত্রের প্রতীকী মূর্তি।)",,1,
+question,"Une personne peut-elle changer librement de religion ? (কোনো ব্যক্তি কি স্বাধীনভাবে ধর্ম পরিবর্তন করতে পারে?)",,,lvl1
+answer,"Non, uniquement si sa nouvelle religion est reconnue par l'État. (না, শুধুমাত্র যদি তার নতুন ধর্ম রাষ্ট্র দ্বারা স্বীকৃত হয়।)",,0,
+answer,"Non, le changement est soumis à l'autorisation du maire. (না, পরিবর্তনটি মেয়রের অনুমতির সাপেক্ষে হয়।)",,0,
+answer,"Oui, la liberté de conscience et de culte est garantie par la loi. (হ্যাঁ, বিবেক ও ধর্ম পালনের স্বাধীনতা আইন দ্বারা নিশ্চিত।)",,1,
+question,"""La France est une République indivisible, ..., démocratique et sociale"". Complétez cette phrase : (""ফ্রান্স একটি অবিভাজ্য, ..., গণতান্ত্রিক ও সামাজিক প্রজাতন্ত্র""। শূন্যস্থান পূরণ করুন:)",,,lvl1
+answer,"Humaniste (মানবতাবাদী)",,0,
+answer,"Souveraine (সার্বভৌম)",,0,
+answer,"Laïque (ধর্মনিরপেক্ষ)",,1,
+question,"En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ? (গির্জা ও রাষ্ট্রের পৃথকীকরণ আইনটি কোন বছর পাশ হয়েছিল?)",,,lvl1
+answer,"1805 (১৮০৫)",,0,
+answer,"1905 (১৯০৫)",,1,
+answer,"1958 (১৯৫৮)",,0,
+question,"Que permet le principe de laïcité ? (ধর্মনিরপেক্ষতার নীতি কী সুযোগ দেয়?)",,,lvl1
+answer,"De n'autoriser qu'une seule religion sur le territoire national. (জাতীয় ভূখণ্ডে শুধুমাত্র একটি ধর্মকে অনুমতি দেওয়া।)",,0,
+answer,"D'interdire toute manifestation religieuse dans l'espace public. (জনস্থানে সমস্ত ধর্মীয় অনুষ্ঠান নিষিদ্ধ করা।)",,0,
+answer,"D'assurer la liberté de conscience de chacun et la neutralité de l'État. (প্রত্যেকের বিবেক ও রাষ্ট্রের নিরপেক্ষতার স্বাধীনতা নিশ্চিত করা।)",,1,
+question,"Quel droit est garanti par la laïcité ? (ধর্মনিরপেক্ষতা দ্বারা কোন অধিকার নিশ্চিত করা হয়?)",,,lvl1
+answer,"Le droit d'avoir une religion officielle. (একটি সরকারি ধর্ম থাকার অধিকার।)",,0,
+answer,"Le droit de limiter l'accès à certaines religions. (নির্দিষ্ট কিছু ধর্মে প্রবেশাধিকার সীমিত করার অধিকার।)",,0,
+answer,"Le droit de ne pas croire, ou de choisir sa religion librement. (বিশ্বাস না করার বা স্বাধীনভাবে নিজের ধর্ম বেছে নেওয়ার অধিকার।)",,1,
+question,"Pourquoi le principe de laïcité doit-il être respecté à l'école ? (স্কুলে ধর্মনিরপেক্ষতার নীতি কেন পালন করা উচিত?)",,,lvl1
+answer,"Pour éviter de déranger les enseignants. (শিক্ষকদের বিরক্ত করা এড়াতে।)",,0,
+answer,"Pour assurer la domination d'une religion sur les autres. (অন্যান্য ধর্মের উপর একটি ধর্মের আধিপত্য নিশ্চিত করার জন্য।)",,0,
+answer,"Pour garantir aux élèves la liberté de conscience et le respect de tous. (শিক্ষার্থীদের বিবেকের স্বাধীনতা এবং সকলের প্রতি সম্মান নিশ্চিত করার জন্য।)",,1,
+question,"Qu'est-ce que la laïcité ? (ধর্মনিরপেক্ষতা কী?)",,,lvl1
+answer,"L'interdiction de pratiquer une religion. (কোনো ধর্ম পালন করা নিষিদ্ধ।)",,0,
+answer,"L'obligation d'avoir une religion d'État. (রাষ্ট্রের একটি ধর্ম থাকা বাধ্যতামূলক।)",,0,
+answer,"Un principe de séparation entre les Églises (religions) et l'État. (গির্জা (ধর্ম) এবং রাষ্ট্রের মধ্যে পৃথকীকরণের একটি নীতি।)",,1,
+question,"Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ? (কোনো শিশু কি ধর্মীয় কারণে স্কুলে যেতে অস্বীকার করতে পারে?)",,,lvl1
+answer,"Oui, si ses parents sont d'accord. (হ্যাঁ, যদি তার বাবা-মা সম্মত হন।)",,0,
+answer,"Seulement s’il y a des examens importants ce jour-là. (শুধুমাত্র যদি সেই দিন গুরুত্বপূর্ণ পরীক্ষা থাকে।)",,0,
+answer,"Non, l’instruction est obligatoire pour tous les enfants de 3 à 16 ans, quelle que soit la religion. (না, ধর্ম নির্বিশেষে ৩ থেকে ১৬ বছর বয়সী সকল শিশুর জন্য পড়াশোনা বাধ্যতামূলক।)",,1,
+question,"Une personne a-t-elle le droit de ne pas croire en une religion ? (কোনো ব্যক্তির কি কোনো ধর্মে বিশ্বাস না করার অধিকার আছে?)",,,lvl1
+answer,"Non, toutes les personnes doivent avoir une religion en France. (না, ফ্রান্সে সকল ব্যক্তির একটি ধর্ম থাকতে হবে।)",,0,
+answer,"Uniquement les personnes majeures. (শুধুমাত্র প্রাপ্তবয়স্ক ব্যক্তিরা।)",,0,
+answer,"Oui, le droit de ne pas croire fait partie de la liberté de conscience garantie par la loi. (হ্যাঁ, বিশ্বাস না করার অধিকার আইন দ্বারা নিশ্চিত বিবেকের স্বাধীনতার অংশ।)",,1,
+question,"Parmi les propositions suivantes, laquelle constitue une participation citoyenne ? (নিম্নলিখিত প্রস্তাবগুলির মধ্যে কোনটি নাগরিক অংশগ্রহণ হিসেবে বিবেচিত হয়?)",,,lvl2
+answer,"Payer ses impôts. (নিজের কর পরিশোধ করা।)",,0,
+answer,"Demander un titre de séjour. (একটি রেসিডেন্স কার্ড (titre de séjour) চাওয়া।)",,0,
+answer,"Être bénévole dans une association. (একটি সংস্থায় (association) স্বেচ্ছাসেবীর কাজ করা।)",,1,
+question,"Que garantit la liberté d’expression ? (মত প্রকাশের স্বাধীনতা কী নিশ্চিত করে?)",,,lvl2
+answer,"Le droit de dire n'importe quoi sans conséquence. (কোনো পরিণতি ছাড়াই যা খুশি তা বলার অধিকার।)",,0,
+answer,"Le droit de critiquer le gouvernement sans limite. (সরকারকে সীমাহীন সমালোচনা করার অধিকার।)",,0,
+answer,"Le droit de communiquer ses idées et ses opinions par tous les moyens. (সমস্ত উপায়ে (প্রেস, কথা...) নিজের ধারণা ও মতামত জানানোর অধিকার।)",,1,
+question,"À quoi sert un titre de séjour ? (একটি রেসিডেন্স কার্ড (titre de séjour) কী কাজে লাগে?)",,,lvl2
+answer,"À obtenir gratuitement la nationalité française. (বিনামূল্যে ফরাসি নাগরিকত্ব পেতে।)",,0,
+answer,"À payer les impôts. (কর পরিশোধ করতে।)",,0,
+answer,"À attester du droit à résider régulièrement en France pour les étrangers. (বিদেশিদের জন্য ফ্রান্সে নিয়মিতভাবে বসবাসের অধিকারের প্রমাণ দিতে।)",,1,
+question,"La liberté de circulation permet à toute personne de : (চলাচলের স্বাধীনতা প্রত্যেক ব্যক্তিকে কী করতে দেয়?)",,,lvl2
+answer,"S'installer uniquement dans la ville où elle est née. (শুধুমাত্র তার জন্ম শহরে বসতি স্থাপন করা।)",,0,
+answer,"Voyager sans passeport dans le monde entier. (সারা বিশ্বে পাসপোর্ট ছাড়া ভ্রমণ করা।)",,0,
+answer,"Se déplacer et s'établir librement sur l'ensemble du territoire français. (সমগ্র ফরাসি ভূখণ্ডে অবাধে চলাচল ও বসতি স্থাপন করা।)",,1,
+question,"Pour retrouver les informations officielles sur les symboles de la République française, quel type de site internet est le plus fiable ? (ফরাসি প্রজাতন্ত্রের প্রতীকগুলির বিষয়ে সরকারি তথ্য খুঁজে পেতে কোন ধরনের ওয়েবসাইট সবচেয়ে নির্ভরযোগ্য?)",,,lvl2
+answer,"Un réseau social comme Facebook. (ফেসবুকের মতো একটি সামাজিক নেটওয়ার্ক।)",,0,
+answer,"Un blog personnel. (একটি ব্যক্তিগত ব্লগ।)",,0,
+answer,"Un site officiel du gouvernement (.gouv.fr ou .fr). (একটি সরকারি অফিসিয়াল ওয়েবসাইট (.gouv.fr বা .fr)।)",,1,
+question,"Complétez ces paroles de la Marseillaise : ""Aux armes […] ! Formez vos bataillons"" (মার্সেইয়েজের এই কথাগুলি সম্পূর্ণ করুন: ""অস্ত্র নাও […]! তোমাদের ব্যাটালিয়ন তৈরি করো"")",,,lvl2
+answer,"Les enfants du pays (দেশের শিশুরা)",,0,
+answer,"Le peuple (জনগণ)",,0,
+answer,"Citoyens (নাগরিকগণ)",,1,
+question,"Complétez les paroles de la Marseillaise : ""Allons enfants de la patrie […]"" (মার্সেইয়েজের এই কথাগুলি সম্পূর্ণ করুন: ""চলো স্বদেশভূমি শিশুরা […]"")",,,lvl2
+answer,"L'heure est venue (সময় এসেছে)",,0,
+answer,"La liberté nous appelle (স্বাধীনতা আমাদের ডাকছে)",,0,
+answer,"Le jour de gloire est arrivé (গৌরবের দিন এসেছে)",,1,
+question,"En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut : (ব্যক্তিগত স্বাধীনতার প্রয়োগ অনুযায়ী, কোন প্রস্তাবটি সঠিক? একজন ব্যক্তি পারেন:)",,,lvl2
+answer,"Être emprisonnée sans jugement. (বিচার ছাড়াই কারারুদ্ধ হতে।)",,0,
+answer,"Être forcée de travailler. (কাজ করতে বাধ্য হতে।)",,0,
+answer,"Faire tout ce que la loi n'interdit pas. (আইন যা নিষিদ্ধ করে না এমন সব কিছুই করতে।)",,1,
+question,"Concernant la pratique de la religion, quelle proposition est correcte ? (ধর্ম পালনের বিষয়ে কোন প্রস্তাবটি সঠিক?)",,,lvl2
+answer,"L'État choisit les lieux de culte autorisés. (রাষ্ট্র অনুমোদিত উপাসনালয়গুলি বেছে নেয়।)",,0,
+answer,"Le port d'un signe religieux est interdit partout en France. (ফ্রান্সের সর্বত্র ধর্মীয় প্রতীক বহন করা নিষিদ্ধ।)",,0,
+answer,"Chacun est libre de pratiquer sa religion dans les limites de l'ordre public. (প্রত্যেকেই জনশৃঙ্খলার সীমা মেনে তার ধর্ম পালন করতে স্বাধীন।)",,1,
+question,"En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ? (পিতা-মাতা হিসাবে, স্কুলে স্পোর্টস ক্লাসগুলি মিশ্র হওয়ার কারণে সন্তানকে অংশ নিতে অস্বীকার করা যেতে পারে কি?)",,,lvl2
+answer,"Oui, si l'établissement scolaire est privé. (হ্যাঁ, যদি শিক্ষাপ্রতিষ্ঠানটি বেসরকারি হয়।)",,0,
+answer,"Oui, car la liberté religieuse le permet. (হ্যাঁ, কারণ ধর্মীয় স্বাধীনতা এটির অনুমতি দেয়।)",,0,
+answer,"Non, car la mixité dans les cours de sport s’impose à tous au nom du principe d’égalité. (না, কারণ সমতার নীতির নামে স্পোর্টস ক্লাসে মিশ্র উপস্থিতি সকলের জন্য বাধ্যতামূলক।)",,1,
+question,"Quels sont les trois principes qui composent la devise de la République française ? (ফরাসি প্রজাতন্ত্রের মূলমন্ত্রটি গঠনকারী তিনটি নীতি কী কী?)",,,lvl2
+answer,"Justice, Paix, Sûreté (ন্যায়বিচার, শান্তি, নিরাপত্তা)",,0,
+answer,"Dignité, Solidarité, Progrès (মর্যাদা, সংহতি, অগ্রগতি)",,0,
+answer,"Liberté, Égalité, Fraternité (স্বাধীনতা, সমতা, ভ্রাতৃত্ব)",,1,
+question,"La répudiation de sa femme est : (স্ত্রীর একতরফা বিবাহবিচ্ছেদ (রদ) হল:)",,,lvl2
+answer,"Acceptée uniquement pour les mariages religieux. (শুধুমাত্র ধর্মীয় বিবাহের জন্য গৃহীত।)",,0,
+answer,"Autorisée si elle est pratiquée à l'étranger. (বিদেশে অনুশীলন করা হলে অনুমোদিত।)",,0,
+answer,"Interdite et sanctionnée par la loi, le divorce étant le seul mode de rupture légal. (আইন দ্বারা নিষিদ্ধ ও শাস্তিযোগ্য, কারণ বিবাহবিচ্ছেদই একমাত্র বৈধ বিচ্ছেদের পদ্ধতি।)",,1,
+question,"Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ? (কর সরকারি ব্যয় নির্বাহে সাহায্য করে। কোন প্রস্তাবটি সঠিক?)",,,lvl2
+answer,"Seuls les citoyens français doivent payer des impôts. (শুধুমাত্র ফরাসি নাগরিকদের কর দিতে হয়।)",,0,
+answer,"Payer ses impôts est un choix personnel. (কর পরিশোধ করা একটি ব্যক্তিগত পছন্দ।)",,0,
+answer,"Payer ses impôts est un devoir pour tous les résidents en France, selon leurs revenus. (ফ্রান্সে বসবাসকারী সকল বাসিন্দার জন্য, তাদের আয় অনুযায়ী, কর পরিশোধ করা একটি কর্তব্য।)",,1,
+question,"Peut-on brûler publiquement un drapeau français ? (প্রকাশ্যে একটি ফরাসি পতাকা পোড়ানো যেতে পারে কি?)",,,lvl2
+answer,"Oui, car la liberté d'expression le permet. (হ্যাঁ, কারণ মত প্রকাশের স্বাধীনতা এটির অনুমতি দেয়।)",,0,
+answer,"Non, cela est considéré comme un outrage au symbole national. (না, এটিকে জাতীয় প্রতীকের প্রতি অবমাননা বলে গণ্য করা হয়।)",,1,
+answer,"Oui, sauf s'il est neuf. (হ্যাঁ, তবে যদি সেটি নতুন না হয়।)",,0,
+question,"Que fait l’État pour lutter contre les discriminations ? (বৈষম্যের বিরুদ্ধে লড়াই করতে রাষ্ট্র কী করে?)",,,lvl2
+answer,"Il met en place des lois pour autoriser certaines discriminations positives. (এটি কিছু ইতিবাচক বৈষম্য অনুমোদনের জন্য আইন প্রয়োগ করে।)",,0,
+answer,"Il a créé des institutions comme le Défenseur des droits, et applique des sanctions pénales. (এটি ডিফেনসার দে ড্রয়টস (Défenseur des droits) এর মতো সংস্থা তৈরি করেছে এবং ফৌজদারি নিষেধাজ্ঞা প্রয়োগ করে।)",,1,
+answer,"Il n'intervient pas, car c'est un problème privé. (এটি হস্তক্ষেপ করে না, কারণ এটি একটি ব্যক্তিগত সমস্যা।)",,0,
+question,"Que représente Marianne ? (মারিয়ান কিসের প্রতিনিধিত্ব করে?)",,,lvl2
+answer,"L'héroïne de la Révolution française de 1789. (১৭৮৯ সালের ফরাসি বিপ্লবের নায়িকা।)",,0,
+answer,"La figure symbolique de la République et de ses valeurs. (প্রজাতন্ত্র ও তার মূল্যবোধের প্রতীকী মূর্তি।)",,1,
+answer,"Le nom de la première loi votée par le Parlement. (পার্লামেন্ট কর্তৃক পাস হওয়া প্রথম আইনের নাম।)",,0,
+question,"Qu'est-ce que la liberté d'association ? (সংস্থা তৈরির স্বাধীনতা (liberté d'association) কী?)",,,lvl2
+answer,"Le droit de circuler librement dans toute l'Europe. (সমগ্র ইউরোপে অবাধে চলাচলের অধিকার।)",,0,
+answer,"Le droit de s'associer avec un parti politique. (একটি রাজনৈতিক দলের সাথে যুক্ত হওয়ার অধিকার।)",,0,
+answer,"Le droit de créer une association ou de s’y joindre, sans autorisation préalable. (পূর্বানুমতি ছাড়াই একটি সংস্থা তৈরি বা তাতে যোগ দেওয়ার অধিকার।)",,1,
+question,"Qu'est-ce que la liberté ? (স্বাধীনতা কী?)",,,lvl2
+answer,"Le droit de faire tout ce qui est possible. (যা কিছু সম্ভব তা করার অধিকার।)",,0,
+answer,"Le droit de faire tout ce qui ne nuit pas à autrui. (যা কিছু অন্যের ক্ষতি করে না তা করার অধিকার।)",,1,
+answer,"Le fait d'être exempté des impôts. (কর থেকে অব্যাহতি পাওয়ার বিষয়।)",,0,
+question,"Qu'est-ce que la Marseillaise ? (মার্সেইয়েজ কী?)",,,lvl2
+answer,"Le nom du drapeau français. (ফরাসি পতাকার নাম।)",,0,
+answer,"L'hymne national français. (ফরাসি জাতীয় সঙ্গীত।)",,1,
+answer,"La devise de la République. (প্রজাতন্ত্রের মূলমন্ত্র।)",,0,
+question,"Sur quel document peut-on voir Marianne ? (কোন নথিতে মারিয়ানকে দেখা যায়?)",,,lvl2
+answer,"Les publicités pour le tourisme. (পর্যটনের জন্য বিজ্ঞাপন।)",,0,
+answer,"Les manuels scolaires uniquement. (শুধুমাত্র স্কুলের পাঠ্যপুস্তক।)",,0,
+answer,"Les timbres, les pièces de monnaie et le logo officiel de la République. (ডাকটিকিট, মুদ্রা এবং প্রজাতন্ত্রের অফিসিয়াল লোগো।)",,1,
+question,"Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ? (একজন নিয়োগকর্তা তার সংস্থায় মহিলা নিয়োগ করতে অস্বীকার করেন। আইন কী বলে?)",,,lvl2
+answer,"C'est autorisé s'il justifie que le travail est trop difficile. (এটি অনুমোদিত যদি তিনি প্রমাণ করেন যে কাজটি খুব কঠিন।)",,0,
+answer,"C'est interdit et constitue une discrimination, punie par la loi. (এটি নিষিদ্ধ এবং আইন দ্বারা শাস্তিযোগ্য বৈষম্য।)",,1,
+answer,"C'est autorisé uniquement dans les très petites entreprises. (শুধুমাত্র খুব ছোট সংস্থাগুলিতে এটি অনুমোদিত।)",,0,
+question,"Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ? (প্রজাতন্ত্রের মূলমন্ত্রের একটি মূল্যবোধ হল সমতা (égalité)। এর অর্থ কী?)",,,lvl2
+answer,"Les citoyens ont les mêmes opinions politiques. (নাগরিকদের একই রাজনৈতিক মতামত আছে।)",,0,
+answer,"Tous les citoyens sont égaux devant la loi et la justice. (আইন ও বিচারের সামনে সকল নাগরিক সমান।)",,1,
+answer,"Les citoyens ont l'obligation de s'entraider. (নাগরিকদের একে অপরকে সাহায্য করার বাধ্যবাধকতা আছে।)",,0,
+question,"Quelle est la place de la langue française dans la République ? (প্রজাতন্ত্রে ফরাসি ভাষার স্থান কী?)",,,lvl2
+answer,"Elle n'est utilisée que dans l'administration. (এটি শুধুমাত্র প্রশাসনে ব্যবহৃত হয়।)",,0,
+answer,"Elle est une langue parmi d'autres. (এটি অন্যান্য ভাষার মধ্যে একটি ভাষা।)",,0,
+answer,"Elle est la langue de l'enseignement, du travail et des services publics, et la seule officielle. (এটি শিক্ষা, কাজ এবং সরকারি পরিষেবার ভাষা এবং এটিই একমাত্র সরকারি ভাষা।)",,1,
+question,"Le régime de la France est : (ফ্রান্সের শাসন ব্যবস্থা হল:)",,,lvl2
+answer,"Une monarchie parlementaire. (একটি সংসদীয় রাজতন্ত্র।)",,0,
+answer,"Un État fédéral. (একটি ফেডারেল রাষ্ট্র।)",,0,
+answer,"Une République indivisible, laïque, démocratique et sociale. (একটি অবিভাজ্য, ধর্মনিরপেক্ষ, গণতান্ত্রিক ও সামাজিক প্রজাতন্ত্র।)",,1,
+question,"Pourquoi le principe de laïcité doit-il être respecté à l'école ? (স্কুলে ধর্মনিরপেক্ষতার নীতি কেন পালন করা উচিত?)",,,lvl2
+answer,"Pour que les élèves n'aient pas de religion. (যাতে শিক্ষার্থীদের কোনো ধর্ম না থাকে।)",,0,
+answer,"Pour donner la priorité à la religion chrétienne. (খ্রিস্টান ধর্মকে অগ্রাধিকার দেওয়ার জন্য।)",,0,
+answer,"Pour garantir à tous les élèves la liberté de conscience et l'égalité, sans prosélytisme. (সকল শিক্ষার্থীর জন্য বিবেকের স্বাধীনতা এবং সমতা নিশ্চিত করার জন্য, কোনো ধর্ম প্রচার ছাড়া।)",,1,
+question,"À l'école publique, qui peut porter des signes religieux très visibles ? (পাবলিক স্কুলে, কে খুব দৃশ্যমান ধর্মীয় প্রতীক পরতে পারে?)",,,lvl2
+answer,"Les élèves (শিক্ষার্থীরা)",,0,
+answer,"Les usagers et parents (dans le cadre de leurs visites ou réunions). (ব্যবহারকারী এবং অভিভাবকরা (তাদের পরিদর্শন বা সভার সময়)।)",,1,
+answer,"Les enseignants (শিক্ষকরা)",,0,
+question,"Selon le principe de laïcité, que signifie la neutralité de l’État ? (ধর্মনিরপেক্ষতার নীতি অনুসারে, রাষ্ট্রের নিরপেক্ষতা মানে কী?)",,,lvl2
+answer,"L'État n'a aucune relation avec les citoyens. (রাষ্ট্রের নাগরিকদের সাথে কোনো সম্পর্ক নেই।)",,0,
+answer,"L’État ne prend pas parti en faveur d'une religion ou contre une religion. (রাষ্ট্র কোনো ধর্মের পক্ষে বা বিপক্ষে অবস্থান নেয় না।)",,1,
+answer,"L'État interdit toutes les religions. (রাষ্ট্র সকল ধর্ম নিষিদ্ধ করে।)",,0,
+question,"Que peut faire un usager du service public dans une mairie ? (একটি মেয়র অফিসে একজন সরকারি পরিষেবার ব্যবহারকারী কী করতে পারে?)",,,lvl2
+answer,"Exiger que l'agent porte un signe religieux visible. (এজেন্টের কাছে দৃশ্যমান ধর্মীয় প্রতীক পরার দাবি করা।)",,0,
+answer,"Être accueilli sans distinction d'origine, de religion ou de sexe. (উৎপত্তি, ধর্ম বা লিঙ্গ নির্বিশেষে স্বাগত জানানো।)",,1,
+answer,"Exiger que l'agent parle uniquement une langue régionale. (এজেন্টের কাছে শুধুমাত্র একটি আঞ্চলিক ভাষা বলার দাবি করা।)",,0,
+question,"Qui doit respecter le principe de neutralité religieuse dans une préfecture ? (একটি প্রিফেকচারে (Préfecture) ধর্মীয় নিরপেক্ষতার নীতি কাকে অবশ্যই পালন করতে হবে?)",,,lvl2
+answer,"Uniquement les usagers des services publics. (শুধুমাত্র সরকারি পরিষেবাগুলির ব্যবহারকারীদের।)",,0,
+answer,"Uniquement le préfet. (শুধুমাত্র প্রিফেক্টকে।)",,0,
+answer,"Tous les agents publics (fonctionnaires et contractuels). (সকল সরকারি এজেন্টের (কর্মচারী ও চুক্তিভিত্তিক)।)",,1,
+question,"La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ? (ধর্মনিরপেক্ষতা কি সরকারি এজেন্টদের ব্যবহারকারীদের প্রতি নিরপেক্ষ থাকতে বাধ্য করে?)",,,lvl2
+answer,"Non, seulement l'impartialité. (না, শুধুমাত্র নিরপেক্ষতা।)",,0,
+answer,"Non, ils peuvent exprimer leurs convictions religieuses. (না, তারা তাদের ধর্মীয় বিশ্বাস প্রকাশ করতে পারে।)",,0,
+answer,"Oui, afin de garantir l'égalité de traitement de tous les usagers. (হ্যাঁ, সকল ব্যবহারকারীর সাথে সমান আচরণ নিশ্চিত করার জন্য।)",,1,
+question,"Que garantit le principe de laïcité ? (ধর্মনিরপেক্ষতার নীতি কী নিশ্চিত করে?)",,,lvl2
+answer,"Que l'État finance les Églises. (যে রাষ্ট্র গির্জাগুলিকে অর্থায়ন করে।)",,0,
+answer,"La suppression de toutes les religions. (সকল ধর্মের বিলুপ্তি।)",,0,
+answer,"La liberté de conscience et la neutralité de l'État envers toutes les religions et convictions. (সকল ধর্ম ও বিশ্বাসের প্রতি বিবেকের স্বাধীনতা এবং রাষ্ট্রের নিরপেক্ষতা।)",,1,
+question,"Que représente la laïcité ? (ধর্মনিরপেক্ষতা কিসের প্রতিনিধিত্ব করে?)",,,lvl2
+answer,"L'union des religions sous l'autorité de l'État. (রাষ্ট্রের কর্তৃত্বের অধীনে ধর্মগুলির মিলন।)",,0,
+answer,"La séparation de l'État et des organisations religieuses. (রাষ্ট্র ও ধর্মীয় সংস্থাগুলির পৃথকীকরণ।)",,1,
+answer,"Un régime où une seule religion est dominante. (একটি শাসন ব্যবস্থা যেখানে শুধুমাত্র একটি ধর্ম প্রভাবশালী।)",,0,
+question,"Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ? (স্কুলে ধর্মনিরপেক্ষতার চার্টার (Charte) দ্বারা কী নিষিদ্ধ?)",,,lvl2
+answer,"Les débats sur les questions religieuses ou philosophiques. (ধর্মীয় বা দার্শনিক বিষয় নিয়ে বিতর্ক।)",,0,
+answer,"Les signes religieux discrets. (বিবেচনাপূর্ণ ধর্মীয় প্রতীক।)",,0,
+answer,"Le prosélytisme et le port de signes religieux ostensibles par les élèves. (শিক্ষার্থীদের দ্বারা ধর্ম প্রচার এবং স্পষ্ট ধর্মীয় প্রতীক বহন।)",,1,
+question,"Que dit l'article 1er de la Constitution française ? (ফরাসি সংবিধানের ১ নম্বর ধারা কী বলে?)",,,lvl3
+answer,"Que la France est une monarchie parlementaire. (যে ফ্রান্স একটি সংসদীয় রাজতন্ত্র।)",,0,
+answer,"Que la France est une République indivisible, laïque, démocratique et sociale. (যে ফ্রান্স একটি অবিভাজ্য, ধর্মনিরপেক্ষ, গণতান্ত্রিক ও সামাজিক প্রজাতন্ত্র।)",,1,
+answer,"Que la loi est l'expression de la volonté générale. (যে আইন হল সাধারণ ইচ্ছার প্রকাশ।)",,0,
+question,"Sur quoi est fondée la République française ? (ফরাসি প্রজাতন্ত্র কিসের উপর প্রতিষ্ঠিত?)",,,lvl3
+answer,"Sur des lois que tous doivent respecter (আইনের উপর যা সকলের মান্য করা উচিত)",,1,
+answer,"Sur des traditions religieuses (ধর্মীয় ঐতিহ্যের উপর)",,0,
+answer,"Sur des coutumes orales (মৌখিক রীতিনীতির উপর)",,0,
+question,"Qui a droit de concourir à la formation de la Loi, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৬ নম্বর ধারা অনুযায়ী, কার আইনে অংশ নেওয়ার অধিকার আছে?)",,,lvl3
+answer,"Seuls les hommes riches (শুধুমাত্র ধনী পুরুষদের)",,0,
+answer,"Les nobles et le clergé (অভিজাত ও যাজক সম্প্রদায়ের)",,0,
+answer,"Tous les Citoyens, personnellement ou par représentants (সকল নাগরিকের, ব্যক্তিগতভাবে বা তাদের প্রতিনিধিদের মাধ্যমে)",,1,
+question,"Que garantit l’article 9 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৯ নম্বর ধারা কী নিশ্চিত করে?)",,,lvl3
+answer,"L’égalité des sexes (লিঙ্গ সমতা)",,0,
+answer,"La liberté de commerce (বাণিজ্য স্বাধীনতা)",,0,
+answer,"La présomption d’innocence (নির্দোষিতার অনুমান)",,1,
+question,"Quel autre type de propos est interdit par la loi ? (আইন দ্বারা অন্য কোন ধরনের মন্তব্য নিষিদ্ধ?)",,,lvl3
+answer,"Débats scientifiques (বৈজ্ঞানিক বিতর্ক)",,0,
+answer,"Provocations à la haine (ঘৃণা উস্কে দেওয়া)",,1,
+answer,"Discours électoraux (নির্বাচনী ভাষণ)",,0,
+question,"Quelle valeur essentielle de la République doit être respectée pour obtenir la nationalité française ? (ফরাসি নাগরিকত্ব পাওয়ার জন্য প্রজাতন্ত্রের কোন অপরিহার্য মূল্যবোধকে সম্মান করতে হবে?)",,,lvl3
+answer,"La liberté d’entreprendre (উদ্যোগের স্বাধীনতা)",,0,
+answer,"L’égalité entre les femmes et les hommes (নারী ও পুরুষের মধ্যে সমতা)",,1,
+answer,"La supériorité d’une religion (একটি ধর্মের শ্রেষ্ঠত্ব)",,0,
+question,"Que peuvent faire les citoyens, en plus de voter, selon la loi ? (আইন অনুযায়ী, নাগরিকরা ভোট দেওয়া ছাড়াও আর কী করতে পারে?)",,,lvl3
+answer,"Être nommés juges (বিচারক হিসেবে নিযুক্ত হওয়া)",,0,
+answer,"Se présenter aux élections (নির্বাচনে প্রার্থী হওয়া)",,1,
+answer,"Modifier la Constitution (সংবিধান সংশোধন করা)",,0,
+question,"Comment la contribution commune doit-elle être répartie, selon l’article 13 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ১৩ নম্বর ধারা অনুযায়ী, সাধারণ অবদান (কর) কীভাবে বিতরণ করতে হবে?)",,,lvl3
+answer,"À parts égales entre tous (সকলের মধ্যে সমান ভাগে)",,0,
+answer,"En raison des facultés de chacun (প্রত্যেকের সামর্থ্য অনুসারে)",,1,
+answer,"Uniquement entre les pauvres (শুধুমাত্র দরিদ্রদের মধ্যে)",,0,
+question,"Quelles formes de liberté sont mentionnées à l’article 11 de la Déclaration de 1789 ? (১৭৮৯ সালের ঘোষণার ১১ নম্বর অনুচ্ছেদে কোন ধরনের স্বাধীনতার কথা বলা হয়েছে?)",,,lvl3
+answer,"Prier, se marier, travailler librement (প্রার্থনা করা, বিয়ে করা, স্বাধীনভাবে কাজ করা)",,0,
+answer,"Parler, écrire, imprimer librement (কথা বলা, লেখা, স্বাধীনভাবে প্রকাশ করা)",,1,
+answer,"Voyager, commercer, s’enrichir librement (ভ্রমণ করা, ব্যবসা করা, স্বাধীনভাবে ধনী হওয়া)",,0,
+question,"Quel droit est proclamé par l’article 11 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানব ও নাগরিক অধিকারের ঘোষণার ১১ নম্বর অনুচ্ছেদে কোন অধিকার ঘোষণা করা হয়েছে?)",,,lvl3
+answer,"Le droit à la sécurité sociale (সামাজিক নিরাপত্তার অধিকার)",,0,
+answer,"La libre communication des pensées et opinions (চিন্তা ও মতামত স্বাধীনভাবে প্রকাশের অধিকার)",,1,
+answer,"Le droit à l’éducation gratuite (বিনামূল্যে শিক্ষার অধিকার)",,0,
+question,"Sur quoi portent les règles collectives inscrites dans la loi ? (আইনে লিপিবদ্ধ সম্মিলিত নিয়মগুলো কী বিষয়ের উপর প্রযোজ্য?)",,,lvl3
+answer,"Sur les traditions religieuses (ধর্মীয় ঐতিহ্যের উপর)",,0,
+answer,"Sur les coutumes familiales (পারিবারিক রীতি নীতির উপর)",,0,
+answer,"Sur la vie en société (সমাজে একসাথে বসবাসের নিয়মের উপর)",,1,
+question,"Quel symbole de la République est présent dans toutes les mairies ? (ফ্রান্সের সব মেয়র অফিসে কোন প্রজাতন্ত্রের প্রতীকটি থাকে?)",,,lvl3
+answer,"L’arc de triomphe (আর্ক দ্য ক্রিয়োম্ফ)",,0,
+answer,"Le coq gaulois (গলীয় মোরগ)",,0,
+answer,"La Marianne (লা মারিয়ান, প্রজাতন্ত্রের নারীমূর্তি)",,1,
+question,"Quelle date correspond à la prise de la Bastille par le peuple de Paris ? (প্যারিসের জনগণের দ্বারা বাস্তিল দখলের ঘটনাটি কোন তারিখে ঘটেছিল?)",,,lvl3
+answer,"4 août 1789 (৪ আগস্ট ১৭৮৯)",,0,
+answer,"14 juillet 1790 (১৪ জুলাই ১৭৯০)",,0,
+answer,"14 juillet 1789 (১৪ জুলাই ১৭৮৯)",,1,
+question,"Quelles sont des conditions d’accès aux emplois publics, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানব ও নাগরিক অধিকারের ঘোষণার ৬ নম্বর অনুচ্ছেদ অনুযায়ী সরকারি চাকরিতে প্রবেশের শর্তগুলো কী?)",,,lvl3
+answer,"La capacité, les vertus et les talents (যোগ্যতা, নৈতিক গুণাবলি এবং প্রতিভা)",,1,
+answer,"L’appartenance religieuse (ধর্মীয় পরিচয়)",,0,
+answer,"La naissance et la fortune (জন্মসূত্র এবং সম্পদ)",,0,
+question,"Que permet l’article 14 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 en matière de contribution publique ? (১৭৮৯ সালের মানব ও নাগরিক অধিকার ঘোষণার ১৪ নম্বর অনুচ্ছেদ জনসাধারণের কর বা অবদানের ক্ষেত্রে কী অনুমতি দেয়?)",,,lvl3
+answer,"En suivre l’emploi et en déterminer la quotité, l’assiette, le recouvrement et la durée (এর ব্যবহার পর্যবেক্ষণ করা এবং এর পরিমাণ, ভিত্তি, আদায় পদ্ধতি ও সময়সীমা নির্ধারণ করা)",,1,
+answer,"La déléguer uniquement au roi (এটি শুধু রাজার কাছে হস্তান্তর করা)",,0,
+answer,"L’abolir définitivement (এটি সম্পূর্ণভাবে বাতিল করা)",,0,
+question,"Quel droit l’article 17 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 proclame-t-il inviolable et sacré ? (১৭৮৯ সালের মানব ও নাগরিক অধিকার ঘোষণার ১৭ নম্বর অনুচ্ছেদ কোন অধিকাকে অক্ষত ও পবিত্র ঘোষণা করেছে?)",,,lvl3
+answer,"La propriété (সম্পত্তির অধিকার)",,1,
+answer,"Le travail (কর্মসংস্থানের অধিকার)",,0,
+answer,"La liberté d’expression (মত প্রকাশের স্বাধীনতা)",,0,
+question,"Que crée l’article 12 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানব ও নাগরিক অধিকার ঘোষণার ১২ নম্বর অনুচ্ছেদ কী প্রতিষ্ঠা করে?)",,,lvl3
+answer,"Une armée privée au service du roi (রাজার সেবায় একটি ব্যক্তিগত সেনাবাহিনী)",,0,
+answer,"Une force publique instituée pour l’avantage de tous (সবার স্বার্থে প্রতিষ্ঠিত একটি জননিরাপত্তা বাহিনী)",,1,
+answer,"Une force religieuse au service de l’Église (গির্জার সেবায় একটি ধর্মীয় বাহিনী)",,0,
+question,"Que protège l’article 10 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানব ও নাগরিক অধিকার ঘোষণার ১০ নম্বর অনুচ্ছেদ কী সুরক্ষা দেয়?)",,,lvl3
+answer,"Le droit de grève (ধর্মঘটের অধিকার)",,0,
+answer,"La liberté d’opinion, même religieuse (মতামতের স্বাধীনতা, এমনকি ধর্মীয় মতামতও)",,1,
+answer,"Le droit d’héritage (উত্তরাধিকার পাওয়ার অধিকার)",,0,
+question,"Le vote en France est… (ফ্রান্সে ভোট দেওয়া হলো…)",,,lvl3
+answer,"Un privilège réservé (একটি সংরক্ষিত বিশেষ সুবিধা)",,0,
+answer,"Une obligation (একটি বাধ্যবাধকতা)",,0,
+answer,"Un droit (একটি অধিকার)",,1,
+question,"Qui est élu au suffrage universel en France ? (ফ্রান্সে সর্বজনীন ভোটাধিকার দ্বারা কাকে নির্বাচিত করা হয়?)",,,lvl3
+answer,"Le Président, les parlementaires et les maires (প্রেসিডেন্ট, সংসদ সদস্য এবং মেয়ররা)",,1,
+answer,"Les juges et les préfets (বিচারক এবং প্রেফেক্টরা)",,0,
+answer,"Les recteurs et les ministres (রেক্টর এবং মন্ত্রীরা)",,0,
+question,"La France condamne-t-elle toutes les discriminations possibles ? (ফ্রান্স কি সব ধরনের বৈষম্য নিন্দা করে?)",,,lvl3
+answer,"Oui, absolument toutes (হ্যাঁ, একেবারে সব বৈষম্য)",,0,
+answer,"Oui, sauf celles dans le sport (হ্যাঁ, তবে খেলাধুলার বৈষম্য বাদে)",,0,
+answer,"Non, seulement celles fondées sur un motif prévu par la loi (না, শুধুমাত্র আইন দ্বারা নির্ধারিত কারণের ভিত্তিতে বৈষম্য নিষিদ্ধ)",,1,
+question,"Quels droits naturels et imprescriptibles sont cités à l’article 2 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? (১৭৮৯ সালের মানব ও নাগরিক অধিকারের ঘোষণার ২ নম্বর অনুচ্ছেদে কোন কোন স্বাভাবিক ও অবিনাশী অধিকারের কথা বলা হয়েছে?)",,,lvl3
+answer,"Religion, famille, sécurité, logement (ধর্ম, পরিবার, নিরাপত্তা, বাসস্থান)",,0,
+answer,"Liberté, propriété, sûreté, résistance à l’oppression (স্বাধীনতা, সম্পত্তি, নিরাপত্তা, অত্যাচারের বিরুদ্ধে প্রতিরোধ)",,1,
+answer,"Égalité, fraternité, travail, solidarité (সমতা, ভ্রাতৃত্ব, কাজ, সংহতি)",,0,
+question,"Un employeur peut-il refuser d’embaucher un salarié en raison de ses origines ? (কোনো নিয়োগকর্তা কি একজন কর্মীকে তার উৎস বা জন্মগত কারণে চাকরি দিতে অস্বীকার করতে পারে?)",,,lvl3
+answer,"Oui, avec l’accord des syndicats (হ্যাঁ, শ্রমিক সংঘের সম্মতিতে)",,0,
+answer,"Oui, si l’entreprise est privée (হ্যাঁ, যদি প্রতিষ্ঠানটি বেসরকারি হয়)",,0,
+answer,"Non, c’est interdit (না, এটি আইনত নিষিদ্ধ)",,1,
+question,"Quelle condition supplémentaire est nécessaire pour voter, en plus d’avoir 18 ans? (ভোট দেওয়ার জন্য, ১৮ বছর বয়স হওয়া ছাড়াও আর কোন অতিরিক্ত শর্ত প্রয়োজন?)",,,lvl3
+answer,"Avoir un emploi (একটি চাকরি থাকা)",,0,
+answer,"Disposer de ses droits civils et politiques (তার নাগরিক ও রাজনৈতিক অধিকার থাকা)",,1,
+answer,"Payer des impôts (কর প্রদান করা)",,0,
+question,"À quelle époque a été composé l’hymne national, La Marseillaise? (জাতীয় সঙ্গীত 'লা মার্সেইয়েজ' কোন সময়ে রচিত হয়েছিল?)",,,lvl3
+answer,"À l’époque de la Révolution (বিপ্লবের সময়ে)",,1,
+answer,"Au XXe siècle (বিংশ শতাব্দীতে)",,0,
+answer,"Sous Louis XIV (চতুর্দশ লুইয়ের অধীনে)",,0,
+question,"Quelles libertés fondamentales sont garanties en France? (ফ্রান্সে কোন মৌলিক স্বাধীনতাগুলি নিশ্চিত করা হয়েছে?)",,,lvl3
+answer,"Liberté de pensée, de croyance, de s’exprimer, de se réunir (চিন্তা, বিশ্বাস, মত প্রকাশের এবং সভা করার স্বাধীনতা)",,1,
+answer,"Liberté de posséder un titre de noblesse (আভিজাত্যের পদবী রাখার স্বাধীনতা)",,0,
+answer,"Liberté de commercer sans règles (নিয়ম ছাড়াই ব্যবসা করার স্বাধীনতা)",,0,
+question,"La liberté d'expression en France est... (ফ্রান্সে মত প্রকাশের স্বাধীনতা হল...)",,,lvl3
+answer,"Un droit fondamental avec des limites (সীমাবদ্ধতাসহ একটি মৌলিক অধিকার)",,1,
+answer,"Un droit absolu sans limite (সীমাহীন একটি পরম অধিকার)",,0,
+answer,"Non reconnue par la loi (আইন দ্বারা স্বীকৃত নয়)",,0,
+question,"Dans une République, au nom de qui gouvernent les dirigeants élus? (একটি প্রজাতন্ত্রে, নির্বাচিত শাসকরা কার নামে শাসন করেন?)",,,lvl3
+answer,"Au nom du président seul (শুধুমাত্র প্রেসিডেন্টের নামে)",,0,
+answer,"Au nom du peuple (জনগণের নামে)",,1,
+answer,"Au nom des partis politiques (রাজনৈতিক দলগুলির নামে)",,0,
+question,"Dans quel but l'État peut-il restreindre le droit de manifester sa religion en public? (প্রকাশ্যে ধর্ম পালনের অধিকার রাষ্ট্র কোন উদ্দেশ্যে সীমাবদ্ধ করতে পারে?)",,,lvl3
+answer,"Pour empêcher toute croyance (সকল বিশ্বাসকে বাধা দিতে)",,0,
+answer,"Pour favoriser une religion (একটি ধর্মকে সমর্থন করতে)",,0,
+answer,"Pour préserver l'ordre public (জনশৃঙ্খলা বজায় রাখতে)",,1,
+question,"Que doivent respecter tous les citoyen(ne)s en France? (ফ্রান্সে সকল নাগরিককে কী অবশ্যই মেনে চলতে হবে?)",,,lvl3
+answer,"Les lois et les règlements (আইন ও বিধিমালা)",,1,
+answer,"Les traditions religieuses (ধর্মীয় ঐতিহ্য)",,0,
+answer,"Seulement les coutumes locales (শুধুমাত্র স্থানীয় রীতিনীতি)",,0,
+question,"Quelles bornes limitent l'exercice des droits naturels, selon l'article 4 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৪ ধারা অনুযায়ী, কোন সীমাগুলি প্রাকৃতিক অধিকারের ব্যবহারকে সীমিত করে?)",,,lvl3
+answer,"Celles décidées par le gouvernement (যেগুলি সরকার দ্বারা নির্ধারিত)",,0,
+answer,"Celles fixées par la Loi (যেগুলি আইন দ্বারা নির্ধারিত)",,1,
+answer,"Celles imposées par la religion (যেগুলি ধর্ম দ্বারা আরোপিত)",,0,
+question,"Quel code définit les règles essentielles applicables entre les personnes? (ব্যক্তিদের মধ্যে প্রযোজ্য অপরিহার্য নিয়মাবলী কোন কোড বা আইন সংজ্ঞায়িত করে?)",,,lvl3
+answer,"Le code civil (দেওয়ানি আইন)",,1,
+answer,"Le code électoral (নির্বাচনী আইন)",,0,
+answer,"Le code du travail (শ্রম আইন)",,0,
+question,"Que déclare l'article 16 de la Déclaration de 1789 à propos de la Constitution? (১৭৮৯ সালের ঘোষণার ১৬ নম্বর ধারা সংবিধান সম্পর্কে কী ঘোষণা করে?)",,,lvl3
+answer,"Sans garantie des droits et séparation des pouvoirs, il n'y a pas de Constitution (অধিকারের নিশ্চয়তা এবং ক্ষমতার বিভাজন ছাড়া কোনো সংবিধান নেই)",,1,
+answer,"La Constitution émane du roi seul (সংবিধান শুধুমাত্র রাজার কাছ থেকে আসে)",,0,
+answer,"Toute société religieuse a automatiquement une Constitution (প্রত্যেক ধর্মীয় সমাজের স্বয়ংক্রিয়ভাবে একটি সংবিধান থাকে)",,0,
+question,"Quel site internet présente les principales règles et le fonctionnement des institutions? (কোন ইন্টারনেট সাইটটি প্রতিষ্ঠানগুলির প্রধান নিয়মাবলী এবং কার্যকারিতা উপস্থাপন করে?)",,,lvl3
+answer,"www.palais-elysee.fr",,0,
+answer,"www.vie-publique.fr",,1,
+answer,"www.gouverbement.fr",,0,
+question,"Comment sont souvent regroupées les lois en France? (ফ্রান্সে আইনগুলি প্রায়শই কীভাবে গোষ্ঠীভুক্ত বা একত্রিত করা হয়?)",,,lvl3
+answer,"En brochures publicitaires (বিজ্ঞাপন পুস্তিকায়)",,0,
+answer,"En codes (কোড বা সংহিতায়)",,1,
+answer,"En magazines (ম্যাগাজিনে)",,0,
+question,"Dans les années 1880, quelle liberté est garantie par une loi? (১৮৮০-এর দশকে, কোন স্বাধীনতা একটি আইন দ্বারা নিশ্চিত করা হয়েছিল?)",,,lvl3
+answer,"La liberté de commercer (বাণিজ্য করার স্বাধীনতা)",,0,
+answer,"La liberté de chasser (শিকার করার স্বাধীনতা)",,0,
+answer,"La liberté de la presse (সংবাদপত্রের স্বাধীনতা)",,1,
+question,"Que représentent les impôts et les cotisations sociales en France? (ফ্রান্সে কর এবং সামাজিক অবদান কীসের প্রতিনিধিত্ব করে?)",,,lvl3
+answer,"Un moyen de récompenser les plus riches (ধনী ব্যক্তিদের পুরস্কৃত করার একটি উপায়)",,0,
+answer,"Une illustration de la fraternité (ভ্রাতৃত্বের একটি উদাহরণ)",,1,
+answer,"Une sanction contre les travailleurs (শ্রমিকদের বিরুদ্ধে একটি নিষেধাজ্ঞা)",,0,
+question,"Que peut défendre la Loi, selon l'article 5 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৫ ধারা অনুযায়ী আইন কী নিষিদ্ধ করতে পারে?)",,,lvl3
+answer,"Les croyances religieuses (ধর্মীয় বিশ্বাস)",,0,
+answer,"Les actions nuisibles à la Société (সমাজের জন্য ক্ষতিকারক কাজ)",,1,
+answer,"Les opinions politiques (রাজনৈতিক মতামত)",,0,
+question,"De quelle époque date la Déclaration des Droits de l'Homme et du Citoyen? (মানবাধিকার ও নাগরিক অধিকারের ঘোষণা কোন সময়ের?)",,,lvl3
+answer,"Du Moyen Âge (মধ্যযুগের)",,0,
+answer,"De la Révolution française de 1789 (১৭৮৯ সালের ফরাসি বিপ্লবের)",,1,
+answer,"De la Seconde Guerre mondiale (দ্বিতীয় বিশ্বযুদ্ধের)",,0,
+question,"Quel système illustre le principe de fraternité depuis 1945? (১৯৪৫ সাল থেকে কোন ব্যবস্থাটি ভ্রাতৃত্বের নীতিকে চিত্রিত করে?)",,,lvl3
+answer,"L'armée nationale (জাতীয় সেনাবাহিনী)",,0,
+answer,"Le système scolaire (স্কুল ব্যবস্থা)",,0,
+answer,"La sécurité sociale (সামাজিক নিরাপত্তা)",,1,
+question,"Quelle règle a rappelé le Conseil constitutionnel en 2004? (২০০৪ সালে সাংবিধানিক পরিষদ কোন নিয়মটি মনে করিয়ে দিয়েছে?)",,,lvl3
+answer,"Les croyants ont priorité sur les lois de la République (বিশ্বাসীরা প্রজাতন্ত্রের আইনের উপর অগ্রাধিকার পায়)",,0,
+answer,"Nul ne peut se prévaloir de ses croyances religieuses pour s'affranchir des règles communes (কেউই সাধারণ নিয়মাবলী থেকে মুক্তি পেতে তার ধর্মীয় বিশ্বাসের সুবিধা নিতে পারে না)",,1,
+answer,"Les religions décident des règles de vie publique (ধর্মগুলি জনজীবনের নিয়মাবলী নির্ধারণ করে)",,0,
+question,"Que vise l'interdiction prévue par la loi du 15 mars 2004? (২০০৪ সালের ১৫ মার্চের আইন দ্বারা আরোপিত নিষেধাজ্ঞা কী লক্ষ্য করে?)",,,lvl3
+answer,"Les signes ou tenues manifestant ostensiblement l'appartenance à une religion (স্পষ্টভাবে একটি ধর্মের অন্তর্গত নির্দেশক চিহ্ন বা পোশাক)",,1,
+answer,"Toute forme de vêtement traditionnel (ঐতিহ্যবাহী পোশাকের যে কোনো রূপ)",,0,
+answer,"Les symboles discrets portés sous les vêtements (পোশাকের নিচে পরা বিচক্ষণ প্রতীক)",,0,
+question,"Qu'est-ce que l'État garantit en matière religieuse? (ধর্মীয় বিষয়ে রাষ্ট্র কী নিশ্চিত করে?)",,,lvl3
+answer,"La liberté religieuse (ধর্মীয় স্বাধীনতা)",,1,
+answer,"La supériorité de la religion majoritaire (সংখ্যাগরিষ্ঠ ধর্মের শ্রেষ্ঠত্ব)",,0,
+answer,"L'interdiction de changer de religion (ধর্ম পরিবর্তন নিষিদ্ধকরণ)",,0,
+question,"Quel type d'apologie est interdit dans le cadre de la liberté d'expression? (মত প্রকাশের স্বাধীনতার কাঠামোর মধ্যে কোন ধরনের সাফাই বা সমর্থন করা নিষিদ্ধ?)",,,lvl3
+answer,"La Révolution française (ফরাসি বিপ্লব)",,0,
+answer,"Les découvertes scientifiques (বৈজ্ঞানিক আবিষ্কার)",,0,
+answer,"Crimes contre l'humanité (মানবতার বিরুদ্ধে অপরাধ)",,1,
+question,"Que signifie le terme « ostensiblement » à propos des signes religieux à l'école? (বিদ্যালয়ে ধর্মীয় চিহ্ন প্রসঙ্গে « ostensiblement » শব্দটি দ্বারা কী বোঝায়?)",,,lvl3
+answer,"De manière trop visible (খুব দৃশ্যমান উপায়ে)",,1,
+answer,"De manière discrète (বিচক্ষণ উপায়ে)",,0,
+answer,"De manière secrète (গোপন উপায়ে)",,0,
+question,"Dans quelles conditions peut-on être privé de sa propriété, selon l'article 17 de la Déclaration de 1789? (১৭৮৯ সালের ঘোষণার ১৭ নম্বর ধারা অনুযায়ী, কী শর্তে একজন ব্যক্তিকে তার সম্পত্তি থেকে বঞ্চিত করা যেতে পারে?)",,,lvl3
+answer,"Si la majorité des voisins le souhaite (যদি প্রতিবেশীদের বেশিরভাগই তা চায়)",,0,
+answer,"Si le roi le décide sans motif (যদি রাজা কারণ ছাড়াই তা সিদ্ধান্ত নেন)",,0,
+answer,"Si la nécessité publique l'exige et avec une juste et préalable indemnité (যদি জনস্বার্থের প্রয়োজনীয়তা তা দাবি করে এবং একটি ন্যায্য ও পূর্ব ক্ষতিপূরণসহ)",,1,
+question,"Que proclame l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ১ নম্বর ধারা কী ঘোষণা করে?)",,,lvl3
+answer,"Tous les citoyens doivent payer des impôts (সকল নাগরিককে কর দিতে হবে)",,0,
+answer,"La monarchie est le régime naturel (রাজতন্ত্র হলো স্বাভাবিক শাসন ব্যবস্থা)",,0,
+answer,"Les hommes naissent et demeurent libres et égaux en droits (মানুষ জন্মগতভাবে স্বাধীন এবং অধিকারের ক্ষেত্রে সমান থাকে)",,1,
+question,"Selon l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789, sur quoi peuvent être fondées les distinctions sociales? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ১ নম্বর ধারা অনুযায়ী, কিসের ভিত্তিতে সামাজিক ভেদাভেদ প্রতিষ্ঠিত হতে পারে?)",,,lvl3
+answer,"Sur la naissance (জন্মের ভিত্তিতে)",,0,
+answer,"Sur l'utilité commune (সাধারণ উপযোগিতার ভিত্তিতে)",,1,
+answer,"Sur la richesse (সম্পদের ভিত্তিতে)",,0,
+question,"Pourquoi l'école doit-elle être neutre face aux religions? (কেন বিদ্যালয়কে ধর্মের ক্ষেত্রে নিরপেক্ষ থাকতে হবে?)",,,lvl3
+answer,"Parce qu'elle n'accueille que des mineurs (কারণ এটি কেবল নাবালকদের গ্রহণ করে)",,0,
+answer,"Parce que c'est une institution publique qui forme tous les citoyens (কারণ এটি একটি সরকারি প্রতিষ্ঠান যা সকল নাগরিককে গড়ে তোলে)",,1,
+answer,"Parce qu'elle dépend de l'Église (কারণ এটি চার্চের উপর নির্ভরশীল)",,0,
+question,"Quelle fête a eu lieu le 14 juillet 1790? (১৭৯০ সালের ১৪ই জুলাই কোন উৎসব অনুষ্ঠিত হয়েছিল?)",,,lvl3
+answer,"La fête des Vendanges (আঙুর তোলার উৎসব)",,0,
+answer,"La fête du Travail (শ্রমিক দিবস)",,0,
+answer,"La fête de la Fédération (ফেডারেশনের উৎসব)",,1,
+question,"L'administration peut-elle refuser la nationalité française à une personne qui ne respecte pas l'égalité femmes-hommes? (প্রশাসন কি এমন কোনো ব্যক্তিকে ফরাসি নাগরিকত্ব দিতে অস্বীকার করতে পারে যিনি নারী-পুরুষের সমতা মেনে চলেন না?)",,,lvl3
+answer,"Non, sauf si la personne a commis un crime (না, যদি না ব্যক্তিটি কোনো অপরাধ করে থাকে)",,0,
+answer,"Oui, même si elle est mariée avec un(e) Français(e) (হ্যাঁ, এমনকি যদি তিনি একজন ফরাসি নাগরিকের সাথে বিবাহিত/বিবাহিতা হন)",,1,
+answer,"Non, jamais (না, কখনোই না)",,0,
+question,"En France, les personnes d'orientation sexuelle différente ont-elles moins de droits que les autres citoyens? (ফ্রান্সে, ভিন্ন যৌন পরিচয়ের লোকেরা কি অন্য নাগরিকদের চেয়ে কম অধিকার ভোগ করেন?)",,,lvl3
+answer,"Oui, mais seulement en matière de mariage (হ্যাঁ, তবে শুধুমাত্র বিবাহের ক্ষেত্রে)",,0,
+answer,"Oui, elles ont moins de droits (হ্যাঁ, তাদের কম অধিকার আছে)",,0,
+answer,"Non, elles ont les mêmes droits et les mêmes devoirs (না, তাদের একই অধিকার এবং একই কর্তব্য রয়েছে)",,1,
+question,"Que garantit l'article 7 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৭ নম্বর ধারা কী নিশ্চিত করে?)",,,lvl3
+answer,"La possibilité d'être emprisonné sans jugement (বিচার ছাড়াই কারাবন্দী হওয়ার সম্ভাবনা)",,0,
+answer,"La primauté de la police sur la justice (বিচারের উপর পুলিশের প্রাধান্য)",,0,
+answer,"Nul homme ne peut être arrêté ou détenu que selon la Loi (আইন ছাড়া কোনো ব্যক্তিকে গ্রেপ্তার বা আটক করা যাবে না)",,1,
+question,"Quelle est l'une des raisons de l'interdiction des signes religieux ostensibles à l'école? (বিদ্যালয়ে দৃশ্যমান ধর্মীয় চিহ্ন নিষিদ্ধ করার অন্যতম কারণ কী?)",,,lvl3
+answer,"Protéger les mineurs contre les pressions de leurs camarades (সহপাঠীদের চাপ থেকে নাবালকদের রক্ষা করা)",,1,
+answer,"Favoriser une seule religion officielle (শুধুমাত্র একটি সরকারি ধর্মকে সমর্থন করা)",,0,
+answer,"Empêcher toute pratique religieuse dans la société (সমাজে সব ধরনের ধর্মীয় আচার-আচরণ বন্ধ করা)",,0,
+question,"Selon l'article 13 de la Déclaration de 1789, pourquoi une contribution commune est-elle indispensable? (১৭৮৯ সালের ঘোষণার ১৩ নম্বর ধারা অনুযায়ী, একটি সাধারণ অবদান কেন অপরিহার্য?)",,,lvl3
+answer,"Pour l'entretien de la force publique et les dépenses d'administration (জনশক্তির রক্ষণাবেক্ষণ এবং প্রশাসনিক ব্যয়ের জন্য)",,1,
+answer,"Pour les fêtes nationales (জাতীয় উৎসবের জন্য)",,0,
+answer,"Pour financer la noblesse (আভিজাত্যকে অর্থায়ন করার জন্য)",,0,
+question,"Que garantit la République à ses citoyens? (প্রজাতন্ত্র তার নাগরিকদের কী নিশ্চিত করে?)",,,lvl3
+answer,"Le respect des principes de liberté, d'égalité et de fraternité (স্বাধীনতা, সমতা এবং ভ্রাতৃত্বের নীতিগুলির প্রতি শ্রদ্ধা)",,1,
+answer,"La prospérité économique pour tous (সকলের জন্য অর্থনৈতিক সমৃদ্ধি)",,0,
+answer,"La supériorité d'une religion (একটি ধর্মের শ্রেষ্ঠত্ব)",,0,
+question,"De quelle époque date le drapeau tricolore bleu, blanc, rouge? (নীল, সাদা, লাল ত্রিবর্ণ পতাকা কোন সময়ের?)",,,lvl3
+answer,"De la Première Guerre mondiale (প্রথম বিশ্বযুদ্ধের)",,0,
+answer,"De la Révolution française (ফরাসি বিপ্লবের)",,1,
+answer,"De l'Empire napoléonien (নেপোলিয়নিক সাম্রাজ্যের)",,0,
+question,"Que condamne la France en matière de traitement entre personnes? (ব্যক্তিদের মধ্যে আচরণের ক্ষেত্রে ফ্রান্স কী নিন্দা করে?)",,,lvl3
+answer,"Les préférences sportives (খেলাধুলার পছন্দ)",,0,
+answer,"Les différences de goût personnels (ব্যক্তিগত রুচির পার্থক্য)",,0,
+answer,"Les discriminations fondées sur un motif prévu par la loi (আইন দ্বারা নির্ধারিত একটি কারণের ভিত্তিতে বৈষম্য)",,1,
+question,"Que signifie le suffrage universel? (সার্বজনীন ভোটাধিকার বলতে কী বোঝায়?)",,,lvl3
+answer,"Tous les citoyens, hommes et femmes, peuvent voter (সকল নাগরিক, পুরুষ ও মহিলা, ভোট দিতে পারে)",,1,
+answer,"Seuls les contribuables peuvent voter (শুধুমাত্র করদাতারা ভোট দিতে পারে)",,0,
+answer,"Seuls les hommes peuvent voter (শুধুমাত্র পুরুষরা ভোট দিতে পারে)",,0,
+question,"Comment s'appelle le fait de traiter moins favorablement une personne à cause de ses origines, de sa religion ou de son sexe? (কারও উৎস, ধর্ম বা লিঙ্গের কারণে তাকে কম অনুকূলভাবে বিবেচনা করাকে কী বলে?)",,,lvl3
+answer,"Une discrimination (বৈষম্য)",,1,
+answer,"Une coutume professionnelle (একটি পেশাগত রীতি)",,0,
+answer,"Une préférence légale (একটি আইনি অগ্রাধিকার)",,0,
+question,"La liberté d'expression est limitée afin de... (মত প্রকাশের স্বাধীনতা সীমিত করা হয় কারণ...)",,,lvl3
+answer,"Empêcher toute critique politique (সমস্ত রাজনৈতিক সমালোচনাকে বাধা দিতে)",,0,
+answer,"Protéger uniquement l'État (শুধুমাত্র রাষ্ট্রকে রক্ষা করতে)",,0,
+answer,"Respecter les droits des autres (অন্যদের অধিকারকে সম্মান জানাতে)",,1,
+question,"Quelle limite fixe l'article 10 de la Déclaration de 1789 à la liberté d'opinion? (১৭৮৯ সালের ঘোষণার ১০ নম্বর ধারা মত প্রকাশের স্বাধীনতার উপর কোন সীমা নির্ধারণ করে?)",,,lvl3
+answer,"L'approbation du gouvernement (সরকারের অনুমোদন)",,0,
+answer,"Le respect des traditions religieuses (ধর্মীয় ঐতিহ্যের প্রতি শ্রদ্ধা)",,0,
+answer,"Le respect de l'ordre public établi par la Loi (আইন দ্বারা প্রতিষ্ঠিত জনশৃঙ্খলার প্রতি শ্রদ্ধা)",,1,
+question,"L'avènement de la République française a été... (ফরাসি প্রজাতন্ত্রের আবির্ভাব ছিল...)",,,lvl3
+answer,"Décidé par un seul dirigeant (একজন মাত্র নেতা দ্বারা সিদ্ধান্ত নেওয়া)",,0,
+answer,"Progressif et le fruit de plusieurs combats (ধীরে ধীরে এবং একাধিক সংগ্রামের ফল)",,1,
+answer,"Instantané et sans opposition (তাৎক্ষণিক এবং কোনো বিরোধিতা ছাড়া)",,0,
+question,"Que prévoit la loi française concernant les femmes et les hommes? (নারী ও পুরুষ সম্পর্কিত ফরাসি আইন কী বিধান করে?)",,,lvl3
+answer,"Elle limite certains droits des femmes (এটি নারীদের কিছু অধিকার সীমিত করে)",,0,
+answer,"Elle donne plus de droits aux hommes (এটি পুরুষদের বেশি অধিকার দেয়)",,0,
+answer,"Elle leur accorde les mêmes droits (এটি তাদের একই অধিকার প্রদান করে)",,1,
+question,"Comment se traduit la volonté de vivre ensemble des citoyens? (নাগরিকদের একসাথে বসবাসের ইচ্ছা কীভাবে প্রকাশিত হয়?)",,,lvl3
+answer,"Par la compétition entre eux (তাদের মধ্যে প্রতিযোগিতার মাধ্যমে)",,0,
+answer,"Par la solidarité entre eux (তাদের মধ্যে সংহতির মাধ্যমে)",,1,
+answer,"Par l’isolement des individus (ব্যক্তিদের বিচ্ছিন্নতার মাধ্যমে)",,0,
+question,"En quelle année la République française s'installe-t-elle de façon stable? (ফরাসি প্রজাতন্ত্র কোন বছর স্থায়ীভাবে প্রতিষ্ঠিত হয়?)",,,lvl3
+answer,"1875 (১৮৭৫)",,1,
+answer,"1945 (১৯৪৫)",,0,
+answer,"1789 (১৭৮৯)",,0,
+question,"Quelles personnes contribuent aux cotisations sociales en France? (ফ্রান্সে কোন ব্যক্তিরা সামাজিক অবদানে (social contributions) অবদান রাখে?)",,,lvl3
+answer,"Seulement les salariés (শুধুমাত্র কর্মচারীরা)",,0,
+answer,"Seulement l'État (শুধুমাত্র রাষ্ট্র)",,0,
+answer,"Employeurs, salariés et non-salariés (নিয়োগকর্তা, কর্মচারী এবং অ-কর্মচারী)",,1,
+question,"Où réside le principe de toute souveraineté, selon l'article 3 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৩ নম্বর ধারা অনুযায়ী, সমস্ত সার্বভৌমত্বের নীতি কোথায় থাকে?)",,,lvl3
+answer,"Dans le Roi (রাজার মধ্যে)",,0,
+answer,"Dans la Nation (জাতির মধ্যে)",,1,
+answer,"Dans l'armée (সেনাবাহিনীর মধ্যে)",,0,
+question,"Qu'est-ce que le code pénal définit? (ফৌজদারি আইন (Code pénal) কী সংজ্ঞায়িত করে?)",,,lvl3
+answer,"Les règles de politesse en société (সমাজে ভদ্রতার নিয়মাবলী)",,0,
+answer,"Les infractions et les peines correspondantes (অপরাধ এবং তার সাথে সম্পর্কিত শাস্তিগুলি)",,1,
+answer,"Les conditions de mariage (বিবাহের শর্তাবলী)",,0,
+question,"Quel type de propos est interdit par la loi? (কোন ধরনের মন্তব্য আইন দ্বারা নিষিদ্ধ?)",,,lvl3
+answer,"Critiques littéraires (সাহিত্য সমালোচনা)",,0,
+answer,"Opinions politiques différentes (ভিন্ন রাজনৈতিক মতামত)",,0,
+answer,"Injures et propos diffamatoires (অপমান এবং মানহানিকর মন্তব্য)",,1,
+question,"Sur quoi repose la France selon le principe de fraternité? (ভ্রাতৃত্বের নীতি অনুযায়ী ফ্রান্স কিসের উপর নির্ভরশীল?)",,,lvl3
+answer,"Sur la supériorité d'une religion (একটি ধর্মের শ্রেষ্ঠত্বের উপর)",,0,
+answer,"Sur la volonté de vivre ensemble des citoyens (নাগরিকদের একসাথে বসবাসের ইচ্ছার উপর)",,1,
+answer,"Sur l'autorité d'un seul chef (একজন মাত্র নেতার কর্তৃত্বের উপর)",,0,
+question,"Dans les années 1880, l'école publique devient... (১৮৮০-এর দশকে, সরকারি বিদ্যালয় কী হয়?)",,,lvl3
+answer,"Obligatoire, gratuite et laïque (বাধ্যতামূলক, বিনামূল্যে এবং ধর্মনিরপেক্ষ)",,1,
+answer,"Payante pour les pauvres (দরিদ্রদের জন্য অর্থপ্রদানের বিনিময়ে)",,0,
+answer,"Réservée aux garçons (ছেলেদের জন্য সংরক্ষিত)",,0,
+question,"Que doit établir la Loi en matière de peines, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৮ নম্বর ধারা অনুযায়ী, শাস্তি বা দণ্ডের ক্ষেত্রে আইনকে কী প্রতিষ্ঠা করতে হবে?)",,,lvl3
+answer,"Les peines décidées par le roi (রাজা কর্তৃক নির্ধারিত শাস্তি)",,0,
+answer,"Les peines les plus sévères possibles (সর্বোচ্চ কঠোর শাস্তি)",,0,
+answer,"Seulement des peines strictement nécessaires (শুধুমাত্র কঠোরভাবে প্রয়োজনীয় শাস্তি)",,1,
+question,"À partir de quel âge peut-on voter en France? (ফ্রান্সে কত বছর বয়স থেকে ভোট দেওয়া যায়?)",,,lvl3
+answer,"16 ans (১৬ বছর)",,0,
+answer,"18 ans (১৮ বছর)",,1,
+answer,"21 ans (২১ বছর)",,0,
+question,"Quand peut-on être puni, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৮ নম্বর ধারা অনুযায়ী, কখন একজন ব্যক্তিকে শাস্তি দেওয়া যেতে পারে?)",,,lvl3
+answer,"Même si aucune loi n'existait au moment des faits (এমনকি ঘটনা ঘটার সময় কোনো আইন না থাকলেও)",,0,
+answer,"Selon la volonté d'un supérieur (ঊর্ধ্বতন কর্তৃপক্ষের ইচ্ছানুযায়ী)",,0,
+answer,"Uniquement en vertu d'une Loi établie et promulguée avant le délit (শুধুমাত্র অপরাধের আগে প্রতিষ্ঠিত এবং প্রচারিত আইনের বলে)",,1,
+question,"Où peut-on consulter toutes les lois françaises en vigueur sur internet? (ইন্টারনেটে ফ্রান্সের সমস্ত কার্যকর আইন কোথায় দেখা যেতে পারে?)",,,lvl3
+answer,"Sur www.wikipedia.org",,0,
+answer,"Sur www.assemblee.fr",,0,
+answer,"Sur www.legifrance.gouv.fr",,1,
+question,"Quelle est la forme politique de la France? (ফ্রান্সের রাজনৈতিক রূপ কী?)",,,lvl3
+answer,"Une démocratie (একটি গণতন্ত্র)",,1,
+answer,"Une monarchie (একটি রাজতন্ত্র)",,0,
+answer,"Une dictature (একটি স্বৈরতন্ত্র)",,0,
+question,"Qu'est-ce que la Loi, selon l'article 6 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ৬ নম্বর ধারা অনুযায়ী, আইন কী?)",,,lvl3
+answer,"La décision d'un chef (একজন নেতার সিদ্ধান্ত)",,0,
+answer,"L'expression de la volonté générale (সাধারণ ইচ্ছার প্রকাশ)",,1,
+answer,"La tradition des ancêtres (পূর্বপুরুষদের ঐতিহ্য)",,0,
+question,"Que proclame l'article 15 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? (১৭৮৯ সালের মানবাধিকার ও নাগরিক অধিকার ঘোষণার ১৫ নম্বর ধারা কী ঘোষণা করে?)",,,lvl3
+answer,"La Société a le droit de demander compte à tout Agent public (সমাজের অধিকার আছে যে কোনো সরকারি এজেন্টের কাছে কৈফিয়ত চাওয়ার)",,1,
+answer,"Le roi contrôle seul les agents publics (শুধুমাত্র রাজা সরকারি এজেন্টদের নিয়ন্ত্রণ করেন)",,0,
+answer,"Les agents publics sont irresponsables (সরকারি এজেন্টরা দায়িত্ব থেকে মুক্ত)",,0,

@@ -1,0 +1,281 @@
+type,text,placeholder,is_correct,level
+question,Quel numéro d'urgence permet d'appeler le SAMU ? ?),,,lvl1
+answer,17,,0.0,
+answer,15,,1.0,
+answer,18,,0.0,
+question,Quel numéro d'urgence permet d'appeler les pompiers ? ?),,,lvl1
+answer,15,,0.0,
+answer,18,,1.0,
+answer,17,,0.0,
+question,"Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",,,lvl1
+answer,Faire refaire sa carte d'identité.,,0.0,
+answer,Faire assurer son véhicule (assurance obligatoire).।),,1.0,
+answer,Apposer un drapeau français sur la voiture.,,0.0,
+question,À quelles conditions un mariage est-il reconnu juridiquement ?,,,lvl1
+answer,Seulement s'il est célébré par une autorité religieuse.,,0.0,
+answer,Seulement s'il est célébré à la mairie par une autorité civile.,,1.0,
+answer,S'il est célébré par l'Ambassade.,,0.0,
+question,Quand faut-il déclarer son enfant au service d'état civil de la mairie ? ?),,,lvl1
+answer,Dans les 30 jours après la naissance.,,0.0,
+answer,Dans les 5 jours après la naissance (délai de 8 jours dans certaines communes).।),,1.0,
+answer,Dans l'année suivant la naissance.,,0.0,
+question,Le travail non déclaré est :,,,lvl1
+answer,Autorisé s'il ne dépasse pas 10 heures par semaine.,,0.0,
+answer,Interdit et puni par la loi (travail dissimulé).।),,1.0,
+answer,Toléré pour les emplois de courte durée.,,0.0,
+question,Que doit faire un employeur pour fixer un salaire ?,,,lvl1
+answer,Le fixer librement sans contrainte.,,0.0,
+answer,Respecter le salaire minimum légal (SMIC) et les conventions collectives. ।),,1.0,
+answer,Se baser uniquement sur le salaire d'autres pays.,,0.0,
+question,Qu'est-ce que le SMIC ?,,,lvl1
+answer,Le service militaire civique.,,0.0,
+answer,Le salaire maximum en France.,,0.0,
+answer,Le salaire minimum légal que l'employeur doit payer.,,1.0,
+question,Quelle est la première démarche à réaliser pour chercher un emploi ?,,,lvl1
+answer,Acheter un costume de marque.,,0.0,
+answer,"S'inscrire auprès du service public de l'emploi (Pôle emploi, ou France Travail). ।)",,1.0,
+answer,Attendre qu'une entreprise vous appelle.,,0.0,
+question,Quelle est la durée légale du temps de travail par semaine ?,,,lvl1
+answer,39 heures,,0.0,
+answer,35 heures,,1.0,
+answer,45 heures,,0.0,
+question,Qui est aidé par France Travail ? ?),,,lvl1
+answer,Uniquement les étrangers.,,0.0,
+answer,Uniquement les jeunes de moins de 25 ans.,,0.0,
+answer,"Toute personne en recherche d’emploi (travailleurs, salariés, demandeurs d'emploi...).।)",,1.0,
+question,Une personne étrangère en situation régulière peut créer son entreprise :,,,lvl1
+answer,Seulement si elle est mariée à un(e) Français(e).,,0.0,
+answer,"Oui, sous les mêmes conditions qu’un citoyen français.",,1.0,
+answer,"Non, ce droit est réservé aux nationaux.",,0.0,
+question,Une femme peut-elle créer son entreprise ?,,,lvl1
+answer,"Oui, mais seulement avec l'accord de son mari.",,0.0,
+answer,"Non, si elle est mère.",,0.0,
+answer,"Oui, elle a les mêmes droits que l'homme de créer et gérer une entreprise.",,1.0,
+question,À partir de quel âge un mineur peut-il travailler ?,,,lvl1
+answer,À partir de 14 ans sans aucune condition.,,0.0,
+answer,À partir de 16 ans (ou 14 ans pour certains travaux légers ou stages).।),,1.0,
+answer,À partir de 18 ans seulement.,,0.0,
+question,Auprès de quel organisme faut-il demander le remboursement des frais de santé ?,,,lvl1
+answer,Auprès de la préfecture.,,0.0,
+answer,Auprès de l'Assurance Maladie (Caisse Primaire d'Assurance Maladie - CPAM). ।),,1.0,
+answer,Auprès de la banque.,,0.0,
+question,Qu’est-ce qu’un numéro d’urgence ?,,,lvl1
+answer,Un numéro de téléphone pour commander de la nourriture.,,0.0,
+answer,"Un numéro gratuit permettant d'appeler les secours (police, pompiers, SAMU) pour un danger immédiat. ।)",,1.0,
+answer,Un numéro de service client.,,0.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ?",,,lvl1
+answer,Seuls les Français peuvent être soignés.,,0.0,
+answer,Toute personne résidant en France a droit à une prise en charge de ses frais de santé (sous certaines conditions).।),,1.0,
+answer,Il faut payer la totalité de l'hospitalisation sans remboursement possible.,,0.0,
+question,"En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ?",,,lvl1
+answer,Aux urgences de l'hôpital,,0.0,
+answer,Au médecin traitant (médecin généraliste déclaré). ।),,1.0,
+answer,Aux pompiers,,0.0,
+question,Quel est le rôle du médecin traitant ? ?),,,lvl1
+answer,Il assure le suivi régulier du patient et l'oriente vers des spécialistes (parcours de soins coordonnés).।),,1.0,
+answer,Il distribue les médicaments gratuitement.,,0.0,
+answer,Il donne des conseils pour trouver un emploi.,,0.0,
+question,Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?,,,lvl1
+answer,Pour un simple rhume.,,0.0,
+answer,Pour faire renouveler une ordonnance.,,0.0,
+answer,"En cas d'urgence vitale (AVC, infarctus, blessure grave...) ou lorsque le médecin traitant n'est pas disponible et que l'état de santé le nécessite. ।)",,1.0,
+question,Quel est l’objectif des vaccinations obligatoires ?,,,lvl1
+answer,Réduire le nombre d'enfants dans les écoles.,,0.0,
+answer,Protéger l'enfant et l'ensemble de la population (immunité collective).।),,1.0,
+answer,Augmenter les revenus des médecins.,,0.0,
+question,À quoi sert la carte Vitale ? ?),,,lvl1
+answer,À payer ses impôts.,,0.0,
+answer,À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. ।),,1.0,
+answer,À prouver son identité.,,0.0,
+question,À quoi sert une mutuelle santé ? ?),,,lvl1
+answer,À remplacer l'Assurance Maladie.,,0.0,
+answer,À compléter le remboursement des frais de santé non couverts par l'Assurance Maladie.,,1.0,
+answer,À payer l'école des enfants.,,0.0,
+question,Jusqu'à quel âge l'école est-elle obligatoire ?,,,lvl1
+answer,Jusqu'à 14 ans.,,0.0,
+answer,De 3 ans à 16 ans.,,1.0,
+answer,Jusqu'à 18 ans.,,0.0,
+question,L'autorité parentale prévoit l'obligation :,,,lvl1
+answer,D'envoyer son enfant travailler.,,0.0,
+answer,"De protéger son enfant, de l'éduquer et de subvenir à ses besoins.",,1.0,
+answer,De laisser l'enfant choisir tout seul son école dès 6 ans.,,0.0,
+question,Pour qui l'école est-elle obligatoire ?,,,lvl1
+answer,Seulement pour les enfants de nationalité française.,,0.0,
+answer,Pour tous les enfants (français et étrangers) résidant sur le territoire français de 3 à 16 ans. ।),,1.0,
+answer,Seulement pour les garçons.,,0.0,
+question,Quel diplôme obtient-on à la fin du lycée ?,,,lvl1
+answer,Le Brevet des collèges,,0.0,
+answer,Le Baccalauréat (BAC)),,1.0,
+answer,Le Certificat d'études primaires,,0.0,
+question,Dans quels établissements scolaires vont les élèves après l'école élémentaire ?,,,lvl1
+answer,À l'université,,0.0,
+answer,Au collège,,1.0,
+answer,Au lycée,,0.0,
+question,Quel établissement scolaire accueille les enfants de 6 à 11 ans ?,,,lvl1
+answer,L'école maternelle,,0.0,
+answer,L'école élémentaire,,1.0,
+answer,Le lycée professionnel,,0.0,
+question,Un enfant inscrit à l'école :,,,lvl1
+answer,Peut faire ce qu'il veut pendant les cours.,,0.0,
+answer,Doit respecter les règles de l'école (règlement intérieur) et le principe de laïcité. ।),,1.0,
+answer,N'a pas besoin de respecter les enseignants.,,0.0,
+question,Les enfants qui ne parlent pas français :,,,lvl1
+answer,Ne peuvent pas aller à l'école.,,0.0,
+answer,Sont accueillis à l'école et peuvent bénéficier de dispositifs pour l'apprentissage du français.,,1.0,
+answer,Doivent apprendre le français seuls avant de venir en classe.,,0.0,
+question,Quel mariage est reconnu par l'État ?,,,lvl2
+answer,Le mariage religieux.,,0.0,
+answer,Le mariage civil (célébré à la mairie).।),,1.0,
+answer,Le mariage fait à l'étranger sans transcription.,,0.0,
+question,Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?,,,lvl2
+answer,Auprès de la préfecture.,,0.0,
+answer,Auprès de la mairie de leur commune de résidence.,,1.0,
+answer,Auprès du tribunal.,,0.0,
+question,"En cas de divorce, qui exerce l'autorité parentale ?",,,lvl2
+answer,Seulement le parent qui a la garde des enfants.,,0.0,
+answer,Les deux parents en commun (sauf décision contraire du juge).,,1.0,
+answer,Uniquement la mère.,,0.0,
+question,Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?,,,lvl2
+answer,L'aide au logement.,,0.0,
+answer,L'aide juridictionnelle.।),,1.0,
+answer,L'allocation chômage.,,0.0,
+question,Où faut-il déclarer la naissance d'un enfant ?,,,lvl2
+answer,Auprès de la police.,,0.0,
+answer,Auprès de l'état civil de la mairie du lieu de naissance. ।),,1.0,
+answer,Auprès du consulat.,,0.0,
+question,Quelle est l'une des conditions pour passer l'examen du permis de conduire ?,,,lvl2
+answer,Avoir déjà possédé une voiture.,,0.0,
+answer,Être âgé d'au moins 18 ans (sauf conduite accompagnée).।),,1.0,
+answer,Parler couramment le français.,,0.0,
+question,Un bail locatif est valide s'il est :,,,lvl2
+answer,Seulement oral.,,0.0,
+answer,Écrit et signé par le locataire et le propriétaire (ou agence). ।),,1.0,
+answer,Seulement visé par le tribunal.,,0.0,
+question,Où peut-on déposer un lave-vaisselle cassé ?,,,lvl2
+answer,Dans les poubelles de la rue.,,0.0,
+answer,À la déchetterie (ou par la collecte des encombrants).।),,1.0,
+answer,Dans la forêt.,,0.0,
+question,Quel numéro d'urgence permet d'appeler la police ?,,,lvl2
+answer,18,,0.0,
+answer,15,,0.0,
+answer,17,,1.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ?",,,lvl2
+answer,L'accès aux soins est réservé aux Français.,,0.0,
+answer,Toute personne résidant régulièrement en France a droit à la protection sociale pour la santé.,,1.0,
+answer,Il faut payer la totalité des frais de santé soi-même.,,0.0,
+question,À qui est accessible la contraception ? ?),,,lvl2
+answer,Seulement aux femmes mariées.,,0.0,
+answer,"À toute personne (homme ou femme), et gratuite pour les mineures et les moins de 26 ans. , ।)",,1.0,
+answer,Seulement avec l'accord des parents pour les personnes majeures.,,0.0,
+question,Qu’est-ce que le principe de confidentialité dans le domaine de la santé ?,,,lvl2
+answer,L'obligation d'informer sa famille de sa maladie.,,0.0,
+answer,L'interdiction pour les professionnels de santé de révéler les informations sur la santé du patient.,,1.0,
+answer,L'obligation pour le patient de ne parler de sa maladie à personne.,,0.0,
+question,L'inscription à l'Assurance maladie est : :),,,lvl2
+answer,Facultative pour les salariés.,,0.0,
+answer,Obligatoire pour les personnes qui travaillent ou résident régulièrement en France.,,1.0,
+answer,Uniquement pour les personnes nées en France.,,0.0,
+question,Qui peut demander un congé parental d'éducation ? ?),,,lvl2
+answer,"Le père et la mère (ou l'un des deux), sous certaines conditions liées à l'ancienneté., ।)",,1.0,
+answer,Uniquement la mère si elle est salariée.,,0.0,
+answer,Uniquement la grand-mère.,,0.0,
+question,Quelles sont les affaires traitées par le conseil de prud'hommes ? ?),,,lvl2
+answer,Les litiges entre voisins.,,0.0,
+answer,"Les litiges individuels entre un employeur et un salarié (contrat de travail, licenciement...).।)",,1.0,
+answer,Les infractions au code de la route.,,0.0,
+question,Travailler sans être déclaré est :,,,lvl2
+answer,Un moyen normal de gagner de l'argent.,,0.0,
+answer,Un délit (travail dissimulé) puni par la loi.।),,1.0,
+answer,Un droit pour les personnes qui cherchent un emploi.,,0.0,
+question,Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :,,,lvl2
+answer,C'est interdit.,,0.0,
+answer,Le salarié doit le faire gratuitement.,,0.0,
+answer,"Il peut lui demander de faire des heures supplémentaires, qui doivent être payées (ou compensées) selon la loi. , ।)",,1.0,
+question,Quelle est la mission de France Travail ? ?),,,lvl2
+answer,Accompagner les demandeurs d'emploi et indemniser les chômeurs.,,1.0,
+answer,Rédiger les contrats de travail.,,0.0,
+answer,Payer les loyers des demandeurs d'emploi.,,0.0,
+question,"Dans une entreprise, le droit syndical permet :",,,lvl2
+answer,D'interdire les réunions de salariés.,,0.0,
+answer,Aux salariés de créer une organisation pour défendre leurs droits (syndicat). ।),,1.0,
+answer,Au patron d'augmenter les salaires sans l'accord des salariés.,,0.0,
+question,"Dans une entreprise, le droit de grève autorise :",,,lvl2
+answer,Les salariés à refuser d'aller travailler sans prévenir.,,0.0,
+answer,L'arrêt collectif et concerté du travail pour la défense des intérêts professionnels.,,1.0,
+answer,Le chef d'entreprise à licencier tous les grévistes.,,0.0,
+question,Quelles sont les conditions pour toucher les allocations chômage ?,,,lvl2
+answer,Avoir plus de 60 ans.,,0.0,
+answer,Être inscrit à France Travail et justifier d'une période de travail suffisante.,,1.0,
+answer,Avoir démissionné de son dernier emploi.,,0.0,
+question,Qu'est-ce que l'école maternelle ? ?),,,lvl2
+answer,Un lieu de garde pour les bébés.,,0.0,
+answer,L'école des 6-11 ans.,,0.0,
+answer,La première étape de l'enseignement (pour les enfants de 3 à 6 ans).।),,1.0,
+question,Comment s'appelle le diplôme passé par les élèves à la fin du collège ?,,,lvl2
+answer,Le Baccalauréat,,0.0,
+answer,Le Diplôme National du Brevet (DNB) ou Brevet des collèges. ।),,1.0,
+answer,Le permis de conduire,,0.0,
+question,Les parents d'élève ont le droit de :,,,lvl2
+answer,D'interdire l'enseignement de certaines matières.,,0.0,
+answer,D'être informés sur la scolarité de leur enfant et de participer à la vie de l'école (droit d'association et de réunion).।),,1.0,
+answer,De choisir eux-mêmes les professeurs de leur enfant.,,0.0,
+question,Qui peut manger à la cantine scolaire ?,,,lvl2
+answer,Uniquement les élèves de l'école élémentaire.,,0.0,
+answer,"Tous les élèves inscrits, dans le respect des règles de laïcité et du règlement de la cantine.",,1.0,
+answer,Seulement les enfants dont les parents sont en difficulté financière.,,0.0,
+question,À quel âge commence l'instruction obligatoire des enfants ?,,,lvl2
+answer,À 6 ans,,0.0,
+answer,À 3 ans,,1.0,
+answer,À 11 ans,,0.0,
+question,Quel est l'âge de la majorité ?,,,lvl2
+answer,21 ans,,0.0,
+answer,18 ans,,1.0,
+answer,16 ans,,0.0,
+question,"À l'école, il est interdit aux parents de :",,,lvl2
+answer,Devenir représentants des parents d'élèves.,,0.0,
+answer,Porter des signes religieux ostentatoires (en tant qu'accompagnateurs de sorties scolaires par exemple).।),,1.0,
+answer,Demander un rendez-vous à l'enseignant.,,0.0,
+question,Quel motif d'absence est accepté par l'école ?,,,lvl2
+answer,La maladie de l'enfant (justifiée par un certificat médical si l'absence est longue).।),,1.0,
+answer,Un voyage familial imprévu.,,0.0,
+answer,Une activité sportive ou culturelle non organisée par l'école.,,0.0,
+question,Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?,,,lvl2
+answer,Une amende de 10 euros.,,0.0,
+answer,Une amende maximale de 7 500 euros et 6 mois de prison (en cas d'opposition aux contrôles).।),,1.0,
+answer,Le retrait de leur droit de vote.,,0.0,
+question,Quand ont lieu les vacances scolaires de Noël ?,,,lvl2
+answer,En février.,,0.0,
+answer,En décembre.,,1.0,
+answer,En juillet et août.,,0.0,
+question,"À l'école, un enfant en situation de handicap :",,,lvl2
+answer,Ne peut pas être inscrit à l'école publique.,,0.0,
+answer,A le droit d'être scolarisé et de bénéficier d'un accompagnement adapté (AESH). ।),,1.0,
+answer,Est obligé de rester à la maison.,,0.0,
+question,"À l’école, il est interdit aux parents de :",,,lvl3
+answer,Contester l’autorité des enseignants dans l’établissement.,,1.0,
+answer,Dialoguer avec l’école.,,0.0,
+answer,Participer aux réunions.,,0.0,
+question,Qui peut demander un congé parental d’éducation ?,,,lvl3
+answer,Les étudiants.,,0.0,
+answer,Les employeurs.,,0.0,
+answer,Les parents salariés.,,1.0,
+question,À qui est accessible la contraception ?,,,lvl3
+answer,Aux personnes mariées uniquement.,,0.0,
+answer,Aux personnes majeures seulement.,,0.0,
+answer,"À toutes les personnes, majeures ou mineures.",,1.0,
+question,"Dans une entreprise, le droit syndical permet :",,,lvl3
+answer,De diriger l’entreprise.,,0.0,
+answer,De fixer les salaires.,,0.0,
+answer,De créer ou rejoindre un syndicat.,,1.0,
+question,Quel motif d’absence est accepté par l’école ?,,,lvl3
+answer,La maladie de l’enfant.,,1.0,
+answer,Les vacances hors calendrier.,,0.0,
+answer,Le refus d’aller en cours.,,0.0,
+question,Lorsqu’un employeur veut qu’un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :,,,lvl3
+answer,Il doit respecter la loi et payer les heures supplémentaires.,,1.0,
+answer,Il peut l’imposer librement.,,0.0,
+answer,Aucune règle ne s’applique.,,0.0,
+question,"Dans une entreprise, le droit de grève autorise :",,,lvl3
+answer,À empêcher les non-grévistes de travailler.,,0.0,
+answer,À bloquer l’entreprise indéfiniment.,,0.0,
+answer,À cesser collectivement le travail pour défendre des revendications.,,1.0,

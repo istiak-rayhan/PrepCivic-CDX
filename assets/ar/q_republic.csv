@@ -1,0 +1,597 @@
+type,text,placeholder,is_correct,level
+question,À quoi correspond la date du 14 juillet ? [بماذا يتوافق تاريخ 14 يوليو؟],,,lvl1
+answer,Le jour de la signature de la Constitution [يوم التوقيع على الدستور],,0.0,
+answer,La fête de la Révolution et de la Nation [يوم الثورة والأمة],,1.0,
+answer,La date de la fin de la Seconde Guerre mondiale [تاريخ نهاية الحرب العالمية الثانية],,0.0,
+question,Quel est l’un des symboles de la République française ? [ما هو أحد رموز الجمهورية الفرنسية؟],,,lvl1
+answer,Le lion et la couronne [الأسد والتاج],,0.0,
+answer,Le drapeau rouge et noir [العلم الأحمر والأسود],,0.0,
+answer,La Marianne [ماريان],,1.0,
+question,Le principe d’égalité signifie que : [مبدأ المساواة يعني أن:],,,lvl1
+answer,Tous les citoyens doivent avoir la même richesse et le même statut social. [يجب أن يتمتع جميع المواطنين بنفس الثروة ونفس الوضع الاجتماعي.],,0.0,
+answer,"La loi est la même pour tous, sans distinction d'origine, de race ou de religion. [القانون واحد للجميع، دون تمييز في الأصل أو العرق أو الدين.]",,1.0,
+answer,Seules les personnes nées en France sont égales devant la loi. [الأشخاص المولودون في فرنسا هم فقط سواسية أمام القانون.],,0.0,
+question,"""Liberté, égalité, fraternité"", c’est : [""الحرية، المساواة، الأخوة"" هي:]",,,lvl1
+answer,Le titre de l'hymne national français. [عنوان النشيد الوطني الفرنسي.],,0.0,
+answer,La devise de la République française. [شعار الجمهورية الفرنسية.],,1.0,
+answer,Le slogan d’un parti politique. [شعار حزب سياسي.],,0.0,
+question,"A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ? [هل يحق لنا إهانة شخص ما علنًا لأنه مختلف (إعاقة، مظهر جسدي، جنس، إلخ)؟]",,,lvl1
+answer,"Oui, la liberté d'expression autorise toutes les paroles. [نعم حرية التعبير تسمح بكل الكلمات.]",,0.0,
+answer,"Non, car cela constitue une discrimination punie par la loi. [لا، لأن هذا يشكل تمييزا يعاقب عليه القانون.]",,1.0,
+answer,"Oui, tant que l'insulte n'est pas écrite. [نعم ما دامت الإهانة غير مكتوبة.]",,0.0,
+question,Certains métiers peuvent-ils être réservés aux hommes ? [هل يمكن تخصيص بعض المهن للرجال؟],,,lvl1
+answer,"Oui, dans le secteur de la défense nationale. [نعم في قطاع الدفاع الوطني.]",,0.0,
+answer,"Non, la loi garantit l’égalité professionnelle entre les femmes et les hommes. [لا، فالقانون يضمن المساواة المهنية بين المرأة والرجل.]",,1.0,
+answer,"Oui, les entreprises privées peuvent choisir librement leurs critères. [نعم، يمكن للشركات الخاصة أن تختار معاييرها بحرية.]",,0.0,
+question,De quand date la Constitution de la Ve République ? [متى صدر دستور الجمهورية الخامسة؟],,,lvl1
+answer,1946 [1946],,0.0,
+answer,1870 [1870],,0.0,
+answer,1958 [1958],,1.0,
+question,Le régime de la France est : [النظام في فرنسا هو:],,,lvl1
+answer,Une monarchie constitutionnelle [ملكية دستورية],,0.0,
+answer,Un régime totalitaire [نظام شمولي],,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. [جمهورية لا تتجزأ وعلمانية وديمقراطية واجتماعية.]",,1.0,
+question,Lequel de ces symboles représente officiellement la République française ? [أي من هذه الرموز يمثل الجمهورية الفرنسية رسميا؟],,,lvl1
+answer,Le lys [الزنبق],,0.0,
+answer,La couronne royale [التاج الملكي],,0.0,
+answer,"Le drapeau tricolore (bleu, blanc, rouge) [العلم ذو الألوان الثلاثة (الأزرق والأبيض والأحمر)]",,1.0,
+question,Où peut-on voir la devise de la République ? [أين يمكننا رؤية شعار الجمهورية؟],,,lvl1
+answer,Uniquement dans les musées nationaux. [فقط في المتاحف الوطنية.],,0.0,
+answer,Sur la majorité des produits fabriqués en France. [في أغلب المنتجات المصنعة في فرنسا.],,0.0,
+answer,"Sur les bâtiments publics (mairies, écoles, préfectures...). [في المباني العامة (البلديات، المدارس، المحافظات...)]",,1.0,
+question,Quels sont des symboles officiels de la République française ? [ما هي الرموز الرسمية للجمهورية الفرنسية؟],,,lvl1
+answer,L'Aigle impérial et le Sceptre. [النسر الإمبراطوري والصولجان.],,0.0,
+answer,"Le drapeau tricolore, la Marseillaise, Marianne. [العلم ذو الألوان الثلاثة، المارسيليا، ماريان.]",,1.0,
+answer,La fleur de lys et le chêne. [زهرة الزنبق والبلوط.],,0.0,
+question,Qu’est-ce que l’égalité ? [ما هي المساواة؟],,,lvl1
+answer,Le fait de ne plus avoir d'impôts à payer. [حقيقة عدم وجود المزيد من الضرائب لدفعها.],,0.0,
+answer,Le droit de chacun d’avoir le même métier que son voisin. [من حق كل فرد أن يكون له نفس الوظيفة التي يتمتع بها جاره.],,0.0,
+answer,Le fait d’être traité de la même manière devant la loi et la justice. [أن يتم معاملتك بنفس الطريقة أمام القانون والعدالة.],,1.0,
+question,Que signifie la liberté ? [ماذا تعني الحرية؟],,,lvl1
+answer,Le droit de faire absolument tout ce que l’on veut. [الحق في أن تفعل ما تريده تمامًا.],,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas aux autres. [الحق في القيام بأي شيء لا يضر الآخرين.],,1.0,
+answer,Le droit d’insulter les représentants de l’État. [الحق في إهانة ممثلي الدولة.],,0.0,
+question,"Que signifie le mot ""fraternité"" dans la devise française ? [ماذا تعني كلمة ""الأخوة"" في الشعار الفرنسي؟]",,,lvl1
+answer,Le fait d’avoir seulement des frères et des sœurs dans sa famille. [وجود إخوة وأخوات فقط في عائلتك.],,0.0,
+answer,Le droit de voyager sans visa dans les autres pays d'Europe. [الحق في السفر بدون تأشيرة إلى دول أوروبية أخرى.],,0.0,
+answer,La solidarité et l'entraide entre tous les citoyens. [التضامن والمساعدة المتبادلة بين جميع المواطنين.],,1.0,
+question,Quel animal est un symbole de la France ? [ما هو الحيوان الذي يمثل رمزا لفرنسا؟],,,lvl1
+answer,Le lion [الأسد],,0.0,
+answer,L'aigle [النسر],,0.0,
+answer,Le coq [الديك],,1.0,
+question,Quel est l’un des rôles des associations ? [ما هو أحد أدوار الجمعيات؟],,,lvl1
+answer,Remplacer l'État dans l'exercice de ses fonctions régaliennes. [لتحل محل الدولة في ممارسة وظائفها السيادية.],,0.0,
+answer,Permettre aux citoyens de s’engager pour l'intérêt général. [تمكين المواطنين من الالتزام بالمصلحة العامة.],,1.0,
+answer,Gérer le système de défense nationale. [إدارة نظام الدفاع الوطني.],,0.0,
+question,Quel est le nom de l'hymne national ? [ما هو اسم النشيد الوطني؟],,,lvl1
+answer,La Parisienne [الباريسية],,0.0,
+answer,Le Chant du Départ [أغنية المغادرة],,0.0,
+answer,La Marseillaise [المرسيليا],,1.0,
+question,Quel symbole de la République française est tricolore ? [ما هو الرمز الثلاثي الألوان للجمهورية الفرنسية؟],,,lvl1
+answer,La Marianne [ماريان],,0.0,
+answer,Le drapeau [العلم],,1.0,
+answer,L'Hymne national [النشيد الوطني],,0.0,
+question,Quelle est la date de la fête nationale française ? [ما هو تاريخ العيد الوطني الفرنسي؟],,,lvl1
+answer,Le 1er mai [1 مايو],,0.0,
+answer,Le 11 novembre [11 نوفمبر],,0.0,
+answer,Le 14 juillet [14 يوليو],,1.0,
+question,Quelle est la devise de la République française ? [ما هو شعار الجمهورية الفرنسية؟],,,lvl1
+answer,"Unité, Justice, Travail [الوحدة والعدالة والعمل]",,0.0,
+answer,Honneur et Patrie [الشرف والوطن],,0.0,
+answer,"Liberté, Égalité, Fraternité [الحرية والمساواة والأخوة]",,1.0,
+question,Quelle est la langue officielle de la République française ? [ما هي اللغة الرسمية للجمهورية الفرنسية؟],,,lvl1
+answer,Le français et l'anglais [الفرنسية والانجليزية],,0.0,
+answer,Le français et toutes les langues régionales [الفرنسية وجميع اللغات الإقليمية],,0.0,
+answer,Le français [الفرنسية],,1.0,
+question,Quelle est la place de la langue française dans la République ? [ما هي مكانة اللغة الفرنسية في الجمهورية؟],,,lvl1
+answer,C'est la langue des élites et de l'administration. [إنها لغة النخب والإدارة.],,0.0,
+answer,C'est la langue privilégiée mais non obligatoire dans les services publics. [إنها اللغة المفضلة ولكنها ليست إلزامية في الخدمات العامة.],,0.0,
+answer,"C'est la langue de l'enseignement, du travail, des échanges et des services publics. [إنها لغة التدريس والعمل والتبادل والخدمات العامة.]",,1.0,
+question,Quelle liberté permet à chacun d’exprimer ses idées ? [ما هي الحرية التي تسمح للجميع بالتعبير عن أفكارهم؟],,,lvl1
+answer,La liberté de culte [حرية العبادة],,0.0,
+answer,La liberté d'association [حرية تكوين الجمعيات],,0.0,
+answer,La liberté d'expression [حرية التعبير],,1.0,
+question,Quelle proposition est correcte ? La liberté d'expression : [أي اقتراح هو الصحيح؟ حرية التعبير :],,,lvl1
+answer,Est totale et ne connaît aucune limite en France. [وهي كاملة ولا تعرف حدوداً في فرنسا.],,0.0,
+answer,Est limitée par la loi et ne doit pas porter atteinte à l'ordre public et aux droits d'autrui. [مقيد بالقانون ويجب ألا يمس النظام العام وحقوق الآخرين.],,1.0,
+answer,Permet de publier de fausses informations dans la presse. [يسمح بنشر معلومات كاذبة في الصحافة.],,0.0,
+question,Quelles sont les couleurs du drapeau français ? [ما هي ألوان العلم الفرنسي؟],,,lvl1
+answer,"Rouge, Blanc, Vert [أحمر، أبيض، أخضر]",,0.0,
+answer,"Jaune, Bleu, Rouge [أصفر، أزرق، أحمر]",,0.0,
+answer,"Bleu, Blanc, Rouge [أزرق، أبيض، أحمر]",,1.0,
+question,Qu'est-ce que la Marseillaise ? [ما هي مارسيليا؟],,,lvl1
+answer,Un chant militaire sans importance. [أغنية عسكرية غير مهمة.],,0.0,
+answer,Un chant religieux chanté dans toutes les églises. [ترنيمة دينية تغنى في جميع الكنائس.],,0.0,
+answer,L'hymne national français. [النشيد الوطني الفرنسي.],,1.0,
+question,Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ? [ما الذي يتم تنظيمه تقليديًا في الشانزليزيه يوم 14 يوليو للاحتفال بالعيد الوطني؟],,,lvl1
+answer,Une course cycliste internationale. [سباق دولي للدراجات.],,0.0,
+answer,Un grand concert de musique classique. [حفل موسيقى كلاسيكية كبير.],,0.0,
+answer,Un défilé militaire. [استعراض عسكري.],,1.0,
+question,Qui est Marianne ? [من هي ماريان؟],,,lvl1
+answer,L'épouse du président de la République. [زوجة رئيس الجمهورية.],,0.0,
+answer,La mère de la Déclaration des Droits de l'Homme et du Citoyen. [والدة إعلان حقوق الإنسان والمواطن.],,0.0,
+answer,La figure symbolique de la République française. [شخصية رمزية للجمهورية الفرنسية.],,1.0,
+question,Une personne peut-elle changer librement de religion ? [هل يمكن للإنسان أن يغير دينه بحرية؟],,,lvl1
+answer,"Non, uniquement si sa nouvelle religion est reconnue par l'État. [لا، فقط إذا كان الدين الجديد معترفا به من قبل الدولة.]",,0.0,
+answer,"Non, le changement est soumis à l'autorisation du maire. [لا يجوز التغيير إلا بإذن من رئيس البلدية.]",,0.0,
+answer,"Oui, la liberté de conscience et de culte est garantie par la loi. [نعم حرية الضمير والعبادة يكفلها القانون.]",,1.0,
+question,"""La France est une République indivisible, ..., démocratique et sociale"". Complétez cette phrase : [""فرنسا جمهورية لا تتجزأ، ... وديمقراطية واجتماعية"". أكمل هذه الجملة :]",,,lvl1
+answer,Humaniste [إنساني],,0.0,
+answer,Souveraine [ذات سيادة],,0.0,
+answer,Laïque [علماني],,1.0,
+question,En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ? [في أي عام تم إقرار قانون فصل الكنائس عن الدولة؟],,,lvl1
+answer,1805 [1805],,0.0,
+answer,1905 [1905],,1.0,
+answer,1958 [1958],,0.0,
+question,Que permet le principe de laïcité ? [ما الذي يسمح به مبدأ العلمانية؟],,,lvl1
+answer,De n'autoriser qu'une seule religion sur le territoire national. [للسماح بدين واحد فقط على التراب الوطني.],,0.0,
+answer,D'interdire toute manifestation religieuse dans l'espace public. [حظر أي مظاهر دينية في الأماكن العامة.],,0.0,
+answer,D'assurer la liberté de conscience de chacun et la neutralité de l'État. [لضمان حرية الضمير للجميع وحياد الدولة.],,1.0,
+question,Quel droit est garanti par la laïcité ? [ما هو الحق الذي تضمنه العلمانية؟],,,lvl1
+answer,Le droit d'avoir une religion officielle. [الحق في أن يكون لك دين رسمي.],,0.0,
+answer,Le droit de limiter l'accès à certaines religions. [الحق في تقييد الوصول إلى أديان معينة.],,0.0,
+answer,"Le droit de ne pas croire, ou de choisir sa religion librement. [الحق في عدم الإيمان، أو في اختيار دينه بحرية.]",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ? [لماذا يجب احترام مبدأ العلمانية في المدرسة؟],,,lvl1
+answer,Pour éviter de déranger les enseignants. [تجنباً لإزعاج المعلمين.],,0.0,
+answer,Pour assurer la domination d'une religion sur les autres. [لضمان هيمنة دين على الأديان الأخرى.],,0.0,
+answer,Pour garantir aux élèves la liberté de conscience et le respect de tous. [ضمان حرية الضمير واحترام الجميع للطلاب.],,1.0,
+question,Qu'est-ce que la laïcité ? [ما هي العلمانية؟],,,lvl1
+answer,L'interdiction de pratiquer une religion. [حظر ممارسة الشعائر الدينية.],,0.0,
+answer,L'obligation d'avoir une religion d'État. [الالتزام بوجود دين للدولة.],,0.0,
+answer,Un principe de séparation entre les Églises (religions) et l'État. [مبدأ الفصل بين الكنائس (الأديان) والدولة.],,1.0,
+question,Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ? [هل يمكن للطفل أن يرفض الذهاب إلى المدرسة لسبب ديني؟],,,lvl1
+answer,"Oui, si ses parents sont d'accord. [نعم، إذا وافق والديه.]",,0.0,
+answer,Seulement s’il y a des examens importants ce jour-là. [فقط إذا كانت هناك اختبارات مهمة في ذلك اليوم.],,0.0,
+answer,"Non, l’instruction est obligatoire pour tous les enfants de 3 à 16 ans, quelle que soit la religion. [لا، التعليم إلزامي لجميع الأطفال من سن 3 إلى 16 سنة، بغض النظر عن ديانتهم.]",,1.0,
+question,Une personne a-t-elle le droit de ne pas croire en une religion ? [هل يحق للإنسان أن لا يؤمن بدين؟],,,lvl1
+answer,"Non, toutes les personnes doivent avoir une religion en France. [لا، يجب أن يكون لجميع الناس دين في فرنسا.]",,0.0,
+answer,Uniquement les personnes majeures. [فقط البالغين.],,0.0,
+answer,"Oui, le droit de ne pas croire fait partie de la liberté de conscience garantie par la loi. [نعم حق عدم الإيمان هو جزء من حرية الضمير التي يكفلها القانون.]",,1.0,
+question,"Parmi les propositions suivantes, laquelle constitue une participation citoyenne ? [أي من المقترحات التالية يشكل مشاركة للمواطنين؟]",,,lvl2
+answer,Payer ses impôts. [دفع الضرائب الخاصة بك.],,0.0,
+answer,Demander un titre de séjour. [طلب تصريح إقامة.],,0.0,
+answer,Être bénévole dans une association. [تطوع في جمعية.],,1.0,
+question,Que garantit la liberté d’expression ? [ما الذي تكفله حرية التعبير؟],,,lvl2
+answer,Le droit de dire n'importe quoi sans conséquence. [الحق في قول أي شيء دون عواقب.],,0.0,
+answer,Le droit de critiquer le gouvernement sans limite. [الحق في انتقاد الحكومة بلا حدود.],,0.0,
+answer,Le droit de communiquer ses idées et ses opinions par tous les moyens. [الحق في إيصال أفكارك وآرائك بكافة الوسائل.],,1.0,
+question,À quoi sert un titre de séjour ? [ما هو الغرض من تصريح الإقامة؟],,,lvl2
+answer,À obtenir gratuitement la nationalité française. [للحصول على الجنسية الفرنسية مجاناً.],,0.0,
+answer,À payer les impôts. [لدفع الضرائب.],,0.0,
+answer,À attester du droit à résider régulièrement en France pour les étrangers. [لإثبات الحق في الإقامة بشكل منتظم في فرنسا للأجانب.],,1.0,
+question,La liberté de circulation permet à toute personne de : [تتيح حرية الحركة لأي شخص ما يلي:],,,lvl2
+answer,S'installer uniquement dans la ville où elle est née. [الاستقرار فقط في المدينة التي ولدت فيها.],,0.0,
+answer,Voyager sans passeport dans le monde entier. [سافر بدون جواز سفر حول العالم.],,0.0,
+answer,Se déplacer et s'établir librement sur l'ensemble du territoire français. [التنقل والاستقرار بحرية في جميع أنحاء الأراضي الفرنسية.],,1.0,
+question,"Pour retrouver les informations officielles sur les symboles de la République française, quel type de site internet est le plus fiable ? [للعثور على معلومات رسمية عن رموز الجمهورية الفرنسية، ما هو نوع الموقع الإلكتروني الأكثر موثوقية؟]",,,lvl2
+answer,Un réseau social comme Facebook. [شبكة اجتماعية مثل الفيسبوك.],,0.0,
+answer,Un blog personnel. [مدونة شخصية.],,0.0,
+answer,Un site officiel du gouvernement (.gouv.fr ou .fr). [موقع حكومي رسمي (.gouv.fr أو .fr).],,1.0,
+question,"Complétez ces paroles de la Marseillaise : ""Aux armes […] ! Formez vos bataillons"" [أكمل هذه الكلمات من أغنية مرسيليا: ""إلى أحضان [...]! قم بتشكيل كتائبكم""]",,,lvl2
+answer,Les enfants du pays [أطفال البلد],,0.0,
+answer,Le peuple [الناس],,0.0,
+answer,Citoyens [مواطنون],,1.0,
+question,"Complétez les paroles de la Marseillaise : ""Allons enfants de la patrie […]"" [أكمل كلمات المرسيليا: ""هيا يا أطفال الوطن [...]""]",,,lvl2
+answer,L'heure est venue [لقد حان الوقت],,0.0,
+answer,La liberté nous appelle [الحرية تدعونا],,0.0,
+answer,Le jour de gloire est arrivé [لقد جاء يوم المجد],,1.0,
+question,"En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut : [وتطبيقاً للحرية الفردية، أي القضايا صحيحة؟ يستطيع شخص أن :]",,,lvl2
+answer,Être emprisonnée sans jugement. [السجن دون محاكمة.],,0.0,
+answer,Être forcée de travailler. [يتم إجباره على العمل.],,0.0,
+answer,Faire tout ce que la loi n'interdit pas. [افعل أي شيء لا يحظره القانون.],,1.0,
+question,"Concernant la pratique de la religion, quelle proposition est correcte ? [فيما يتعلق بممارسة الدين، أي الاقتراح الصحيح؟]",,,lvl2
+answer,L'État choisit les lieux de culte autorisés. [الدولة تختار أماكن العبادة المصرح بها.],,0.0,
+answer,Le port d'un signe religieux est interdit partout en France. [يُحظر ارتداء الرمز الديني في أي مكان في فرنسا.],,0.0,
+answer,Chacun est libre de pratiquer sa religion dans les limites de l'ordre public. [لكل شخص الحرية في ممارسة شعائره الدينية في حدود النظام العام.],,1.0,
+question,"En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ? [كوالد، هل يمكننا أن نرفض مشاركة طفلنا في دروس التربية البدنية في المدرسة لأنها مختلطة؟]",,,lvl2
+answer,"Oui, si l'établissement scolaire est privé. [نعم إذا كانت المدرسة خاصة.]",,0.0,
+answer,"Oui, car la liberté religieuse le permet. [نعم لأن الحرية الدينية تسمح بذلك.]",,0.0,
+answer,"Non, car la mixité dans les cours de sport s’impose à tous au nom du principe d’égalité. [لا، لأن الاختلاط في دروس الرياضة أمر ضروري للجميع باسم مبدأ المساواة.]",,1.0,
+question,Quels sont les trois principes qui composent la devise de la République française ? [ما هي المبادئ الثلاثة التي يتكون منها شعار الجمهورية الفرنسية؟],,,lvl2
+answer,"Justice, Paix, Sûreté [العدل والسلام والأمن]",,0.0,
+answer,"Dignité, Solidarité, Progrès [الكرامة والتضامن والتقدم]",,0.0,
+answer,"Liberté, Égalité, Fraternité [الحرية والمساواة والأخوة]",,1.0,
+question,La répudiation de sa femme est : [وتطليق زوجته هو:],,,lvl2
+answer,Acceptée uniquement pour les mariages religieux. [مقبولة للزيجات الدينية فقط.],,0.0,
+answer,Autorisée si elle est pratiquée à l'étranger. [مسموح به إذا كان يمارس في الخارج.],,0.0,
+answer,"Interdite et sanctionnée par la loi, le divorce étant le seul mode de rupture légal. [يُحظر ويعاقب عليه القانون، فالطلاق هو الطريقة القانونية الوحيدة للانفصال.]",,1.0,
+question,Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ? [تستخدم الضرائب لتمويل الإنفاق العام. أي اقتراح هو الصحيح؟],,,lvl2
+answer,Seuls les citoyens français doivent payer des impôts. [المواطنون الفرنسيون فقط هم الذين يتعين عليهم دفع الضرائب.],,0.0,
+answer,Payer ses impôts est un choix personnel. [دفع الضرائب هو خيار شخصي.],,0.0,
+answer,"Payer ses impôts est un devoir pour tous les résidents en France, selon leurs revenus. [دفع الضرائب هو واجب على جميع المقيمين في فرنسا، وفقا لدخلهم.]",,1.0,
+question,Peut-on brûler publiquement un drapeau français ? [هل يجوز حرق العلم الفرنسي علناً؟],,,lvl2
+answer,"Oui, car la liberté d'expression le permet. [نعم لأن حرية التعبير تسمح بذلك.]",,0.0,
+answer,"Non, cela est considéré comme un outrage au symbole national. [لا، هذا يعتبر إهانة للرمز الوطني.]",,1.0,
+answer,"Oui, sauf s'il est neuf. [نعم، إلا إذا كانت جديدة.]",,0.0,
+question,Que fait l’État pour lutter contre les discriminations ? [ماذا تفعل الدولة لمكافحة التمييز؟],,,lvl2
+answer,Il met en place des lois pour autoriser certaines discriminations positives. [ويضع قوانين للسماح بتمييز إيجابي معين.],,0.0,
+answer,"Il a créé des institutions comme le Défenseur des droits, et applique des sanctions pénales. [وقد أنشأت مؤسسات مثل المدافع عن الحقوق وتطبق عقوبات جنائية.]",,1.0,
+answer,"Il n'intervient pas, car c'est un problème privé. [وهو لا يتدخل، لأن هذه مشكلة خاصة.]",,0.0,
+question,Que représente Marianne ? [ماذا تمثل ماريان؟],,,lvl2
+answer,L'héroïne de la Révolution française de 1789. [بطلة الثورة الفرنسية عام 1789.],,0.0,
+answer,La figure symbolique de la République et de ses valeurs. [الشخصية الرمزية للجمهورية وقيمها.],,1.0,
+answer,Le nom de la première loi votée par le Parlement. [اسم أول قانون أقره البرلمان.],,0.0,
+question,Qu'est-ce que la liberté d'association ? [ما هي حرية تكوين الجمعيات؟],,,lvl2
+answer,Le droit de circuler librement dans toute l'Europe. [الحق في السفر بحرية في جميع أنحاء أوروبا.],,0.0,
+answer,Le droit de s'associer avec un parti politique. [الحق في الارتباط بحزب سياسي.],,0.0,
+answer,"Le droit de créer une association ou de s’y joindre, sans autorisation préalable. [الحق في إنشاء جمعية أو الانضمام إليها دون ترخيص مسبق.]",,1.0,
+question,Qu'est-ce que la liberté ? [ما هي الحرية ؟],,,lvl2
+answer,Le droit de faire tout ce qui est possible. [الحق في فعل كل ما هو ممكن.],,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas à autrui. [الحق في فعل كل ما لا يضر الآخرين.],,1.0,
+answer,Le fait d'être exempté des impôts. [حقيقة الإعفاء من الضرائب.],,0.0,
+question,Qu'est-ce que la Marseillaise ? [ما هي مارسيليا؟],,,lvl2
+answer,Le nom du drapeau français. [اسم العلم الفرنسي.],,0.0,
+answer,L'hymne national français. [النشيد الوطني الفرنسي.],,1.0,
+answer,La devise de la République. [شعار الجمهورية.],,0.0,
+question,Sur quel document peut-on voir Marianne ? [في أي وثيقة يمكننا رؤية ماريان؟],,,lvl2
+answer,Les publicités pour le tourisme. [إعلانات السياحة.],,0.0,
+answer,Les manuels scolaires uniquement. [الكتب المدرسية فقط.],,0.0,
+answer,"Les timbres, les pièces de monnaie et le logo officiel de la République. [الطوابع والعملات المعدنية والشعار الرسمي للجمهورية.]",,1.0,
+question,Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ? [يرفض صاحب العمل توظيف النساء في شركته. ماذا يقول القانون؟],,,lvl2
+answer,C'est autorisé s'il justifie que le travail est trop difficile. [يسمح له إذا برر بأن العمل صعب للغاية.],,0.0,
+answer,"C'est interdit et constitue une discrimination, punie par la loi. [وهو أمر محظور ويشكل تمييزا يعاقب عليه القانون.]",,1.0,
+answer,C'est autorisé uniquement dans les très petites entreprises. [مسموح به فقط في الشركات الصغيرة جدًا.],,0.0,
+question,Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ? [إحدى قيم الشعار الجمهوري هي المساواة. ماذا يعني ذلك ؟],,,lvl2
+answer,Les citoyens ont les mêmes opinions politiques. [ويشترك المواطنون في نفس الآراء السياسية.],,0.0,
+answer,Tous les citoyens sont égaux devant la loi et la justice. [جميع المواطنين سواسية أمام القانون والعدالة.],,1.0,
+answer,Les citoyens ont l'obligation de s'entraider. [المواطنون ملزمون بمساعدة بعضهم البعض.],,0.0,
+question,Quelle est la place de la langue française dans la République ? [ما هي مكانة اللغة الفرنسية في الجمهورية؟],,,lvl2
+answer,Elle n'est utilisée que dans l'administration. [يتم استخدامه في الإدارة فقط.],,0.0,
+answer,Elle est une langue parmi d'autres. [إنها لغة من بين أمور أخرى.],,0.0,
+answer,"Elle est la langue de l'enseignement, du travail et des services publics, et la seule officielle. [وهي لغة التدريس والعمل والخدمات العامة، وهي اللغة الرسمية الوحيدة.]",,1.0,
+question,Le régime de la France est : [النظام في فرنسا هو:],,,lvl2
+answer,Une monarchie parlementaire. [ملكية برلمانية.],,0.0,
+answer,Un État fédéral. [دولة فيدرالية.],,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. [جمهورية لا تتجزأ وعلمانية وديمقراطية واجتماعية.]",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ? [لماذا يجب احترام مبدأ العلمانية في المدرسة؟],,,lvl2
+answer,Pour que les élèves n'aient pas de religion. [حتى لا يكون للطلبة دين.],,0.0,
+answer,Pour donner la priorité à la religion chrétienne. [لإعطاء الأولوية للدين المسيحي.],,0.0,
+answer,"Pour garantir à tous les élèves la liberté de conscience et l'égalité, sans prosélytisme. [لضمان حرية الضمير والمساواة لجميع الطلاب، دون التبشير.]",,1.0,
+question,"À l'école publique, qui peut porter des signes religieux très visibles ? [في المدارس العامة، من يمكنه ارتداء رموز دينية ظاهرة للغاية؟]",,,lvl2
+answer,Les élèves [الطلاب],,0.0,
+answer,Les usagers et parents (dans le cadre de leurs visites ou réunions). [المستخدمون وأولياء الأمور (كجزء من زياراتهم أو اجتماعاتهم).],,1.0,
+answer,Les enseignants [المعلمون],,0.0,
+question,"Selon le principe de laïcité, que signifie la neutralité de l’État ? [وفق مبدأ العلمانية، ماذا يعني حياد الدولة؟]",,,lvl2
+answer,L'État n'a aucune relation avec les citoyens. [الدولة ليس لها علاقة بالمواطنين.],,0.0,
+answer,L’État ne prend pas parti en faveur d'une religion ou contre une religion. [ولا تنحاز الدولة إلى دين ولا إلى دين آخر.],,1.0,
+answer,L'État interdit toutes les religions. [الدولة تحظر جميع الأديان.],,0.0,
+question,Que peut faire un usager du service public dans une mairie ? [ماذا يمكن لمستخدم الخدمة العامة أن يفعل في قاعة المدينة؟],,,lvl2
+answer,Exiger que l'agent porte un signe religieux visible. [المطالبة بارتداء الوكيل رمزا دينيا ظاهرا.],,0.0,
+answer,"Être accueilli sans distinction d'origine, de religion ou de sexe. [يتم الترحيب بكم دون تمييز في الأصل أو الدين أو الجنس.]",,1.0,
+answer,Exiger que l'agent parle uniquement une langue régionale. [يتطلب أن يتحدث الوكيل لغة إقليمية فقط.],,0.0,
+question,Qui doit respecter le principe de neutralité religieuse dans une préfecture ? [من يجب عليه احترام مبدأ الحياد الديني في المحافظة؟],,,lvl2
+answer,Uniquement les usagers des services publics. [فقط مستخدمي الخدمات العامة.],,0.0,
+answer,Uniquement le préfet. [فقط المحافظ.],,0.0,
+answer,Tous les agents publics (fonctionnaires et contractuels). [جميع الموظفين العموميين (الرسميين والمتعاقدين).],,1.0,
+question,La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ? [هل تلزم العلمانية الموظفين العموميين بالحياد تجاه المستخدمين؟],,,lvl2
+answer,"Non, seulement l'impartialité. [لا، بل الحياد فقط.]",,0.0,
+answer,"Non, ils peuvent exprimer leurs convictions religieuses. [لا، يمكنهم التعبير عن قناعاتهم الدينية.]",,0.0,
+answer,"Oui, afin de garantir l'égalité de traitement de tous les usagers. [نعم من أجل ضمان المساواة في المعاملة لجميع المستخدمين.]",,1.0,
+question,Que garantit le principe de laïcité ? [ما الذي يضمنه مبدأ العلمانية؟],,,lvl2
+answer,Que l'État finance les Églises. [أن الدولة تمول الكنائس.],,0.0,
+answer,La suppression de toutes les religions. [قمع كافة الأديان.],,0.0,
+answer,La liberté de conscience et la neutralité de l'État envers toutes les religions et convictions. [حرية الضمير وحياد الدولة تجاه كافة الأديان والمعتقدات.],,1.0,
+question,Que représente la laïcité ? [ماذا تمثل العلمانية؟],,,lvl2
+answer,L'union des religions sous l'autorité de l'État. [اتحاد الأديان تحت سلطة الدولة.],,0.0,
+answer,La séparation de l'État et des organisations religieuses. [فصل الدولة عن المنظمات الدينية.],,1.0,
+answer,Un régime où une seule religion est dominante. [نظام يهيمن فيه دين واحد فقط.],,0.0,
+question,Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ? [ما الذي يحظره ميثاق العلمانية في المدارس؟],,,lvl2
+answer,Les débats sur les questions religieuses ou philosophiques. [مناقشات حول قضايا دينية أو فلسفية.],,0.0,
+answer,Les signes religieux discrets. [علامات دينية خفية.],,0.0,
+answer,Le prosélytisme et le port de signes religieux ostensibles par les élèves. [التبشير وارتداء الطلاب للرموز الدينية البارزة.],,1.0,
+question,Que dit l'article 1er de la Constitution française ? [ماذا تنص المادة الأولى من الدستور الفرنسي؟],,,lvl3
+answer,Que la France est une monarchie parlementaire. [أن فرنسا ملكية برلمانية.],,0.0,
+answer,"Que la France est une République indivisible, laïque, démocratique et sociale. [أن فرنسا جمهورية لا تتجزأ، علمانية، ديمقراطية واجتماعية.]",,1.0,
+answer,Que la loi est l'expression de la volonté générale. [أن القانون هو تعبير عن الإرادة العامة.],,0.0,
+question,Sur quoi est fondée la République française ? [على ماذا تأسست الجمهورية الفرنسية؟],,,lvl3
+answer,Sur des lois que tous doivent respecter [بشأن القوانين التي يجب على الجميع احترامها],,1.0,
+answer,Sur des traditions religieuses [على التقاليد الدينية],,0.0,
+answer,Sur des coutumes orales [على التقاليد الشفهية],,0.0,
+question,"Qui a droit de concourir à la formation de la Loi, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [من له الحق في المشاركة في صياغة القانون، بحسب المادة 6 من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,Seuls les hommes riches [الأغنياء فقط],,0.0,
+answer,Les nobles et le clergé [النبلاء ورجال الدين],,0.0,
+answer,"Tous les Citoyens, personnellement ou par représentants [لجميع المواطنين، شخصيا أو عن طريق ممثليهم]",,1.0,
+question,Que garantit l’article 9 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [ما الذي تكفله المادة 9 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,L’égalité des sexes [المساواة بين الجنسين],,0.0,
+answer,La liberté de commerce [حرية التجارة],,0.0,
+answer,La présomption d’innocence [قرينة البراءة],,1.0,
+question,Quel autre type de propos est interdit par la loi ? [ما هو نوع الكلام الآخر الذي يحظره القانون؟],,,lvl3
+answer,Débats scientifiques [مناقشات علمية],,0.0,
+answer,Provocations à la haine [التحريض على الكراهية],,1.0,
+answer,Discours électoraux [الخطب الانتخابية],,0.0,
+question,Quelle valeur essentielle de la République doit être respectée pour obtenir la nationalité française ? [ما هي القيمة الأساسية للجمهورية التي يجب احترامها للحصول على الجنسية الفرنسية؟],,,lvl3
+answer,La liberté d’entreprendre [حرية العمل],,0.0,
+answer,L’égalité entre les femmes et les hommes [المساواة بين المرأة والرجل],,1.0,
+answer,La supériorité d’une religion [تفوق الدين],,0.0,
+question,"Que peuvent faire les citoyens, en plus de voter, selon la loi ? [ماذا يمكن للمواطنين أن يفعلوه غير التصويت، بحسب القانون؟]",,,lvl3
+answer,Être nommés juges [يتم تعيينهم قضاة],,0.0,
+answer,Se présenter aux élections [الترشح للانتخابات],,1.0,
+answer,Modifier la Constitution [تعديل الدستور],,0.0,
+question,"Comment la contribution commune doit-elle être répartie, selon l’article 13 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [كيف ينبغي توزيع المساهمة المشتركة وفقا للمادة 13 من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,À parts égales entre tous [في أجزاء متساوية بين الجميع],,0.0,
+answer,En raison des facultés de chacun [بسبب قدرات كل منهما],,1.0,
+answer,Uniquement entre les pauvres [فقط بين الفقراء],,0.0,
+question,Quelles formes de liberté sont mentionnées à l’article 11 de la Déclaration de 1789 ? [ما هي أشكال الحرية المذكورة في المادة 11 من إعلان 1789؟],,,lvl3
+answer,"Prier, se marier, travailler librement [صلي، وتزوج، واعمل بحرية]",,0.0,
+answer,"Parler, écrire, imprimer librement [التحدث والكتابة والطباعة بحرية]",,1.0,
+answer,"Voyager, commercer, s’enrichir librement [السفر والتجارة والإثراء بحرية]",,0.0,
+question,Quel droit est proclamé par l’article 11 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [ما هو الحق الذي تعلنه المادة 11 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,Le droit à la sécurité sociale [الحق في الضمان الاجتماعي],,0.0,
+answer,La libre communication des pensées et opinions [التواصل الحر للأفكار والآراء],,1.0,
+answer,Le droit à l’éducation gratuite [الحق في التعليم المجاني],,0.0,
+question,Sur quoi portent les règles collectives inscrites dans la loi ? [بماذا تتعلق القواعد الجماعية المدرجة في القانون؟],,,lvl3
+answer,Sur les traditions religieuses [في التقاليد الدينية],,0.0,
+answer,Sur les coutumes familiales [حول العادات العائلية],,0.0,
+answer,Sur la vie en société [عن الحياة في المجتمع],,1.0,
+question,Quel symbole de la République est présent dans toutes les mairies ? [ما هو رمز الجمهورية الموجود في كل قاعات المدينة؟],,,lvl3
+answer,L’arc de triomphe [قوس النصر],,0.0,
+answer,Le coq gaulois [الديك الغالي],,0.0,
+answer,La Marianne [ماريان],,1.0,
+question,Quelle date correspond à la prise de la Bastille par le peuple de Paris ? [ما هو التاريخ الذي يتوافق مع الاستيلاء على سجن الباستيل من قبل شعب باريس؟],,,lvl3
+answer,4 août 1789 [4 أغسطس 1789],,0.0,
+answer,14 juillet 1790 [14 يوليو 1790],,0.0,
+answer,14 juillet 1789 [14 يوليو 1789],,1.0,
+question,"Quelles sont des conditions d’accès aux emplois publics, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [ما هي شروط الالتحاق بالوظيفة العامة حسب المادة 6 من إعلان حقوق الإنسان والمواطن لسنة 1789؟]",,,lvl3
+answer,"La capacité, les vertus et les talents [القدرة والفضائل والمواهب]",,1.0,
+answer,L’appartenance religieuse [الانتماء الديني],,0.0,
+answer,La naissance et la fortune [الولادة والثروة],,0.0,
+question,Que permet l’article 14 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 en matière de contribution publique ? [ما الذي تتيحه المادة 14 من إعلان حقوق الإنسان والمواطن لعام 1789 فيما يتعلق بالمساهمات العامة؟],,,lvl3
+answer,"En suivre l’emploi et en déterminer la quotité, l’assiette, le recouvrement et la durée [متابعة استخدامه وتحديد حصته وأساسه وشفائه ومدته]",,1.0,
+answer,La déléguer uniquement au roi [تفويضها للملك فقط],,0.0,
+answer,L’abolir définitivement [إلغاءه نهائيا],,0.0,
+question,Quel droit l’article 17 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 proclame-t-il inviolable et sacré ? [ما هو الحق الذي تعلنه المادة 17 من إعلان حقوق الإنسان والمواطن لسنة 1789 مصونا ومقدسا؟],,,lvl3
+answer,La propriété [ملكية],,1.0,
+answer,Le travail [العمل],,0.0,
+answer,La liberté d’expression [حرية التعبير],,0.0,
+question,Que crée l’article 12 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [ما الذي أوجدته المادة 12 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,Une armée privée au service du roi [جيش خاص في خدمة الملك],,0.0,
+answer,Une force publique instituée pour l’avantage de tous [قوة عامة أنشئت لصالح الجميع],,1.0,
+answer,Une force religieuse au service de l’Église [قوة دينية في خدمة الكنيسة],,0.0,
+question,Que protège l’article 10 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [ما الذي تحميه المادة 10 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,Le droit de grève [حق الإضراب],,0.0,
+answer,"La liberté d’opinion, même religieuse [حرية الرأي حتى الدينية]",,1.0,
+answer,Le droit d’héritage [حق الميراث],,0.0,
+question,Le vote en France est… [التصويت في فرنسا هو...],,,lvl3
+answer,Un privilège réservé [امتياز محجوز],,0.0,
+answer,Une obligation [التزام],,0.0,
+answer,Un droit [حق],,1.0,
+question,Qui est élu au suffrage universel en France ? [من يُنتخب بالاقتراع العام في فرنسا؟],,,lvl3
+answer,"Le Président, les parlementaires et les maires [الرئيس والبرلمانيون وعمد البلديات]",,1.0,
+answer,Les juges et les préfets [القضاة والمحافظين],,0.0,
+answer,Les recteurs et les ministres [العمداء والوزراء],,0.0,
+question,La France condamne-t-elle toutes les discriminations possibles ? [هل تدين فرنسا كافة أشكال التمييز الممكنة؟],,,lvl3
+answer,"Oui, absolument toutes [نعم كل ذلك على الإطلاق]",,0.0,
+answer,"Oui, sauf celles dans le sport [نعم ما عدا في الرياضة]",,0.0,
+answer,"Non, seulement celles fondées sur un motif prévu par la loi [لا، فقط تلك التي تستند إلى سبب ينص عليه القانون]",,1.0,
+question,Quels droits naturels et imprescriptibles sont cités à l’article 2 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [ما هي الحقوق الطبيعية وغير القابلة للتقادم المذكورة في المادة 2 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,"Religion, famille, sécurité, logement [الدين والأسرة والأمن والسكن]",,0.0,
+answer,"Liberté, propriété, sûreté, résistance à l’oppression [الحرية، والملكية، والأمن، ومقاومة القمع]",,1.0,
+answer,"Égalité, fraternité, travail, solidarité [المساواة والأخوة والعمل والتضامن]",,0.0,
+question,Un employeur peut-il refuser d’embaucher un salarié en raison de ses origines ? [هل يمكن لصاحب العمل أن يرفض تعيين موظف بسبب أصوله؟],,,lvl3
+answer,"Oui, avec l’accord des syndicats [نعم بموافقة النقابات]",,0.0,
+answer,"Oui, si l’entreprise est privée [نعم إذا كانت الشركة خاصة]",,0.0,
+answer,"Non, c’est interdit [لا هذا ممنوع]",,1.0,
+question,"Quelle condition supplémentaire est nécessaire pour voter, en plus d’avoir 18 ans? [ما هو الشرط الإضافي المطلوب للتصويت، بالإضافة إلى بلوغ 18 عامًا؟]",,,lvl3
+answer,Avoir un emploi [احصل على وظيفة],,0.0,
+answer,Disposer de ses droits civils et politiques [الحصول على الحقوق المدنية والسياسية],,1.0,
+answer,Payer des impôts [لدفع الضرائب],,0.0,
+question,"À quelle époque a été composé l’hymne national, La Marseillaise? [في أي عصر تم تأليف النشيد الوطني المارسيليا؟]",,,lvl3
+answer,À l’époque de la Révolution [في وقت الثورة],,1.0,
+answer,Au XXe siècle [في القرن العشرين],,0.0,
+answer,Sous Louis XIV [في عهد لويس الرابع عشر],,0.0,
+question,Quelles libertés fondamentales sont garanties en France? [ما هي الحريات الأساسية المكفولة في فرنسا؟],,,lvl3
+answer,"Liberté de pensée, de croyance, de s’exprimer, de se réunir [حرية الفكر، المعتقد، التعبير، التجمع]",,1.0,
+answer,Liberté de posséder un titre de noblesse [حرية حيازة لقب النبلاء],,0.0,
+answer,Liberté de commercer sans règles [حرية التداول بدون قواعد],,0.0,
+question,La liberté d'expression en France est... [حرية التعبير في فرنسا هي...],,,lvl3
+answer,Un droit fondamental avec des limites [حق أساسي وله حدود],,1.0,
+answer,Un droit absolu sans limite [حق مطلق بلا حدود],,0.0,
+answer,Non reconnue par la loi [غير معترف به بموجب القانون],,0.0,
+question,"Dans une République, au nom de qui gouvernent les dirigeants élus? [وفي الجمهورية باسم من يحكم القادة المنتخبون؟]",,,lvl3
+answer,Au nom du président seul [نيابة عن الرئيس وحده],,0.0,
+answer,Au nom du peuple [بسم الشعب],,1.0,
+answer,Au nom des partis politiques [نيابة عن الأحزاب السياسية],,0.0,
+question,Dans quel but l'État peut-il restreindre le droit de manifester sa religion en public? [ما هو الغرض الذي من أجله يجوز للدولة تقييد الحق في إظهار الدين في الأماكن العامة؟],,,lvl3
+answer,Pour empêcher toute croyance [لمنع أي اعتقاد],,0.0,
+answer,Pour favoriser une religion [لصالح دين],,0.0,
+answer,Pour préserver l'ordre public [للحفاظ على النظام العام],,1.0,
+question,Que doivent respecter tous les citoyen(ne)s en France? [ما الذي يجب أن يحترمه جميع المواطنين في فرنسا؟],,,lvl3
+answer,Les lois et les règlements [القوانين والأنظمة],,1.0,
+answer,Les traditions religieuses [التقاليد الدينية],,0.0,
+answer,Seulement les coutumes locales [فقط العادات المحلية],,0.0,
+question,"Quelles bornes limitent l'exercice des droits naturels, selon l'article 4 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما هي الحدود التي تحد من ممارسة الحقوق الطبيعية وفقا للمادة 4 من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,Celles décidées par le gouvernement [تلك التي قررتها الحكومة],,0.0,
+answer,Celles fixées par la Loi [تلك التي ينص عليها القانون],,1.0,
+answer,Celles imposées par la religion [تلك التي تفرضها الدين],,0.0,
+question,Quel code définit les règles essentielles applicables entre les personnes? [ما هو الرمز الذي يحدد القواعد الأساسية المطبقة بين الأشخاص؟],,,lvl3
+answer,Le code civil [القانون المدني],,1.0,
+answer,Le code électoral [القانون الانتخابي],,0.0,
+answer,Le code du travail [قانون العمل],,0.0,
+question,Que déclare l'article 16 de la Déclaration de 1789 à propos de la Constitution? [ماذا تنص المادة 16 من إعلان 1789 بخصوص الدستور؟],,,lvl3
+answer,"Sans garantie des droits et séparation des pouvoirs, il n'y a pas de Constitution [لا يوجد دستور بدون ضمانات الحقوق وفصل السلطات]",,1.0,
+answer,La Constitution émane du roi seul [الدستور يصدر عن الملك وحده],,0.0,
+answer,Toute société religieuse a automatiquement une Constitution [كل مجتمع ديني لديه دستور تلقائيا],,0.0,
+question,Quel site internet présente les principales règles et le fonctionnement des institutions? [ما هو الموقع الذي يعرض القواعد الأساسية وعمل المؤسسات؟],,,lvl3
+answer,www.palais-elysee.fr [www.palais-elysee.fr],,0.0,
+answer,www.vie-publique.fr [www.vie-publique.fr],,1.0,
+answer,www.gouverbement.fr [www.gouverbement.fr],,0.0,
+question,Comment sont souvent regroupées les lois en France? [كيف يتم تجميع القوانين في كثير من الأحيان في فرنسا؟],,,lvl3
+answer,En brochures publicitaires [في الكتيبات الإعلانية],,0.0,
+answer,En codes [في الرموز],,1.0,
+answer,En magazines [في المجلات],,0.0,
+question,"Dans les années 1880, quelle liberté est garantie par une loi? [في ثمانينيات القرن التاسع عشر، ما هي الحرية التي كان يكفلها القانون؟]",,,lvl3
+answer,La liberté de commercer [حرية التجارة],,0.0,
+answer,La liberté de chasser [حرية الصيد],,0.0,
+answer,La liberté de la presse [حرية الصحافة],,1.0,
+question,Que représentent les impôts et les cotisations sociales en France? [ماذا تمثل الضرائب والمساهمات الاجتماعية في فرنسا؟],,,lvl3
+answer,Un moyen de récompenser les plus riches [طريقة لمكافأة الأغنياء],,0.0,
+answer,Une illustration de la fraternité [توضيحا للأخوة],,1.0,
+answer,Une sanction contre les travailleurs [عقوبة ضد العمال],,0.0,
+question,"Que peut défendre la Loi, selon l'article 5 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما الذي يمكن أن يدافع عنه القانون، وفقا للمادة 5 من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,Les croyances religieuses [المعتقدات الدينية],,0.0,
+answer,Les actions nuisibles à la Société [تصرفات تضر بالمجتمع],,1.0,
+answer,Les opinions politiques [أراء سياسية],,0.0,
+question,De quelle époque date la Déclaration des Droits de l'Homme et du Citoyen? [إلى أي عصر يعود إعلان حقوق الإنسان والمواطن؟],,,lvl3
+answer,Du Moyen Âge [من العصور الوسطى],,0.0,
+answer,De la Révolution française de 1789 [من الثورة الفرنسية عام 1789],,1.0,
+answer,De la Seconde Guerre mondiale [الحرب العالمية الثانية],,0.0,
+question,Quel système illustre le principe de fraternité depuis 1945? [ما هو النظام الذي يوضح مبدأ الأخوة منذ عام 1945؟],,,lvl3
+answer,L'armée nationale [الجيش الوطني],,0.0,
+answer,Le système scolaire [النظام المدرسي],,0.0,
+answer,La sécurité sociale [الضمان الاجتماعي],,1.0,
+question,Quelle règle a rappelé le Conseil constitutionnel en 2004? [ما هي القاعدة التي أشار إليها المجلس الدستوري في عام 2004؟],,,lvl3
+answer,Les croyants ont priorité sur les lois de la République [للمؤمنين الأولوية على قوانين الجمهورية],,0.0,
+answer,Nul ne peut se prévaloir de ses croyances religieuses pour s'affranchir des règles communes [ولا يجوز لأحد أن يستغل معتقداته الدينية للتملص من القواعد المشتركة],,1.0,
+answer,Les religions décident des règles de vie publique [الأديان تقرر قواعد الحياة العامة],,0.0,
+question,Que vise l'interdiction prévue par la loi du 15 mars 2004? [ما هو الهدف من الحظر المنصوص عليه في قانون 15 مارس 2004؟],,,lvl3
+answer,Les signes ou tenues manifestant ostensiblement l'appartenance à une religion [العلامات أو الملابس التي تظهر بوضوح الانتماء إلى دين ما],,1.0,
+answer,Toute forme de vêtement traditionnel [أي شكل من أشكال الملابس التقليدية],,0.0,
+answer,Les symboles discrets portés sous les vêtements [الرموز المخفية التي يتم ارتداؤها تحت الملابس],,0.0,
+question,Qu'est-ce que l'État garantit en matière religieuse? [ما الذي تكفله الدولة في الشؤون الدينية؟],,,lvl3
+answer,La liberté religieuse [الحرية الدينية],,1.0,
+answer,La supériorité de la religion majoritaire [تفوق ديانة الأغلبية],,0.0,
+answer,L'interdiction de changer de religion [حظر تغيير الدين],,0.0,
+question,Quel type d'apologie est interdit dans le cadre de la liberté d'expression? [ما هو نوع الاعتذار المحظور في إطار حرية التعبير؟],,,lvl3
+answer,La Révolution française [الثورة الفرنسية],,0.0,
+answer,Les découvertes scientifiques [الاكتشافات العلمية],,0.0,
+answer,Crimes contre l'humanité [جرائم ضد الإنسانية],,1.0,
+question,Que signifie le terme « ostensiblement » à propos des signes religieux à l'école? [ماذا يعني مصطلح ""ظاهري"" عند الحديث عن الرموز الدينية في المدارس؟],,,lvl3
+answer,De manière trop visible [واضحة جدا],,1.0,
+answer,De manière discrète [تكتم],,0.0,
+answer,De manière secrète [سراً],,0.0,
+question,"Dans quelles conditions peut-on être privé de sa propriété, selon l'article 17 de la Déclaration de 1789? [تحت أي ظروف يمكن حرمان شخص من ممتلكاته وفقا للمادة 17 من إعلان 1789؟]",,,lvl3
+answer,Si la majorité des voisins le souhaite [إذا أرادت أغلبية الجيران ذلك],,0.0,
+answer,Si le roi le décide sans motif [إذا قرر الملك بدون سبب],,0.0,
+answer,Si la nécessité publique l'exige et avec une juste et préalable indemnité [إذا اقتضت الضرورة العامة ذلك مع التعويض العادل والمسبق],,1.0,
+question,Que proclame l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما الذي تنص عليه المادة الأولى من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,Tous les citoyens doivent payer des impôts [يجب على جميع المواطنين دفع الضرائب],,0.0,
+answer,La monarchie est le régime naturel [النظام الملكي هو النظام الطبيعي],,0.0,
+answer,Les hommes naissent et demeurent libres et égaux en droits [يولد الرجال ويظلون أحراراً ومتساوين في الحقوق],,1.0,
+question,"Selon l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789, sur quoi peuvent être fondées les distinctions sociales? [بموجب المادة 1 من إعلان حقوق الإنسان والمواطن لعام 1789، على ماذا يمكن أن تقوم الفروق الاجتماعية؟]",,,lvl3
+answer,Sur la naissance [عند الولادة],,0.0,
+answer,Sur l'utilité commune [بشأن المنفعة العامة],,1.0,
+answer,Sur la richesse [على الثروة],,0.0,
+question,Pourquoi l'école doit-elle être neutre face aux religions? [لماذا يجب أن تكون المدرسة محايدة تجاه الأديان؟],,,lvl3
+answer,Parce qu'elle n'accueille que des mineurs [لأنه يرحب بالقاصرين فقط],,0.0,
+answer,Parce que c'est une institution publique qui forme tous les citoyens [لأنها مؤسسة عامة تقوم بتدريب كافة المواطنين],,1.0,
+answer,Parce qu'elle dépend de l'Église [لأنها تعتمد على الكنيسة],,0.0,
+question,Quelle fête a eu lieu le 14 juillet 1790? [ما هو العيد الذي أقيم يوم 14 يوليو 1790؟],,,lvl3
+answer,La fête des Vendanges [مهرجان حصاد العنب],,0.0,
+answer,La fête du Travail [يوم العمل],,0.0,
+answer,La fête de la Fédération [يوم الاتحاد],,1.0,
+question,L'administration peut-elle refuser la nationalité française à une personne qui ne respecte pas l'égalité femmes-hommes? [هل يمكن للإدارة أن ترفض منح الجنسية الفرنسية لشخص لا يحترم المساواة بين المرأة والرجل؟],,,lvl3
+answer,"Non, sauf si la personne a commis un crime [لا، إلا إذا ارتكب الشخص جريمة]",,0.0,
+answer,"Oui, même si elle est mariée avec un(e) Français(e) [نعم، حتى لو كانت متزوجة من فرنسي]",,1.0,
+answer,"Non, jamais [لا، أبدًا]",,0.0,
+question,"En France, les personnes d'orientation sexuelle différente ont-elles moins de droits que les autres citoyens? [هل يتمتع الأشخاص ذوو الميول الجنسية المختلفة في فرنسا بحقوق أقل من المواطنين الآخرين؟]",,,lvl3
+answer,"Oui, mais seulement en matière de mariage [نعم ولكن فقط فيما يتعلق بالزواج]",,0.0,
+answer,"Oui, elles ont moins de droits [نعم لديهم حقوق أقل]",,0.0,
+answer,"Non, elles ont les mêmes droits et les mêmes devoirs [لا، فإليهما نفس الحقوق ونفس الواجبات]",,1.0,
+question,Que garantit l'article 7 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما الذي تكفله المادة 7 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,La possibilité d'être emprisonné sans jugement [احتمال السجن دون محاكمة],,0.0,
+answer,La primauté de la police sur la justice [أولوية الشرطة على العدالة],,0.0,
+answer,Nul homme ne peut être arrêté ou détenu que selon la Loi [ولا يجوز القبض على أي إنسان أو احتجازه إلا وفقاً للقانون],,1.0,
+question,Quelle est l'une des raisons de l'interdiction des signes religieux ostensibles à l'école? [ما هو أحد أسباب حظر الرموز الدينية البارزة في المدارس؟],,,lvl3
+answer,Protéger les mineurs contre les pressions de leurs camarades [حماية القاصرين من الضغوط التي يمارسها أقرانهم],,1.0,
+answer,Favoriser une seule religion officielle [الترويج لدين رسمي واحد],,0.0,
+answer,Empêcher toute pratique religieuse dans la société [منع أي ممارسة دينية في المجتمع],,0.0,
+question,"Selon l'article 13 de la Déclaration de 1789, pourquoi une contribution commune est-elle indispensable? [وفقاً للمادة 13 من إعلان 1789، لماذا تعتبر المساهمة المشتركة ضرورية؟]",,,lvl3
+answer,Pour l'entretien de la force publique et les dépenses d'administration [للحفاظ على القوة العامة والمصاريف الإدارية],,1.0,
+answer,Pour les fêtes nationales [للأعياد الوطنية],,0.0,
+answer,Pour financer la noblesse [لتمويل النبلاء],,0.0,
+question,Que garantit la République à ses citoyens? [ماذا تضمن الجمهورية لمواطنيها؟],,,lvl3
+answer,"Le respect des principes de liberté, d'égalité et de fraternité [احترام مبادئ الحرية والمساواة والأخوة]",,1.0,
+answer,La prospérité économique pour tous [الرخاء الاقتصادي للجميع],,0.0,
+answer,La supériorité d'une religion [تفوق الدين],,0.0,
+question,"De quelle époque date le drapeau tricolore bleu, blanc, rouge? [إلى أي عصر يعود العلم الأزرق والأبيض والأحمر ذو الألوان الثلاثة؟]",,,lvl3
+answer,De la Première Guerre mondiale [من الحرب العالمية الأولى],,0.0,
+answer,De la Révolution française [من الثورة الفرنسية],,1.0,
+answer,De l'Empire napoléonien [من الإمبراطورية النابليونية],,0.0,
+question,Que condamne la France en matière de traitement entre personnes? [ما الذي تدينه فرنسا من حيث المعاملة بين الناس؟],,,lvl3
+answer,Les préférences sportives [التفضيلات الرياضية],,0.0,
+answer,Les différences de goût personnels [الاختلافات في الذوق الشخصي],,0.0,
+answer,Les discriminations fondées sur un motif prévu par la loi [التمييز المبني على أساس منصوص عليه في القانون],,1.0,
+question,Que signifie le suffrage universel? [ماذا يعني الاقتراع العام؟],,,lvl3
+answer,"Tous les citoyens, hommes et femmes, peuvent voter [جميع المواطنين رجالا ونساء يمكنهم التصويت]",,1.0,
+answer,Seuls les contribuables peuvent voter [الدافعون للضرائب فقط هم من يمكنهم التصويت],,0.0,
+answer,Seuls les hommes peuvent voter [فقط الرجال يستطيعون التصويت],,0.0,
+question,"Comment s'appelle le fait de traiter moins favorablement une personne à cause de ses origines, de sa religion ou de son sexe? [ماذا تسمي معاملة شخص ما بشكل أقل تفضيلاً بسبب أصله أو دينه أو جنسه؟]",,,lvl3
+answer,Une discrimination [تمييز],,1.0,
+answer,Une coutume professionnelle [عرف احترافي],,0.0,
+answer,Une préférence légale [أفضلية قانونية],,0.0,
+question,La liberté d'expression est limitée afin de... [حرية التعبير مقيدة من أجل...],,,lvl3
+answer,Empêcher toute critique politique [منع أي انتقاد سياسي],,0.0,
+answer,Protéger uniquement l'État [حماية الدولة فقط],,0.0,
+answer,Respecter les droits des autres [احترام حقوق الآخرين],,1.0,
+question,Quelle limite fixe l'article 10 de la Déclaration de 1789 à la liberté d'opinion? [ما هو الحد الذي تضعه المادة 10 من إعلان عام 1789 لحرية الرأي؟],,,lvl3
+answer,L'approbation du gouvernement [موافقة الحكومة],,0.0,
+answer,Le respect des traditions religieuses [احترام التقاليد الدينية],,0.0,
+answer,Le respect de l'ordre public établi par la Loi [احترام النظام العام الذي حدده القانون],,1.0,
+question,L'avènement de la République française a été... [كان مجيء الجمهورية الفرنسية...],,,lvl3
+answer,Décidé par un seul dirigeant [تقرر من قبل زعيم واحد],,0.0,
+answer,Progressif et le fruit de plusieurs combats [تقدمية ونتيجة لعدة معارك],,1.0,
+answer,Instantané et sans opposition [فوري وبدون معارضة],,0.0,
+question,Que prévoit la loi française concernant les femmes et les hommes? [ماذا ينص القانون الفرنسي بخصوص المرأة والرجل؟],,,lvl3
+answer,Elle limite certains droits des femmes [يحد من بعض حقوق المرأة],,0.0,
+answer,Elle donne plus de droits aux hommes [أنه يعطي حقوقا أكثر للرجال],,0.0,
+answer,Elle leur accorde les mêmes droits [يمنحهم نفس الحقوق],,1.0,
+question,Comment se traduit la volonté de vivre ensemble des citoyens? [كيف تنعكس رغبة المواطنين في العيش معًا؟],,,lvl3
+answer,Par la compétition entre eux [عن طريق المنافسة فيما بينهم],,0.0,
+answer,Par la solidarité entre eux [من خلال التضامن فيما بينهم],,1.0,
+answer,Par l’isolement des individus [من خلال عزل الأفراد],,0.0,
+question,En quelle année la République française s'installe-t-elle de façon stable? [في أي عام تم تأسيس الجمهورية الفرنسية بطريقة مستقرة؟],,,lvl3
+answer,1875 [1875],,1.0,
+answer,1945 [1945],,0.0,
+answer,1789 [1789],,0.0,
+question,Quelles personnes contribuent aux cotisations sociales en France? ?) [من هم الأشخاص الذين يساهمون في المساهمات الاجتماعية في فرنسا؟],,,lvl3
+answer,Seulement les salariés [الموظفين فقط],,0.0,
+answer,Seulement l'État [فقط الدولة],,0.0,
+answer,"Employeurs, salariés et non-salariés [أصحاب العمل والموظفين وغير الموظفين]",,1.0,
+question,"Où réside le principe de toute souveraineté, selon l'article 3 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [أين يكمن مبدأ سيادة الجميع، بحسب المادة الثالثة من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,Dans le Roi [في الملك],,0.0,
+answer,Dans la Nation [في الأمة],,1.0,
+answer,Dans l'armée [في الجيش],,0.0,
+question,Qu'est-ce que le code pénal définit? ?) [ما الذي يحدده قانون العقوبات؟],,,lvl3
+answer,Les règles de politesse en société [قواعد الأدب في المجتمع],,0.0,
+answer,Les infractions et les peines correspondantes [المخالفات والعقوبات المقررة لها],,1.0,
+answer,Les conditions de mariage [شروط الزواج],,0.0,
+question,Quel type de propos est interdit par la loi? [ما هو نوع الكلام الذي يحظره القانون؟],,,lvl3
+answer,Critiques littéraires [مراجعات أدبية],,0.0,
+answer,Opinions politiques différentes [الآراء السياسية المختلفة],,0.0,
+answer,Injures et propos diffamatoires [الشتائم والتصريحات التشهيرية],,1.0,
+question,Sur quoi repose la France selon le principe de fraternité? [على ماذا ترتكز فرنسا حسب مبدأ الأخوة؟],,,lvl3
+answer,Sur la supériorité d'une religion [على تفوق دين واحد],,0.0,
+answer,Sur la volonté de vivre ensemble des citoyens [بناء على رغبة المواطنين في العيش معا],,1.0,
+answer,Sur l'autorité d'un seul chef [بناء على سلطة زعيم واحد],,0.0,
+question,"Dans les années 1880, l'école publique devient... [في ثمانينيات القرن التاسع عشر، أصبحت المدرسة العامة...]",,,lvl3
+answer,"Obligatoire, gratuite et laïque [إلزامي، ومجاني وعلماني]",,1.0,
+answer,Payante pour les pauvres [قابلة للدفع للفقراء],,0.0,
+answer,Réservée aux garçons [مخصص للأولاد],,0.0,
+question,"Que doit établir la Loi en matière de peines, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما الذي يجب أن يقرره القانون فيما يتعلق بالعقوبات وفقا للمادة 8 من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,Les peines décidées par le roi [العقوبات التي يقررها الملك],,0.0,
+answer,Les peines les plus sévères possibles [أقسى العقوبات الممكنة],,0.0,
+answer,Seulement des peines strictement nécessaires [فقط العقوبات الضرورية للغاية],,1.0,
+question,À partir de quel âge peut-on voter en France? [في أي عمر يمكنك التصويت في فرنسا؟],,,lvl3
+answer,16 ans [16 سنة],,0.0,
+answer,18 ans [18 سنة],,1.0,
+answer,21 ans [21 سنة],,0.0,
+question,"Quand peut-on être puni, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [متى يمكن معاقبة شخص ما، بحسب المادة 8 من إعلان حقوق الإنسان والمواطن لسنة 1789؟]",,,lvl3
+answer,Même si aucune loi n'existait au moment des faits [حتى لو لم يكن هناك قانون موجود وقت وقوع الأحداث],,0.0,
+answer,Selon la volonté d'un supérieur [بحسب إرادة رئيسه],,0.0,
+answer,Uniquement en vertu d'une Loi établie et promulguée avant le délit [فقط بموجب قانون تم سنه وإصداره قبل ارتكاب الجريمة],,1.0,
+question,Où peut-on consulter toutes les lois françaises en vigueur sur internet? [أين يمكنك الرجوع إلى جميع القوانين الفرنسية المعمول بها على الإنترنت؟],,,lvl3
+answer,Sur www.wikipedia.org [على www.wikipedia.org],,0.0,
+answer,Sur www.assemblee.fr [على www.assemblee.fr],,0.0,
+answer,Sur www.legifrance.gouv.fr [على www.legifrance.gouv.fr],,1.0,
+question,Quelle est la forme politique de la France? [ما هو الشكل السياسي لفرنسا؟],,,lvl3
+answer,Une démocratie [ديمقراطية],,1.0,
+answer,Une monarchie [نظام ملكي],,0.0,
+answer,Une dictature [ديكتاتورية],,0.0,
+question,"Qu'est-ce que la Loi, selon l'article 6 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما هو القانون، بحسب المادة 6 من إعلان حقوق الإنسان والمواطن لعام 1789؟]",,,lvl3
+answer,La décision d'un chef [قرار الزعيم],,0.0,
+answer,L'expression de la volonté générale [تعبير عن الإرادة العامة],,1.0,
+answer,La tradition des ancêtres [تقليد الأجداد],,0.0,
+question,Que proclame l'article 15 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [ما الذي تنص عليه المادة 15 من إعلان حقوق الإنسان والمواطن لعام 1789؟],,,lvl3
+answer,La Société a le droit de demander compte à tout Agent public [للمجتمع الحق في محاسبة أي موظف عام],,1.0,
+answer,Le roi contrôle seul les agents publics [الملك وحده هو الذي يسيطر على الموظفين العموميين],,0.0,
+answer,Les agents publics sont irresponsables [الموظفون العموميون غير مسؤولين],,0.0,

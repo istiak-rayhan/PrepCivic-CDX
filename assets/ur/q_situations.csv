@@ -1,0 +1,453 @@
+type,text,placeholder,is_correct,level
+question,"Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? (ایک سبسڈی یافتہ اسپورٹس ایسوسی ایشن ہر میچ سے پہلے دعا/نماز لازمی قرار دیتی ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. (نہیں، عوامی فنڈز سے چلنے والی ایسوسی ایشن کو غیر جانبداری کا احترام کرنا چاہیے۔)",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. (جی ہاں، اگر یہ مقامی روایت کا حصہ ہے۔)",,0.0,
+answer,"Oui, si les adhérents sont d’accord. (جی ہاں، اگر ممبران متفق ہوں۔)",,0.0,
+question,"Une élève porte un voile pendant les cours. Quelle règle s’applique ? (ایک طالبہ کلاس کے دوران حجاب پہنتی ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl1
+answer,"Les signes religieux ostensibles sont interdits dans les établissements publics. (سرکاری اداروں میں نمایاں مذہبی علامات پر پابندی ہے۔)",,1.0,
+answer,"Autorisé pour les filles majeures. (بالغ لڑکیوں کے لیے اجازت ہے۔)",,0.0,
+answer,"Autorisé si l’élève reste discrète. (اجازت ہے اگر طالبہ محتاط رہے۔)",,0.0,
+question,"Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? (ایک شہری اپنے کتے کا فضلہ فٹ پاتھ پر چھوڑ دیتا ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl1
+answer,"Couvrir avec du sable. (ریت سے ڈھانپ دیں۔)",,0.0,
+answer,"Laisser sur place, la pluie nettoiera. (وہیں چھوڑ دیں، بارش صاف کر دے گی۔)",,0.0,
+answer,"Ramasser et jeter dans les poubelles prévues. (اٹھائیں اور مقررہ کوڑے دان میں ڈالیں۔)",,1.0,
+question,"Un utilisateur partage un faux message d’alerte terroriste. Risque-t-il une sanction ? (ایک صارف دہشت گردی کا جھوٹا الرٹ پیغام شیئر کرتا ہے۔ کیا اسے سزا کا خطرہ ہے؟)",,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. (جی ہاں، جھوٹی خبریں پھیلانا قابل سزا ہے۔)",,1.0,
+answer,"Oui, seulement si cela devient viral. (جی ہاں، صرف اس صورت میں جب یہ وائرل ہو جائے۔)",,0.0,
+answer,"Non, s’il supprime après. (نہیں، اگر وہ بعد میں اسے ڈیلیٹ کر دے۔)",,0.0,
+question,"Un passant photographie un inconnu dans la rue et publie la photo sans accord. Est-ce légal ? (ایک راہگیر سڑک پر کسی اجنبی کی تصویر کھینچتا ہے اور بغیر اجازت شائع کر دیتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Non, le droit à l’image protège toute personne identifiable. (نہیں، تصویر کا حق ہر قابل شناخت شخص کا تحفظ کرتا ہے۔)",,1.0,
+answer,"Oui, si la photo est artistique. (جی ہاں، اگر تصویر فنکارانہ ہے۔)",,0.0,
+answer,"Oui, si elle ne montre rien de choquant. (جی ہاں، اگر اس میں کوئی چونکا دینے والی چیز نہ ہو۔)",,0.0,
+question,"Un voisin filme en permanence l’entrée de votre domicile. Quel est votre recours immédiat ? (ایک پڑوسی مسلسل آپ کے گھر کے داخلی راستے کی فلم بندی کر رہا ہے۔ آپ کا فوری قانونی راستہ کیا ہے؟)",,,lvl1
+answer,"Il n’y a pas de recours. (کوئی قانونی راستہ نہیں ہے۔)",,0.0,
+answer,"Lui demander de réorienter la caméra puis saisir la CNIL ou la justice si nécessaire. (اسے کیمرے کا رخ موڑنے کا کہیں اور ضرورت پڑنے پر CNIL یا عدالت سے رجوع کریں۔)",,1.0,
+answer,"Couper les câbles de la caméra. (کیمرے کی تاریں کاٹ دیں۔)",,0.0,
+question,"Lors du 11 novembre, un élu prononce un discours religieux. Est-ce conforme ? (11 نومبر کو ایک منتخب نمائندہ مذہبی تقریر کرتا ہے۔ کیا یہ قانون کے مطابق ہے؟)",,,lvl1
+answer,"Oui, pour honorer les croyants morts pour la France. (جی ہاں، فرانس کے لیے جان دینے والے مومنوں کو خراج تحسین پیش کرنے کے لیے۔)",,0.0,
+answer,"Oui, si personne ne proteste. (جی ہاں، اگر کوئی احتجاج نہ کرے۔)",,0.0,
+answer,"Non, les cérémonies publiques doivent rester neutres. (نہیں، عوامی تقریبات کو غیر جانبدار رہنا چاہیے۔)",,1.0,
+question,"Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? (ایک منتخب نمائندہ اپنے مالی مفادات ظاہر کرنے سے انکار کرتا ہے۔ کیا یہ سنگین ہے؟)",,,lvl1
+answer,"Oui, la transparence est une obligation. (جی ہاں، شفافیت ایک ذمہ داری ہے۔)",,1.0,
+answer,"Non, c’est une vie privée. (نہیں، یہ ذاتی زندگی ہے۔)",,0.0,
+answer,"Oui, seulement s’il gagne beaucoup. (جی ہاں، صرف اس صورت میں جب وہ بہت کماتا ہو۔)",,0.0,
+question,"Un maire veut pardonner une contravention à un ami. En a-t-il le droit ? (ایک میئر اپنے دوست کا چالان معاف کرنا چاہتا ہے۔ کیا اسے یہ حق حاصل ہے؟)",,,lvl1
+answer,"Oui, par amitié. (جی ہاں، دوستی کی وجہ سے۔)",,0.0,
+answer,"Non, seul le juge ou l’administration compétente peut. (نہیں، صرف جج یا متعلقہ انتظامیہ یہ کر سکتی ہے۔)",,1.0,
+answer,"Oui, par amitié. (جی ہاں، دوستی کی وجہ سے۔)",,0.0,
+question,"Un média publie la photo d’un suspect avec le mot coupable. Est-ce légal ? (ایک میڈیا ادارہ مشتبہ شخص کی تصویر ""مجرم"" کے لفظ کے ساتھ شائع کرتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, si le public veut savoir. (جی ہاں، اگر عوام جاننا چاہتی ہے۔)",,0.0,
+answer,"Oui, s’il est arrêté. (جی ہاں، اگر وہ گرفتار ہو چکا ہے۔)",,0.0,
+answer,"Non, cela viole la présomption d’innocence. (نہیں، یہ بے گناہی کے تصور کی خلاف ورزی ہے۔)",,1.0,
+question,"Un internaute publie des propos incitant à la haine. Quelle réaction conforme ? (ایک انٹرنیٹ صارف نفرت انگیز کلمات شائع کرتا ہے۔ درست ردعمل کیا ہے؟)",,,lvl1
+answer,"Signaler et sanctionner ces propos. (ان بیانات کی رپورٹ کرنا اور انہیں سزا دینا۔)",,1.0,
+answer,"Effacer seulement s’il s’excuse. (صرف اس صورت میں مٹانا جب وہ معافی مانگے۔)",,0.0,
+answer,"Tolérer car c’est une opinion. (برداشت کرنا کیونکہ یہ ایک رائے ہے۔)",,0.0,
+question,"Vous êtes témoin d’un comportement suspect pouvant être lié à la radicalisation. Que faire ? (آپ کو ایک مشکوک رویہ نظر آتا ہے جس کا تعلق انتہا پسندی سے ہو سکتا ہے۔ کیا کرنا چاہیے؟)",,,lvl1
+answer,"Enquêter vous-même. (خود تفتیش کریں۔)",,0.0,
+answer,"Ne rien faire sauf danger immédiat. (جب تک فوری خطرہ نہ ہو کچھ نہ کریں۔)",,0.0,
+answer,"Signaler via le numéro d’urgence ou la plateforme dédiée. (ہنگامی نمبر یا متعلقہ پلیٹ فارم کے ذریعے اطلاع دیں۔)",,1.0,
+question,"Un employeur refuse une promotion à cause de l’orientation sexuelle. Quelle base légale ? (ایک آجر جنسی رجحان کی وجہ سے ترقی دینے سے انکار کرتا ہے۔ قانونی بنیاد کیا ہے؟)",,,lvl1
+answer,"L’orientation sexuelle est un critère de discrimination interdit. (جنسی رجحان امتیازی سلوک کا ایک ممنوعہ معیار ہے۔)",,1.0,
+answer,"Il n’y a pas de discrimination. (اس میں کوئی امتیازی سلوک نہیں ہے۔)",,0.0,
+answer,"Le salarié doit prouver que son orientation sexuelle n’a aucun lien avec ses compétences. (ملازم کو ثابت کرنا ہوگا کہ اس کے جنسی رجحان کا اس کی مہارت سے کوئی تعلق نہیں ہے۔)",,0.0,
+question,"Des personnes rient pendant la minute de silence du 11 novembre. Est-ce sanctionnable ? (لوگ 11 نومبر کی خاموشی کے ایک منٹ کے دوران ہنستے ہیں۔ کیا یہ قابل سزا ہے؟)",,,lvl1
+answer,"Oui, seulement si c’est filmé. (جی ہاں، صرف اس صورت میں جب اسے فلمایا گیا ہو۔)",,0.0,
+answer,"Oui, c’est un outrage à la mémoire collective. (جی ہاں، یہ اجتماعی یاد کی توہین ہے۔)",,1.0,
+answer,"Non, s’ils sont jeunes. (نہیں، اگر وہ نوجوان ہیں۔)",,0.0,
+question,"Vous voulez connaître les dépenses de votre mairie. Quel est votre droit ? (آپ اپنی بلدیہ کے اخراجات جاننا چاہتے ہیں۔ آپ کا کیا حق ہے؟)",,,lvl1
+answer,"Passer obligatoirement par un avocat. (لازمی طور پر وکیل کے ذریعے جانا۔)",,0.0,
+answer,"Vous n’avez pas ce droit. (آپ کو یہ حق حاصل نہیں ہے۔)",,0.0,
+answer,"Droit d’accès aux documents administratifs. (انتظامی دستاویزات تک رسائی کا حق۔)",,1.0,
+question,"Un citoyen devient bénévole dans une association alimentaire. Quel principe illustre-t-il ? (ایک شہری فوڈ ایسوسی ایشن میں رضاکار بن جاتا ہے۔ وہ کس اصول کی عکاسی کر رہا ہے؟)",,,lvl1
+answer,"La neutralité. (غیر جانبداری۔)",,0.0,
+answer,"L’égalité. (برابری۔)",,0.0,
+answer,"La fraternité. (بھائی چارہ۔)",,1.0,
+question,"Un promeneur capture des grenouilles pour les observer. Est-ce autorisé ? (ایک سیر کرنے والا مینڈکوں کو دیکھنے کے لیے پکڑتا ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Oui, pour usage personnel. (جی ہاں، ذاتی استعمال کے لیے۔)",,0.0,
+answer,"Oui, s’il les relâche plus tard. (جی ہاں، اگر وہ انہیں بعد میں چھوڑ دے۔)",,0.0,
+answer,"Non, certaines espèces sont protégées. (نہیں، کچھ اقسام محفوظ (پروٹیکٹڈ) ہیں۔)",,1.0,
+question,"Une voisine âgée tombe dans le hall. Que devez-vous faire ? (ایک بوڑھی پڑوسن ہال میں گر جاتی ہے۔ آپ کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"Passer votre chemin. (اپنے راستے پر چلتے رہیں۔)",,0.0,
+answer,"Filmer la scène. (منظر کی فلم بنائیں۔)",,0.0,
+answer,"L’aider immédiatement et appeler les secours. (فوری طور پر اس کی مدد کریں اور ایمرجنسی کو کال کریں۔)",,1.0,
+question,"Un parent demande une dispense de sport pour raison religieuse. Quelle réponse conforme ? (ایک والدین مذہبی وجہ سے کھیلوں سے استثنیٰ مانگتے ہیں۔ درست جواب کیا ہے؟)",,,lvl1
+answer,"Remplacer le sport par une étude surveillée. (کھیل کی جگہ زیر نگرانی مطالعہ رکھیں۔)",,0.0,
+answer,"Accorder une dispense permanente. (مستقل استثنیٰ دے دیں۔)",,0.0,
+answer,"Expliquer que les cours sont obligatoires pour tous. (یہ بتائیں کہ کلاسز سب کے لیے لازمی ہیں۔)",,1.0,
+question,"Deux salariés ont des salaires différents pour le même poste. Quelle règle s’applique ? (دو ملازمین کی ایک ہی عہدے پر تنخواہ مختلف ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl1
+answer,"L’entreprise peut fixer librement les salaires. (کمپنی تنخواہیں آزادانہ طور پر طے کر سکتی ہے۔)",,0.0,
+answer,"Égalité de rémunération pour un travail égal. (برابر کام کے لیے برابر تنخواہ۔)",,1.0,
+answer,"Différence normale selon le sexe. (جنس کے لحاظ سے معمول کا فرق۔)",,0.0,
+question,"À l’hôpital public, une infirmière refuse un patient pour sa religion. Quelle conduite respecte la laïcité ? (سرکاری ہسپتال میں ایک نرس مریض کو اس کے مذہب کی وجہ سے علاج کرنے سے انکار کرتی ہے۔ کون سا رویہ سیکولرزم کا احترام کرتا ہے؟)",,,lvl1
+answer,"Choisir les patients selon sa religion. (اپنے مذہب کے مطابق مریضوں کا انتخاب کرنا۔)",,0.0,
+answer,"Soigner tous les patients sans distinction. (بغیر کسی امتیاز کے تمام مریضوں کا علاج کرنا۔)",,1.0,
+answer,"Soigner seulement ceux qui partagent ses convictions. (صرف ان کا علاج کرنا جو اس کے عقائد سے متفق ہوں۔)",,0.0,
+question,"Parents séparés en désaccord sur l’école. Que dit la loi ? (علیحدہ والدین اسکول کے معاملے پر متفق نہیں ہیں۔ قانون کیا کہتا ہے؟)",,,lvl1
+answer,"Les décisions importantes doivent être prises par les deux parents. (اہم فیصلے دونوں والدین کو مل کر کرنے چاہئیں۔)",,1.0,
+answer,"Le juge décide toujours seul. (جج ہمیشہ اکیلا فیصلہ کرتا ہے۔)",,0.0,
+answer,"La mère décide seule. (ماں اکیلی فیصلہ کرتی ہے۔)",,0.0,
+question,"Une commune refuse une salle municipale pour des funérailles laïques. Est-ce légal ? (ایک بلدیہ غیر مذہبی (سیکولر) جنازے کے لیے بلدیاتی ہال دینے سے انکار کرتی ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, seules les cérémonies religieuses sont autorisées. (جی ہاں، صرف مذہبی تقریبات کی اجازت ہے۔)",,0.0,
+answer,"Non, le service public doit traiter toutes les convictions également. (نہیں، عوامی خدمت کو تمام عقائد کے ساتھ یکساں سلوک کرنا چاہیے۔)",,1.0,
+answer,"Oui, car les funérailles sont privées. (جی ہاں، کیونکہ جنازے نجی ہوتے ہیں۔)",,0.0,
+question,"Un cycliste circule la nuit sans éclairage sur une route non éclairée. Est-ce autorisé ? (ایک سائیکل سوار رات کے وقت غیر روشن سڑک پر بغیر لائٹ کے سفر کر رہا ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Oui, s’il roule lentement. (جی ہاں، اگر وہ آہستہ چلا رہا ہے۔)",,0.0,
+answer,"Non, l’éclairage est obligatoire pour être visible. (نہیں، نظر آنے کے لیے روشنی کا ہونا لازمی ہے۔)",,1.0,
+answer,"Oui, s’il porte des vêtements sombres. (جی ہاں، اگر اس نے گہرے رنگ کے کپڑے پہنے ہوئے ہیں۔)",,0.0,
+question,"Un agent d’accueil d’une préfecture affiche un verset religieux sur son bureau. Est-ce conforme ? (پریفیکچر کا ایک استقبالیہ افسر اپنی میز پر ایک مذہبی آیت آویزاں کرتا ہے۔ کیا یہ درست ہے؟)",,,lvl1
+answer,"Non, la neutralité interdit tout affichage de conviction personnelle. (نہیں، غیر جانبداری کسی بھی ذاتی عقیدے کے اظہار سے منع کرتی ہے۔)",,1.0,
+answer,"Oui, si le public ne le remarque pas. (جی ہاں، اگر عوام اس پر غور نہ کرے۔)",,0.0,
+answer,"Oui, s’il s’agit d’un petit texte. (جی ہاں، اگر یہ ایک چھوٹی سی عبارت ہو۔)",,0.0,
+question,"Un salarié demande quelques minutes de pause pour prier sans perturber le travail. Quelle réponse conforme ? (ایک ملازم کام میں خلل ڈالے بغیر نماز/دعا کے لیے چند منٹ کا وقفہ مانگتا ہے۔ درست جواب کیا ہے؟)",,,lvl1
+answer,"L’employeur peut accepter si cela ne désorganise pas l’entreprise. (آجر اسے قبول کر سکتا ہے اگر اس سے کمپنی کا نظام درہم برہم نہ ہو۔)",,1.0,
+answer,"Refuser toute demande religieuse par principe. (اصولی طور پر کسی بھی مذہبی درخواست کو مسترد کرنا۔)",,0.0,
+answer,"L’obliger à prier dans l’espace clients. (اسے گاہکوں کی جگہ پر نماز/دعا پڑھنے پر مجبور کرنا۔)",,0.0,
+question,"Un de vos voisins installe une caméra de surveillance qui filme de manière permanente l'entrée de votre domicile. Quel est votre recours légal immédiat ? (آپ کا ایک پڑوسی سیکیورٹی کیمرہ لگاتا ہے جو آپ کے گھر کے داخلے کی مستقل فلم بندی کرتا ہے۔ آپ کا فوری قانونی حل کیا ہے؟)",,,lvl1
+answer,"Lui demander de réorienter sa caméra pour qu'elle ne filme que sa propriété, et en cas de refus, saisir la CNIL ou la justice. (اسے کیمرے کا رخ موڑنے کو کہیں تاکہ وہ صرف اس کی پراپرٹی کی فلم بنائے، اور انکار کی صورت میں CNIL یا عدالت سے رجوع کریں۔)",,1.0,
+answer,"Couper les câbles de la caméra, car elle porte atteinte à votre vie privée. (کیمرے کی تاریں کاٹ دیں کیونکہ یہ آپ کی پرائیویسی کو متاثر کر رہا ہے۔)",,0.0,
+answer,"Il n'y a pas de recours, car les caméras privées sont totalement libres. (کوئی حل نہیں ہے، کیونکہ نجی کیمرے مکمل طور پر آزاد ہیں۔)",,0.0,
+question,"Un automobiliste ne s’arrête pas au passage piéton. Est-ce autorisé ? (ایک گاڑی چلانے والا پیدل چلنے والوں کی کراسنگ پر نہیں رکتا۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Non, il doit céder le passage. (نہیں، اسے راستہ دینا ہوگا۔)",,1.0,
+answer,"Oui, si personne n’est blessé. (جی ہاں، اگر کوئی زخمی نہ ہو۔)",,0.0,
+answer,"Oui, la route est prioritaire. (جی ہاں، سڑک کو ترجیح حاصل ہے۔)",,0.0,
+question,"Un maire décide d’installer une crèche de Noël dans le hall de la mairie. Dans quel cas est-ce légal ? (ایک میئر ٹاؤن ہال میں کرسمس کا جھولا (Crèche) لگانے کا فیصلہ کرتا ہے۔ یہ کس صورت میں قانونی ہے؟)",,,lvl1
+answer,"Si la crèche a un caractère culturel ou festif et non religieux. (اگر یہ جھولا ثقافتی یا تہوار کی نوعیت کا ہو اور مذہبی نہ ہو۔)",,1.0,
+answer,"Jamais, même pour célébrer la culture locale. (کبھی نہیں، چاہے مقامی ثقافت منانے کے لیے ہی کیوں نہ ہو۔)",,0.0,
+answer,"Toujours, car c’est une tradition. (ہمیشہ، کیونکہ یہ ایک روایت ہے۔)",,0.0,
+question,"Votre voisin construit une clôture qui empiète légèrement sur votre terrain. Quelle est la base de votre droit à exiger le retrait ? (آپ کا پڑوسی ایک باڑ بناتا ہے جو آپ کی زمین پر تھوڑی سی آ جاتی ہے۔ اسے ہٹانے کا مطالبہ کرنے کا آپ کا قانونی حق کیا ہے؟)",,,lvl1
+answer,"Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. (آپ اپنی زمین کے اس چھوٹے سے حصے کے استعمال کا کرایہ مانگ سکتے ہیں۔)",,0.0,
+answer,"Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. (ملکیت کا حق مکمل اور ناقابل تسخیر ہے: معمولی سی دراندازی کو بھی ختم کیا جانا چاہیے۔)",,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. (آپ کچھ نہیں کر سکتے، کیونکہ تجاوز اتنا چھوٹا ہے کہ قانونی کارروائی کا جواز نہیں بنتا۔)",,0.0,
+question,"Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? (ایک ویب سائٹ صارفین کا ڈیٹا ان کی اجازت کے بغیر جمع کرتی ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, si les données restent en Europe. (جی ہاں، اگر ڈیٹا یورپ میں رہے۔)",,0.0,
+answer,"Oui, si c’est pour la publicité. (جی ہاں، اگر یہ اشتہارات کے لیے ہو۔)",,0.0,
+answer,"Non, il faut le consentement clair de la personne. (نہیں، اس کے لیے شخص کی واضح رضامندی ضروری ہے۔)",,1.0,
+question,"Un journal publie un article critiquant le gouvernement. Peut-il être sanctionné ? (ایک اخبار حکومت پر تنقید کرنے والا مضمون شائع کرتا ہے۔ کیا اسے سزا مل سکتی ہے؟)",,,lvl1
+answer,"Oui, si l’article dérange. (جی ہاں، اگر مضمون پریشان کن ہو۔)",,0.0,
+answer,"Oui, si le gouvernement le souhaite. (جی ہاں، اگر حکومت ایسا چاہے۔)",,0.0,
+answer,"Non, la liberté de la presse est protégée dans le cadre de la loi. (نہیں، پریس کی آزادی قانون کے دائرے میں محفوظ ہے۔)",,1.0,
+question,"Un enfant étranger résidant en France sans papiers souhaite être scolarisé. L’école peut-elle refuser ? (بغیر دستاویزات کے فرانس میں مقیم ایک غیر ملکی بچہ اسکول میں داخلہ لینا چاہتا ہے۔ کیا اسکول انکار کر سکتا ہے؟)",,,lvl1
+answer,"Oui, s’il ne parle pas encore français. (جی ہاں، اگر وہ ابھی فرانسیسی نہیں بولتا۔)",,0.0,
+answer,"Non, tout enfant a droit à l’éducation en France. (نہیں، فرانس میں ہر بچے کو تعلیم کا حق حاصل ہے۔)",,1.0,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. (جی ہاں، اگر اس کے والدین کے پاس رہائشی اجازت نامہ نہیں ہے۔)",,0.0,
+question,"Une candidate voilée postule dans un supermarché. L’employeur la rejette pour ce motif. Est-ce légal ? (ایک باحجاب امیدوار سپر مارکیٹ میں نوکری کے لیے اپلائی کرتی ہے۔ آجر اسے اسی وجہ سے مسترد کر دیتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Non, c’est une discrimination fondée sur la religion. (نہیں، یہ مذہب کی بنیاد پر امتیازی سلوک ہے۔)",,1.0,
+answer,"Oui, si les clients sont gênés. (جی ہاں، اگر گاہک پریشان ہوں۔)",,0.0,
+answer,"Oui, car l’employeur refuse tous les signes religieux. (جی ہاں، کیونکہ آجر تمام مذہبی علامات کو مسترد کرتا ہے۔)",,0.0,
+question,"Une voisine âgée chute dans l’escalier. Quelle conduite civique ? (ایک بوڑھی پڑوسن سیڑھیوں سے گر جاتی ہے۔ شہری رویہ کیا ہونا چاہیے؟)",,,lvl1
+answer,"Alerter les secours immédiatement. (فوری طور پر ایمرجنسی سروسز کو آگاہ کریں۔)",,1.0,
+answer,"Filmer la scène pour preuve. (ثبوت کے لیے منظر کی فلم بنائیں۔)",,0.0,
+answer,"Ne rien faire, elle se relèvera. (کچھ نہ کریں، وہ خود اٹھ جائے گی۔)",,0.0,
+question,"Une commune refuse la location d’une salle municipale pour des funérailles laïques. Est-ce légal ? (ایک بلدیہ غیر مذہبی جنازے کے لیے بلدیاتی ہال کرائے پر دینے سے انکار کرتی ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Non, le service public doit traiter également toutes convictions. (نہیں، عوامی خدمت کو تمام عقائد کے ساتھ یکساں سلوک کرنا چاہیے۔)",,1.0,
+answer,"Oui, car les funérailles sont privées. (جی ہاں، کیونکہ جنازے نجی ہوتے ہیں۔)",,0.0,
+answer,"Oui, les cérémonies religieuses seules sont autorisées. (جی ہاں، صرف مذہبی تقریبات کی اجازت ہے۔)",,0.0,
+question,"Votre voisin construit une clôture sur son terrain, mais une petite partie empiète de quelques centimètres sur le vôtre. Quelle est la base de votre droit à exiger le retrait de cette partie ? (آپ کا پڑوسی اپنی زمین پر باڑ بناتا ہے، لیکن ایک چھوٹا سا حصہ کچھ سینٹی میٹر آپ کی زمین پر آ جاتا ہے۔ اس حصے کو ہٹانے کا مطالبہ کرنے کا آپ کا قانونی حق کیا ہے؟)",,,lvl1
+answer,"Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. (آپ اپنی زمین کے اس چھوٹے سے حصے کے استعمال کا کرایہ مانگ سکتے ہیں۔)",,0.0,
+answer,"Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. (ملکیت کا حق مکمل اور ناقابل تسخیر ہے: معمولی سی دراندازی کو بھی ختم کیا جانا چاہیے۔)",,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. (آپ کچھ نہیں کر سکتے، کیونکہ تجاوز اتنا چھوٹا ہے کہ قانونی کارروائی کا جواز نہیں بنتا۔)",,0.0,
+question,"Sur un réseau social, un citoyen publie un photomontage satirique très offensant sur un responsable politique, mais sans appel à la violence. Le citoyen risque-t-il une condamnation ? (ایک سوشل نیٹ ورک پر، ایک شہری ایک سیاسی رہنما کے بارے میں انتہائی توہین آمیز طنزیہ تصویر (فوٹو مونٹیج) شائع کرتا ہے، لیکن تشدد کی کوئی اپیل نہیں کرتا۔ کیا اس شہری کو سزا ہو سکتی ہے؟)",,,lvl1
+answer,"Non, la satire est toujours protégée par la liberté d'expression, même si elle est jugée de mauvais goût. (نہیں، طنز ہمیشہ آزادی اظہار کے تحت محفوظ ہوتا ہے، چاہے اسے برا ہی کیوں نہ سمجھا جائے۔)",,0.0,
+answer,"Oui, car la loi interdit toute critique des responsables politiques sous quelque forme que ce soit. (جی ہاں، کیونکہ قانون سیاسی رہنماؤں پر کسی بھی شکل میں تنقید کی ممانعت کرتا ہے۔)",,0.0,
+answer,"Le citoyen risque une condamnation pour injure publique, mais il pourra invoquer son droit à la satire politique. (شہری کو عوامی توہین کے الزام میں سزا ہو سکتی ہے، لیکن وہ سیاسی طنز کے اپنے حق کا حوالہ دے سکتا ہے۔)",,1.0,
+question,"Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? (ایک سبسڈی یافتہ اسپورٹس ایسوسی ایشن ہر میچ سے پہلے دعا/نماز لازمی قرار دیتی ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Oui, si les adhérents sont d’accord. (جی ہاں، اگر ممبران متفق ہوں۔)",,0.0,
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. (نہیں، عوامی فنڈز سے چلنے والی ایسوسی ایشن کو غیر جانبداری کا احترام کرنا چاہیے۔)",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. (جی ہاں، اگر یہ مقامی روایت کا حصہ ہے۔)",,0.0,
+question,"Lors d’une alerte inondation, certains habitants ignorent les consignes d’évacuation. Quelle attitude responsable ? (سیلاب کے الرٹ کے دوران، کچھ رہائشی انخلاء کی ہدایات کو نظر انداز کر دیتے ہیں۔ ذمہ دارانہ رویہ کیا ہے؟)",,,lvl1
+answer,"Suivre les instructions des autorités et aider les voisins vulnérables. (حکام کی ہدایات پر عمل کریں اور کمزور پڑوسیوں کی مدد کریں۔)",,1.0,
+answer,"Publier une vidéo sur internet pour alerter sans partir. (بغیر جائے الرٹ کرنے کے لیے انٹرنیٹ پر ایک ویڈیو شائع کریں۔)",,0.0,
+answer,"Rester chez soi « pour protéger ses biens ». (اپنی املاک کی حفاظت کے لیے گھر پر ہی رہیں۔)",,0.0,
+question,"Une association culturelle exclut un membre pour ses opinions politiques radicales. Est-ce légal ? (ایک ثقافتی تنظیم کسی رکن کو اس کے انتہائی سیاسی نظریات کی وجہ سے نکال دیتی ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, si cette possibilité est prévue dans les statuts de l’association. (جی ہاں، اگر تنظیم کے ضوابط میں یہ گنجائش موجود ہو۔)",,1.0,
+answer,"Non, car une fois membre l’exclusion est impossible. (نہیں، کیونکہ ایک بار رکن بننے کے بعد نکالنا ناممکن ہے۔)",,0.0,
+answer,"Non, car toute exclusion pour opinions politiques est interdite. (نہیں، کیونکہ سیاسی آراء کی بنیاد پر نکالنا ممنوع ہے۔)",,0.0,
+question,"Un promeneur capture des papillons pour les collectionner. Est-ce autorisé ? (ایک سیر کرنے والا تتلیوں کو جمع کرنے کے لیے پکڑتا ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Oui, s’il les relâche après. (جی ہاں، اگر وہ انہیں بعد میں چھوڑ دے۔)",,0.0,
+answer,"Oui, s’il les garde chez lui. (جی ہاں، اگر وہ انہیں اپنے گھر رکھے۔)",,0.0,
+answer,"Non, certaines espèces sont protégées. (نہیں، کچھ اقسام محفوظ (پروٹیکٹڈ) ہیں۔)",,1.0,
+question,"Un homme refuse de s’adresser à une agente publique en raison de son sexe. Quelle marche à suivre ? (ایک آدمی جنس کی بنیاد پر سرکاری خاتون اہلکار سے بات کرنے سے انکار کرتا ہے۔ کیا طریقہ کار اپنایا جائے؟)",,,lvl1
+answer,"L'agente doit rappeler la loi de 1905 et refuser la démarche. (خاتون اہلکار کو 1905 کا قانون یاد دلا کر اس عمل سے انکار کر دینا چاہیے۔)",,0.0,
+answer,"L'agente informe que le service public ne peut être refusé pour ce motif et peut interrompre la démarche. (خاتون اہلکار اسے بتائے گی کہ اس وجہ سے عوامی خدمت سے انکار نہیں کیا جا سکتا اور وہ عمل روک سکتی ہے۔)",,1.0,
+answer,"L'agente doit demander à un collègue masculin d’assurer le service. (خاتون اہلکار کو کسی مرد ساتھی سے خدمت فراہم کرنے کا کہنا چاہیے۔)",,0.0,
+question,"Un restaurant refuse un client en fauteuil roulant pour raisons de place. Est-ce légal ? (ایک ریسٹورنٹ جگہ کی کمی کے باعث وہیل چیئر پر موجود گاہک کو انکار کر دیتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, si le restaurant est petit. (جی ہاں، اگر ریسٹورنٹ چھوٹا ہے۔)",,0.0,
+answer,"Non, refuser un client en raison de son handicap est interdit. (نہیں، کسی گاہک کو اس کی معذوری کی وجہ سے انکار کرنا ممنوع ہے۔)",,1.0,
+answer,"Oui, si le client vient seul. (جی ہاں، اگر گاہک اکیلا آئے۔)",,0.0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? (ایک پڑوسی اپنے باغ میں سبز کچرا جلاتا ہے جس سے بہت زیادہ دھواں پیدا ہوتا ہے۔ شہری اصولوں کے مطابق کیا ردعمل ہونا چاہیے؟)",,,lvl1
+answer,"Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. (اسے یاد دلائیں کہ یہ عمل ممنوع ہے اور ضرورت پڑنے پر بلدیہ کو اطلاع دیں۔)",,1.0,
+answer,"L’imiter pour “équilibrer les nuisances”. (اس کی نقل کریں تاکہ تکلیف برابر ہو جائے۔)",,0.0,
+answer,"Le laisser faire car c’est sa propriété. (اسے کرنے دیں کیونکہ یہ اس کی ملکیت ہے۔)",,0.0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? (ایک حادثے کے دوران، راہگیر مدد کرنے کے بجائے فلم بناتے ہیں۔ اخلاقی اور قانونی قاعدہ کیا ہے؟)",,,lvl1
+answer,"Porter assistance en priorité. (ترجیحی بنیادوں پر مدد فراہم کرنا۔)",,1.0,
+answer,"Attendre que d’autres interviennent. (انتظار کریں کہ دوسرے مداخلت کریں۔)",,0.0,
+answer,"Filmer pour les réseaux. (سوشل میڈیا کے لیے فلم بنائیں۔)",,0.0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? (فرانس میں کسی بھی موٹر گاڑی کے مالک کے لیے کم از کم قانونی ذمہ داری کیا ہے، چاہے گاڑی چلے یا نہ چلے؟)",,,lvl1
+answer,"L’obligation de souscrire une assurance tous risques. (ہر قسم کے خطرات کی انشورنس کروانے کی ذمہ داری۔)",,0.0,
+answer,"Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. (اگر گاڑی نجی پراپرٹی میں کھڑی رہے تو کوئی ذمہ داری نہیں ہے۔)",,0.0,
+answer,"L’obligation de souscrire une assurance en responsabilité civile (au tiers). ।) (تیسرے فریق (تھرڈ پارٹی) کی ذمہ داری کی انشورنس کروانے کی ذمہ داری۔)",,1.0,
+question,"Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ? (سڑک پر آپ ایک شخص کو زخمی اور بے ہوش دیکھتے ہیں۔ آپ کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"Continuer votre chemin. (اپنے راستے پر چلتے رہیں۔)",,0.0,
+answer,"Filmer pour garder une preuve. (ثبوت کے طور پر رکھنے کے لیے فلم بنائیں۔)",,0.0,
+answer,"Alerter les secours et sécuriser les lieux . (ایمرجنسی سروسز کو اطلاع دیں اور جگہ کو محفوظ بنائیں۔)",,1.0,
+question,"Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? (ایک آجر ملازم کے دفتری کمپیوٹر پر اس کی ذاتی ای میلز پڑھتا ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Non, les messages identifiés comme personnels sont protégés. (نہیں، وہ پیغامات جن پر ذاتی (پرسنل) لکھا ہو محفوظ ہوتے ہیں۔)",,1.0,
+answer,"Oui, car le matériel appartient à l’entreprise. (جی ہاں، کیونکہ کمپیوٹر کمپنی کا ہے۔)",,0.0,
+answer,"Oui, s’il ne les partage pas. (جی ہاں، اگر وہ انہیں کسی کے ساتھ شیئر نہ کرے۔)",,0.0,
+question,"Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? (ایک فارماسسٹ گاہک کی بیماری کے بارے میں اپنے پڑوسیوں کو بتاتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, s’il veut prévenir les autres. (جی ہاں، اگر وہ دوسروں کو خبردار کرنا چاہتا ہے۔)",,0.0,
+answer,"Non, il viole le secret professionnel. (نہیں، وہ پیشہ ورانہ راز کی خلاف ورزی کر رہا ہے۔)",,1.0,
+answer,"Oui, si le client est d’accord après. (جی ہاں، اگر گاہک بعد میں متفق ہو جائے۔)",,0.0,
+question,"Que doit-on faire face aux ordres des policiers ou gendarmes ? (پولیس یا جینڈرمز کے احکامات کے سامنے کیا کرنا چاہیے؟)",,,lvl1
+answer,"Les négocier sur place. (موقع پر بحث و مباحثہ کریں۔)",,0.0,
+answer,"Les contester immédiatement. (فوری طور پر اعتراض کریں۔)",,0.0,
+answer,"Les respecter dans le cadre de la loi. (قانون کے دائرے میں ان کا احترام کریں۔)",,1.0,
+question,"Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? (علیحدہ والدین اپنے بچے کے اسکول کے انتخاب پر متفق نہیں ہیں۔ اس صورتحال میں قانون والدین کی اتھارٹی کے استعمال کی وضاحت کیسے کرتا ہے؟)",,,lvl1
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. (علیحدگی کے بعد بھی اہم فیصلے دونوں والدین کو مل کر کرنے چاہئیں۔)",,1.0,
+answer,"La mère a toujours le dernier mot. (آخری فیصلہ ہمیشہ ماں کا ہوتا ہے۔)",,0.0,
+answer,"Le juge décide automatiquement. (جج خود بخود فیصلہ کر دیتا ہے۔)",,0.0,
+question,"Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? (جب آپ تشدد کے گواہ ہوں تو آپ کا کیا رویہ ہونا چاہیے؟)",,,lvl1
+answer,"Intervenir seul physiquement. (اکیلے جسمانی طور پر مداخلت کریں۔)",,0.0,
+answer,"Ne rien faire. (کچھ نہ کریں۔)",,0.0,
+answer,"Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. (ایمرجنسی سروسز یا پولیس کو آگاہ کریں اور جہاں تک ممکن ہو مدد کریں۔)",,1.0,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? (ایک انٹرنیٹ صارف لکھتا ہے کہ ""[گروپ X] خطرناک ہیں، انہیں نکال دینا چاہیے""۔ درست ردعمل کیا ہے؟)",,,lvl1
+answer,"Signaler et sanctionner ces propos. (ان بیانات کی رپورٹ کریں اور سزا دلوائیں۔)",,1.0,
+answer,"Tolérer car c’est une opinion. (برداشت کریں کیونکہ یہ ایک رائے ہے۔)",,0.0,
+answer,"Effacer seulement s’il s’excuse. (صرف اس صورت میں مٹائیں جب وہ معافی مانگے۔)",,0.0,
+question,"Est-il toujours possible de divorcer ? (کیا طلاق لینا ہمیشہ ممکن ہے؟)",,,lvl1
+answer,"Oui, uniquement avec l’accord des familles. (جی ہاں، صرف خاندانوں کی رضامندی سے۔)",,0.0,
+answer,"Non, sauf en cas de faute grave. (نہیں، سوائے کسی سنگین غلطی کے۔)",,0.0,
+answer,"Oui, le divorce est un droit reconnu par la loi. (جی ہاں، طلاق قانون کے ذریعے تسلیم شدہ ایک حق ہے۔)",,1.0,
+question,"Le recours à l’avortement est-il autorisé ? (کیا اسقاط حمل کا سہارا لینے کی اجازت ہے؟)",,,lvl1
+answer,"Non, il est interdit. (نہیں، یہ ممنوع ہے۔)",,0.0,
+answer,"Seulement avec l’accord du conjoint. (صرف شریک حیات کی رضامندی سے۔)",,0.0,
+answer,"Oui, dans les conditions prévues par la loi. (جی ہاں، قانون کے ذریعے فراہم کردہ شرائط کے تحت۔)",,1.0,
+question,"Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? (ایک آزاد کارکن (فری لانسر) سوشل سیکیورٹی میں اپنا حصہ ڈالنے سے انکار کرتا ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. (نہیں، قومی یکجہتی کی مالی اعانت کے لیے شراکت لازمی ہے۔)",,1.0,
+answer,"Oui, s’il a une assurance privée. (جی ہاں، اگر اس کی نجی انشورنس ہے۔)",,0.0,
+answer,"Oui, s’il n’est jamais malade. (جی ہاں، اگر وہ کبھی بیمار نہیں ہوتا۔)",,0.0,
+question,"Quel est un exemple d’assistance à personne en danger ? (کسی خطرے میں گھرے شخص کی مدد کرنے کی مثال کیا ہے؟)",,,lvl1
+answer,"Appeler les secours pour une personne blessée. (کسی زخمی شخص کے لیے ایمرجنسی کو کال کرنا۔)",,1.0,
+answer,"Quitter les lieux sans agir. (بغیر کچھ کیے جگہ چھوڑ دینا۔)",,0.0,
+answer,"Filmer la scène. (منظر کی فلم بنانا۔)",,0.0,
+question,"Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? (دو شادی شدہ فرانسیسی خواتین PMA کا سہارا لیتی ہیں۔ بچہ قانونی طور پر دوسری ماں سے کیسے منسلک ہوگا؟)",,,lvl1
+answer,"La loi ne reconnaît pas la seconde mère. (قانون دوسری ماں کو تسلیم نہیں کرتا۔)",,0.0,
+answer,"La seconde mère doit adopter l’enfant. (دوسری ماں کو بچہ گود لینا ہوگا۔)",,0.0,
+answer,"Les deux mères sont reconnues comme parents dès la naissance. (دونوں مائیں پیدائش سے ہی والدین کے طور پر تسلیم کی جاتی ہیں۔)",,1.0,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? (ایک عمارت میں رہائشی مشترکہ لائٹس کو ساری رات جلتا چھوڑ دیتے ہیں۔ کون سا شہری رویہ اپنانا چاہیے؟)",,,lvl1
+answer,"Ignorer le problème. (مسئلے کو نظر انداز کریں۔)",,0.0,
+answer,"Retirer les ampoules de force. (زبردستی بلب نکال دیں۔)",,0.0,
+answer,"Proposer des capteurs ou des minuteries pour réduire le gaspillage. (بجلی کے ضیاع کو کم کرنے کے لیے سینسر یا ٹائمر لگانے کی تجویز دیں۔)",,1.0,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? (سرکاری دستاویزات پر اپنی سول حیثیت (نام اور جنس) تبدیل کرنے کے لیے، کیا ٹرانس جینڈر شخص کا آپریشن ہونا لازمی ہے؟)",,,lvl1
+answer,"Oui, c’est obligatoire. (جی ہاں، یہ لازمی ہے۔)",,0.0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. (نہیں، 2017 سے کسی آپریشن یا طبی مداخلت کی ضرورت نہیں ہے۔)",,1.0,
+answer,"Oui, mais seulement une attestation psychiatrique. (جی ہاں، لیکن صرف نفسیاتی تصدیق درکار ہے۔)",,0.0,
+question,"Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? (ایک شہری جس پر جرمانہ عائد کیا گیا ہے وہ اختلاف کی وجہ سے ادائیگی سے انکار کرتا ہے۔ قانون کے مطابق درست رویہ کیا ہے؟)",,,lvl1
+answer,"Se faire justice soi-même. (خود اپنا انصاف کریں۔)",,0.0,
+answer,"Exécuter la décision ou exercer un recours prévu par la loi. (فیصلے پر عمل کریں یا قانون کے مطابق اپیل کا حق استعمال کریں۔)",,1.0,
+answer,"Ignorer la décision. (فیصلے کو نظر انداز کریں۔)",,0.0,
+question,"Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? (ایک پڑوسی پر چوری کا الزام ہے لیکن ابھی تک مقدمہ نہیں چلا۔ کیسا ردعمل ظاہر کریں؟)",,,lvl1
+answer,"Attendre la décision de justice avant de le juger. (اس کے بارے میں کوئی رائے قائم کرنے سے پہلے عدالتی فیصلے کا انتظار کریں۔)",,1.0,
+answer,"Le considérer coupable immédiatement. (اسے فوری طور پر مجرم سمجھ لیں۔)",,0.0,
+answer,"Publier son nom sur les réseaux sociaux. (سوشل میڈیا پر اس کا نام شائع کریں۔)",,0.0,
+question,"Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? (پبلک ٹرانسپورٹ کی ہڑتال کا اعلان ہوا ہے۔ کون سا نظام صارفین کو پہلے سے آگاہ کرنے میں مدد کرتا ہے؟)",,,lvl1
+answer,"Le droit de réquisition. (حق طلب (Requisition)۔)",,0.0,
+answer,"Le service minimum avec publication des prévisions de circulation. (ٹریفک کی پیشن گوئی کی اشاعت کے ساتھ کم از کم سروس۔)",,1.0,
+answer,"Une limitation légale du nombre de grévistes. (ہڑتال کرنے والوں کی تعداد پر قانونی حد۔)",,0.0,
+question,"Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? (ایک شخص کو ""بینک"" کی جانب سے ایک ای میل ملتی ہے جس میں پاس ورڈ مانگے گئے ہیں۔ اسے کیا کرنا چاہیے؟)",,,lvl1
+answer,"Répondre pour vérifier. (تصدیق کے لیے جواب دیں۔)",,0.0,
+answer,"Ne pas répondre et signaler la fraude. (جواب نہ دیں اور اس فراڈ کی اطلاع دیں۔)",,1.0,
+answer,"Donner les codes si l’adresse semble officielle. (اگر ای میل ایڈریس اصلی لگے تو کوڈز دے دیں۔)",,0.0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? (بغیر دستاویزات کے شناختی چیکنگ کے دوران، کیا پولیس آپ کو تھانے لے جا سکتی ہے؟)",,,lvl1
+answer,"Non, jamais. (نہیں، کبھی نہیں۔)",,0.0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. (جی ہاں، شناخت کی تصدیق کے لیے جو 4 گھنٹے تک چل سکتی ہے۔)",,1.0,
+answer,"Non, elle doit vous laisser partir. (نہیں، اسے آپ کو جانے دینا ہوگا۔)",,0.0,
+question,"Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? (ایک رہائشی سٹی کونسل کے عوامی اجلاس میں شرکت کرتا ہے۔ کیا وہ بات کر سکتا ہے؟)",,,lvl1
+answer,"Oui, si le maire l’autorise selon les règles locales. (جی ہاں، اگر میئر مقامی قوانین کے مطابق اسے اجازت دے۔)",,1.0,
+answer,"Non, seuls les élus peuvent parler. (نہیں، صرف منتخب نمائندے ہی بات کر سکتے ہیں۔)",,0.0,
+answer,"Oui, librement et sans limite. (جی ہاں، آزادانہ اور بغیر کسی حد کے۔)",,0.0,
+question,"Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? (ایک ریسٹورنٹ مالک ایک ہم جنس پرست جوڑے کو کھانا پیش کرنے سے انکار کرتا ہے۔ کیا قانون ہے؟)",,,lvl1
+answer,"Autorisé si le restaurant est familial. (اگر ریسٹورنٹ خاندانی ہے تو اجازت ہے۔)",,0.0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. (یہ ممنوع ہے، کسی سروس تک رسائی کا انحصار جنسی رجحان پر نہیں ہو سکتا۔)",,1.0,
+answer,"Autorisé s’il affiche ce refus. (اگر وہ یہ انکار لکھ کر لگا دے تو اجازت ہے۔)",,0.0,
+question,"Qui veille au maintien de l’ordre public ? (امن عامہ برقرار رکھنے کا خیال کون رکھتا ہے؟)",,,lvl1
+answer,"Le Parlement. (پارلیمنٹ۔)",,0.0,
+answer,"Les mairies. (بلدیات۔)",,0.0,
+answer,"La police et la gendarmerie. (پولیس اور جینڈرمیری۔)",,1.0,
+question,"Le respect des décisions de justice est-il obligatoire ? (کیا عدالتی فیصلوں کا احترام لازمی ہے؟)",,,lvl1
+answer,"Non, si on n’est pas d’accord. (نہیں، اگر ہم متفق نہ ہوں۔)",,0.0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. (جی ہاں، اختلاف کی صورت میں بھی، قانونی اپیل کے امکان کے ساتھ۔)",,1.0,
+answer,"Seulement pour les étrangers. (صرف غیر ملکیوں کے لیے۔)",,0.0,
+question,"Quelle proposition constitue une obligation ? (ان میں سے کون سی تجویز ایک لازمی فرض (Obligation) ہے؟)",,,lvl1
+answer,"Respecter la loi. (قانون کا احترام کرنا۔)",,1.0,
+answer,"Voter à chaque élection. (ہر انتخاب میں ووٹ دینا۔)",,0.0,
+answer,"Adhérer à une association. (کسی تنظیم کا حصہ بننا۔)",,0.0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? (قانونی چیکنگ کے دوران ایک راہگیر اپنی شناخت بتانے سے انکار کرتا ہے۔ درست رویہ کیا ہے؟)",,,lvl1
+answer,"Refuser au nom de la liberté individuelle. (انفرادی آزادی کے نام پر انکار کرنا۔)",,0.0,
+answer,"Reporter le contrôle à plus tard. (چیکنگ کو بعد کے لیے ملتوی کرنا۔)",,0.0,
+answer,"Coopérer et présenter une pièce d’identité. (تعاون کرنا اور شناختی دستاویز پیش کرنا۔)",,1.0,
+question,"Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? (آپ اپنی بلدیہ کے عوامی اخراجات کی تفصیلات جاننا چاہتے ہیں۔ آپ کا کیا حق ہے؟)",,,lvl1
+answer,"Passer obligatoirement par un avocat. (لازمی طور پر وکیل کے ذریعے کام کروانا۔)",,0.0,
+answer,"Vous n’avez pas ce droit. (آپ کو یہ حق حاصل نہیں ہے۔)",,0.0,
+answer,"Le droit d’accès aux documents administratifs. (انتظامی دستاویزات تک رسائی کا حق۔)",,1.0,
+question,"Une candidate voilée postule dans un supermarché ; l’employeur la rejette pour ce motif. Est-ce légal ? (ایک حجاب والی خاتون سپر مارکیٹ میں نوکری کے لیے درخواست دیتی ہے؛ آجر اسے اسی وجہ سے مسترد کر دیتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, car l’employeur refuse tous les signes religieux. (جی ہاں، کیونکہ آجر تمام مذہبی علامات کو مسترد کرتا ہے۔)",,0.0,
+answer,"Oui, si les clients sont gênés. (جی ہاں، اگر گاہک پریشان ہوں۔)",,0.0,
+answer,"Non, c’est une discrimination fondée sur la religion. (نہیں، یہ مذہب کی بنیاد پر امتیازی سلوک ہے۔)",,1.0,
+question,"Un homme se présente à la mairie pour une démarche administrative et refuse de s'adresser à une agente publique en raison de son sexe. Quelle est la marche à suivre pour l'agente ? (ایک شخص انتظامی کارروائی کے لیے بلدیہ آتا ہے اور جنس کی بنیاد پر خاتون اہلکار سے بات کرنے سے انکار کرتا ہے۔ اہلکار کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"L'agente doit lui rappeler la loi de 1905 sur la laïcité et refuser d'effectuer la démarche. (اہلکار اسے 1905 کا سیکولرزم قانون یاد دلائے اور کارروائی کرنے سے انکار کر دے۔)",,0.0,
+answer,"L'agente doit l'informer que le service public ne peut être rendu qu'au guichet qu'il refuse, et que son refus est une rupture du principe d'égalité. (اہلکار اسے بتائے کہ عوامی خدمت صرف اسی کاؤنٹر پر مل سکتی ہے جس سے وہ انکار کر رہا ہے، اور اس کا انکار برابری کے اصول کی خلاف ورزی ہے۔)",,1.0,
+answer,"L'agente doit demander à un collègue masculin d'assurer le service pour éviter un conflit. (اہلکار تنازعے سے بچنے کے لیے اپنے کسی مرد ساتھی سے کام کرنے کا کہے۔)",,0.0,
+question,"Un automobiliste voit une voiture accidentée mais poursuit sa route « pour ne pas être en retard ». Quelle attitude conforme ? (ایک ڈرائیور حادثے کا شکار گاڑی دیکھتا ہے لیکن ""دیر نہ ہونے"" کی وجہ سے چلتا رہتا ہے۔ درست رویہ کیا ہے؟)",,,lvl1
+answer,"Filmer et poster la vidéo. (ویڈیو بنائیں اور پوسٹ کریں۔)",,0.0,
+answer,"S’arrêter et prévenir les secours. (رکیں اور ایمرجنسی کو اطلاع دیں۔)",,1.0,
+answer,"Poursuivre son trajet. (اپنا سفر جاری رکھیں۔)",,0.0,
+question,"Une commune refuse de proposer un hébergement d’urgence à une famille sans abri en hiver. Est-ce conforme ? (ایک بلدیہ سردیوں میں ایک بے گھر خاندان کو ہنگامی رہائش دینے سے انکار کرتی ہے۔ کیا یہ درست ہے؟)",,,lvl1
+answer,"Non, toute personne sans abri doit pouvoir accéder à un hébergement d’urgence. (نہیں، ہر بے گھر شخص کو ہنگامی رہائش تک رسائی ملنی چاہیے۔)",,1.0,
+answer,"Oui, si la famille vient d’une autre région. (جی ہاں، اگر خاندان کسی دوسرے علاقے سے آیا ہو۔)",,0.0,
+answer,"Oui, si les centres sont pleins. (جی ہاں، اگر مراکز بھرے ہوئے ہوں۔)",,0.0,
+question,"Une entreprise déverse des solvants dans un ruisseau pour “économiser le traitement”. Quelle conséquence ? (ایک کمپنی علاج کا خرچ بچانے کے لیے سالوینٹس کو ندی میں بہا دیتی ہے۔ اس کا کیا نتیجہ ہوگا؟)",,,lvl1
+answer,"Toléré s’il s’agit d’une petite quantité. (اگر مقدار تھوڑی ہو تو برداشت کیا جائے گا۔)",,0.0,
+answer,"Autorisé sur terrain privé. (نجی اراضی پر اجازت ہے۔)",,0.0,
+answer,"C’est une infraction environnementale grave. (یہ ایک سنگین ماحولیاتی جرم ہے۔)",,1.0,
+question,"Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? (ایک شہری کے پاس فارغ وقت ہے اور وہ مقامی زندگی میں حصہ لینا چاہتی ہے۔ کون سا قدم بھائی چارے کی عکاسی کرتا ہے؟)",,,lvl1
+answer,"S’engager comme bénévole dans une association. (کسی تنظیم میں بطور رضاکار شامل ہونا۔)",,1.0,
+answer,"Aider seulement contre rémunération. (صرف پیسوں کے بدلے مدد کرنا۔)",,0.0,
+answer,"Attendre que l’État fasse tout. (ریاست کے سب کچھ کرنے کا انتظار کرنا۔)",,0.0,
+question,"Un utilisateur partage un faux message d’alerte “terroriste”. Risque-t-il une sanction ? (ایک صارف دہشت گردی کا جھوٹا الرٹ میسج شیئر کرتا ہے۔ کیا اسے سزا مل سکتی ہے؟)",,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. (جی ہاں، جھوٹی خبریں پھیلانا قابل سزا ہے۔)",,1.0,
+answer,"Non, s’il supprime après. (نہیں، اگر وہ بعد میں ڈیلیٹ کر دے۔)",,0.0,
+answer,"Oui, seulement si cela devient viral. (جی ہاں، صرف اس صورت میں جب وہ وائرل ہو جائے۔)",,0.0,
+question,"Un locataire organise des barbecues collectifs sur le balcon malgré l’interdiction de la copropriété. Est-ce légal ? (ایک کرایہ دار عمارت کی انتظامیہ کی ممانعت کے باوجود بالکونی میں باربی کیو کا انتظام کرتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, s’il invite les voisins. (جی ہاں، اگر وہ پڑوسیوں کو مدعو کرے۔)",,0.0,
+answer,"Oui, si ce n’est pas fréquent. (جی ہاں، اگر یہ زیادہ کثرت سے نہ ہو۔)",,0.0,
+answer,"Non, le règlement intérieur s’impose à tous. (نہیں، اندرونی ضوابط سب پر لاگو ہوتے ہیں۔)",,1.0,
+question,"Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? (ایک شخص کاغذ والے کوڑے دان میں کین (Canette) پھینک دیتا ہے۔ کیا یہ سنگین بات ہے؟)",,,lvl1
+answer,"Non, c’est toujours mieux que par terre. (نہیں، زمین پر پھینکنے سے یہ بہتر ہے۔)",,0.0,
+answer,"Oui, seulement si quelqu’un la voit. (جی ہاں، صرف اگر کوئی اسے دیکھ لے۔)",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. ।) (جی ہاں، غلط چھانٹی ری سائیکلنگ کو روکتی ہے۔)",,1.0,
+question,"Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ?। ?) (ایک شہری یہ انتخاب کرنا چاہتا ہے کہ اس کا ٹیکس کہاں استعمال ہو (مثلاً اسکول میں ہو مگر فوج پر نہیں)۔ کیا یہ ممکن ہے؟)",,,lvl1
+answer,"Oui, sur demande à la mairie. (جی ہاں، بلدیہ میں درخواست دینے پر۔)",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. (نہیں، ٹیکس اجتماعی ہوتا ہے اور انفرادی طور پر مختص نہیں کیا جا سکتا۔)",,1.0,
+answer,"Oui, en cochant la bonne case. (جی ہاں، صحیح خانہ (باکس) ٹک کر کے۔)",,0.0,
+question,"Une entreprise paie différemment deux salariés pour le même poste et la même ancienneté. Quelle règle s’applique ? (ایک کمپنی ایک ہی عہدے اور تجربے والے دو ملازمین کو مختلف تنخواہ دیتی ہے۔ کون سا اصول لاگو ہوتا ہے؟)",,,lvl1
+answer,"La différence est normale si les employés sont de sexe différent. (اگر ملازمین کی جنس مختلف ہو تو یہ فرق معمول کی بات ہے۔)",,0.0,
+answer,"L’entreprise peut fixer librement les salaires sans justification. (کمپنی بغیر جواز کے آزادانہ طور پر تنخواہیں طے کر سکتی ہے۔)",,0.0,
+answer,"L’égalité de rémunération pour un travail égal. (برابر کام کے لیے برابر تنخواہ۔)",,1.0,
+question,"Sur un forum d'actualité, vous laissez un commentaire anonyme très agressif visant une personne publique, mais sans diffamation. Votre commentaire est-il protégé par la liberté d'expression ? (ایک نیوز فورم پر، آپ ایک عوامی شخصیت پر بغیر تہمت لگائے ایک انتہائی جارحانہ اور گمنام تبصرہ کرتے ہیں۔ کیا آپ کا تبصرہ آزادی اظہار کے تحت محفوظ ہے؟)",,,lvl1
+answer,"Non, l'anonymat ne protège pas contre l'injure publique, et l'hébergeur pourra être contraint de communiquer votre identité. (نہیں، گمنامی عوامی توہین سے نہیں بچاتی، اور میزبان ویب سائٹ کو آپ کی شناخت بتانے پر مجبور کیا جا سکتا ہے۔)",,1.0,
+answer,"Oui, car la liberté d'expression en ligne est totale tant qu'on utilise un pseudonyme. (جی ہاں، کیونکہ جب تک فرضی نام استعمال کیا جائے آن لائن آزادی اظہار مکمل ہے۔)",,0.0,
+answer,"Oui, car seule la presse est soumise à des lois strictes sur la diffamation et l'injure. (جی ہاں، کیونکہ صرف پریس پر تہمت اور توہین کے سخت قوانین لاگو ہوتے ہیں۔)",,0.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? (ایک ڈرائیور کو فی لیٹر خون میں 0.7 گرام الکحل کے ساتھ چیک کیا جاتا ہے۔ درست ردعمل کیا ہے؟)",,,lvl1
+answer,"Tenter de négocier sur place. (موقع پر گفت و شنید کرنے کی کوشش کریں۔)",,0.0,
+answer,"Fuir le contrôle. (چیکنگ سے فرار ہو جائیں۔)",,0.0,
+answer,"Reconnaître l’infraction et accepter les sanctions prévues par la loi. (خلاف ورزی کو تسلیم کریں اور قانون کے مطابق سزائیں قبول کریں۔)",,1.0,
+question,"Un collectif veut manifester demain sans déclaration préalable. Quelle démarche conforme ? (ایک گروہ کل بغیر پیشگی اطلاع کے مظاہرہ کرنا چاہتا ہے۔ کون سا طریقہ کار درست ہے؟)",,,lvl1
+answer,"Bloquer la circulation pour attirer l’attention. (توجہ مبذول کروانے کے لیے ٹریفک بلاک کریں۔)",,0.0,
+answer,"Manifester librement sans formalité. (کسی رسمی کارروائی کے بغیر آزادانہ مظاہرہ کریں۔)",,0.0,
+answer,"Déclarer la manifestation et respecter l’ordre public. (مظاہرے کا اعلان کریں اور امن عامہ کا احترام کریں۔)",,1.0,
+question,"Un propriétaire refuse de louer à un couple étranger malgré un dossier solide. Est-ce autorisé ? (ایک مالک مکان تمام ضروری کاغذات مکمل ہونے کے باوجود ایک غیر ملکی جوڑے کو گھر کرائے پر دینے سے انکار کرتا ہے۔ کیا اس کی اجازت ہے؟)",,,lvl1
+answer,"Oui, car c’est son logement. (جی ہاں، کیونکہ یہ اس کا گھر ہے۔)",,0.0,
+answer,"Non, c’est une discrimination liée à l’origine. (نہیں، یہ نسل/اصل کی بنیاد پر امتیازی سلوک ہے۔)",,1.0,
+answer,"Oui, si le loyer est augmenté. (جی ہاں، اگر کرایہ بڑھا دیا جائے۔)",,0.0,
+question,"Un dessinateur publie une caricature jugée offensante par un groupe religieux qui porte plainte pour blasphème. Quelle règle s’applique ? (ایک کارٹونسٹ ایک خاکہ شائع کرتا ہے جسے ایک مذہبی گروہ توہین آمیز سمجھ کر توہین مذہب کا مقدمہ دائر کرتا ہے۔ کون سا قانون لاگو ہوتا ہے؟)",,,lvl1
+answer,"Le juge peut condamner pour offense aux croyants. (جج مومنوں کو ناراض کرنے پر سزا دے سکتا ہے۔)",,0.0,
+answer,"Le blasphème n’est pas un délit en France ; seule l’incitation à la haine est punie. (فرانس میں توہین مذہب کوئی جرم نہیں ہے؛ صرف نفرت پھیلانے پر سزا دی جاتی ہے۔)",,1.0,
+answer,"Toute moquerie de religion est interdite. (مذہب کا مذاق اڑانا بالکل ممنوع ہے۔)",,0.0,
+question,"Un passager monte dans le train sans billet “parce que tout le monde le fait”. Quelle attitude civique ? (ایک مسافر بغیر ٹکٹ ٹرین میں سوار ہوتا ہے ""کیونکہ سب ایسا کرتے ہیں""۔ شہری رویہ کیا ہونا چاہیے؟)",,,lvl1
+answer,"Se cacher du contrôleur. (ٹکٹ چیکر سے چھپ جانا چاہیے۔)",,0.0,
+answer,"Argumenter sur le prix trop élevé. (زیادہ قیمت پر بحث کرنی چاہیے۔)",,0.0,
+answer,"Acheter un billet et respecter les règles de transport. (ٹکٹ خریدنا چاہیے اور نقل و حمل کے قوانین کا احترام کرنا چاہیے۔)",,1.0,
+question,"Un donneur est refusé parce qu’il est homosexuel. Est-ce légal ? (ایک خون دینے والے کو ہم جنس پرست ہونے کی وجہ سے مسترد کر دیا جاتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, pour des raisons morales. (جی ہاں، اخلاقی وجوہات کی بنا پر۔)",,0.0,
+answer,"Non, les critères doivent reposer uniquement sur la sécurité sanitaire. (نہیں، معیار کا انحصار صرف صحت کے تحفظ پر ہونا چاہیے۔)",,1.0,
+answer,"Oui, car le personnel choisit librement. (جی ہاں، کیونکہ عملہ آزادانہ انتخاب کر سکتا ہے۔)",,0.0,
+question,"Un contribuable refuse de payer ses impôts en disant “je n’utilise pas les services publics”. Est-ce recevable ? (ایک ٹیکس دہندہ یہ کہہ کر ٹیکس دینے سے انکار کرتا ہے کہ ""میں عوامی خدمات استعمال نہیں کرتا""۔ کیا یہ قابل قبول ہے؟)",,,lvl1
+answer,"Oui, s’il n’a pas d’enfants scolarisés. (جی ہاں، اگر اس کے بچے اسکول میں نہیں پڑھتے۔)",,0.0,
+answer,"Non, l’impôt finance le fonctionnement collectif. (نہیں، ٹیکس اجتماعی نظام کو چلانے کے لیے ہوتا ہے۔)",,1.0,
+answer,"Oui, s’il est né à l’étranger. (جی ہاں، اگر وہ بیرون ملک پیدا ہوا ہے۔)",,0.0,
+question,"Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? (ایک شہری اپنے کتے کا فضلہ فٹ پاتھ پر چھوڑ دیتا ہے۔ کون سا قانون لاگو ہوتا ہے؟)",,,lvl1
+answer,"Laisser sur place, « la pluie nettoiera ». (وہیں چھوڑ دیں، ""بارش صاف کر دے گی""۔)",,0.0,
+answer,"Couvrir avec du sable. (ریت سے ڈھانپ دیں۔)",,0.0,
+answer,"Ramasser et jeter dans les poubelles prévues. (اٹھائیں اور مقررہ کوڑے دان میں ڈالیں۔)",,1.0,
+question,"Un candidat à l'embauche se voit refuser le poste car il mentionne sur son CV qu'il est délégué syndical dans son entreprise actuelle. De quoi l'entreprise se rend-elle coupable ? (ایک امیدوار کو نوکری سے اس لیے انکار کر دیا جاتا ہے کیونکہ اس نے اپنی سی وی میں لکھا ہے کہ وہ اپنی موجودہ کمپنی میں ٹریڈ یونین کا نمائندہ ہے۔ کمپنی کس چیز کی مجرم ہے؟)",,,lvl1
+answer,"Le refus est légitime, car l'employeur peut juger que l'engagement syndical nuit à la productivité. (انکار جائز ہے، کیونکہ آجر یہ سمجھ سکتا ہے کہ یونین میں شمولیت پیداواری صلاحیت کو نقصان پہنچاتی ہے۔)",,0.0,
+answer,"Discrimination syndicale, un délit sévèrement puni par le Code du travail et le Code pénal. (یونین کی بنیاد پر امتیازی سلوک، جو لیبر کوڈ اور پینل کوڈ کے تحت ایک سخت قابل سزا جرم ہے۔)",,1.0,
+answer,"Rupture d'égalité de traitement, mais qui ne constitue pas une discrimination punissable. (مساوی سلوک کی خلاف ورزی، لیکن یہ قابل سزا جرم نہیں ہے۔)",,0.0,
+question,"Un usager malentendant se présente à un guichet administratif sans interprète en langue des signes. L'agent public doit-il lui fournir une aide spécifique ? (ایک قوت سماعت سے محروم شخص بغیر اشاروں کی زبان والے مترجم کے سرکاری دفتر میں آتا ہے۔ کیا سرکاری اہلکار کو اسے کوئی خاص مدد فراہم کرنی چاہیے؟)",,,lvl1
+answer,"Non, l'usager doit se présenter avec les moyens nécessaires à sa compréhension. (نہیں، صارف کو خود سمجھنے کے ضروری ذرائع کے ساتھ آنا چاہیے۔)",,0.0,
+answer,"L'administration a une obligation d'adaptation et de compensation pour garantir l'égalité d'accès au service pour les personnes handicapées. (معذور افراد کے لیے خدمات تک مساوی رسائی کو یقینی بنانے کے لیے انتظامیہ پر حالات کو سازگار بنانے کی ذمہ داری عائد ہوتی ہے۔)",,1.0,
+answer,"Non, car les services publics n'ont pas l'obligation d'engager des interprètes. (نہیں، کیونکہ سرکاری اداروں پر مترجم رکھنے کی کوئی پابندی نہیں ہے۔)",,0.0,
+question,"Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? (رہائشی ایک سائیکل ٹریک بنانے کے لیے پٹیشن پر دستخط کرتے ہیں۔ اس کا قانونی اثر کیا ہوگا؟)",,,lvl1
+answer,"Elle crée immédiatement la piste. (یہ فوری طور پر ٹریک بنا دے گا۔)",,0.0,
+answer,"Elle remplace un vote municipal. (یہ بلدیاتی ووٹنگ کی جگہ لے لے گا۔)",,0.0,
+answer,"Elle peut être transmise à la collectivité mais ne l’oblige pas. (اسے حکام تک پہنچایا جا سکتا ہے لیکن یہ ان کے لیے لازمی نہیں ہے۔)",,1.0,
+question,"Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ?। ?) (ایک شہری یہ انتخاب کرنا چاہتا ہے کہ اس کا ٹیکس کہاں استعمال ہو (مثلاً اسکول میں ہو مگر فوج پر نہیں)۔ کیا یہ ممکن ہے؟)",,,lvl1
+answer,"Oui, en cochant la bonne case. (جی ہاں، صحیح خانے میں نشان لگا کر۔)",,0.0,
+answer,"Oui, sur demande à la mairie. (جی ہاں، بلدیہ میں درخواست دے کر۔)",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. (نہیں، ٹیکس اجتماعی ہوتا ہے اور انفرادی طور پر مختص نہیں کیا جا سکتا۔)",,1.0,
+question,"Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? (ایک بیمار ملازم کو طبی چھٹی پر ہونے کے باوجود برطرفی کا خط ملتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. (نہیں، صحت کی حالت کی بنیاد پر برخاستگی ایک امتیازی سلوک ہے۔)",,1.0,
+answer,"Oui, dès qu’il dépasse une semaine d’arrêt. (جی ہاں، جیسے ہی اس کی چھٹی ایک ہفتے سے زیادہ ہو جائے۔)",,0.0,
+answer,"Oui, s’il est remplacé par quelqu’un de plus disponible. (جی ہاں، اگر اس کی جگہ کسی زیادہ دستیاب شخص کو رکھ لیا جائے۔)",,0.0,
+question,"Lors d'un entretien d'embauche, un recruteur vous pose une question sur votre âge sans lien avec les compétences requises. Quelle est votre option de réponse la plus appropriée, du point de vue légal ? (جاب انٹرویو کے دوران، ایک ریکروٹر آپ سے آپ کی عمر کے بارے میں پوچھتا ہے جس کا مطلوبہ صلاحیتوں سے کوئی تعلق نہیں ہے۔ قانونی نقطہ نظر سے آپ کا سب سے مناسب جواب کیا ہوگا؟)",,,lvl1
+answer,"Rappeler poliment que l'âge est un critère de discrimination interdit et demander en quoi cette question est pertinente pour le poste. (شائستگی سے یاد دلائیں کہ عمر امتیازی سلوک کا ایک ممنوعہ معیار ہے اور پوچھیں کہ یہ سوال اس عہدے کے لیے کیسے متعلقہ ہے۔)",,1.0,
+answer,"Répondre que le Code du travail interdit de poser cette question, sous peine d'annulation de l'entretien. (یہ جواب دیں کہ لیبر قانون یہ سوال پوچھنے سے منع کرتا ہے اور انٹرویو منسوخ ہو سکتا ہے۔)",,0.0,
+answer,"Mentir sur son âge pour éviter d'être pénalisé. (نقصان سے بچنے کے لیے اپنی عمر کے بارے میں جھوٹ بولیں۔)",,0.0,
+question,"Au collège, une élève se plaint de moqueries et d'insultes homophobes de la part d'autres élèves. Que doit faire l'équipe pédagogique ? (اسکول میں، ایک طالبہ دوسرے طلباء کی طرف سے ہم جنس پرستی کی بنیاد پر تمسخر اور توہین کی شکایت کرتی ہے۔ تدریسی عملے کو کیا کرنا چاہیے؟)",,,lvl1
+answer,"L'équipe pédagogique doit engager des mesures disciplinaires contre les auteurs, car l'homophobie constitue un manquement grave aux principes de la République et du vivre-ensemble. (عملے کو ذمہ داروں کے خلاف انضباطی کارروائی کرنی چاہیے، کیونکہ ہومو فوبیا جمہوریہ کے اصولوں اور مل جل کر رہنے کی سنگین خلاف ورزی ہے۔)",,1.0,
+answer,"L'équipe pédagogique doit tolérer l'incident, car la liberté d'expression des élèves est protégée. (عملے کو اس واقعے کو برداشت کرنا چاہیے، کیونکہ طلباء کی آزادی اظہار محفوظ ہے۔)",,0.0,
+answer,"L'équipe doit se contenter d'un simple rappel à l'ordre, car ce sont des affaires privées qui ne relèvent pas du domaine scolaire. (عملے کو صرف ایک سادہ سی تنبیہ کرنی چاہیے، کیونکہ یہ نجی معاملات ہیں جو اسکول کے دائرہ کار میں نہیں آتے۔)",,0.0,
+question,"Des adolescents détériorent les bancs du parc public. Quelle réaction citoyenne ? (کچھ نوجوان پبلک پارک کے بینچوں کو توڑ رہے ہیں۔ شہری ردعمل کیا ہونا چاہیے؟)",,,lvl1
+answer,"Considérer cela comme “jeu d’enfant”. (اسے بچوں کا کھیل سمجھنا چاہیے۔)",,0.0,
+answer,"Filmer et diffuser sur internet pour le buzz. (مشہور ہونے کے لیے ویڈیو بنا کر انٹرنیٹ پر ڈالنی چاہیے۔)",,0.0,
+answer,"Signaler l’acte et sensibiliser au respect des biens communs. (اس واقعے کی اطلاع دینی چاہیے اور عوامی املاک کے احترام کے بارے میں آگاہ کرنا چاہیے۔)",,1.0,
+question,"Dans une entreprise, le règlement intérieur interdit tout signe religieux pour des raisons de sécurité. Est-ce légal ? (ایک کمپنی میں، حفاظتی وجوہات کی بنا پر اندرونی ضوابط میں ہر قسم کی مذہبی علامات پر پابندی ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, seulement pour certaines religions. (جی ہاں، صرف کچھ مخصوص مذاہب کے لیے۔)",,0.0,
+answer,"Oui, si la restriction est justifiée par la nature du travail. (جی ہاں، اگر کام کی نوعیت کے لحاظ سے یہ پابندی جائز ہے۔)",,1.0,
+answer,"Non, toute interdiction est discriminatoire. (نہیں، ہر قسم کی پابندی امتیازی سلوک ہے۔)",,0.0,
+question,"Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? (ایک شخص کاغذ والے کوڑے دان میں کین (Canette) پھینک دیتا ہے۔ کیا یہ سنگین بات ہے؟)",,,lvl1
+answer,"Non, c’est toujours mieux que par terre. (نہیں، زمین پر پھینکنے سے یہ بہتر ہے۔)",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. ।) (جی ہاں، غلط چھانٹی ری سائیکلنگ کو روکتی ہے۔)",,1.0,
+answer,"Oui, seulement si quelqu’un la voit. (جی ہاں، صرف اگر کوئی اسے دیکھ لے۔)",,0.0,
+question,"Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? (ایک ویب سائٹ بغیر اجازت صارفین کا ڈیٹا جمع کرتی ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, si c’est pour la publicité. (جی ہاں، اگر یہ اشتہارات کے لیے ہے۔)",,0.0,
+answer,"Non, il faut le consentement clair de la personne. (نہیں، اس کے لیے متعلقہ شخص کی واضح اجازت ضروری ہے۔)",,1.0,
+answer,"Oui, si les données restent en Europe. (جی ہاں، اگر ڈیٹا یورپ کے اندر ہی رہے۔)",,0.0,
+question,"Un voyageur transporte une arme blanche dans le métro “pour se défendre”. Est-ce légal ? (ایک مسافر ""اپنے دفاع کے لیے"" میٹرو میں چاقو/تیز دھار آلہ لے کر جاتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, s’il ne s’en sert pas. (جی ہاں، اگر وہ اسے استعمال نہ کرے۔)",,0.0,
+answer,"Non, le port d’arme sans motif légitime est interdit. (نہیں، جائز وجہ کے بغیر ہتھیار لے جانا ممنوع ہے۔)",,1.0,
+answer,"Oui, si elle reste cachée. (جی ہاں، اگر وہ چھپا ہوا ہو۔)",,0.0,
+question,"Vous êtes témoin d'une violente dispute de couple dans la rue. L'un des partenaires pousse l'autre violemment, sans qu'il ne chute. N'intervenant pas, pouvez-vous être accusé de non-assistance à personne en danger ? (آپ سڑک پر ایک جوڑے کے درمیان پرتشدد جھگڑے کے گواہ ہیں۔ ایک پارٹنر دوسرے کو زور سے دھکا دیتا ہے، لیکن وہ گرتا نہیں۔ اگر آپ مداخلت نہیں کرتے، تو کیا آپ پر خطرے میں موجود شخص کی مدد نہ کرنے کا الزام لگایا جا سکتا ہے؟)",,,lvl1
+answer,"Non, car le délit exige que la personne soit confrontée à un péril certain et immédiat, ce qui n'est pas le cas ici (pas de chute ou de blessure apparente grave).।) (نہیں، کیونکہ جرم ثابت ہونے کے لیے شخص کا یقینی اور فوری خطرے میں ہونا ضروری ہے، جو یہاں نہیں ہے (کوئی گرنے یا شدید چوٹ کا نشان نہیں)۔)",,1.0,
+answer,"Oui, car le simple fait de ne pas alerter les secours ou d'intervenir est suffisant pour le délit de non-assistance. (جی ہاں، کیونکہ محض ایمرجنسی کو اطلاع نہ دینا یا مداخلت نہ کرنا ہی اس جرم کے لیے کافی ہے۔)",,0.0,
+answer,"Oui, car la loi oblige à intervenir dès qu'une violence est constatée en public. (جی ہاں، کیونکہ قانون عوامی جگہ پر تشدد دیکھتے ہی مداخلت کا پابند کرتا ہے۔)",,0.0,
+question,"Lors d’un spectacle, un humoriste se moque d’un groupe religieux sans appel à la haine. Est-ce autorisé ? (ایک شو کے دوران، ایک کامیڈین کسی مذہبی گروہ کا مذاق اڑاتا ہے لیکن نفرت پھیلانے کی کوئی بات نہیں کرتا۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Oui, la satire est protégée si elle ne vise pas à humilier. (جی ہاں، طنز کی حفاظت کی جاتی ہے اگر اس کا مقصد ذلیل کرنا نہ ہو۔)",,1.0,
+answer,"Non, on ne peut jamais plaisanter sur la religion. (نہیں، مذہب پر کبھی مذاق نہیں کیا جا سکتا۔)",,0.0,
+answer,"Oui, même si cela provoque la violence. (جی ہاں، یہاں تک کہ اگر اس سے تشدد بھی پیدا ہو۔)",,0.0,
+question,"Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? (ایک آجر ملازم کے دفتری کمپیوٹر پر اس کی ذاتی ای میلز پڑھتا ہے۔ کیا یہ جائز ہے؟)",,,lvl1
+answer,"Oui, car le matériel appartient à l’entreprise. (جی ہاں، کیونکہ کمپیوٹر کمپنی کا ہے۔)",,0.0,
+answer,"Non, les messages identifiés comme personnels sont protégés. (نہیں، ذاتی حیثیت سے شناخت کیے گئے پیغامات محفوظ ہیں۔)",,1.0,
+answer,"Oui, s’il ne les partage pas. (جی ہاں، اگر وہ انہیں کسی کے ساتھ شیئر نہ کرے۔)",,0.0,
+question,"Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? (ایک شہری کے پاس فارغ وقت ہے اور وہ مقامی زندگی میں حصہ لینا چاہتی ہے۔ کون سا قدم بھائی چارے کی عکاسی کرتا ہے؟)",,,lvl1
+answer,"Aider seulement contre rémunération. (صرف پیسوں کے بدلے مدد کرنا۔)",,0.0,
+answer,"S’engager comme bénévole dans une association. (کسی تنظیم میں بطور رضاکار شامل ہونا۔)",,1.0,
+answer,"Attendre que l’État fasse tout. (ریاست کے سب کچھ کرنے کا انتظار کرنا۔)",,0.0,
+question,"Un citoyen apprend un crime grave et garde le silence “pour éviter des ennuis”. Est-ce légal ? (ایک شہری کو سنگین جرم کا علم ہوتا ہے اور وہ ""پریشانی سے بچنے کے لیے"" خاموش رہتا ہے۔ کیا یہ قانونی ہے؟)",,,lvl1
+answer,"Oui, si le crime ne le concerne pas. (جی ہاں، اگر جرم کا اس سے کوئی تعلق نہیں ہے۔)",,0.0,
+answer,"Oui, s’il ne connaît pas les auteurs. (جی ہاں، اگر وہ مجرموں کو نہیں جانتا۔)",,0.0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. (نہیں، جرم کی اطلاع نہ دینا قانون کے تحت قابل سزا ہے۔)",,1.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? (ایک ڈرائیور کو فی لیٹر خون میں 0.7 گرام الکحل کے ساتھ چیک کیا جاتا ہے۔ درست ردعمل کیا ہے؟)",,,lvl1
+answer,"Tenter de négocier sur place. (موقع پر گفت و شنید کی کوشش کریں۔)",,0.0,
+answer,"Fuir le contrôle. (چیکنگ سے فرار ہو جائیں۔)",,0.0,
+answer,"Reconnaître l’infraction et accepter les sanctions prévues par la loi. (خلاف ورزی کو تسلیم کریں اور قانون کے مطابق سزائیں قبول کریں۔)",,1.0,
+question,"Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? (رہائشی ایک سائیکل ٹریک بنانے کے لیے پٹیشن پر دستخط کرتے ہیں۔ اس کا قانونی اثر کیا ہوگا؟)",,,lvl1
+answer,"Elle peut être transmise à la collectivité mais ne l’oblige pas. (اسے متعلقہ حکام کو بھیجا جا سکتا ہے لیکن یہ ان کے لیے لازمی نہیں ہے۔)",,1.0,
+answer,"Elle crée immédiatement la piste. (یہ فوری طور پر ٹریک بنا دے گا۔)",,0.0,
+answer,"Elle remplace un vote municipal. (یہ بلدیاتی ووٹ کی جگہ لے لے گا۔)",,0.0,
+question,"Des habitants veulent assister à un conseil municipal. Le maire refuse l’accès du public. Est-ce conforme ? (رہائشی سٹی کونسل کے اجلاس میں شرکت کرنا چاہتے ہیں۔ میئر عوام کو داخل ہونے سے روک دیتا ہے۔ کیا یہ درست ہے؟)",,,lvl1
+answer,"Oui, si la salle est petite. (جی ہاں، اگر ہال چھوٹا ہے۔)",,0.0,
+answer,"Non, les séances du conseil municipal sont publiques sauf exception prévue par la loi. (نہیں، سٹی کونسل کے اجلاس عوام کے لیے کھلے ہوتے ہیں، سوائے ان استثنائی صورتوں کے جو قانون میں درج ہیں۔)",,1.0,
+answer,"Oui, le maire décide librement. (جی ہاں، میئر آزادانہ فیصلہ کرتا ہے۔)",,0.0,

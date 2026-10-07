@@ -1,0 +1,281 @@
+type,text,placeholder,is_correct,level
+question,Quel numéro d'urgence permet d'appeler le SAMU ? ?) [د SAMU زنګ وهلو لپاره کومه بیړنۍ شمیره کارول کیدی شي؟],,,lvl1
+answer,17 [۱۷],,0.0,
+answer,15 [۱۵],,1.0,
+answer,18 [۱۸],,0.0,
+question,Quel numéro d'urgence permet d'appeler les pompiers ? ?) [کومه بیړنۍ شمیره تاسو ته اجازه درکوي چې اور وژونکو ته زنګ ووهئ؟],,,lvl1
+answer,15 [۱۵],,0.0,
+answer,18 [۱۸],,1.0,
+answer,17 [۱۷],,0.0,
+question,"Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ? [د موټر چلولو جواز ترلاسه کولو وروسته، د خپل موټر چلولو لپاره باید څه وکړو؟]",,,lvl1
+answer,Faire refaire sa carte d'identité. [خپل د هویت کارت بیا جوړ کړئ.],,0.0,
+answer,Faire assurer son véhicule (assurance obligatoire). [خپل موټر بیمه کړئ (لازمي بیمه).],,1.0,
+answer,Apposer un drapeau français sur la voiture. [په موټر کې د فرانسې بیرغ ولګوه.],,0.0,
+question,À quelles conditions un mariage est-il reconnu juridiquement ? [په کومو شرایطو کې واده په قانوني توګه پیژندل کیږي؟],,,lvl1
+answer,Seulement s'il est célébré par une autorité religieuse. [یوازې هغه وخت چې دا د مذهبي واک لخوا لمانځل کیږي.],,0.0,
+answer,Seulement s'il est célébré à la mairie par une autorité civile. [یوازې هغه وخت چې دا د ښاروالۍ په تالار کې د ملکي واک لخوا لمانځل کیږي.],,1.0,
+answer,S'il est célébré par l'Ambassade. [که دا د سفارت لخوا ولمانځل شي.],,0.0,
+question,Quand faut-il déclarer son enfant au service d'état civil de la mairie ? ?) [تاسو کله باید خپل ماشوم د ښاروالۍ د مدني وضعیت څانګې ته اعلان کړئ؟],,,lvl1
+answer,Dans les 30 jours après la naissance. [د زیږون څخه 30 ورځو کې.],,0.0,
+answer,Dans les 5 jours après la naissance (délai de 8 jours dans certaines communes). [د زیږون څخه 5 ورځو کې دننه (په ځینو ښاروالیو کې د 8 ورځو موده).],,1.0,
+answer,Dans l'année suivant la naissance. [د زیږون وروسته کال کې.],,0.0,
+question,Le travail non déclaré est : [نا اعلان شوی کار دی:],,,lvl1
+answer,Autorisé s'il ne dépasse pas 10 heures par semaine. [اجازه ورکول کیږي که چیرې دا په اونۍ کې د 10 ساعتونو څخه زیات نه وي.],,0.0,
+answer,Interdit et puni par la loi (travail dissimulé). [د قانون لخوا منع او مجازات شوی (پټ کار).],,1.0,
+answer,Toléré pour les emplois de courte durée. [د لنډ مهاله دندو لپاره زغمل کیږي.],,0.0,
+question,Que doit faire un employeur pour fixer un salaire ? [یو کارګمارونکی د معاش ټاکلو لپاره څه باید وکړي؟],,,lvl1
+answer,Le fixer librement sans contrainte. [پرته له خنډونو په آزاده توګه تنظیم کړئ.],,0.0,
+answer,Respecter le salaire minimum légal (SMIC) et les conventions collectives. [د قانوني لږترلږه معاش (SMIC) او ډله ایزو تړونونو درناوی وکړئ.],,1.0,
+answer,Se baser uniquement sur le salaire d'autres pays. [یوازې د نورو هیوادونو د معاشونو پر بنسټ تکیه وکړئ.],,0.0,
+question,Qu'est-ce que le SMIC ? [SMIC څه شی دی؟],,,lvl1
+answer,Le service militaire civique. [مدني نظامي خدمت.],,0.0,
+answer,Le salaire maximum en France. [په فرانسه کې اعظمي معاش.],,0.0,
+answer,Le salaire minimum légal que l'employeur doit payer. [لږترلږه قانوني معاش چې کار ورکوونکی باید تادیه کړي.],,1.0,
+question,Quelle est la première démarche à réaliser pour chercher un emploi ? [د دندې په لټه کې لومړی ګام څه دی؟],,,lvl1
+answer,Acheter un costume de marque. [د ډیزاینر سوټ واخلئ.],,0.0,
+answer,"S'inscrire auprès du service public de l'emploi (Pôle emploi, ou France Travail). [د عامه کارموندنې خدمت سره ثبت کړئ (Pôle Emploi، یا د فرانسې کار).]",,1.0,
+answer,Attendre qu'une entreprise vous appelle. [یو شرکت ته انتظار وکړئ چې تاسو ته زنګ ووهي.],,0.0,
+question,Quelle est la durée légale du temps de travail par semaine ? [په هره اونۍ کې قانوني کاري ساعتونه څومره دي؟],,,lvl1
+answer,39 heures [۳۹ ساعته],,0.0,
+answer,35 heures [۳۵ ساعته],,1.0,
+answer,45 heures [۴۵ ساعته],,0.0,
+question,Qui est aidé par France Travail ? ?) [د فرانسې کار (France Travail) د چا سره مرسته کوي؟],,,lvl1
+answer,Uniquement les étrangers. [یوازې بهرنیان.],,0.0,
+answer,Uniquement les jeunes de moins de 25 ans. [یوازې د ۲۵ کلونو څخه کم ځوانان.],,0.0,
+answer,"Toute personne en recherche d’emploi (travailleurs, salariés, demandeurs d'emploi...). [هرڅوک چې د دندې په لټه کې وي (کارګران، کارمندان، د کار غوښتونکي ...).]",,1.0,
+question,Une personne étrangère en situation régulière peut créer son entreprise : [په منظم حالت کې یو بهرنی سړی کولی شي خپله سوداګرۍ جوړه کړي:],,,lvl1
+answer,Seulement si elle est mariée à un(e) Français(e). [یوازې هغه وخت چې هغه د یو فرانسوي سره واده کړی وي.],,0.0,
+answer,"Oui, sous les mêmes conditions qu’un citoyen français. [هو، د یو فرانسوي تبعه په څیر د ورته شرایطو لاندې.]",,1.0,
+answer,"Non, ce droit est réservé aux nationaux. [نه، دا حق د اتباعو لپاره ځانګړی شوی دی.]",,0.0,
+question,Une femme peut-elle créer son entreprise ? [ایا یوه ښځه کولی شي خپل کاروبار پیل کړي؟],,,lvl1
+answer,"Oui, mais seulement avec l'accord de son mari. [هو، خو یوازې د خپل میړه په خوښه.]",,0.0,
+answer,"Non, si elle est mère. [نه، که هغه مور وي.]",,0.0,
+answer,"Oui, elle a les mêmes droits que l'homme de créer et gérer une entreprise. [هو، هغه د یو سړي په څیر مساوي حق لري چې د سوداګرۍ رامینځته کولو او اداره کولو لپاره وي.]",,1.0,
+question,À partir de quel âge un mineur peut-il travailler ? [د کوم عمر څخه کوچنی کار کولی شي؟],,,lvl1
+answer,À partir de 14 ans sans aucune condition. [د ۱۴ کلنۍ څخه پرته له کوم شرط څخه.],,0.0,
+answer,À partir de 16 ans (ou 14 ans pour certains travaux légers ou stages). [د ۱۶ کلونو څخه (یا د ځینې سپکو کارونو یا انټرنشپونو لپاره ۱۴ کاله).],,1.0,
+answer,À partir de 18 ans seulement. [یوازې له ۱۸ کلنۍ څخه.],,0.0,
+question,Auprès de quel organisme faut-il demander le remboursement des frais de santé ? [د روغتیا لګښتونو د بیرته ورکولو لپاره باید کوم سازمان ته ورشئ؟],,,lvl1
+answer,Auprès de la préfecture. [په سیمه ایز حکومت کې.],,0.0,
+answer,Auprès de l'Assurance Maladie (Caisse Primaire d'Assurance Maladie - CPAM). [د روغتیا بیمې سره (د لومړني روغتیا بیمې فنډ - CPAM).],,1.0,
+answer,Auprès de la banque. [په بانک کې.],,0.0,
+question,Qu’est-ce qu’un numéro d’urgence ? [بیړنۍ شمیره څه ده؟],,,lvl1
+answer,Un numéro de téléphone pour commander de la nourriture. [د خواړو امر کولو لپاره د تلیفون شمیره.],,0.0,
+answer,"Un numéro gratuit permettant d'appeler les secours (police, pompiers, SAMU) pour un danger immédiat. [یوه وړیا شمیره چې تاسو ته اجازه درکوي د سمدستي خطر لپاره بیړني خدماتو (پولیس، اور وژونکي، SAMU) ته زنګ ووهئ.]",,1.0,
+answer,Un numéro de service client. [د پیرودونکي خدمت شمیره.],,0.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? [روغتیا پاملرنې ته د لاسرسي په اړه، کوم وړاندیز سم دی؟]",,,lvl1
+answer,Seuls les Français peuvent être soignés. [یوازې فرانسويان درملنه کیدی شي.],,0.0,
+answer,Toute personne résidant en France a droit à une prise en charge de ses frais de santé (sous certaines conditions). [هر هغه څوک چې په فرانسه کې میشت وي د روغتیا لګښتونو (په ځانګړو شرایطو کې) د پوښښ حق لري.],,1.0,
+answer,Il faut payer la totalité de l'hospitalisation sans remboursement possible. [تاسو باید د احتمالي بیرته ورکولو پرته د روغتون لپاره بشپړ تادیه وکړئ.],,0.0,
+question,"En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ? [د غیر عاجل روغتیایی ستونزې په صورت کې، تاسو باید لومړی له چا سره اړیکه ونیسئ؟]",,,lvl1
+answer,Aux urgences de l'hôpital [د روغتون بیړنۍ خونې ته],,0.0,
+answer,Au médecin traitant (médecin généraliste déclaré). [حاضر ډاکټر ته (اعلان شوی عمومي متخصص).],,1.0,
+answer,Aux pompiers [اور وژونکو ته],,0.0,
+question,Quel est le rôle du médecin traitant ? ?) [د حاضریدونکي ډاکټر رول څه دی؟],,,lvl1
+answer,Il assure le suivi régulier du patient et l'oriente vers des spécialistes (parcours de soins coordonnés). [دا د ناروغ منظم نظارت تضمینوي او دوی متخصصینو ته لیږوي (د درملنې همغږي لاره).],,1.0,
+answer,Il distribue les médicaments gratuitement. [هغه په وړیا توګه درمل ویشي.],,0.0,
+answer,Il donne des conseils pour trouver un emploi. [هغه د کار موندلو په اړه مشوره ورکوي.],,0.0,
+question,Dans quelles situations doit-on se rendre aux urgences de l'hôpital ? [په کومو حالاتو کې باید د روغتون بیړنۍ خونې ته لاړ شئ؟],,,lvl1
+answer,Pour un simple rhume. [د ساده زکام لپاره.],,0.0,
+answer,Pour faire renouveler une ordonnance. [د نسخې د نوي کولو لپاره.],,0.0,
+answer,"En cas d'urgence vitale (AVC, infarctus, blessure grave...) ou lorsque le médecin traitant n'est pas disponible et que l'état de santé le nécessite. [د ژوند ګواښونکي بیړني حالت په صورت کې (سټروک، د زړه حمله، جدي زخم، او نور) یا کله چې حاضر ډاکټر شتون نلري او د روغتیا حالت ورته اړتیا لري.]",,1.0,
+question,Quel est l’objectif des vaccinations obligatoires ? [د اجباري واکسینونو موخه څه ده؟],,,lvl1
+answer,Réduire le nombre d'enfants dans les écoles. [په ښوونځیو کې د ماشومانو د شمیر کمول.],,0.0,
+answer,Protéger l'enfant et l'ensemble de la population (immunité collective). [د ماشوم او ټول نفوس ساتنه (د رمې معافیت).],,1.0,
+answer,Augmenter les revenus des médecins. [د ډاکټرانو عاید ډیرول.],,0.0,
+question,À quoi sert la carte Vitale ? ?) [د ویټل کارت د څه لپاره دی؟],,,lvl1
+answer,À payer ses impôts. [ستاسو د مالیاتو تادیه کولو لپاره.],,0.0,
+answer,À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. [د روغتیا بیمې په اړه د دوی حقونه تایید کول او د پاملرنې بیرته ورکول اسانه کول.],,1.0,
+answer,À prouver son identité. [ستاسو هویت ثابتولو لپاره.],,0.0,
+question,À quoi sert une mutuelle santé ? ?) [متقابل روغتیایی بیمه د څه لپاره ده؟],,,lvl1
+answer,À remplacer l'Assurance Maladie. [د روغتیا بیمې بدلولو لپاره.],,0.0,
+answer,À compléter le remboursement des frais de santé non couverts par l'Assurance Maladie. [د روغتیا لګښتونو تادیه بشپړولو لپاره چې د روغتیا بیمې پوښښ نلري.],,1.0,
+answer,À payer l'école des enfants. [د ماشومانو د ښوونځي پیسې ورکول.],,0.0,
+question,Jusqu'à quel âge l'école est-elle obligatoire ? [تر کوم عمر پورې ښوونځی لازمی دی؟],,,lvl1
+answer,Jusqu'à 14 ans. [تر ۱۴ کلنۍ پورې.],,0.0,
+answer,De 3 ans à 16 ans. [له ۳ څخه تر ۱۶ کلنۍ پورې.],,1.0,
+answer,Jusqu'à 18 ans. [تر ۱۸ کلنۍ پورې.],,0.0,
+question,L'autorité parentale prévoit l'obligation : [د مور او پلار واک مکلفیت چمتو کوي:],,,lvl1
+answer,D'envoyer son enfant travailler. [د خپل ماشوم د کار کولو لپاره لیږل.],,0.0,
+answer,"De protéger son enfant, de l'éduquer et de subvenir à ses besoins. [د خپل ماشوم د ساتنې، د هغه د روزلو او د هغه اړتیاو برابرولو لپاره.]",,1.0,
+answer,De laisser l'enfant choisir tout seul son école dès 6 ans. [اجازه ورکړئ چې ماشوم له 6 کلنۍ څخه خپل ښوونځي پخپله وټاکي.],,0.0,
+question,Pour qui l'école est-elle obligatoire ? [د چا لپاره ښوونځي لازمي دي؟],,,lvl1
+answer,Seulement pour les enfants de nationalité française. [یوازې د فرانسوي تابعیت لرونکو ماشومانو لپاره.],,0.0,
+answer,Pour tous les enfants (français et étrangers) résidant sur le territoire français de 3 à 16 ans. [د ټولو ماشومانو لپاره (فرانسوي او بهرنيان) چې د 3 څخه تر 16 کلنۍ پورې د فرانسې په خاوره کې اوسیږي.],,1.0,
+answer,Seulement pour les garçons. [یوازې د هلکانو لپاره.],,0.0,
+question,Quel diplôme obtient-on à la fin du lycée ? [د لیسې په پای کې تاسو کوم ډیپلوم ترلاسه کوئ؟],,,lvl1
+answer,Le Brevet des collèges [د کالجونو پیټینټ],,0.0,
+answer,Le Baccalauréat [بکلوریا (BAC)],,1.0,
+answer,Le Certificat d'études primaires [د لومړنیو زده کړو سند],,0.0,
+question,Dans quels établissements scolaires vont les élèves après l'école élémentaire ? [زده کوونکي تر لومړني ښوونځي وروسته کوم ښوونځي ته ځي؟],,,lvl1
+answer,À l'université [په پوهنتون کې],,0.0,
+answer,Au collège [په کالج کې],,1.0,
+answer,Au lycée [په عالي لیسه کې],,0.0,
+question,Quel établissement scolaire accueille les enfants de 6 à 11 ans ? [کوم ښوونځی د ۶ تر ۱۱ کلونو ماشومانو ته ښه راغلاست وايي؟],,,lvl1
+answer,L'école maternelle [د نرسري ښوونځي],,0.0,
+answer,L'école élémentaire [لومړني ښوونځي],,1.0,
+answer,Le lycée professionnel [مسلکي عالي لیسه],,0.0,
+question,Un enfant inscrit à l'école : [یو ماشوم چې په ښوونځي کې ثبت شوی دی:],,,lvl1
+answer,Peut faire ce qu'il veut pendant les cours. [کولی شي هغه څه وکړي چې هغه د ټولګي پرمهال غواړي.],,0.0,
+answer,Doit respecter les règles de l'école (règlement intérieur) et le principe de laïcité. [باید د ښوونځي قواعدو (داخلي مقررات) او د سیکولریزم اصولو ته درناوی وکړي.],,1.0,
+answer,N'a pas besoin de respecter les enseignants. [د ښوونکو درناوي ته اړتیا نشته.],,0.0,
+question,Les enfants qui ne parlent pas français : [هغه ماشومان چې فرانسوي خبرې نه کوي:],,,lvl1
+answer,Ne peuvent pas aller à l'école. [ښوونځي ته نه شي تلی.],,0.0,
+answer,Sont accueillis à l'école et peuvent bénéficier de dispositifs pour l'apprentissage du français. [په ښوونځي کې ښه راغلاست ویل کیږي او د فرانسوي زده کړې لپاره د سیسټمونو څخه ګټه پورته کولی شي.],,1.0,
+answer,Doivent apprendre le français seuls avant de venir en classe. [ټولګي ته د راتلو دمخه باید پخپله فرانسوي زده کړئ.],,0.0,
+question,Quel mariage est reconnu par l'État ? [کوم واده د دولت لخوا پیژندل شوی؟],,,lvl2
+answer,Le mariage religieux. [مذهبي واده.],,0.0,
+answer,Le mariage civil (célébré à la mairie). [مدني واده (د ښار په تالار کې لمانځل کیږي).],,1.0,
+answer,Le mariage fait à l'étranger sans transcription. [واده په بهر کې د نقل کولو پرته ترسره شوی.],,0.0,
+question,Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ? [مور او پلار په کومه اداره کې خپل ماشوم په عامه ښوونځي کې ثبتولی شي؟],,,lvl2
+answer,Auprès de la préfecture. [د سیمې په حکومت کې.],,0.0,
+answer,Auprès de la mairie de leur commune de résidence. [د دوی د استوګنې د ښاروالۍ د ښار تالار سره.],,1.0,
+answer,Auprès du tribunal. [په محکمه کې.],,0.0,
+question,"En cas de divorce, qui exerce l'autorité parentale ? [د طلاق په صورت کې د پلار واک څوک لري؟]",,,lvl2
+answer,Seulement le parent qui a la garde des enfants. [یوازې هغه والدین چې د ماشومانو سرپرستي لري.],,0.0,
+answer,Les deux parents en commun (sauf décision contraire du juge). [دواړه والدین په مشترک ډول (پرته لدې چې د قاضي لخوا پریکړه شوې وي).],,1.0,
+answer,Uniquement la mère. [یوازې مور.],,0.0,
+question,Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ? [کوم مرسته هغو خلکو ته اجازه ورکوي چې مالي ستونزې لري یو وکیل ولري؟],,,lvl2
+answer,L'aide au logement. [د کور مرسته.],,0.0,
+answer,L'aide juridictionnelle. [قانوني مرسته.],,1.0,
+answer,L'allocation chômage. [د بیکارۍ ګټه.],,0.0,
+question,Où faut-il déclarer la naissance d'un enfant ? [چیرته باید د ماشوم زیږون اعلان کړئ؟],,,lvl2
+answer,Auprès de la police. [د پولیسو سره.],,0.0,
+answer,Auprès de l'état civil de la mairie du lieu de naissance. [د زیږون ځای د ښاروالۍ د مدني وضعیت سره.],,1.0,
+answer,Auprès du consulat. [په قونسلګرۍ کې.],,0.0,
+question,Quelle est l'une des conditions pour passer l'examen du permis de conduire ? [د موټر چلولو ازموینې لپاره یو شرط څه دی؟],,,lvl2
+answer,Avoir déjà possédé une voiture. [مخکې د موټر مالکیت.],,0.0,
+answer,Être âgé d'au moins 18 ans (sauf conduite accompagnée). [لږترلږه 18 کلن وي (پرته د لارښود چلولو).],,1.0,
+answer,Parler couramment le français. [په روانه فرانسوي خبرې وکړئ.],,0.0,
+question,Un bail locatif est valide s'il est : [د کرایې اجاره د اعتبار وړ ده که چیرې دا وي:],,,lvl2
+answer,Seulement oral. [یوازې شفاهي.],,0.0,
+answer,Écrit et signé par le locataire et le propriétaire (ou agence). [د کرایه کونکي او مالک (یا ادارې) لخوا لیکل شوی او لاسلیک شوی.],,1.0,
+answer,Seulement visé par le tribunal. [یوازې د محکمې لخوا تصویب شوی.],,0.0,
+question,Où peut-on déposer un lave-vaisselle cassé ? [مات شوي ډش واشیر چیرته پریښودل کیدی شي؟],,,lvl2
+answer,Dans les poubelles de la rue. [د سړک په کثافاتو کې.],,0.0,
+answer,À la déchetterie (ou par la collecte des encombrants). [د ریسایکل کولو په مرکز کې (یا د لویو شیانو راټولولو له لارې).],,1.0,
+answer,Dans la forêt. [په ځنګل کې.],,0.0,
+question,Quel numéro d'urgence permet d'appeler la police ? [د پولیسو زنګ وهلو لپاره کومه بیړنۍ شمیره کارول کیدی شي؟],,,lvl2
+answer,18 [۱۸],,0.0,
+answer,15 [۱۵],,0.0,
+answer,17 [۱۷],,1.0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? [روغتیا پاملرنې ته د لاسرسي په اړه، کوم وړاندیز سم دی؟]",,,lvl2
+answer,L'accès aux soins est réservé aux Français. [روغتیا پاملرنې ته لاسرسی د فرانسوي خلکو لپاره ځانګړی شوی دی.],,0.0,
+answer,Toute personne résidant régulièrement en France a droit à la protection sociale pour la santé. [هرڅوک چې په فرانسه کې په منظم ډول ژوند کوي د روغتیا لپاره د ټولنیز خوندیتوب حق لري.],,1.0,
+answer,Il faut payer la totalité des frais de santé soi-même. [تاسو باید د روغتیا پاملرنې ټول لګښتونه پخپله ادا کړئ.],,0.0,
+question,À qui est accessible la contraception ? ?) [د امیندوارۍ مخنیوی چا ته شتون لري؟],,,lvl2
+answer,Seulement aux femmes mariées. [یوازې د واده شویو میرمنو لپاره.],,0.0,
+answer,"À toute personne (homme ou femme), et gratuite pour les mineures et les moins de 26 ans. [د هر چا لپاره (نارینه یا ښځینه)، او د کوچنیانو او د 26 کلونو څخه کم عمر لپاره وړیا.]",,1.0,
+answer,Seulement avec l'accord des parents pour les personnes majeures. [یوازې د لویانو لپاره د والدینو په رضایت سره.],,0.0,
+question,Qu’est-ce que le principe de confidentialité dans le domaine de la santé ? [په روغتیایی پاملرنې کې د محرمیت اصول څه دي؟],,,lvl2
+answer,L'obligation d'informer sa famille de sa maladie. [ستاسو کورنۍ ته د هغه د ناروغۍ په اړه د خبرولو مکلفیت.],,0.0,
+answer,L'interdiction pour les professionnels de santé de révéler les informations sur la santé du patient. [د روغتیا پاملرنې متخصصینو لخوا د ناروغ روغتیا معلوماتو افشا کولو بندیز.],,1.0,
+answer,L'obligation pour le patient de ne parler de sa maladie à personne. [د ناروغ مکلفیت دا دی چې هیچا ته د خپلې ناروغۍ په اړه څه ونه وايي.],,0.0,
+question,L'inscription à l'Assurance maladie est : :) [د روغتیا بیمې سره ثبت کول دي:],,,lvl2
+answer,Facultative pour les salariés. [د کارمندانو لپاره اختیاري.],,0.0,
+answer,Obligatoire pour les personnes qui travaillent ou résident régulièrement en France. [د هغو خلکو لپاره لازمي دي چې په فرانسه کې کار کوي یا په منظم ډول ژوند کوي.],,1.0,
+answer,Uniquement pour les personnes nées en France. [یوازې په فرانسه کې د زیږیدلو خلکو لپاره.],,0.0,
+question,Qui peut demander un congé parental d'éducation ? ?) [څوک کولی شي د والدینو د تعلیم رخصتۍ غوښتنه وکړي؟],,,lvl2
+answer,"Le père et la mère (ou l'un des deux), sous certaines conditions liées à l'ancienneté. [پلار او مور (یا یو له دوی څخه)، د شرایطو لاندې چې د مشرتابه سره تړاو لري.]",,1.0,
+answer,Uniquement la mère si elle est salariée. [یوازې مور که هغه کارمنده وي.],,0.0,
+answer,Uniquement la grand-mère. [یوازې انا.],,0.0,
+question,Quelles sont les affaires traitées par le conseil de prud'hommes ? ?) [هغه مسلې کومې دي چې د پرودومز شورا لخوا اداره کیږي؟],,,lvl2
+answer,Les litiges entre voisins. [د ګاونډیانو ترمنځ شخړې.],,0.0,
+answer,"Les litiges individuels entre un employeur et un salarié (contrat de travail, licenciement...). [د کار ګمارونکي او کارمند تر مینځ انفرادي شخړې (د کار قرارداد، ګوښه کول ...).]",,1.0,
+answer,Les infractions au code de la route. [ترافیکي سرغړونې.],,0.0,
+question,Travailler sans être déclaré est : [پرته له اعلانه کار کول دي:],,,lvl2
+answer,Un moyen normal de gagner de l'argent. [د پیسو ګټلو یوه عادي لاره.],,0.0,
+answer,Un délit (travail dissimulé) puni par la loi. [د قانون لخوا د جزا وړ جرم (پټ کار).],,1.0,
+answer,Un droit pour les personnes qui cherchent un emploi. [د هغو خلکو لپاره یو حق چې د کار په لټه کې دي.],,0.0,
+question,Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : [کله چې یو کارګمارونکی وغواړي چې کارمند د کارموندنې قرارداد کې د ټاکل شوي مودې څخه ډیر کار وکړي:],,,lvl2
+answer,C'est interdit. [منع دی.],,0.0,
+answer,Le salarié doit le faire gratuitement. [کارمند باید دا وړیا ترسره کړي.],,0.0,
+answer,"Il peut lui demander de faire des heures supplémentaires, qui doivent être payées (ou compensées) selon la loi. [هغه کولی شي له هغه څخه د اضافي وخت کار کولو غوښتنه وکړي، کوم چې باید د قانون له مخې تادیه (یا جبران) شي.]",,1.0,
+question,Quelle est la mission de France Travail ? ?) [د فرانسې کار ماموریت څه دی؟],,,lvl2
+answer,Accompagner les demandeurs d'emploi et indemniser les chômeurs. [د دندې غوښتونکو ملاتړ وکړئ او بیکاره کسانو ته تاوان ورکړئ.],,1.0,
+answer,Rédiger les contrats de travail. [د کار قراردادونه ولیکئ.],,0.0,
+answer,Payer les loyers des demandeurs d'emploi. [د کار غوښتونکو کرایه ورکول.],,0.0,
+question,"Dans une entreprise, le droit syndical permet : [په یوه شرکت کې، د اتحادیې قانون اجازه ورکوي:]",,,lvl2
+answer,D'interdire les réunions de salariés. [د کارمندانو غونډو منع کول.],,0.0,
+answer,Aux salariés de créer une organisation pour défendre leurs droits (syndicat). [کارمندان یو سازمان جوړ کړي ترڅو د خپلو حقونو (د سوداګرۍ اتحادیې) دفاع وکړي.],,1.0,
+answer,Au patron d'augmenter les salaires sans l'accord des salariés. [د کارمندانو له موافقې پرته د معاشونو د لوړولو لپاره مالک ته.],,0.0,
+question,"Dans une entreprise, le droit de grève autorise : [په یوه شرکت کې، د اعتصاب حق اجازه ورکوي:]",,,lvl2
+answer,Les salariés à refuser d'aller travailler sans prévenir. [کارمندان پرته له خبرتیا کار ته له تګ څخه ډډه وکړي.],,0.0,
+answer,L'arrêt collectif et concerté du travail pour la défense des intérêts professionnels. [د مسلکي ګټو د دفاع لپاره د کار ډله ایز او ګډ بندول.],,1.0,
+answer,Le chef d'entreprise à licencier tous les grévistes. [د سوداګرۍ مشر ټول برید کونکي ګوښه کړي.],,0.0,
+question,Quelles sont les conditions pour toucher les allocations chômage ? [د بیکارۍ ګټو ترلاسه کولو شرایط څه دي؟],,,lvl2
+answer,Avoir plus de 60 ans. [د 60 کالو څخه ډیر عمر ولري.],,0.0,
+answer,Être inscrit à France Travail et justifier d'une période de travail suffisante. [په فرانسه کې راجستر شئ او د کافي کاري مودې ثابت کړئ.],,1.0,
+answer,Avoir démissionné de son dernier emploi. [له وروستۍ دندې استعفا کړې ده.],,0.0,
+question,Qu'est-ce que l'école maternelle ? ?) [د نرسري ښوونځي څه شی دی؟],,,lvl2
+answer,Un lieu de garde pour les bébés. [د ماشومانو د ساتنې ځای.],,0.0,
+answer,L'école des 6-11 ans. [د ۶-۱۱ کلنو ښوونځی.],,0.0,
+answer,La première étape de l'enseignement (pour les enfants de 3 à 6 ans). [د تدریس لومړی پړاو (د ۳ څخه تر ۶ کلنو ماشومانو لپاره).],,1.0,
+question,Comment s'appelle le diplôme passé par les élèves à la fin du collège ? [هغه ډیپلوم څه نومیږي چې د کالج په پای کې زده کونکو لخوا اخیستل کیږي؟],,,lvl2
+answer,Le Baccalauréat [باکلوریا (BAC)],,0.0,
+answer,Le Diplôme National du Brevet (DNB) ou Brevet des collèges. [د کالجونو ملي ډیپلوم (DNB) یا د کالج سند.],,1.0,
+answer,Le permis de conduire [د موټر چلولو جواز],,0.0,
+question,Les parents d'élève ont le droit de : [د زده کونکو والدین حق لري چې:],,,lvl2
+answer,D'interdire l'enseignement de certaines matières. [د ځینو مضامینو د تدریس منع کول.],,0.0,
+answer,D'être informés sur la scolarité de leur enfant et de participer à la vie de l'école (droit d'association et de réunion). [د خپل ماشوم د زده کړې په اړه خبرتیا او د ښوونځي په ژوند کې ګډون کول (د اتحادیې او غونډې حق).],,1.0,
+answer,De choisir eux-mêmes les professeurs de leur enfant. [پخپله د خپلو ماشومانو ښوونکي غوره کړي.],,0.0,
+question,Qui peut manger à la cantine scolaire ? [څوک کولی شي د ښوونځي په کینټین کې وخوري؟],,,lvl2
+answer,Uniquement les élèves de l'école élémentaire. [یوازې د لومړني ښوونځي زده کوونکي.],,0.0,
+answer,"Tous les élèves inscrits, dans le respect des règles de laïcité et du règlement de la cantine. [ټول راجستر شوي زده کونکي، د سیکولریزم قواعدو او د کانټین مقرراتو سره سم.]",,1.0,
+answer,Seulement les enfants dont les parents sont en difficulté financière. [یوازې هغه ماشومان چې والدین یې په مالي ستونزو کې دي.],,0.0,
+question,À quel âge commence l'instruction obligatoire des enfants ? [د ماشومانو لپاره جبري زده کړې په کوم عمر کې پیل کیږي؟],,,lvl2
+answer,À 6 ans [په ۶ کلنۍ کې],,0.0,
+answer,À 3 ans [په ۳ کلنۍ کې],,1.0,
+answer,À 11 ans [په ۱۱ کلنۍ کې],,0.0,
+question,Quel est l'âge de la majorité ? [د بلوغ عمر څومره دی؟],,,lvl2
+answer,21 ans [۲۱ کاله],,0.0,
+answer,18 ans [۱۸ کاله],,1.0,
+answer,16 ans [۱۶ کاله],,0.0,
+question,"À l'école, il est interdit aux parents de : [په ښوونځي کې، د والدینو لپاره منع دی چې:]",,,lvl2
+answer,Devenir représentants des parents d'élèves. [د زده کونکو د والدینو استازي شي.],,0.0,
+answer,Porter des signes religieux ostentatoires (en tant qu'accompagnateurs de sorties scolaires par exemple). [ښکاره مذهبي نښې اغوستل (د مثال په توګه د ښوونځي په سفرونو کې د ملګرو په توګه).],,1.0,
+answer,Demander un rendez-vous à l'enseignant. [د ښوونکي څخه د ملاقات غوښتنه وکړئ.],,0.0,
+question,Quel motif d'absence est accepté par l'école ? [کوم غیر حاضري د ښوونځي لخوا منل کیږي؟],,,lvl2
+answer,La maladie de l'enfant (justifiée par un certificat médical si l'absence est longue). [د ماشوم ناروغي (د طبي سند په واسطه توجیه کیږي که چیرې غیر حاضري اوږده وي).],,1.0,
+answer,Un voyage familial imprévu. [یو غیر متوقع کورنۍ سفر.],,0.0,
+answer,Une activité sportive ou culturelle non organisée par l'école. [یو سپورت یا کلتوري فعالیت چې د ښوونځي لخوا تنظیم شوی نه وي.],,0.0,
+question,Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ? [مور او پلار د خپلو ماشومانو د زده کړې مکلفیت نه درناوی کوي. د کوم اعظمي جزا خطر دی؟],,,lvl2
+answer,Une amende de 10 euros. [د ۱۰ یورو جریمه.],,0.0,
+answer,Une amende maximale de 7 500 euros et 6 mois de prison (en cas d'opposition aux contrôles). [تر ۷۵۰۰ یورو پورې اعظمي جریمه او ۶ میاشتې بند (د چکونو په وړاندې د مخالفت په صورت کې).],,1.0,
+answer,Le retrait de leur droit de vote. [د دوی د رایې ورکولو حق لغوه کول.],,0.0,
+question,Quand ont lieu les vacances scolaires de Noël ? [د کرسمس ښوونځي رخصتۍ کله دي؟],,,lvl2
+answer,En février. [په فبروري کې.],,0.0,
+answer,En décembre. [په دسمبر کې.],,1.0,
+answer,En juillet et août. [په جولای او اګست کې.],,0.0,
+question,"À l'école, un enfant en situation de handicap : [په ښوونځي کې، معلولیت لرونکی ماشوم:]",,,lvl2
+answer,Ne peut pas être inscrit à l'école publique. [په دولتي ښوونځي کې نه شي ثبتولی.],,0.0,
+answer,A le droit d'être scolarisé et de bénéficier d'un accompagnement adapté (AESH). [ښوونځي ته د تګ او د مناسب ملاتړ (AESH) څخه ګټه پورته کولو حق لري.],,1.0,
+answer,Est obligé de rester à la maison. [مجبور دی چې په کور کې پاتې شي.],,0.0,
+question,"À l’école, il est interdit aux parents de : [په ښوونځي کې، د والدینو لپاره منع دی چې:]",,,lvl3
+answer,Contester l’autorité des enseignants dans l’établissement. [په اداره کې د ښوونکو واک ننګول.],,1.0,
+answer,Dialoguer avec l’école. [له ښوونځي سره اړیکه نیول.],,0.0,
+answer,Participer aux réunions. [په غونډو کې ګډون کول.],,0.0,
+question,Qui peut demander un congé parental d’éducation ? [څوک کولی شي د والدینو د تعلیم رخصتۍ غوښتنه وکړي؟],,,lvl3
+answer,Les étudiants. [زده کوونکي.],,0.0,
+answer,Les employeurs. [کارګمارونکي.],,0.0,
+answer,Les parents salariés. [مور او پلار کارمندان.],,1.0,
+question,À qui est accessible la contraception ? [د امیندوارۍ مخنیوی چا ته شتون لري؟],,,lvl3
+answer,Aux personnes mariées uniquement. [یوازې د واده شویو خلکو لپاره.],,0.0,
+answer,Aux personnes majeures seulement. [یوازې د لویانو لپاره.],,0.0,
+answer,"À toutes les personnes, majeures ou mineures. [ټولو خلکو ته، لویان یا کوچنیان.]",,1.0,
+question,"Dans une entreprise, le droit syndical permet : [په یوه شرکت کې، د اتحادیې قانون اجازه ورکوي:]",,,lvl3
+answer,De diriger l’entreprise. [د شرکت اداره کول.],,0.0,
+answer,De fixer les salaires. [د معاشونو ټاکل.],,0.0,
+answer,De créer ou rejoindre un syndicat. [د اتحادیې جوړول یا یوځای کیدل.],,1.0,
+question,Quel motif d’absence est accepté par l’école ? [کوم غیر حاضري د ښوونځي لخوا منل کیږي؟],,,lvl3
+answer,La maladie de l’enfant. [د ماشوم ناروغي.],,1.0,
+answer,Les vacances hors calendrier. [د تقویم څخه بهر رخصتۍ.],,0.0,
+answer,Le refus d’aller en cours. [ټولګي ته له تګ څخه انکار.],,0.0,
+question,Lorsqu’un employeur veut qu’un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : [کله چې یو کارګمارونکی وغواړي چې کارمند د کارموندنې قرارداد کې د ټاکل شوي مودې څخه ډیر کار وکړي:],,,lvl3
+answer,Il doit respecter la loi et payer les heures supplémentaires. [هغه باید قانون ته درناوی وکړي او د اضافي وخت معاش ورکړي.],,1.0,
+answer,Il peut l’imposer librement. [هغه کولی شي دا په آزاده توګه تطبیق کړي.],,0.0,
+answer,Aucune règle ne s’applique. [هیڅ مقررات نه پلي کیږي.],,0.0,
+question,"Dans une entreprise, le droit de grève autorise : [په یوه شرکت کې، د اعتصاب حق اجازه ورکوي:]",,,lvl3
+answer,À empêcher les non-grévistes de travailler. [د غیر اعتصاب کونکو د کار کولو مخه نیول.],,0.0,
+answer,À bloquer l’entreprise indéfiniment. [شرکت د تل لپاره بندول.],,0.0,
+answer,À cesser collectivement le travail pour défendre des revendications. [د غوښتنو دفاع لپاره په ډله ایز ډول کار بندول.],,1.0,

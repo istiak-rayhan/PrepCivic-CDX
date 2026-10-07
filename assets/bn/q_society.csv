@@ -1,0 +1,281 @@
+type,text,placeholder,is_correct,level
+question,"Quel numéro d'urgence permet d'appeler le SAMU ? (কোন জরুরি নম্বর SAMU (জরুরি চিকিৎসা পরিষেবা) কে কল করার জন্য ব্যবহার করা হয়?)",,,lvl1
+answer,"17 (১৭)",,0,
+answer,"15 (১৫)",,1,
+answer,"18 (১৮)",,0,
+question,"Quel numéro d'urgence permet d'appeler les pompiers ? (কোন জরুরি নম্বর দমকল কর্মীদের (pompiers) কল করার জন্য ব্যবহার করা হয়?)",,,lvl1
+answer,"15 (১৫)",,0,
+answer,"18 (১৮)",,1,
+answer,"17 (১৭)",,0,
+question,"Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ? (ড্রাইভিং লাইসেন্স পাওয়ার পর, নিজের গাড়ি চালানোর জন্য কী করতে হবে?)",,,lvl1
+answer,"Faire refaire sa carte d'identité. (নিজের পরিচয়পত্র পুনরায় তৈরি করা।)",,0,
+answer,"Faire assurer son véhicule (assurance obligatoire). (নিজের গাড়ির বীমা করা (বাধ্যতামূলক বীমা)।)",,1,
+answer,"Apposer un drapeau français sur la voiture. (গাড়িতে একটি ফরাসি পতাকা লাগানো।)",,0,
+question,"À quelles conditions un mariage est-il reconnu juridiquement ? (কোন শর্তে একটি বিবাহ আইনগতভাবে স্বীকৃত হয়?)",,,lvl1
+answer,"Seulement s'il est célébré par une autorité religieuse. (শুধুমাত্র যদি এটি একটি ধর্মীয় কর্তৃপক্ষ দ্বারা উদযাপিত হয়।)",,0,
+answer,"Seulement s'il est célébré à la mairie par une autorité civile. (শুধুমাত্র যদি এটি একটি বেসামরিক কর্তৃপক্ষ দ্বারা পৌরসভা ভবনে উদযাপিত হয়।)",,1,
+answer,"S'il est célébré par l'Ambassade. (যদি এটি দূতাবাস দ্বারা উদযাপিত হয়।)",,0,
+question,"Quand faut-il déclarer son enfant au service d'état civil de la mairie ? (পৌরসভার নাগরিক অবস্থা পরিষেবাতে (état civil) নিজের সন্তানের ঘোষণা কখন করতে হবে?)",,,lvl1
+answer,"Dans les 30 jours après la naissance. (জন্মের ৩০ দিনের মধ্যে।)",,0,
+answer,"Dans les 5 jours après la naissance (délai de 8 jours dans certaines communes). (জন্মের ৫ দিনের মধ্যে (কিছু কমিউনে ৮ দিনের সময়সীমা)।)",,1,
+answer,"Dans l'année suivant la naissance. (জন্মের এক বছরের মধ্যে।)",,0,
+question,"Le travail non déclaré est : (অঘোষিত কাজ হল:)",,,lvl1
+answer,"Autorisé s'il ne dépasse pas 10 heures par semaine. (অনুমোদিত যদি এটি সপ্তাহে ১০ ঘণ্টার বেশি না হয়।)",,0,
+answer,"Interdit et puni par la loi (travail dissimulé). (আইন দ্বারা নিষিদ্ধ এবং শাস্তিযোগ্য (লুকানো কাজ)।)",,1,
+answer,"Toléré pour les emplois de courte durée. (স্বল্প সময়ের কাজের জন্য সহ্য করা হয়।)",,0,
+question,"Que doit faire un employeur pour fixer un salaire ? (একজন নিয়োগকর্তাকে বেতন নির্ধারণের জন্য কী করতে হবে?)",,,lvl1
+answer,"Le fixer librement sans contrainte. (কোনো বাধা ছাড়াই এটি অবাধে নির্ধারণ করা।)",,0,
+answer,"Respecter le salaire minimum légal (SMIC) et les conventions collectives. (আইনগত ন্যূনতম মজুরি (SMIC) এবং সম্মিলিত চুক্তিগুলি সম্মান করা।)",,1,
+answer,"Se baser uniquement sur le salaire d'autres pays. (শুধুমাত্র অন্যান্য দেশের বেতনের উপর ভিত্তি করে নির্ধারণ করা।)",,0,
+question,"Qu'est-ce que le SMIC ? (SMIC কী?)",,,lvl1
+answer,"Le service militaire civique. (নাগরিক সামরিক পরিষেবা।)",,0,
+answer,"Le salaire maximum en France. (ফ্রান্সে সর্বোচ্চ বেতন।)",,0,
+answer,"Le salaire minimum légal que l'employeur doit payer. (আইনগত ন্যূনতম মজুরি যা নিয়োগকর্তাকে অবশ্যই দিতে হবে।)",,1,
+question,"Quelle est la première démarche à réaliser pour chercher un emploi ? (চাকরি খোঁজার জন্য প্রথম পদক্ষেপ কী?)",,,lvl1
+answer,"Acheter un costume de marque. (একটি ব্র্যান্ডেড স্যুট কেনা।)",,0,
+answer,"S'inscrire auprès du service public de l'emploi (Pôle emploi, ou France Travail). (সরকারি কর্মসংস্থান পরিষেবাতে (Pôle emploi, বা France Travail) নাম নথিভুক্ত করা।)",,1,
+answer,"Attendre qu'une entreprise vous appelle. (একটি কোম্পানির আপনার জন্য কল করার অপেক্ষা করা।)",,0,
+question,"Quelle est la durée légale du temps de travail par semaine ? (সপ্তাহে কাজের সময়ের আইনি সময়কাল কত?)",,,lvl1
+answer,"39 heures (৩৯ ঘণ্টা)",,0,
+answer,"35 heures (৩৫ ঘণ্টা)",,1,
+answer,"45 heures (৪৫ ঘণ্টা)",,0,
+question,"Qui est aidé par France Travail ? (ফ্রান্স ট্রাভাই (France Travail) দ্বারা কে সাহায্যপ্রাপ্ত হন?)",,,lvl1
+answer,"Uniquement les étrangers. (শুধুমাত্র বিদেশিরা।)",,0,
+answer,"Uniquement les jeunes de moins de 25 ans. (শুধুমাত্র ২৫ বছরের কম বয়সীরা।)",,0,
+answer,"Toute personne en recherche d’emploi (travailleurs, salariés, demandeurs d'emploi...). (চাকরি খুঁজছেন এমন যেকোনো ব্যক্তি (শ্রমিক, কর্মচারী, চাকরিপ্রার্থী...)।)",,1,
+question,"Une personne étrangère en situation régulière peut créer son entreprise : (নিয়মিত অবস্থায় থাকা একজন বিদেশী ব্যক্তি নিজের ব্যবসা প্রতিষ্ঠা করতে পারেন:)",,,lvl1
+answer,"Seulement si elle est mariée à un(e) Français(e). (শুধুমাত্র যদি সে একজন ফরাসি নাগরিকের সাথে বিবাহিত হয়।)",,0,
+answer,"Oui, sous les mêmes conditions qu’un citoyen français. (হ্যাঁ, একজন ফরাসি নাগরিকের মতোই একই শর্তে।)",,1,
+answer,"Non, ce droit est réservé aux nationaux. (না, এই অধিকারটি শুধুমাত্র জাতীয় নাগরিকদের জন্য সংরক্ষিত।)",,0,
+question,"Une femme peut-elle créer son entreprise ? (একজন মহিলা কি নিজের ব্যবসা প্রতিষ্ঠা করতে পারেন?)",,,lvl1
+answer,"Oui, mais seulement avec l'accord de son mari. (হ্যাঁ, তবে শুধুমাত্র তার স্বামীর সম্মতিতে।)",,0,
+answer,"Non, si elle est mère. (না, যদি সে মা হয়।)",,0,
+answer,"Oui, elle a les mêmes droits que l'homme de créer et gérer une entreprise. (হ্যাঁ, তার ব্যবসা প্রতিষ্ঠা ও পরিচালনার ক্ষেত্রে পুরুষের মতোই একই অধিকার রয়েছে।)",,1,
+question,"À partir de quel âge un mineur peut-il travailler ? (কত বছর বয়স থেকে একজন নাবালক কাজ করতে পারে?)",,,lvl1
+answer,"À partir de 14 ans sans aucune condition. (১৪ বছর বয়স থেকে কোনো শর্ত ছাড়াই।)",,0,
+answer,"À partir de 16 ans (ou 14 ans pour certains travaux légers ou stages). (১৬ বছর বয়স থেকে (বা কিছু হালকা কাজ বা ইন্টার্নশিপের জন্য ১৪ বছর)।)",,1,
+answer,"À partir de 18 ans seulement. (শুধুমাত্র ১৮ বছর বয়স থেকে।)",,0,
+question,"Auprès de quel organisme faut-il demander le remboursement des frais de santé ? (স্বাস্থ্য ব্যয়ের প্রতিদান পাওয়ার জন্য কোন সংস্থার কাছে অনুরোধ করতে হবে?)",,,lvl1
+answer,"Auprès de la préfecture. (প্রিফেকচারের কাছে।)",,0,
+answer,"Auprès de l'Assurance Maladie (Caisse Primaire d'Assurance Maladie - CPAM). (স্বাস্থ্য বীমা (Caisse Primaire d'Assurance Maladie - CPAM) এর কাছে।)",,1,
+answer,"Auprès de la banque. (ব্যাংকের কাছে।)",,0,
+question,"Qu’est-ce qu’un numéro d’urgence ? (একটি জরুরি নম্বর কী?)",,,lvl1
+answer,"Un numéro de téléphone pour commander de la nourriture. (খাবার অর্ডার করার জন্য একটি টেলিফোন নম্বর।)",,0,
+answer,"Un numéro gratuit permettant d'appeler les secours (police, pompiers, SAMU) pour un danger immédiat. (একটি বিনামূল্যের নম্বর যা তাৎক্ষণিক বিপদের জন্য জরুরি পরিষেবাগুলিকে (পুলিশ, দমকল, SAMU) কল করার সুযোগ দেয়।)",,1,
+answer,"Un numéro de service client. (একটি গ্রাহক পরিষেবা নম্বর।)",,0,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? (চিকিৎসা পাওয়ার বিষয়ে, কোন প্রস্তাবটি সঠিক?)",,,lvl1
+answer,"Seuls les Français peuvent être soignés. (শুধুমাত্র ফরাসিরাই চিকিৎসা পেতে পারে।)",,0,
+answer,"Toute personne résidant en France a droit à une prise en charge de ses frais de santé (sous certaines conditions). (ফ্রান্সে বসবাসকারী সকল ব্যক্তির স্বাস্থ্য ব্যয়ের প্রতিদান পাওয়ার অধিকার রয়েছে (নির্দিষ্ট কিছু শর্তে)।)",,1,
+answer,"Il faut payer la totalité de l'hospitalisation sans remboursement possible. (হাসপাতালের সম্পূর্ণ বিল পরিশোধ করতে হবে কোনো প্রতিদান ছাড়াই।)",,0,
+question,"En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ? (জরুরি নয় এমন স্বাস্থ্য সমস্যার ক্ষেত্রে, প্রথমে কার কাছে যেতে হবে?)",,,lvl1
+answer,"Aux urgences de l'hôpital (হাসপাতালের জরুরি বিভাগে)",,0,
+answer,"Au médecin traitant (médecin généraliste déclaré). (চিকিৎসক (মেদেসাঁ ত্রৈতঁ) এর কাছে (ঘোষিত সাধারণ চিকিৎসক)।)",,1,
+answer,"Aux pompiers (দমকল কর্মীদের কাছে)",,0,
+question,"Quel est le rôle du médecin traitant ? (চিকিৎসক (মেদেসাঁ ত্রৈতঁ) এর ভূমিকা কী?)",,,lvl1
+answer,"Il assure le suivi régulier du patient et l'oriente vers des spécialistes (parcours de soins coordonnés). (তিনি রোগীর নিয়মিত ফলো-আপ নিশ্চিত করেন এবং বিশেষ ডাক্তারদের কাছে পাঠান (সমন্বিত চিকিৎসার পথ)।)",,1,
+answer,"Il distribue les médicaments gratuitement. (তিনি বিনামূল্যে ওষুধ বিতরণ করেন।)",,0,
+answer,"Il donne des conseils pour trouver un emploi. (তিনি চাকরি খোঁজার জন্য পরামর্শ দেন।)",,0,
+question,"Dans quelles situations doit-on se rendre aux urgences de l'hôpital ? (কোন পরিস্থিতিতে হাসপাতালের জরুরি বিভাগে যাওয়া উচিত?)",,,lvl1
+answer,"Pour un simple rhume. (সাধারণ ঠান্ডার জন্য।)",,0,
+answer,"Pour faire renouveler une ordonnance. (একটি প্রেসক্রিপশন নবায়ন করার জন্য।)",,0,
+answer,"En cas d'urgence vitale (AVC, infarctus, blessure grave...) ou lorsque le médecin traitant n'est pas disponible et que l'état de santé le nécessite. (গুরুতর জরুরি অবস্থার ক্ষেত্রে (স্ট্রোক, হার্ট অ্যাটাক, গুরুতর আঘাত...) বা যখন চিকিৎসক পাওয়া যায় না এবং স্বাস্থ্যের অবস্থার কারণে প্রয়োজন হয়।)",,1,
+question,"Quel est l’objectif des vaccinations obligatoires ? (বাধ্যতামূলক টিকাগুলির উদ্দেশ্য কী?)",,,lvl1
+answer,"Réduire le nombre d'enfants dans les écoles. (স্কুলে শিশুদের সংখ্যা কমানো।)",,0,
+answer,"Protéger l'enfant et l'ensemble de la population (immunité collective). (শিশু এবং সমগ্র জনসংখ্যাকে রক্ষা করা (গোষ্ঠীগত অনাক্রম্যতা)।)",,1,
+answer,"Augmenter les revenus des médecins. (চিকিৎসকদের আয় বৃদ্ধি করা।)",,0,
+question,"À quoi sert la carte Vitale ? (কার্ত ভিতাল (Carte Vitale) কী কাজে লাগে?)",,,lvl1
+answer,"À payer ses impôts. (নিজের কর পরিশোধ করার জন্য।)",,0,
+answer,"À attester de ses droits à l'Assurance Maladie et faciliter le remboursement des soins. (স্বাস্থ্য বীমাতে (Assurance Maladie) নিজের অধিকার প্রমাণ করতে এবং চিকিৎসার প্রতিদান সহজ করতে।)",,1,
+answer,"À prouver son identité. (নিজের পরিচয় প্রমাণ করার জন্য।)",,0,
+question,"À quoi sert une mutuelle santé ? (একটি মিউচুয়েল সঁতে (Mutuelle Santé - অতিরিক্ত স্বাস্থ্য বীমা) কী কাজে লাগে?)",,,lvl1
+answer,"À remplacer l'Assurance Maladie. (স্বাস্থ্য বীমার প্রতিস্থাপন করতে।)",,0,
+answer,"À compléter le remboursement des frais de santé non couverts par l'Assurance Maladie. (স্বাস্থ্য বীমা দ্বারা অপরিশোধিত স্বাস্থ্য ব্যয়ের প্রতিদান পূরণ করতে।)",,1,
+answer,"À payer l'école des enfants. (বাচ্চাদের স্কুলের খরচ দিতে।)",,0,
+question,"Jusqu'à quel âge l'école est-elle obligatoire ? (কত বছর বয়স পর্যন্ত স্কুল বাধ্যতামূলক?)",,,lvl1
+answer,"Jusqu'à 14 ans. (১৪ বছর পর্যন্ত।)",,0,
+answer,"De 3 ans à 16 ans. (৩ বছর থেকে ১৬ বছর পর্যন্ত।)",,1,
+answer,"Jusqu'à 18 ans. (১৮ বছর পর্যন্ত।)",,0,
+question,"L'autorité parentale prévoit l'obligation : (পিতামাতার কর্তৃত্ব নিম্নলিখিত বাধ্যবাধকতা প্রদান করে:)",,,lvl1
+answer,"D'envoyer son enfant travailler. (নিজের সন্তানকে কাজ করতে পাঠানো।)",,0,
+answer,"De protéger son enfant, de l'éduquer et de subvenir à ses besoins. (নিজের সন্তানকে রক্ষা করা, তাকে শিক্ষিত করা এবং তার প্রয়োজন মেটানো।)",,1,
+answer,"De laisser l'enfant choisir tout seul son école dès 6 ans. (৬ বছর বয়স থেকে বাচ্চাকে একা নিজের স্কুল বেছে নিতে দেওয়া।)",,0,
+question,"Pour qui l'école est-elle obligatoire ? (কার জন্য স্কুল বাধ্যতামূলক?)",,,lvl1
+answer,"Seulement pour les enfants de nationalité française. (শুধুমাত্র ফরাসি জাতীয়তার শিশুদের জন্য।)",,0,
+answer,"Pour tous les enfants (français et étrangers) résidant sur le territoire français de 3 à 16 ans. (ফ্রান্সে বসবাসকারী ৩ থেকে ১৬ বছর বয়সী সকল শিশুর (ফরাসি এবং বিদেশী) জন্য।)",,1,
+answer,"Seulement pour les garçons. (শুধুমাত্র ছেলেদের জন্য।)",,0,
+question,"Quel diplôme obtient-on à la fin du lycée ? (হাই স্কুলের শেষে কোন ডিপ্লোমা পাওয়া যায়?)",,,lvl1
+answer,"Le Brevet des collèges (কলেজ ব্রেভে)",,0,
+answer,"Le Baccalauréat (BAC) (ব্যাকালোরেয়া (BAC))",,1,
+answer,"Le Certificat d'études primaires (প্রাথমিক শিক্ষার সার্টিফিকেট)",,0,
+question,"Dans quels établissements scolaires vont les élèves après l'école élémentaire ? (প্রাথমিক বিদ্যালয়ের পরে শিক্ষার্থীরা কোন শিক্ষা প্রতিষ্ঠানে যায়?)",,,lvl1
+answer,"À l'université (বিশ্ববিদ্যালয়ে)",,0,
+answer,"Au collège (কলেজে)",,1,
+answer,"Au lycée (হাই স্কুলে)",,0,
+question,"Quel établissement scolaire accueille les enfants de 6 à 11 ans ? (কোন শিক্ষা প্রতিষ্ঠান ৬ থেকে ১১ বছর বয়সী শিশুদের গ্রহণ করে?)",,,lvl1
+answer,"L'école maternelle (প্রাক-প্রাথমিক বিদ্যালয়)",,0,
+answer,"L'école élémentaire (প্রাথমিক বিদ্যালয়)",,1,
+answer,"Le lycée professionnel (পেশাগত হাই স্কুল)",,0,
+question,"Un enfant inscrit à l'école : (স্কুলে নথিভুক্ত একটি শিশু:)",,,lvl1
+answer,"Peut faire ce qu'il veut pendant les cours. (ক্লাসের সময় যা খুশি করতে পারে।)",,0,
+answer,"Doit respecter les règles de l'école (règlement intérieur) et le principe de laïcité. (স্কুলের নিয়মাবলী (অভ্যন্তরীণ নিয়ম) এবং ধর্মনিরপেক্ষতার নীতিকে সম্মান করতে হবে।)",,1,
+answer,"N'a pas besoin de respecter les enseignants. (শিক্ষকদের সম্মান করার প্রয়োজন নেই।)",,0,
+question,"Les enfants qui ne parlent pas français : (যে শিশুরা ফরাসি ভাষায় কথা বলে না:)",,,lvl1
+answer,"Ne peuvent pas aller à l'école. (তারা স্কুলে যেতে পারে না।)",,0,
+answer,"Sont accueillis à l'école et peuvent bénéficier de dispositifs pour l'apprentissage du français. (তাদের স্কুলে স্বাগত জানানো হয় এবং তারা ফরাসি ভাষা শেখার জন্য সুবিধা পেতে পারে।)",,1,
+answer,"Doivent apprendre le français seuls avant de venir en classe. (ক্লাসে আসার আগে তাদের একা ফরাসি শিখতে হবে।)",,0,
+question,"Quel mariage est reconnu par l'État ? (কোন বিবাহ রাষ্ট্র দ্বারা স্বীকৃত হয়?)",,,lvl2
+answer,"Le mariage religieux. (ধর্মীয় বিবাহ।)",,0,
+answer,"Le mariage civil (célébré à la mairie). (বেসামরিক বিবাহ (পৌরসভা ভবনে উদযাপিত)।)",,1,
+answer,"Le mariage fait à l'étranger sans transcription. (লিপিকরণ ছাড়া বিদেশে করা বিবাহ।)",,0,
+question,"Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ? (কোন প্রতিষ্ঠানের কাছে পিতামাতারা তাদের সন্তানকে পাবলিক স্কুলে নথিভুক্ত করতে পারেন?)",,,lvl2
+answer,"Auprès de la préfecture. (প্রিফেকচারের কাছে।)",,0,
+answer,"Auprès de la mairie de leur commune de résidence. (তাদের বসবাসের কমিউনের পৌরসভা ভবনের কাছে।)",,1,
+answer,"Auprès du tribunal. (আদালতের কাছে।)",,0,
+question,"En cas de divorce, qui exerce l'autorité parentale ? (তালাকের ক্ষেত্রে, কে পিতামাতার কর্তৃত্ব প্রয়োগ করে?)",,,lvl2
+answer,"Seulement le parent qui a la garde des enfants. (শুধুমাত্র যে পিতামাতার কাছে শিশুদের হেফাজত রয়েছে।)",,0,
+answer,"Les deux parents en commun (sauf décision contraire du juge). (বিচারকের অন্য কোনো সিদ্ধান্ত না থাকলে উভয় পিতামাতা যৌথভাবে।)",,1,
+answer,"Uniquement la mère. (শুধুমাত্র মা।)",,0,
+question,"Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ? (কোন সাহায্য আর্থিক অসুবিধা আছে এমন ব্যক্তিদের একজন আইনজীবী পেতে সাহায্য করে?)",,,lvl2
+answer,"L'aide au logement. (আবাসন সহায়তা।)",,0,
+answer,"L'aide juridictionnelle. (আইনি সহায়তা (aide juridictionnelle)।)",,1,
+answer,"L'allocation chômage. (বেকারত্ব ভাতা।)",,0,
+question,"Où faut-il déclarer la naissance d'un enfant ? (একটি শিশুর জন্ম কোথায় ঘোষণা করতে হবে?)",,,lvl2
+answer,"Auprès de la police. (পুলিশের কাছে।)",,0,
+answer,"Auprès de l'état civil de la mairie du lieu de naissance. (জন্মস্থানের পৌরসভার নাগরিক অবস্থা (état civil) এর কাছে।)",,1,
+answer,"Auprès du consulat. (দূতাবাসের কাছে।)",,0,
+question,"Quelle est l'une des conditions pour passer l'examen du permis de conduire ? (ড্রাইভিং লাইসেন্স পরীক্ষার জন্য শর্তগুলির মধ্যে একটি কী?)",,,lvl2
+answer,"Avoir déjà possédé une voiture. (ইতিমধ্যে একটি গাড়ি থাকা।)",,0,
+answer,"Être âgé d'au moins 18 ans (sauf conduite accompagnée). (কমপক্ষে ১৮ বছর বয়সী হওয়া (সঙ্গী সহ ড্রাইভিং ছাড়া)।)",,1,
+answer,"Parler couramment le français. (ফরাসি ভাষায় সাবলীলভাবে কথা বলা।)",,0,
+question,"Un bail locatif est valide s'il est : (একটি ভাড়াটিয়া চুক্তি বৈধ যদি তা হয়:)",,,lvl2
+answer,"Seulement oral. (শুধুমাত্র মৌখিক।)",,0,
+answer,"Écrit et signé par le locataire et le propriétaire (ou agence). (ভাড়াটিয়া এবং মালিক (বা সংস্থা) দ্বারা লিখিত এবং স্বাক্ষরিত।)",,1,
+answer,"Seulement visé par le tribunal. (শুধুমাত্র আদালত দ্বারা অনুমোদিত।)",,0,
+question,"Où peut-on déposer un lave-vaisselle cassé ? (একটি ভাঙা ডিশওয়াশার কোথায় ফেলা যেতে পারে?)",,,lvl2
+answer,"Dans les poubelles de la rue. (রাস্তার আবর্জনার পাত্রে।)",,0,
+answer,"À la déchetterie (ou par la collecte des encombrants). (ডিশওয়াশার সংগ্রহ কেন্দ্রে (déchetterie) (বা বৃহৎ বর্জ্য সংগ্রহের মাধ্যমে)।)",,1,
+answer,"Dans la forêt. (জঙ্গলে।)",,0,
+question,"Quel numéro d'urgence permet d'appeler la police ? (কোন জরুরি নম্বর পুলিশকে কল করার সুযোগ দেয়?)",,,lvl2
+answer,"18 (১৮)",,0,
+answer,"15 (১৫)",,0,
+answer,"17 (১৭)",,1,
+question,"Concernant l'accès aux soins, quelle proposition est correcte ? (চিকিৎসা পাওয়ার বিষয়ে, কোন প্রস্তাবটি সঠিক?)",,,lvl2
+answer,"L'accès aux soins est réservé aux Français. (চিকিৎসা পাওয়ার সুযোগ শুধুমাত্র ফরাসিদের জন্য সংরক্ষিত।)",,0,
+answer,"Toute personne résidant régulièrement en France a droit à la protection sociale pour la santé. (ফ্রান্সে নিয়মিতভাবে বসবাসকারী সকল ব্যক্তির স্বাস্থ্যের জন্য সামাজিক সুরক্ষা পাওয়ার অধিকার রয়েছে।)",,1,
+answer,"Il faut payer la totalité des frais de santé soi-même. (সমস্ত স্বাস্থ্য ব্যয় নিজের পকেট থেকে সম্পূর্ণ পরিশোধ করতে হবে।)",,0,
+question,"À qui est accessible la contraception ? (জন্ম নিয়ন্ত্রণ (contraception) কার জন্য সহজলভ্য?)",,,lvl2
+answer,"Seulement aux femmes mariées. (শুধুমাত্র বিবাহিত মহিলাদের জন্য।)",,0,
+answer,"À toute personne (homme ou femme), et gratuite pour les mineures et les moins de 26 ans. (যেকোনো ব্যক্তির (পুরুষ বা মহিলা) জন্য, এবং নাবালিকা ও ২৬ বছরের কম বয়সীদের জন্য বিনামূল্যে।)",,1,
+answer,"Seulement avec l'accord des parents pour les personnes majeures. (প্রাপ্তবয়স্কদের জন্য শুধুমাত্র পিতামাতার সম্মতিতে।)",,0,
+question,"Qu’est-ce que le principe de confidentialité dans le domaine de la santé ? (স্বাস্থ্য ক্ষেত্রে গোপনীয়তার নীতি কী?)",,,lvl2
+answer,"L'obligation d'informer sa famille de sa maladie. (নিজের অসুস্থতা সম্পর্কে পরিবারকে জানানোর বাধ্যবাধকতা।)",,0,
+answer,"L'interdiction pour les professionnels de santé de révéler les informations sur la santé du patient. (স্বাস্থ্য পেশাদারদের জন্য রোগীর স্বাস্থ্য সম্পর্কিত তথ্য প্রকাশ করা নিষিদ্ধ।)",,1,
+answer,"L'obligation pour le patient de ne parler de sa maladie à personne. (রোগীর জন্য নিজের অসুস্থতা সম্পর্কে কাউকে না বলার বাধ্যবাধকতা।)",,0,
+question,"L'inscription à l'Assurance maladie est : (স্বাস্থ্য বীমাতে (Assurance maladie) নাম নথিভুক্ত করা হল:)",,,lvl2
+answer,"Facultative pour les salariés. (কর্মচারীদের জন্য ঐচ্ছিক।)",,0,
+answer,"Obligatoire pour les personnes qui travaillent ou résident régulièrement en France. (ফ্রান্সে যারা কাজ করেন বা নিয়মিতভাবে বসবাস করেন তাদের জন্য বাধ্যতামূলক।)",,1,
+answer,"Uniquement pour les personnes nées en France. (শুধুমাত্র ফ্রান্সে জন্মগ্রহণকারীদের জন্য।)",,0,
+question,"Qui peut demander un congé parental d'éducation ? (কে পিতামাতার শিক্ষামূলক ছুটি (congé parental d'éducation) এর জন্য অনুরোধ করতে পারেন?)",,,lvl2
+answer,"Le père et la mère (ou l'un des deux), sous certaines conditions liées à l'ancienneté. (পিতা এবং মাতা (অথবা দুজনের মধ্যে একজন), কর্মজীবনের সময়কালের সাথে সম্পর্কিত কিছু শর্তে।)",,1,
+answer,"Uniquement la mère si elle est salariée. (শুধুমাত্র মা যদি তিনি কর্মচারী হন।)",,0,
+answer,"Uniquement la grand-mère. (শুধুমাত্র দাদী/নানী।)",,0,
+question,"Quelles sont les affaires traitées par le conseil de prud'hommes ? (Conseil de prud'hommes (শ্রম আদালত) দ্বারা কোন বিষয়গুলি বিচার করা হয়?)",,,lvl2
+answer,"Les litiges entre voisins. (প্রতিবেশীদের মধ্যে বিতর্ক।)",,0,
+answer,"Les litiges individuels entre un employeur et un salarié (contrat de travail, licenciement...). (একজন নিয়োগকর্তা এবং একজন কর্মচারীর মধ্যে ব্যক্তিগত বিতর্ক (চুক্তি, বরখাস্ত...)।)",,1,
+answer,"Les infractions au code de la route. (রাস্তার আইনের লঙ্ঘন।)",,0,
+question,"Travailler sans être déclaré est : (ঘোষণা না করে কাজ করা হল:)",,,lvl2
+answer,"Un moyen normal de gagner de l'argent. (অর্থ উপার্জনের একটি স্বাভাবিক উপায়।)",,0,
+answer,"Un délit (travail dissimulé) puni par la loi. (আইন দ্বারা শাস্তিযোগ্য একটি অপরাধ (লুকানো কাজ)।)",,1,
+answer,"Un droit pour les personnes qui cherchent un emploi. (যারা চাকরি খুঁজছেন তাদের জন্য একটি অধিকার।)",,0,
+question,"Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : (যখন একজন নিয়োগকর্তা চান যে একজন কর্মচারী চুক্তিতে নির্ধারিত সময়ের চেয়ে বেশি সময় কাজ করুক:)",,,lvl2
+answer,"C'est interdit. (এটি নিষিদ্ধ।)",,0,
+answer,"Le salarié doit le faire gratuitement. (কর্মচারীকে এটি বিনামূল্যে করতে হবে।)",,0,
+answer,"Il peut lui demander de faire des heures supplémentaires, qui doivent être payées (ou compensées) selon la loi. (তিনি তাকে অতিরিক্ত সময় (heures supplémentaires) কাজ করতে বলতে পারেন, যা আইন অনুযায়ী পরিশোধ করতে হবে (বা ক্ষতিপূরণ দিতে হবে)।)",,1,
+question,"Quelle est la mission de France Travail ? (ফ্রান্স ট্রাভাই (France Travail) এর লক্ষ্য কী?)",,,lvl2
+answer,"Accompagner les demandeurs d'emploi et indemniser les chômeurs. (চাকরিপ্রার্থীদের সহায়তা করা এবং বেকারদের ক্ষতিপূরণ দেওয়া।)",,1,
+answer,"Rédiger les contrats de travail. (চুক্তি তৈরি করা।)",,0,
+answer,"Payer les loyers des demandeurs d'emploi. (চাকরিপ্রার্থীদের ভাড়া পরিশোধ করা।)",,0,
+question,"Dans une entreprise, le droit syndical permet : (একটি প্রতিষ্ঠানে, ট্রেড ইউনিয়ন অধিকার কিসের সুযোগ দেয়?)",,,lvl2
+answer,"D'interdire les réunions de salariés. (কর্মচারীদের সভা নিষিদ্ধ করা।)",,0,
+answer,"Aux salariés de créer une organisation pour défendre leurs droits (syndicat). (কর্মচারীদের তাদের অধিকার রক্ষার জন্য একটি সংস্থা (ট্রেড ইউনিয়ন) তৈরি করার।)",,1,
+answer,"Au patron d'augmenter les salaires sans l'accord des salariés. (কর্মচারীদের সম্মতি ছাড়াই নিয়োগকর্তাকে বেতন বাড়ানোর।)",,0,
+question,"Dans une entreprise, le droit de grève autorise : (একটি প্রতিষ্ঠানে, ধর্মঘট করার অধিকার কিসের অনুমোদন দেয়?)",,,lvl2
+answer,"Les salariés à refuser d'aller travailler sans prévenir. (কর্মচারীদের কোনো সতর্কতা ছাড়াই কাজে যেতে অস্বীকার করার।)",,0,
+answer,"L'arrêt collectif et concerté du travail pour la défense des intérêts professionnels. (পেশাগত স্বার্থ রক্ষার জন্য সম্মিলিত ও সমন্বিতভাবে কাজ বন্ধ করার।)",,1,
+answer,"Le chef d'entreprise à licencier tous les grévistes. (ব্যবসা প্রধানকে সমস্ত ধর্মঘটকারীদের বরখাস্ত করার।)",,0,
+question,"Quelles sont les conditions pour toucher les allocations chômage ? (বেকারত্ব ভাতা পাওয়ার শর্তগুলি কী কী?)",,,lvl2
+answer,"Avoir plus de 60 ans. (৬০ বছরের বেশি বয়সী হওয়া।)",,0,
+answer,"Être inscrit à France Travail et justifier d'une période de travail suffisante. (ফ্রান্স ট্রাভাই-তে নাম নথিভুক্ত করা এবং একটি পর্যাপ্ত কাজের সময়কাল প্রমাণ করা।)",,1,
+answer,"Avoir démissionné de son dernier emploi. (নিজের শেষ চাকরি থেকে পদত্যাগ করা।)",,0,
+question,"Qu'est-ce que l'école maternelle ? (প্রাক-প্রাথমিক বিদ্যালয় (école maternelle) কী?)",,,lvl2
+answer,"Un lieu de garde pour les bébés. (শিশুদের রাখার জায়গা।)",,0,
+answer,"L'école des 6-11 ans. (৬-১১ বছর বয়সীদের স্কুল।)",,0,
+answer,"La première étape de l'enseignement (pour les enfants de 3 à 6 ans). (শিক্ষার প্রথম ধাপ (৩ থেকে ৬ বছর বয়সী শিশুদের জন্য)।)",,1,
+question,"Comment s'appelle le diplôme passé par les élèves à la fin du collège ? (কলেজের শেষে শিক্ষার্থীরা কোন ডিপ্লোমা পরীক্ষায় উত্তীর্ণ হয়?)",,,lvl2
+answer,"Le Baccalauréat (ব্যাকালোরেয়া)",,0,
+answer,"Le Diplôme National du Brevet (DNB) ou Brevet des collèges. (জাতীয় ডিপ্লোমা ব্রভে (DNB) বা কলেজ ব্রেভে।)",,1,
+answer,"Le permis de conduire (ড্রাইভিং লাইসেন্স)",,0,
+question,"Les parents d'élève ont le droit de : (শিক্ষার্থীর পিতামাতার অধিকার আছে:)",,,lvl2
+answer,"D'interdire l'enseignement de certaines matières. (নির্দিষ্ট কিছু বিষয় শেখানো নিষিদ্ধ করার।)",,0,
+answer,"D'être informés sur la scolarité de leur enfant et de participer à la vie de l'école (droit d'association et de réunion). (তাদের সন্তানের পড়াশোনা সম্পর্কে অবহিত হওয়ার এবং স্কুলের জীবনে অংশগ্রহণ করার (সংঘবদ্ধ হওয়ার এবং সভা করার অধিকার)।)",,1,
+answer,"De choisir eux-mêmes les professeurs de leur enfant. (নিজের সন্তানের শিক্ষকদের নিজেরাই বেছে নেওয়ার।)",,0,
+question,"Qui peut manger à la cantine scolaire ? (কে স্কুলের ক্যান্টিনে খেতে পারে?)",,,lvl2
+answer,"Uniquement les élèves de l'école élémentaire. (শুধুমাত্র প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের।)",,0,
+answer,"Tous les élèves inscrits, dans le respect des règles de laïcité et du règlement de la cantine. (সকল নথিভুক্ত শিক্ষার্থী, ধর্মনিরপেক্ষতার নীতি এবং ক্যান্টিনের নিয়মাবলী সম্মান করে।)",,1,
+answer,"Seulement les enfants dont les parents sont en difficulté financière. (শুধুমাত্র সেই শিশুরা যাদের পিতামাতা আর্থিক সমস্যায় আছেন।)",,0,
+question,"À quel âge commence l'instruction obligatoire des enfants ? (কত বছর বয়স থেকে শিশুদের বাধ্যতামূলক শিক্ষা শুরু হয়?)",,,lvl2
+answer,"À 6 ans (৬ বছর বয়স থেকে)",,0,
+answer,"À 3 ans (৩ বছর বয়স থেকে)",,1,
+answer,"À 11 ans (১১ বছর বয়স থেকে)",,0,
+question,"Quel est l'âge de la majorité ? (প্রাপ্তবয়স্কতার বয়স কত?)",,,lvl2
+answer,"21 ans (২১ বছর)",,0,
+answer,"18 ans (১৮ বছর)",,1,
+answer,"16 ans (১৬ বছর)",,0,
+question,"À l'école, il est interdit aux parents de : (স্কুলে, পিতামাতার জন্য নিষিদ্ধ:)",,,lvl2
+answer,"Devenir représentants des parents d'élèves. (শিক্ষার্থী পিতামাতার প্রতিনিধি হওয়া।)",,0,
+answer,"Porter des signes religieux ostentatoires (en tant qu'accompagnateurs de sorties scolaires par exemple). (অতিরিক্ত দৃশ্যমান ধর্মীয় চিহ্ন পরিধান করা (উদাহরণস্বরূপ, স্কুল ভ্রমণের সহচর হিসাবে)।)",,1,
+answer,"Demander un rendez-vous à l'enseignant. (শিক্ষকের সাথে একটি অ্যাপয়েন্টমেন্ট চাওয়া।)",,0,
+question,"Quel motif d'absence est accepté par l'école ? (স্কুল কর্তৃক কোন অনুপস্থিতির কারণ গৃহীত হয়?)",,,lvl2
+answer,"La maladie de l'enfant (justifiée par un certificat médical si l'absence est longue). (শিশুর অসুস্থতা (অনুপস্থিতি দীর্ঘ হলে একটি চিকিৎসা সনদ দ্বারা সমর্থিত)।)",,1,
+answer,"Un voyage familial imprévu. (একটি অপ্রত্যাশিত পারিবারিক ভ্রমণ।)",,0,
+answer,"Une activité sportive ou culturelle non organisée par l'école. (স্কুল দ্বারা আয়োজিত নয় এমন একটি ক্রীড়া বা সাংস্কৃতিক কার্যকলাপ।)",,0,
+question,"Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ? (পিতামাতা তাদের সন্তানদের শিক্ষার বাধ্যবাধকতাকে সম্মান করেন না। তারা সর্বোচ্চ কী শাস্তি পেতে পারেন?)",,,lvl2
+answer,"Une amende de 10 euros. (১০ ইউরো জরিমানা।)",,0,
+answer,"Une amende maximale de 7 500 euros et 6 mois de prison (en cas d'opposition aux contrôles). (সর্বোচ্চ ৭,৫০০ ইউরো জরিমানা এবং ৬ মাস পর্যন্ত কারাদণ্ড (নিয়ন্ত্রণে বাধা দেওয়ার ক্ষেত্রে)।)",,1,
+answer,"Le retrait de leur droit de vote. (তাদের ভোট দেওয়ার অধিকার থেকে বঞ্চিত হওয়ার।)",,0,
+question,"Quand ont lieu les vacances scolaires de Noël ? (ক্রিসমাসের স্কুলের ছুটি কখন হয়?)",,,lvl2
+answer,"En février. (ফেব্রুয়ারিতে।)",,0,
+answer,"En décembre. (ডিসেম্বরে।)",,1,
+answer,"En juillet et août. (জুলাই ও আগস্টে।)",,0,
+question,"À l'école, un enfant en situation de handicap : (স্কুলে, একজন প্রতিবন্ধী শিশু:)",,,lvl2
+answer,"Ne peut pas être inscrit à l'école publique. (পাবলিক স্কুলে নথিভুক্ত হতে পারে না।)",,0,
+answer,"A le droit d'être scolarisé et de bénéficier d'un accompagnement adapté (AESH). (স্কুলে পড়ার অধিকার আছে এবং উপযুক্ত সহায়তা (AESH) পাওয়ার অধিকার আছে।)",,1,
+answer,"Est obligé de rester à la maison. (বাড়িতে থাকতে বাধ্য।)",,0,
+question,"À l’école, il est interdit aux parents de : (স্কুলে অভিভাবকদের জন্য কোনটি নিষিদ্ধ?)",,,lvl3
+answer,"Contester l’autorité des enseignants dans l’établissement. (স্কুলের ভেতরে শিক্ষকদের কর্তৃত্ব অস্বীকার করা।)",,1,
+answer,"Dialoguer avec l’école. (স্কুলের সঙ্গে আলোচনা করা।)",,0,
+answer,"Participer aux réunions. (সভায় অংশগ্রহণ করা।)",,0,
+question,"Qui peut demander un congé parental d’éducation ? (কে প্যারেন্টাল এডুকেশনাল ছুটি নিতে পারে?)",,,lvl3
+answer,"Les étudiants. (ছাত্ররা।)",,0,
+answer,"Les employeurs. (নিয়োগকর্তারা।)",,0,
+answer,"Les parents salariés. (কর্মরত অভিভাবকদের।)",,1,
+question,"À qui est accessible la contraception ? (গর্ভনিরোধক কার জন্য প্রযোজ্য?)",,,lvl3
+answer,"Aux personnes mariées uniquement. (শুধু বিবাহিতদের জন্য।)",,0,
+answer,"Aux personnes majeures seulement. (শুধু প্রাপ্তবয়স্কদের জন্য।)",,0,
+answer,"À toutes les personnes, majeures ou mineures. (সবাইয়ের জন্য, প্রাপ্তবয়স্ক ও অপ্রাপ্তবয়স্ক উভয়ই।)",,1,
+question,"Dans une entreprise, le droit syndical permet : (একটি প্রতিষ্ঠানে শ্রমিক ইউনিয়নের অধিকার কী করতে দেয়?)",,,lvl3
+answer,"De diriger l’entreprise. (প্রতিষ্ঠান পরিচালনা করা।)",,0,
+answer,"De fixer les salaires. (বেতন নির্ধারণ করা।)",,0,
+answer,"De créer ou rejoindre un syndicat. (ইউনিয়ন তৈরি করা বা যোগ দেওয়া।)",,1,
+question,"Quel motif d’absence est accepté par l’école ? (স্কুলে কোন অনুপস্থিতির কারণ গ্রহণযোগ্য?)",,,lvl3
+answer,"La maladie de l’enfant. (শিশুর অসুস্থতা।)",,1,
+answer,"Les vacances hors calendrier. (স্কুল ক্যালেন্ডারের বাইরে ছুটি।)",,0,
+answer,"Le refus d’aller en cours. (ক্লাসে যেতে না চাওয়া।)",,0,
+question,"Lorsqu’un employeur veut qu’un salarié travaille plus longtemps que la durée prévue dans le contrat de travail : (একজন নিয়োগকর্তা যদি চুক্তিতে নির্ধারিত সময়ের চেয়ে বেশি কাজ করাতে চান, তখন কী করতে হবে?)",,,lvl3
+answer,"Il doit respecter la loi et payer les heures supplémentaires. (তাকে আইন মানতে হবে এবং অতিরিক্ত সময়ের পারিশ্রমিক দিতে হবে।)",,1,
+answer,"Il peut l’imposer librement. (ইচ্ছামতো চাপিয়ে দিতে পারে।)",,0,
+answer,"Aucune règle ne s’applique. (কোনো নিয়ম প্রযোজ্য নয়।)",,0,
+question,"Dans une entreprise, le droit de grève autorise : (একটি প্রতিষ্ঠানে ধর্মঘটের অধিকার কী করতে দেয়?)",,,lvl3
+answer,"À empêcher les non-grévistes de travailler. (ধর্মঘটে অংশ না নেওয়াদের কাজ করতে বাধা দেওয়া।)",,0,
+answer,"À bloquer l’entreprise indéfiniment. (অনির্দিষ্টকালের জন্য প্রতিষ্ঠান বন্ধ করে দেওয়া।)",,0,
+answer,"À cesser collectivement le travail pour défendre des revendications. (দাবি আদায়ের জন্য সম্মিলিতভাবে কাজ বন্ধ করা।)",,1,

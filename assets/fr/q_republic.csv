@@ -1,0 +1,597 @@
+type,text,placeholder,is_correct,level
+question,À quoi correspond la date du 14 juillet ?,,,lvl1
+answer,Le jour de la signature de la Constitution,,0.0,
+answer,La fête de la Révolution et de la Nation,,1.0,
+answer,La date de la fin de la Seconde Guerre mondiale,,0.0,
+question,Quel est l’un des symboles de la République française ?,,,lvl1
+answer,Le lion et la couronne,,0.0,
+answer,Le drapeau rouge et noir,,0.0,
+answer,La Marianne,,1.0,
+question,Le principe d’égalité signifie que :,,,lvl1
+answer,Tous les citoyens doivent avoir la même richesse et le même statut social.,,0.0,
+answer,"La loi est la même pour tous, sans distinction d'origine, de race ou de religion.",,1.0,
+answer,Seules les personnes nées en France sont égales devant la loi.,,0.0,
+question,"""Liberté, égalité, fraternité"", c’est :",,,lvl1
+answer,Le titre de l'hymne national français.,,0.0,
+answer,La devise de la République française.,,1.0,
+answer,Le slogan d’un parti politique.,,0.0,
+question,"A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ? ?)",,,lvl1
+answer,"Oui, la liberté d'expression autorise toutes les paroles.",,0.0,
+answer,"Non, car cela constitue une discrimination punie par la loi.",,1.0,
+answer,"Oui, tant que l'insulte n'est pas écrite.",,0.0,
+question,Certains métiers peuvent-ils être réservés aux hommes ?,,,lvl1
+answer,"Oui, dans le secteur de la défense nationale.",,0.0,
+answer,"Non, la loi garantit l’égalité professionnelle entre les femmes et les hommes.",,1.0,
+answer,"Oui, les entreprises privées peuvent choisir librement leurs critères.",,0.0,
+question,De quand date la Constitution de la Ve République ?,,,lvl1
+answer,1946,,0.0,
+answer,1870,,0.0,
+answer,1958,,1.0,
+question,Le régime de la France est :,,,lvl1
+answer,Une monarchie constitutionnelle,,0.0,
+answer,Un régime totalitaire,,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale.",,1.0,
+question,Lequel de ces symboles représente officiellement la République française ?,,,lvl1
+answer,Le lys,,0.0,
+answer,La couronne royale,,0.0,
+answer,"Le drapeau tricolore (bleu, blanc, rouge))",,1.0,
+question,Où peut-on voir la devise de la République ?,,,lvl1
+answer,Uniquement dans les musées nationaux.,,0.0,
+answer,Sur la majorité des produits fabriqués en France.,,0.0,
+answer,"Sur les bâtiments publics (mairies, écoles, préfectures...).।)",,1.0,
+question,Quels sont des symboles officiels de la République française ?,,,lvl1
+answer,L'Aigle impérial et le Sceptre.,,0.0,
+answer,"Le drapeau tricolore, la Marseillaise, Marianne.",,1.0,
+answer,La fleur de lys et le chêne.,,0.0,
+question,Qu’est-ce que l’égalité ?,,,lvl1
+answer,Le fait de ne plus avoir d'impôts à payer.,,0.0,
+answer,Le droit de chacun d’avoir le même métier que son voisin.,,0.0,
+answer,Le fait d’être traité de la même manière devant la loi et la justice.,,1.0,
+question,Que signifie la liberté ?,,,lvl1
+answer,Le droit de faire absolument tout ce que l’on veut.,,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas aux autres.,,1.0,
+answer,Le droit d’insulter les représentants de l’État.,,0.0,
+question,"Que signifie le mot ""fraternité"" dans la devise française ? ?)",,,lvl1
+answer,Le fait d’avoir seulement des frères et des sœurs dans sa famille.,,0.0,
+answer,Le droit de voyager sans visa dans les autres pays d'Europe.,,0.0,
+answer,La solidarité et l'entraide entre tous les citoyens.,,1.0,
+question,Quel animal est un symbole de la France ?,,,lvl1
+answer,Le lion,,0.0,
+answer,L'aigle,,0.0,
+answer,Le coq,,1.0,
+question,Quel est l’un des rôles des associations ? ?),,,lvl1
+answer,Remplacer l'État dans l'exercice de ses fonctions régaliennes.,,0.0,
+answer,Permettre aux citoyens de s’engager pour l'intérêt général.,,1.0,
+answer,Gérer le système de défense nationale.,,0.0,
+question,Quel est le nom de l'hymne national ?,,,lvl1
+answer,La Parisienne,,0.0,
+answer,Le Chant du Départ,,0.0,
+answer,La Marseillaise,,1.0,
+question,Quel symbole de la République française est tricolore ?,,,lvl1
+answer,La Marianne,,0.0,
+answer,Le drapeau,,1.0,
+answer,L'Hymne national,,0.0,
+question,Quelle est la date de la fête nationale française ?,,,lvl1
+answer,Le 1er mai,,0.0,
+answer,Le 11 novembre,,0.0,
+answer,Le 14 juillet,,1.0,
+question,Quelle est la devise de la République française ?,,,lvl1
+answer,"Unité, Justice, Travail",,0.0,
+answer,Honneur et Patrie,,0.0,
+answer,"Liberté, Égalité, Fraternité",,1.0,
+question,Quelle est la langue officielle de la République française ?,,,lvl1
+answer,Le français et l'anglais,,0.0,
+answer,Le français et toutes les langues régionales,,0.0,
+answer,Le français,,1.0,
+question,Quelle est la place de la langue française dans la République ?,,,lvl1
+answer,C'est la langue des élites et de l'administration.,,0.0,
+answer,C'est la langue privilégiée mais non obligatoire dans les services publics.,,0.0,
+answer,"C'est la langue de l'enseignement, du travail, des échanges et des services publics.",,1.0,
+question,Quelle liberté permet à chacun d’exprimer ses idées ?,,,lvl1
+answer,La liberté de culte,,0.0,
+answer,La liberté d'association,,0.0,
+answer,La liberté d'expression,,1.0,
+question,Quelle proposition est correcte ? La liberté d'expression :,,,lvl1
+answer,Est totale et ne connaît aucune limite en France.,,0.0,
+answer,Est limitée par la loi et ne doit pas porter atteinte à l'ordre public et aux droits d'autrui.,,1.0,
+answer,Permet de publier de fausses informations dans la presse.,,0.0,
+question,Quelles sont les couleurs du drapeau français ?,,,lvl1
+answer,"Rouge, Blanc, Vert",,0.0,
+answer,"Jaune, Bleu, Rouge",,0.0,
+answer,"Bleu, Blanc, Rouge",,1.0,
+question,Qu'est-ce que la Marseillaise ?,,,lvl1
+answer,Un chant militaire sans importance.,,0.0,
+answer,Un chant religieux chanté dans toutes les églises.,,0.0,
+answer,L'hymne national français.,,1.0,
+question,Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ?,,,lvl1
+answer,Une course cycliste internationale.,,0.0,
+answer,Un grand concert de musique classique.,,0.0,
+answer,Un défilé militaire.,,1.0,
+question,Qui est Marianne ?,,,lvl1
+answer,L'épouse du président de la République.,,0.0,
+answer,La mère de la Déclaration des Droits de l'Homme et du Citoyen.,,0.0,
+answer,La figure symbolique de la République française.,,1.0,
+question,Une personne peut-elle changer librement de religion ?,,,lvl1
+answer,"Non, uniquement si sa nouvelle religion est reconnue par l'État.",,0.0,
+answer,"Non, le changement est soumis à l'autorisation du maire.",,0.0,
+answer,"Oui, la liberté de conscience et de culte est garantie par la loi.",,1.0,
+question,"""La France est une République indivisible, ..., démocratique et sociale"". Complétez cette phrase :",,,lvl1
+answer,Humaniste,,0.0,
+answer,Souveraine,,0.0,
+answer,Laïque,,1.0,
+question,En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?,,,lvl1
+answer,1805,,0.0,
+answer,1905,,1.0,
+answer,1958,,0.0,
+question,Que permet le principe de laïcité ?,,,lvl1
+answer,De n'autoriser qu'une seule religion sur le territoire national.,,0.0,
+answer,D'interdire toute manifestation religieuse dans l'espace public.,,0.0,
+answer,D'assurer la liberté de conscience de chacun et la neutralité de l'État.,,1.0,
+question,Quel droit est garanti par la laïcité ?,,,lvl1
+answer,Le droit d'avoir une religion officielle.,,0.0,
+answer,Le droit de limiter l'accès à certaines religions.,,0.0,
+answer,"Le droit de ne pas croire, ou de choisir sa religion librement.",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ?,,,lvl1
+answer,Pour éviter de déranger les enseignants.,,0.0,
+answer,Pour assurer la domination d'une religion sur les autres.,,0.0,
+answer,Pour garantir aux élèves la liberté de conscience et le respect de tous.,,1.0,
+question,Qu'est-ce que la laïcité ?,,,lvl1
+answer,L'interdiction de pratiquer une religion.,,0.0,
+answer,L'obligation d'avoir une religion d'État.,,0.0,
+answer,Un principe de séparation entre les Églises (religions) et l'État. ।),,1.0,
+question,Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?,,,lvl1
+answer,"Oui, si ses parents sont d'accord.",,0.0,
+answer,Seulement s’il y a des examens importants ce jour-là.,,0.0,
+answer,"Non, l’instruction est obligatoire pour tous les enfants de 3 à 16 ans, quelle que soit la religion.",,1.0,
+question,Une personne a-t-elle le droit de ne pas croire en une religion ?,,,lvl1
+answer,"Non, toutes les personnes doivent avoir une religion en France.",,0.0,
+answer,Uniquement les personnes majeures.,,0.0,
+answer,"Oui, le droit de ne pas croire fait partie de la liberté de conscience garantie par la loi.",,1.0,
+question,"Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?",,,lvl2
+answer,Payer ses impôts.,,0.0,
+answer,Demander un titre de séjour. ।),,0.0,
+answer,Être bénévole dans une association. ।),,1.0,
+question,Que garantit la liberté d’expression ?,,,lvl2
+answer,Le droit de dire n'importe quoi sans conséquence.,,0.0,
+answer,Le droit de critiquer le gouvernement sans limite.,,0.0,
+answer,Le droit de communiquer ses idées et ses opinions par tous les moyens. ।),,1.0,
+question,À quoi sert un titre de séjour ? ?),,,lvl2
+answer,À obtenir gratuitement la nationalité française.,,0.0,
+answer,À payer les impôts.,,0.0,
+answer,À attester du droit à résider régulièrement en France pour les étrangers.,,1.0,
+question,La liberté de circulation permet à toute personne de :,,,lvl2
+answer,S'installer uniquement dans la ville où elle est née.,,0.0,
+answer,Voyager sans passeport dans le monde entier.,,0.0,
+answer,Se déplacer et s'établir librement sur l'ensemble du territoire français.,,1.0,
+question,"Pour retrouver les informations officielles sur les symboles de la République française, quel type de site internet est le plus fiable ?",,,lvl2
+answer,Un réseau social comme Facebook.,,0.0,
+answer,Un blog personnel.,,0.0,
+answer,Un site officiel du gouvernement (.gouv.fr ou .fr).।),,1.0,
+question,"Complétez ces paroles de la Marseillaise : ""Aux armes […] ! Formez vos bataillons""",,,lvl2
+answer,Les enfants du pays,,0.0,
+answer,Le peuple,,0.0,
+answer,Citoyens,,1.0,
+question,"Complétez les paroles de la Marseillaise : ""Allons enfants de la patrie […]""",,,lvl2
+answer,L'heure est venue,,0.0,
+answer,La liberté nous appelle,,0.0,
+answer,Le jour de gloire est arrivé,,1.0,
+question,"En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :",,,lvl2
+answer,Être emprisonnée sans jugement.,,0.0,
+answer,Être forcée de travailler.,,0.0,
+answer,Faire tout ce que la loi n'interdit pas.,,1.0,
+question,"Concernant la pratique de la religion, quelle proposition est correcte ?",,,lvl2
+answer,L'État choisit les lieux de culte autorisés.,,0.0,
+answer,Le port d'un signe religieux est interdit partout en France.,,0.0,
+answer,Chacun est libre de pratiquer sa religion dans les limites de l'ordre public.,,1.0,
+question,"En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",,,lvl2
+answer,"Oui, si l'établissement scolaire est privé.",,0.0,
+answer,"Oui, car la liberté religieuse le permet.",,0.0,
+answer,"Non, car la mixité dans les cours de sport s’impose à tous au nom du principe d’égalité.",,1.0,
+question,Quels sont les trois principes qui composent la devise de la République française ?,,,lvl2
+answer,"Justice, Paix, Sûreté",,0.0,
+answer,"Dignité, Solidarité, Progrès",,0.0,
+answer,"Liberté, Égalité, Fraternité",,1.0,
+question,La répudiation de sa femme est : :),,,lvl2
+answer,Acceptée uniquement pour les mariages religieux.,,0.0,
+answer,Autorisée si elle est pratiquée à l'étranger.,,0.0,
+answer,"Interdite et sanctionnée par la loi, le divorce étant le seul mode de rupture légal.",,1.0,
+question,Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?,,,lvl2
+answer,Seuls les citoyens français doivent payer des impôts.,,0.0,
+answer,Payer ses impôts est un choix personnel.,,0.0,
+answer,"Payer ses impôts est un devoir pour tous les résidents en France, selon leurs revenus.",,1.0,
+question,Peut-on brûler publiquement un drapeau français ?,,,lvl2
+answer,"Oui, car la liberté d'expression le permet.",,0.0,
+answer,"Non, cela est considéré comme un outrage au symbole national.",,1.0,
+answer,"Oui, sauf s'il est neuf.",,0.0,
+question,Que fait l’État pour lutter contre les discriminations ?,,,lvl2
+answer,Il met en place des lois pour autoriser certaines discriminations positives.,,0.0,
+answer,"Il a créé des institutions comme le Défenseur des droits, et applique des sanctions pénales. ।)",,1.0,
+answer,"Il n'intervient pas, car c'est un problème privé.",,0.0,
+question,Que représente Marianne ?,,,lvl2
+answer,L'héroïne de la Révolution française de 1789.,,0.0,
+answer,La figure symbolique de la République et de ses valeurs.,,1.0,
+answer,Le nom de la première loi votée par le Parlement.,,0.0,
+question,Qu'est-ce que la liberté d'association ? ?),,,lvl2
+answer,Le droit de circuler librement dans toute l'Europe.,,0.0,
+answer,Le droit de s'associer avec un parti politique.,,0.0,
+answer,"Le droit de créer une association ou de s’y joindre, sans autorisation préalable.",,1.0,
+question,Qu'est-ce que la liberté ?,,,lvl2
+answer,Le droit de faire tout ce qui est possible.,,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas à autrui.,,1.0,
+answer,Le fait d'être exempté des impôts.,,0.0,
+question,Qu'est-ce que la Marseillaise ?,,,lvl2
+answer,Le nom du drapeau français.,,0.0,
+answer,L'hymne national français.,,1.0,
+answer,La devise de la République.,,0.0,
+question,Sur quel document peut-on voir Marianne ?,,,lvl2
+answer,Les publicités pour le tourisme.,,0.0,
+answer,Les manuels scolaires uniquement.,,0.0,
+answer,"Les timbres, les pièces de monnaie et le logo officiel de la République.",,1.0,
+question,Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ?,,,lvl2
+answer,C'est autorisé s'il justifie que le travail est trop difficile.,,0.0,
+answer,"C'est interdit et constitue une discrimination, punie par la loi.",,1.0,
+answer,C'est autorisé uniquement dans les très petites entreprises.,,0.0,
+question,Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?। ?),,,lvl2
+answer,Les citoyens ont les mêmes opinions politiques.,,0.0,
+answer,Tous les citoyens sont égaux devant la loi et la justice.,,1.0,
+answer,Les citoyens ont l'obligation de s'entraider.,,0.0,
+question,Quelle est la place de la langue française dans la République ?,,,lvl2
+answer,Elle n'est utilisée que dans l'administration.,,0.0,
+answer,Elle est une langue parmi d'autres.,,0.0,
+answer,"Elle est la langue de l'enseignement, du travail et des services publics, et la seule officielle.",,1.0,
+question,Le régime de la France est :,,,lvl2
+answer,Une monarchie parlementaire.,,0.0,
+answer,Un État fédéral.,,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale.",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ?,,,lvl2
+answer,Pour que les élèves n'aient pas de religion.,,0.0,
+answer,Pour donner la priorité à la religion chrétienne.,,0.0,
+answer,"Pour garantir à tous les élèves la liberté de conscience et l'égalité, sans prosélytisme.",,1.0,
+question,"À l'école publique, qui peut porter des signes religieux très visibles ?",,,lvl2
+answer,Les élèves,,0.0,
+answer,Les usagers et parents (dans le cadre de leurs visites ou réunions).।),,1.0,
+answer,Les enseignants,,0.0,
+question,"Selon le principe de laïcité, que signifie la neutralité de l’État ?",,,lvl2
+answer,L'État n'a aucune relation avec les citoyens.,,0.0,
+answer,L’État ne prend pas parti en faveur d'une religion ou contre une religion.,,1.0,
+answer,L'État interdit toutes les religions.,,0.0,
+question,Que peut faire un usager du service public dans une mairie ?,,,lvl2
+answer,Exiger que l'agent porte un signe religieux visible.,,0.0,
+answer,"Être accueilli sans distinction d'origine, de religion ou de sexe.",,1.0,
+answer,Exiger que l'agent parle uniquement une langue régionale.,,0.0,
+question,Qui doit respecter le principe de neutralité religieuse dans une préfecture ? ?),,,lvl2
+answer,Uniquement les usagers des services publics.,,0.0,
+answer,Uniquement le préfet.,,0.0,
+answer,Tous les agents publics (fonctionnaires et contractuels).।),,1.0,
+question,La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?,,,lvl2
+answer,"Non, seulement l'impartialité.",,0.0,
+answer,"Non, ils peuvent exprimer leurs convictions religieuses.",,0.0,
+answer,"Oui, afin de garantir l'égalité de traitement de tous les usagers.",,1.0,
+question,Que garantit le principe de laïcité ?,,,lvl2
+answer,Que l'État finance les Églises.,,0.0,
+answer,La suppression de toutes les religions.,,0.0,
+answer,La liberté de conscience et la neutralité de l'État envers toutes les religions et convictions.,,1.0,
+question,Que représente la laïcité ?,,,lvl2
+answer,L'union des religions sous l'autorité de l'État.,,0.0,
+answer,La séparation de l'État et des organisations religieuses.,,1.0,
+answer,Un régime où une seule religion est dominante.,,0.0,
+question,Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ? ?),,,lvl2
+answer,Les débats sur les questions religieuses ou philosophiques.,,0.0,
+answer,Les signes religieux discrets.,,0.0,
+answer,Le prosélytisme et le port de signes religieux ostensibles par les élèves.,,1.0,
+question,Que dit l'article 1er de la Constitution française ?,,,lvl3
+answer,Que la France est une monarchie parlementaire.,,0.0,
+answer,"Que la France est une République indivisible, laïque, démocratique et sociale.",,1.0,
+answer,Que la loi est l'expression de la volonté générale.,,0.0,
+question,Sur quoi est fondée la République française ?,,,lvl3
+answer,Sur des lois que tous doivent respecter,,1.0,
+answer,Sur des traditions religieuses,,0.0,
+answer,Sur des coutumes orales,,0.0,
+question,"Qui a droit de concourir à la formation de la Loi, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?",,,lvl3
+answer,Seuls les hommes riches,,0.0,
+answer,Les nobles et le clergé,,0.0,
+answer,"Tous les Citoyens, personnellement ou par représentants",,1.0,
+question,Que garantit l’article 9 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?,,,lvl3
+answer,L’égalité des sexes,,0.0,
+answer,La liberté de commerce,,0.0,
+answer,La présomption d’innocence,,1.0,
+question,Quel autre type de propos est interdit par la loi ?,,,lvl3
+answer,Débats scientifiques,,0.0,
+answer,Provocations à la haine,,1.0,
+answer,Discours électoraux,,0.0,
+question,Quelle valeur essentielle de la République doit être respectée pour obtenir la nationalité française ?,,,lvl3
+answer,La liberté d’entreprendre,,0.0,
+answer,L’égalité entre les femmes et les hommes,,1.0,
+answer,La supériorité d’une religion,,0.0,
+question,"Que peuvent faire les citoyens, en plus de voter, selon la loi ?",,,lvl3
+answer,Être nommés juges,,0.0,
+answer,Se présenter aux élections,,1.0,
+answer,Modifier la Constitution,,0.0,
+question,"Comment la contribution commune doit-elle être répartie, selon l’article 13 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? ?)",,,lvl3
+answer,À parts égales entre tous,,0.0,
+answer,En raison des facultés de chacun,,1.0,
+answer,Uniquement entre les pauvres,,0.0,
+question,Quelles formes de liberté sont mentionnées à l’article 11 de la Déclaration de 1789 ?,,,lvl3
+answer,"Prier, se marier, travailler librement",,0.0,
+answer,"Parler, écrire, imprimer librement",,1.0,
+answer,"Voyager, commercer, s’enrichir librement",,0.0,
+question,Quel droit est proclamé par l’article 11 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?,,,lvl3
+answer,Le droit à la sécurité sociale,,0.0,
+answer,La libre communication des pensées et opinions,,1.0,
+answer,Le droit à l’éducation gratuite,,0.0,
+question,Sur quoi portent les règles collectives inscrites dans la loi ?,,,lvl3
+answer,Sur les traditions religieuses,,0.0,
+answer,Sur les coutumes familiales,,0.0,
+answer,Sur la vie en société,,1.0,
+question,Quel symbole de la République est présent dans toutes les mairies ?,,,lvl3
+answer,L’arc de triomphe,,0.0,
+answer,Le coq gaulois,,0.0,
+answer,La Marianne,,1.0,
+question,Quelle date correspond à la prise de la Bastille par le peuple de Paris ?,,,lvl3
+answer,4 août 1789,,0.0,
+answer,14 juillet 1790,,0.0,
+answer,14 juillet 1789,,1.0,
+question,"Quelles sont des conditions d’accès aux emplois publics, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?",,,lvl3
+answer,"La capacité, les vertus et les talents",,1.0,
+answer,L’appartenance religieuse,,0.0,
+answer,La naissance et la fortune,,0.0,
+question,Que permet l’article 14 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 en matière de contribution publique ?,,,lvl3
+answer,"En suivre l’emploi et en déterminer la quotité, l’assiette, le recouvrement et la durée",,1.0,
+answer,La déléguer uniquement au roi,,0.0,
+answer,L’abolir définitivement,,0.0,
+question,Quel droit l’article 17 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 proclame-t-il inviolable et sacré ?,,,lvl3
+answer,La propriété,,1.0,
+answer,Le travail,,0.0,
+answer,La liberté d’expression,,0.0,
+question,Que crée l’article 12 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?,,,lvl3
+answer,Une armée privée au service du roi,,0.0,
+answer,Une force publique instituée pour l’avantage de tous,,1.0,
+answer,Une force religieuse au service de l’Église,,0.0,
+question,Que protège l’article 10 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?,,,lvl3
+answer,Le droit de grève,,0.0,
+answer,"La liberté d’opinion, même religieuse",,1.0,
+answer,Le droit d’héritage,,0.0,
+question,Le vote en France est…,,,lvl3
+answer,Un privilège réservé,,0.0,
+answer,Une obligation,,0.0,
+answer,Un droit,,1.0,
+question,Qui est élu au suffrage universel en France ?,,,lvl3
+answer,"Le Président, les parlementaires et les maires",,1.0,
+answer,Les juges et les préfets,,0.0,
+answer,Les recteurs et les ministres,,0.0,
+question,La France condamne-t-elle toutes les discriminations possibles ?,,,lvl3
+answer,"Oui, absolument toutes",,0.0,
+answer,"Oui, sauf celles dans le sport",,0.0,
+answer,"Non, seulement celles fondées sur un motif prévu par la loi",,1.0,
+question,Quels droits naturels et imprescriptibles sont cités à l’article 2 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ?,,,lvl3
+answer,"Religion, famille, sécurité, logement",,0.0,
+answer,"Liberté, propriété, sûreté, résistance à l’oppression",,1.0,
+answer,"Égalité, fraternité, travail, solidarité",,0.0,
+question,Un employeur peut-il refuser d’embaucher un salarié en raison de ses origines ?,,,lvl3
+answer,"Oui, avec l’accord des syndicats",,0.0,
+answer,"Oui, si l’entreprise est privée",,0.0,
+answer,"Non, c’est interdit",,1.0,
+question,"Quelle condition supplémentaire est nécessaire pour voter, en plus d’avoir 18 ans?",,,lvl3
+answer,Avoir un emploi,,0.0,
+answer,Disposer de ses droits civils et politiques,,1.0,
+answer,Payer des impôts,,0.0,
+question,"À quelle époque a été composé l’hymne national, La Marseillaise?",,,lvl3
+answer,À l’époque de la Révolution,,1.0,
+answer,Au XXe siècle,,0.0,
+answer,Sous Louis XIV,,0.0,
+question,Quelles libertés fondamentales sont garanties en France?,,,lvl3
+answer,"Liberté de pensée, de croyance, de s’exprimer, de se réunir",,1.0,
+answer,Liberté de posséder un titre de noblesse,,0.0,
+answer,Liberté de commercer sans règles,,0.0,
+question,La liberté d'expression en France est...,,,lvl3
+answer,Un droit fondamental avec des limites,,1.0,
+answer,Un droit absolu sans limite,,0.0,
+answer,Non reconnue par la loi,,0.0,
+question,"Dans une République, au nom de qui gouvernent les dirigeants élus?",,,lvl3
+answer,Au nom du président seul,,0.0,
+answer,Au nom du peuple,,1.0,
+answer,Au nom des partis politiques,,0.0,
+question,Dans quel but l'État peut-il restreindre le droit de manifester sa religion en public?,,,lvl3
+answer,Pour empêcher toute croyance,,0.0,
+answer,Pour favoriser une religion,,0.0,
+answer,Pour préserver l'ordre public,,1.0,
+question,Que doivent respecter tous les citoyen(ne)s en France?,,,lvl3
+answer,Les lois et les règlements,,1.0,
+answer,Les traditions religieuses,,0.0,
+answer,Seulement les coutumes locales,,0.0,
+question,"Quelles bornes limitent l'exercice des droits naturels, selon l'article 4 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?",,,lvl3
+answer,Celles décidées par le gouvernement,,0.0,
+answer,Celles fixées par la Loi,,1.0,
+answer,Celles imposées par la religion,,0.0,
+question,Quel code définit les règles essentielles applicables entre les personnes?,,,lvl3
+answer,Le code civil,,1.0,
+answer,Le code électoral,,0.0,
+answer,Le code du travail,,0.0,
+question,Que déclare l'article 16 de la Déclaration de 1789 à propos de la Constitution?,,,lvl3
+answer,"Sans garantie des droits et séparation des pouvoirs, il n'y a pas de Constitution",,1.0,
+answer,La Constitution émane du roi seul,,0.0,
+answer,Toute société religieuse a automatiquement une Constitution,,0.0,
+question,Quel site internet présente les principales règles et le fonctionnement des institutions?,,,lvl3
+answer,www.palais-elysee.fr,,0.0,
+answer,www.vie-publique.fr,,1.0,
+answer,www.gouverbement.fr,,0.0,
+question,Comment sont souvent regroupées les lois en France?,,,lvl3
+answer,En brochures publicitaires,,0.0,
+answer,En codes,,1.0,
+answer,En magazines,,0.0,
+question,"Dans les années 1880, quelle liberté est garantie par une loi?",,,lvl3
+answer,La liberté de commercer,,0.0,
+answer,La liberté de chasser,,0.0,
+answer,La liberté de la presse,,1.0,
+question,Que représentent les impôts et les cotisations sociales en France?,,,lvl3
+answer,Un moyen de récompenser les plus riches,,0.0,
+answer,Une illustration de la fraternité,,1.0,
+answer,Une sanction contre les travailleurs,,0.0,
+question,"Que peut défendre la Loi, selon l'article 5 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?",,,lvl3
+answer,Les croyances religieuses,,0.0,
+answer,Les actions nuisibles à la Société,,1.0,
+answer,Les opinions politiques,,0.0,
+question,De quelle époque date la Déclaration des Droits de l'Homme et du Citoyen?,,,lvl3
+answer,Du Moyen Âge,,0.0,
+answer,De la Révolution française de 1789,,1.0,
+answer,De la Seconde Guerre mondiale,,0.0,
+question,Quel système illustre le principe de fraternité depuis 1945?,,,lvl3
+answer,L'armée nationale,,0.0,
+answer,Le système scolaire,,0.0,
+answer,La sécurité sociale,,1.0,
+question,Quelle règle a rappelé le Conseil constitutionnel en 2004?,,,lvl3
+answer,Les croyants ont priorité sur les lois de la République,,0.0,
+answer,Nul ne peut se prévaloir de ses croyances religieuses pour s'affranchir des règles communes,,1.0,
+answer,Les religions décident des règles de vie publique,,0.0,
+question,Que vise l'interdiction prévue par la loi du 15 mars 2004?,,,lvl3
+answer,Les signes ou tenues manifestant ostensiblement l'appartenance à une religion,,1.0,
+answer,Toute forme de vêtement traditionnel,,0.0,
+answer,Les symboles discrets portés sous les vêtements,,0.0,
+question,Qu'est-ce que l'État garantit en matière religieuse?,,,lvl3
+answer,La liberté religieuse,,1.0,
+answer,La supériorité de la religion majoritaire,,0.0,
+answer,L'interdiction de changer de religion,,0.0,
+question,Quel type d'apologie est interdit dans le cadre de la liberté d'expression?,,,lvl3
+answer,La Révolution française,,0.0,
+answer,Les découvertes scientifiques,,0.0,
+answer,Crimes contre l'humanité,,1.0,
+question,Que signifie le terme « ostensiblement » à propos des signes religieux à l'école?,,,lvl3
+answer,De manière trop visible,,1.0,
+answer,De manière discrète,,0.0,
+answer,De manière secrète,,0.0,
+question,"Dans quelles conditions peut-on être privé de sa propriété, selon l'article 17 de la Déclaration de 1789?",,,lvl3
+answer,Si la majorité des voisins le souhaite,,0.0,
+answer,Si le roi le décide sans motif,,0.0,
+answer,Si la nécessité publique l'exige et avec une juste et préalable indemnité,,1.0,
+question,Que proclame l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789?,,,lvl3
+answer,Tous les citoyens doivent payer des impôts,,0.0,
+answer,La monarchie est le régime naturel,,0.0,
+answer,Les hommes naissent et demeurent libres et égaux en droits,,1.0,
+question,"Selon l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789, sur quoi peuvent être fondées les distinctions sociales?",,,lvl3
+answer,Sur la naissance,,0.0,
+answer,Sur l'utilité commune,,1.0,
+answer,Sur la richesse,,0.0,
+question,Pourquoi l'école doit-elle être neutre face aux religions?,,,lvl3
+answer,Parce qu'elle n'accueille que des mineurs,,0.0,
+answer,Parce que c'est une institution publique qui forme tous les citoyens,,1.0,
+answer,Parce qu'elle dépend de l'Église,,0.0,
+question,Quelle fête a eu lieu le 14 juillet 1790?,,,lvl3
+answer,La fête des Vendanges,,0.0,
+answer,La fête du Travail,,0.0,
+answer,La fête de la Fédération,,1.0,
+question,L'administration peut-elle refuser la nationalité française à une personne qui ne respecte pas l'égalité femmes-hommes?,,,lvl3
+answer,"Non, sauf si la personne a commis un crime",,0.0,
+answer,"Oui, même si elle est mariée avec un(e) Français(e)",,1.0,
+answer,"Non, jamais",,0.0,
+question,"En France, les personnes d'orientation sexuelle différente ont-elles moins de droits que les autres citoyens?",,,lvl3
+answer,"Oui, mais seulement en matière de mariage",,0.0,
+answer,"Oui, elles ont moins de droits",,0.0,
+answer,"Non, elles ont les mêmes droits et les mêmes devoirs",,1.0,
+question,Que garantit l'article 7 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?,,,lvl3
+answer,La possibilité d'être emprisonné sans jugement,,0.0,
+answer,La primauté de la police sur la justice,,0.0,
+answer,Nul homme ne peut être arrêté ou détenu que selon la Loi,,1.0,
+question,Quelle est l'une des raisons de l'interdiction des signes religieux ostensibles à l'école?,,,lvl3
+answer,Protéger les mineurs contre les pressions de leurs camarades,,1.0,
+answer,Favoriser une seule religion officielle,,0.0,
+answer,Empêcher toute pratique religieuse dans la société,,0.0,
+question,"Selon l'article 13 de la Déclaration de 1789, pourquoi une contribution commune est-elle indispensable?",,,lvl3
+answer,Pour l'entretien de la force publique et les dépenses d'administration,,1.0,
+answer,Pour les fêtes nationales,,0.0,
+answer,Pour financer la noblesse,,0.0,
+question,Que garantit la République à ses citoyens?,,,lvl3
+answer,"Le respect des principes de liberté, d'égalité et de fraternité",,1.0,
+answer,La prospérité économique pour tous,,0.0,
+answer,La supériorité d'une religion,,0.0,
+question,"De quelle époque date le drapeau tricolore bleu, blanc, rouge?",,,lvl3
+answer,De la Première Guerre mondiale,,0.0,
+answer,De la Révolution française,,1.0,
+answer,De l'Empire napoléonien,,0.0,
+question,Que condamne la France en matière de traitement entre personnes?,,,lvl3
+answer,Les préférences sportives,,0.0,
+answer,Les différences de goût personnels,,0.0,
+answer,Les discriminations fondées sur un motif prévu par la loi,,1.0,
+question,Que signifie le suffrage universel?,,,lvl3
+answer,"Tous les citoyens, hommes et femmes, peuvent voter",,1.0,
+answer,Seuls les contribuables peuvent voter,,0.0,
+answer,Seuls les hommes peuvent voter,,0.0,
+question,"Comment s'appelle le fait de traiter moins favorablement une personne à cause de ses origines, de sa religion ou de son sexe?",,,lvl3
+answer,Une discrimination,,1.0,
+answer,Une coutume professionnelle,,0.0,
+answer,Une préférence légale,,0.0,
+question,La liberté d'expression est limitée afin de...,,,lvl3
+answer,Empêcher toute critique politique,,0.0,
+answer,Protéger uniquement l'État,,0.0,
+answer,Respecter les droits des autres,,1.0,
+question,Quelle limite fixe l'article 10 de la Déclaration de 1789 à la liberté d'opinion?,,,lvl3
+answer,L'approbation du gouvernement,,0.0,
+answer,Le respect des traditions religieuses,,0.0,
+answer,Le respect de l'ordre public établi par la Loi,,1.0,
+question,L'avènement de la République française a été...,,,lvl3
+answer,Décidé par un seul dirigeant,,0.0,
+answer,Progressif et le fruit de plusieurs combats,,1.0,
+answer,Instantané et sans opposition,,0.0,
+question,Que prévoit la loi française concernant les femmes et les hommes?,,,lvl3
+answer,Elle limite certains droits des femmes,,0.0,
+answer,Elle donne plus de droits aux hommes,,0.0,
+answer,Elle leur accorde les mêmes droits,,1.0,
+question,Comment se traduit la volonté de vivre ensemble des citoyens?,,,lvl3
+answer,Par la compétition entre eux,,0.0,
+answer,Par la solidarité entre eux,,1.0,
+answer,Par l’isolement des individus,,0.0,
+question,En quelle année la République française s'installe-t-elle de façon stable?,,,lvl3
+answer,1875,,1.0,
+answer,1945,,0.0,
+answer,1789,,0.0,
+question,Quelles personnes contribuent aux cotisations sociales en France? ?),,,lvl3
+answer,Seulement les salariés,,0.0,
+answer,Seulement l'État,,0.0,
+answer,"Employeurs, salariés et non-salariés",,1.0,
+question,"Où réside le principe de toute souveraineté, selon l'article 3 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?",,,lvl3
+answer,Dans le Roi,,0.0,
+answer,Dans la Nation,,1.0,
+answer,Dans l'armée,,0.0,
+question,Qu'est-ce que le code pénal définit? ?),,,lvl3
+answer,Les règles de politesse en société,,0.0,
+answer,Les infractions et les peines correspondantes,,1.0,
+answer,Les conditions de mariage,,0.0,
+question,Quel type de propos est interdit par la loi?,,,lvl3
+answer,Critiques littéraires,,0.0,
+answer,Opinions politiques différentes,,0.0,
+answer,Injures et propos diffamatoires,,1.0,
+question,Sur quoi repose la France selon le principe de fraternité?,,,lvl3
+answer,Sur la supériorité d'une religion,,0.0,
+answer,Sur la volonté de vivre ensemble des citoyens,,1.0,
+answer,Sur l'autorité d'un seul chef,,0.0,
+question,"Dans les années 1880, l'école publique devient...",,,lvl3
+answer,"Obligatoire, gratuite et laïque",,1.0,
+answer,Payante pour les pauvres,,0.0,
+answer,Réservée aux garçons,,0.0,
+question,"Que doit établir la Loi en matière de peines, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?",,,lvl3
+answer,Les peines décidées par le roi,,0.0,
+answer,Les peines les plus sévères possibles,,0.0,
+answer,Seulement des peines strictement nécessaires,,1.0,
+question,À partir de quel âge peut-on voter en France?,,,lvl3
+answer,16 ans,,0.0,
+answer,18 ans,,1.0,
+answer,21 ans,,0.0,
+question,"Quand peut-on être puni, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?",,,lvl3
+answer,Même si aucune loi n'existait au moment des faits,,0.0,
+answer,Selon la volonté d'un supérieur,,0.0,
+answer,Uniquement en vertu d'une Loi établie et promulguée avant le délit,,1.0,
+question,Où peut-on consulter toutes les lois françaises en vigueur sur internet?,,,lvl3
+answer,Sur www.wikipedia.org,,0.0,
+answer,Sur www.assemblee.fr,,0.0,
+answer,Sur www.legifrance.gouv.fr,,1.0,
+question,Quelle est la forme politique de la France?,,,lvl3
+answer,Une démocratie,,1.0,
+answer,Une monarchie,,0.0,
+answer,Une dictature,,0.0,
+question,"Qu'est-ce que la Loi, selon l'article 6 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?",,,lvl3
+answer,La décision d'un chef,,0.0,
+answer,L'expression de la volonté générale,,1.0,
+answer,La tradition des ancêtres,,0.0,
+question,Que proclame l'article 15 de la Déclaration des Droits de l'Homme et du Citoyen de 1789?,,,lvl3
+answer,La Société a le droit de demander compte à tout Agent public,,1.0,
+answer,Le roi contrôle seul les agents publics,,0.0,
+answer,Les agents publics sont irresponsables,,0.0,

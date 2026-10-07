@@ -1,0 +1,315 @@
+{
+  "q_history.csv": {
+    "bn": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ar": {
+      "missing_question_count": 2,
+      "missing_options": 9,
+      "missing_questions": [
+        "Où habite la majorité des Français ?",
+        "Qui est Vassily Kandinsky? (Vassily Kandinsky) ?)"
+      ]
+    },
+    "ur": {
+      "missing_question_count": 0,
+      "missing_options": 1,
+      "missing_questions": []
+    },
+    "ps": {
+      "missing_question_count": 1,
+      "missing_options": 3,
+      "missing_questions": [
+        "Quelle discipline Haroun Tazieff a-t-il fait connaître au grand public?"
+      ]
+    },
+    "en": {
+      "missing_question_count": 1,
+      "missing_options": 3,
+      "missing_questions": [
+        "Quelle discipline Haroun Tazieff a-t-il fait connaître au grand public?"
+      ]
+    }
+  },
+  "q_institutions.csv": {
+    "bn": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ar": {
+      "missing_question_count": 1,
+      "missing_options": 23,
+      "missing_questions": [
+        "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-elle été signé ?, , ?)"
+      ]
+    },
+    "ur": {
+      "missing_question_count": 2,
+      "missing_options": 10,
+      "missing_questions": [
+        "Une personne peut-elle voter à la place d'une autre ?",
+        "Quelle est la capitale de la région Auvergne-Rhône-Alpes? ?)"
+      ]
+    },
+    "ps": {
+      "missing_question_count": 1,
+      "missing_options": 23,
+      "missing_questions": [
+        "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-elle été signé ?, , ?)"
+      ]
+    },
+    "en": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    }
+  },
+  "q_republic.csv": {
+    "bn": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ar": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ur": {
+      "missing_question_count": 2,
+      "missing_options": 9,
+      "missing_questions": [
+        "Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?",
+        "La liberté de circulation permet à toute personne de :"
+      ]
+    },
+    "ps": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "en": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    }
+  },
+  "q_situations.csv": {
+    "bn": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ar": {
+      "missing_question_count": 0,
+      "missing_options": 2,
+      "missing_questions": []
+    },
+    "ur": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ps": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "en": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    }
+  },
+  "q_society.csv": {
+    "bn": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ar": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ur": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    },
+    "ps": {
+      "missing_question_count": 0,
+      "missing_options": 1,
+      "missing_questions": []
+    },
+    "en": {
+      "missing_question_count": 0,
+      "missing_options": 0,
+      "missing_questions": []
+    }
+  },
+  "q_values.csv": {
+    "bn": {
+      "missing_question_count": 1,
+      "missing_options": 3,
+      "missing_questions": [
+        "À quelle liberté la PMA fait-elle référence ? (PMA"
+      ]
+    },
+    "ar": {
+      "missing_question_count": 8,
+      "missing_options": 29,
+      "missing_questions": [
+        "Concernant les droits individuels, quelle proposition est correcte ?",
+        "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+        "À quelle liberté la PMA fait-elle référence ? (PMA",
+        "Concernant le droit de se marier, quelle proposition est correcte ?",
+        "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+        "S'agissant des déchets, quelle proposition est correcte ?",
+        "Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ?",
+        "Concernant les réseaux sociaux, quelle règle est correcte ?"
+      ]
+    },
+    "ur": {
+      "missing_question_count": 7,
+      "missing_options": 25,
+      "missing_questions": [
+        "Quel droit permet à une personne de se défendre devant la justice ?",
+        "À quelle liberté la PMA fait-elle référence ? (PMA",
+        "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+        "Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ?",
+        "Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ?",
+        "Lors d’un repas, un convive refuse de s’asseoir à côté d’une personne d’une autre origine. Quelle réaction citoyenne ?",
+        "Une personne est photographiée dans un lieu public pour un usage commercial. Le photographe est-il libre d’utiliser l’image ?"
+      ]
+    },
+    "ps": {
+      "missing_question_count": 114,
+      "missing_options": 345,
+      "missing_questions": [
+        "Qu’est-ce que la liberté d’expression ?",
+        "Quel droit permet à une personne de se défendre devant la justice ?",
+        "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+        "Quel texte a été adopté pendant la Révolution française ?",
+        "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+        "Une femme peut avorter :",
+        "Est-il toujours possible de divorcer ?",
+        "La peine de mort est :",
+        "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+        "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "Faut-il réduire ses déchets ?",
+        "Jeter une bouteille dans la rue est :",
+        "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+        "Que doit faire une personne en cas d’accident ?",
+        "Que permet la citoyenneté française ?",
+        "Que risque une personne qui ne respecte pas la loi ?",
+        "Quel est le rôle de la gendarmerie ?",
+        "Quel est le rôle de la police ?",
+        "Qu'est-ce qu'une infraction ?",
+        "Comment peut-on réduire ses déchets ?",
+        "Déposer une machine à laver cassée sur le trottoir est :",
+        "En quoi consiste la traite des êtres humains ?",
+        "Que doit faire une victime de violences ?",
+        "Quelle est l'infraction la plus grave ?",
+        "À quelle liberté la PMA fait-elle référence ? (PMA",
+        "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+        "Concernant le droit de se marier, quelle proposition est correcte ?",
+        "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+        "Le recours à l'avortement est-il autorisé ?",
+        "Que contient la Constitution ?",
+        "Que garantit la liberté de la presse ?",
+        "Que prévoit la Charte de l'environnement ?",
+        "Que signifie la dignité humaine ?",
+        "Que signifie le droit de manifester ?",
+        "Que signifie PMA ?",
+        "Quel texte est le plus difficile à modifier ?",
+        "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+        "Qu'est-ce que le droit de grève ?",
+        "Qu'est-ce que la Constitution ?",
+        "Qui peut demander à avorter ?",
+        "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+        "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+        "Jeter un mégot par terre est :",
+        "L'État peut-il limiter les droits et libertés ?",
+        "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ?",
+        "Quelle proposition constitue une obligation ?",
+        "Pour quel motif peut-on limiter la liberté d'expression ?",
+        "Pourquoi doit-on trier ses déchets ?",
+        "Que doit faire une victime de violences ?",
+        "Que doit-on faire face aux ordres des policiers ou gendarmes ?",
+        "Quel est le rôle de la police ?",
+        "Quel est un exemple d’assistance à personne en danger ?",
+        "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?",
+        "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+        "Quelle est l'infraction la plus grave ?",
+        "Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?",
+        "Quelle proposition représente un exemple de crime ?",
+        "Quelle proposition représente un exemple de délit ?",
+        "Qui veille au maintien de l’ordre public ?",
+        "S'agissant des déchets, quelle proposition est correcte ?",
+        "Un citoyen inscrit sur les listes électorales ne souhaite plus voter « car cela ne change rien ». Quelle attitude conforme à ses devoirs civiques ?",
+        "Un habitant brûle ses déchets verts dans son jardin pour « gagner de la place ». Est-ce autorisé ?",
+        "Un restaurant refuse un client en fauteuil roulant pour « raisons de place ». Est-ce légal ?",
+        "Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ?",
+        "Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ?",
+        "Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ?",
+        "Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ?",
+        "Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ?",
+        "Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ?",
+        "Que doit-on faire face aux ordres des policiers ou gendarmes ?",
+        "Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ?",
+        "Quelle est l’attitude à avoir lorsque l’on est témoin de violences ?",
+        "Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ?",
+        "Est-il toujours possible de divorcer ?",
+        "Le recours à l’avortement est-il autorisé ?",
+        "Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ?",
+        "Quel est un exemple d’assistance à personne en danger ?",
+        "Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ?",
+        "Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ?",
+        "Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ?",
+        "Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ?",
+        "Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ?",
+        "Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ?",
+        "Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ?",
+        "Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ?",
+        "Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ?",
+        "Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ?",
+        "Qui veille au maintien de l’ordre public ?",
+        "Le respect des décisions de justice est-il obligatoire ?",
+        "Quelle proposition constitue une obligation ?",
+        "Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ?",
+        "Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ?",
+        "Des habitants signent une pétition pour créer une piste cyclable. Quel est l’effet juridique ?",
+        "Lors d’un repas, un convive refuse de s’asseoir à côté d’une personne d’une autre origine. Quelle réaction citoyenne ?",
+        "Un enfant étranger sans papiers souhaite être scolarisé en France. L’école peut-elle refuser ?",
+        "Un commerce laisse ses enseignes allumées toute la nuit. Est-ce conforme ?",
+        "Vous déménagez dans une nouvelle commune. Pour voter aux élections présidentielles, que faut-il faire ?",
+        "Deux salariés ont le même poste et la même ancienneté mais un salaire différent. Quelle règle s’applique ?",
+        "Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ?",
+        "Un collègue fait des blagues homophobes au travail. Que prévoit la loi ?",
+        "Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ?",
+        "Un voisin installe une caméra qui filme l’entrée de votre domicile. Quel est votre recours légal immédiat ?",
+        "Un patient refuse un traitement vital pour des raisons religieuses. Que peut faire le médecin ?",
+        "Un citoyen français vivant en Espagne peut-il voter aux élections municipales ?",
+        "Un média publie la photo d’un suspect avec le mot « coupable ». Est-ce légal ?",
+        "Quelle proposition représente un exemple de délit ?",
+        "Une personne est photographiée dans un lieu public pour un usage commercial. Le photographe est-il libre d’utiliser l’image ?",
+        "Un citoyen apprend un crime grave et garde le silence. Est-ce légal ?",
+        "Sur un réseau social, un utilisateur insulte des élus locaux. Quelle règle s’applique ?",
+        "Votre conjoint(e) lit vos messages privés sur votre téléphone sans autorisation. Est-ce illégal ?",
+        "Un citoyen français nouvellement naturalisé vote aux municipales. À quelle élection n’est-il pas autorisé à voter tant qu’il n’est pas inscrit ?",
+        "Des citoyens veulent organiser une manifestation pacifique. Que doivent-ils faire ?",
+        "Lors d’une manifestation non déclarée, quand l’usage de la force est-il légal ?",
+        "Un résident joue de la batterie à 2 h du matin. Quelle règle s’applique ?"
+      ]
+    },
+    "en": {
+      "missing_question_count": 0,
+      "missing_options": 1,
+      "missing_questions": []
+    }
+  }
+}

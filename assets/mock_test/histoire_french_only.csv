@@ -1,0 +1,893 @@
+type,text,placeholder,is_correct,level
+question,En quelle année a débuté la Révolution française ?,,,lvl1
+answer,1815,,0.0,
+answer,1789,,1.0,
+answer,1944,,0.0,
+question,Qui était Napoléon Ier ?,,,lvl1
+answer,Un roi de France,,0.0,
+answer,L'Empereur des Français,,1.0,
+answer,Un philosophe du 18e siècle,,0.0,
+question,Lequel de ces personnages historiques est français ?,,,lvl1
+answer,Albert Einstein,,0.0,
+answer,Marie Curie,,1.0,
+answer,Isaac Newton,,0.0,
+question,Dans quelle République est-on aujourd'hui ?,,,lvl1
+answer,La Troisième République,,0.0,
+answer,La Cinquième République,,1.0,
+answer,La Sixième République,,0.0,
+question,Qu'est-ce que la Shoah ? ?),,,lvl1
+answer,La guerre entre la France et l'Allemagne,,0.0,
+answer,Le génocide des Juifs pendant la Seconde Guerre mondiale.,,1.0,
+answer,La période de la colonisation française,,0.0,
+question,Quel pays ou région du monde a été colonisé par la France ?,,,lvl1
+answer,Le Japon,,0.0,
+answer,L'Algérie,,1.0,
+answer,La Chine,,0.0,
+question,"Qui a rendu l’école gratuite, laïque et obligatoire ?",,,lvl1
+answer,Napoléon III,,0.0,
+answer,Jules Ferry,,1.0,
+answer,Le Général de Gaulle,,0.0,
+question,Quand a eu lieu la Seconde Guerre mondiale ?,,,lvl1
+answer,De 1914 à 1918,,0.0,
+answer,De 1930 à 1935,,0.0,
+answer,De 1939 à 1945,,1.0,
+question,Quand a eu lieu la Première Guerre mondiale ?,,,lvl1
+answer,De 1870 à 1871,,0.0,
+answer,De 1914 à 1918,,1.0,
+answer,De 1940 à 1945,,0.0,
+question,En quelle année a été créée la Communauté Économique Européenne (CEE) ? ?),,,lvl1
+answer,1945,,0.0,
+answer,1957,,1.0,
+answer,1992,,0.0,
+question,Le 11 novembre est un jour férié. À quoi correspond cette date ?,,,lvl1
+answer,La Fête de la Victoire de 1945.,,0.0,
+answer,L'Armistice de 1918 (fin de la Première Guerre mondiale).।),,1.0,
+answer,La Fête Nationale.,,0.0,
+question,Qui a été le premier Président élu sous la Ve République ?,,,lvl1
+answer,François Mitterrand,,0.0,
+answer,Charles de Gaulle,,1.0,
+answer,Georges Pompidou,,0.0,
+question,En quelle année l'esclavage a-t-il été aboli définitivement en France ?,,,lvl1
+answer,1789,,0.0,
+answer,1905,,0.0,
+answer,1848,,1.0,
+question,Depuis quelle année l'école publique est-elle gratuite ?,,,lvl1
+answer,1804,,0.0,
+answer,1881,,1.0,
+answer,1958,,0.0,
+question,Combien y a-t-il eu de républiques en France ?,,,lvl1
+answer,Trois,,0.0,
+answer,Quatre,,0.0,
+answer,Cinq,,1.0,
+question,Qui était le roi de France au moment de la Révolution française ?,,,lvl1
+answer,Henri IV,,0.0,
+answer,Louis XVI,,1.0,
+answer,Louis XIV,,0.0,
+question,Qui a fondé la Ve République ?,,,lvl1
+answer,François Mitterrand,,0.0,
+answer,Le Général de Gaulle,,1.0,
+answer,Georges Clemenceau,,0.0,
+question,Que célèbre-t-on le 14 juillet ?,,,lvl1
+answer,La prise de la Bastille (et la Fête de la Fédération).।),,1.0,
+answer,La fin de la Seconde Guerre mondiale,,0.0,
+answer,L'abolition de l'esclavage,,0.0,
+question,Quelle guerre a eu lieu entre 1914 et 1918 ?,,,lvl1
+answer,La guerre franco-prussienne,,0.0,
+answer,La Seconde Guerre mondiale,,0.0,
+answer,La Première Guerre mondiale,,1.0,
+question,Pourquoi l’année 1958 est importante pour la France ?,,,lvl1
+answer,Fin de la Seconde Guerre mondiale,,0.0,
+answer,Adoption de la Constitution de la Ve République,,1.0,
+answer,Vote de la loi de séparation des Églises et de l'État,,0.0,
+question,Quel fleuve coule en France ?,,,lvl1
+answer,Le Danube,,0.0,
+answer,La Seine,,1.0,
+answer,Le Rhin,,0.0,
+question,Quelle ville est française ?,,,lvl1
+answer,Genève,,0.0,
+answer,Lyon,,1.0,
+answer,Barcelone,,0.0,
+question,Quel océan borde la côte ouest française ?,,,lvl1
+answer,L'océan Indien,,0.0,
+answer,L'océan Atlantique,,1.0,
+answer,L'océan Pacifique,,0.0,
+question,Qu'est-ce que Paris ?,,,lvl1
+answer,Un département d'outre-mer,,0.0,
+answer,Une région,,0.0,
+answer,La capitale de la France,,1.0,
+question,Quelle est la capitale de la France ?,,,lvl1
+answer,Marseille,,0.0,
+answer,Paris,,1.0,
+answer,Bordeaux,,0.0,
+question,Sur quel continent se situe la France métropolitaine ?,,,lvl1
+answer,L'Afrique,,0.0,
+answer,L'Europe,,1.0,
+answer,L'Asie,,0.0,
+question,Quelle île est un département d'outre-mer français ??),,,lvl1
+answer,La Sicile,,0.0,
+answer,La Martinique,,1.0,
+answer,La Corse,,0.0,
+question,Combien y a-t-il de régions en France métropolitaine ? ?),,,lvl1
+answer,5,,0.0,
+answer,13,,1.0,
+answer,22,,0.0,
+question,Quelle ville est un grand port maritime ?,,,lvl1
+answer,Strasbourg,,0.0,
+answer,Marseille,,1.0,
+answer,Dijon,,0.0,
+question,Quelle est la mer au sud de la France métropolitaine ?,,,lvl1
+answer,La Manche,,0.0,
+answer,La mer du Nord,,0.0,
+answer,La mer Méditerranée,,1.0,
+question,Quelle ville est située au bord de la mer Méditerranée ?,,,lvl1
+answer,Nantes,,0.0,
+answer,Nice,,1.0,
+answer,Lille,,0.0,
+question,Où se situe la Corse ?,,,lvl1
+answer,Dans l'océan Atlantique,,0.0,
+answer,Dans la mer du Nord,,0.0,
+answer,Dans la mer Méditerranée,,1.0,
+question,Quelle chaîne de montagnes est située entre la France et l'Italie ?,,,lvl1
+answer,Les Pyrénées,,0.0,
+answer,Les Alpes,,1.0,
+answer,Les Vosges,,0.0,
+question,Qui était Molière ?,,,lvl1
+answer,Un peintre,,0.0,
+answer,Un dramaturge (auteur de théâtre) du 17e siècle.।),,1.0,
+answer,Un général de l'armée,,0.0,
+question,Qui était Charles Baudelaire ?,,,lvl1
+answer,Un chef d'orchestre,,0.0,
+answer,Un poète français du 19e siècle (auteur des Fleurs du Mal).।),,1.0,
+answer,Un architecte,,0.0,
+question,Qui était George Sand ?,,,lvl1
+answer,Une mathématicienne,,0.0,
+answer,Une écrivaine romantique française du 19e siècle.,,1.0,
+answer,Une chanteuse d'opéra,,0.0,
+question,Qui était Simone de Beauvoir ?,,,lvl1
+answer,Une actrice célèbre,,0.0,
+answer,Une écrivaine et philosophe du 20e siècle (figure majeure du féminisme).।),,1.0,
+answer,Une reine de France,,0.0,
+question,Qui était Albert Camus ?,,,lvl1
+answer,Un explorateur,,0.0,
+answer,Un sculpteur,,0.0,
+answer,Un écrivain et philosophe français (prix Nobel de littérature).।),,1.0,
+question,Qui était Paul Cézanne ?,,,lvl1
+answer,Un inventeur,,0.0,
+answer,Un peintre post-impressionniste français.,,1.0,
+answer,Un homme politique,,0.0,
+question,Qui était Marc Chagall ?,,,lvl1
+answer,Un mathématicien,,0.0,
+answer,Un peintre et graveur français d'origine biélorusse.,,1.0,
+answer,Un compositeur de musique,,0.0,
+question,Qui était Joséphine Baker ?,,,lvl1
+answer,Une mathématicienne,,0.0,
+answer,Une artiste de music-hall et résistante française (panthéonisée).।),,1.0,
+answer,Une femme politique,,0.0,
+question,Qui était une chanteuse française célèbre ?,,,lvl1
+answer,Marie Curie,,0.0,
+answer,Édith Piaf,,1.0,
+answer,George Sand,,0.0,
+question,Qu'est-ce que le Louvre ?,,,lvl1
+answer,Le siège de l'Assemblée Nationale,,0.0,
+answer,Le plus grand musée du monde (situé à Paris).।),,1.0,
+answer,Un grand magasin,,0.0,
+question,Qui était Jean de la Fontaine ?,,,lvl1
+answer,Un peintre,,0.0,
+answer,"Un poète français, célèbre pour ses fables. ।)",,1.0,
+answer,Un explorateur,,0.0,
+question,Quel écrivain est français ?,,,lvl1
+answer,William Shakespeare,,0.0,
+answer,Victor Hugo,,1.0,
+answer,Jane Austen,,0.0,
+question,Dans quelle ville se trouve la tour Eiffel ?,,,lvl1
+answer,Lyon,,0.0,
+answer,Paris,,1.0,
+answer,Marseille,,0.0,
+question,Quand célèbre-t-on Noël ? ?),,,lvl2
+answer,Le 1er janvier,,0.0,
+answer,Le 14 juillet,,0.0,
+answer,Le 25 décembre,,1.0,
+question,Quel était le surnom de Louis XIV ?,,,lvl2
+answer,Le Bon Roi,,0.0,
+answer,Le Roi Soleil,,1.0,
+answer,Le Petit Roi,,0.0,
+question,Quel roi de France a été exécuté pendant la Révolution française ?,,,lvl2
+answer,Louis XV,,0.0,
+answer,Louis XVI,,1.0,
+answer,Henri IV,,0.0,
+question,En quelle année Napoléon Ier est-il devenu empereur ?,,,lvl2
+answer,1789,,0.0,
+answer,1800,,0.0,
+answer,1804,,1.0,
+question,Lequel de ces personnages a un lien avec la République française ?,,,lvl2
+answer,La Reine Victoria,,0.0,
+answer,Le Tsar Nicolas II,,0.0,
+answer,Georges Clemenceau,,1.0,
+question,De quand date l'appel à la résistance du général de Gaulle ?,,,lvl2
+answer,Le 6 juin 1944,,0.0,
+answer,Le 18 juin 1940,,1.0,
+answer,Le 11 novembre 1918,,0.0,
+question,Pourquoi la Shoah est-elle étudiée à l'école ? ?),,,lvl2
+answer,Pour réviser l'Histoire ancienne.,,0.0,
+answer,Pour transmettre le souvenir du génocide des Juifs et lutter contre le racisme.,,1.0,
+answer,Pour glorifier les héros de guerre.,,0.0,
+question,Quel pays a été colonisé par la France ?,,,lvl2
+answer,Le Brésil,,0.0,
+answer,Le Sénégal,,1.0,
+answer,L'Australie,,0.0,
+question,Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?,,,lvl2
+answer,1945,,0.0,
+answer,1962,,1.0,
+answer,1981,,0.0,
+question,Quelle est la première étape de la construction européenne en 1951 ?,,,lvl2
+answer,La création de l'Euro.,,0.0,
+answer,La création de la Communauté européenne du charbon et de l'acier (CECA). ।),,1.0,
+answer,La fin de la Seconde Guerre mondiale.,,0.0,
+question,Durant le mandat de quel président la peine de mort a-t-elle été abolie ?,,,lvl2
+answer,Charles de Gaulle,,0.0,
+answer,Valéry Giscard d'Estaing,,0.0,
+answer,François Mitterrand,,1.0,
+question,Quel régime politique a été mis en place pendant la Révolution française en 1792 ?,,,lvl2
+answer,L'Empire,,0.0,
+answer,La Première République,,1.0,
+answer,La monarchie constitutionnelle,,0.0,
+question,Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?,,,lvl2
+answer,Napoléon Ier,,0.0,
+answer,Jean Moulin,,1.0,
+answer,Victor Hugo,,0.0,
+question,"En 1944, qu'est-ce qui a changé pour les femmes ?",,,lvl2
+answer,Elles ont eu le droit de travailler.,,0.0,
+answer,Elles ont obtenu le droit de vote.,,1.0,
+answer,Elles sont devenues éligibles au Sénat.,,0.0,
+question,Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?,,,lvl2
+answer,L'Union Européenne,,0.0,
+answer,L'Organisation des Nations unies (ONU)),,1.0,
+answer,L'OTAN (NATO),,0.0,
+question,Quelle peine a été supprimée en 1981 ?,,,lvl2
+answer,L'emprisonnement à vie,,0.0,
+answer,La peine de mort,,1.0,
+answer,L'amende pour stationnement,,0.0,
+question,En quelle année l'euro est-elle devenue la monnaie utilisée en France ?,,,lvl2
+answer,1999,,0.0,
+answer,2002,,1.0,
+answer,2007,,0.0,
+question,En quelle année a commencé la Première Guerre mondiale ?,,,lvl2
+answer,1939,,0.0,
+answer,1914,,1.0,
+answer,1940,,0.0,
+question,Où a eu lieu le débarquement en 1944 ? ?),,,lvl2
+answer,Sur les côtes de la Méditerranée,,0.0,
+answer,En Normandie,,1.0,
+answer,Dans le Nord de la France,,0.0,
+question,Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?,,,lvl2
+answer,L'Amérique,,0.0,
+answer,L'Afrique,,1.0,
+answer,L'Océanie,,0.0,
+question,Que fête-t-on le 8 mai ?,,,lvl2
+answer,La prise de la Bastille,,0.0,
+answer,La Victoire des Alliés sur l'Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe).।),,1.0,
+answer,La Fête du Travail,,0.0,
+question,Quelle mer ou océan borde la France métropolitaine ?,,,lvl2
+answer,La mer Noire,,0.0,
+answer,La mer Méditerranée,,1.0,
+answer,La mer Baltique,,0.0,
+question,Quel pays a une frontière terrestre avec la France métropolitaine ?,,,lvl2
+answer,Le Royaume-Uni,,0.0,
+answer,L'Espagne,,1.0,
+answer,La Norvège,,0.0,
+question,Quelle ville française est un port maritime ?,,,lvl2
+answer,Toulouse,,0.0,
+answer,Bordeaux,,1.0,
+answer,Clermont-Ferrand,,0.0,
+question,Quelle mer se situe entre la France et l'Angleterre ?,,,lvl2
+answer,La mer Baltique,,0.0,
+answer,La Manche,,1.0,
+answer,La mer Noire,,0.0,
+question,Qu'est-ce que la France d'outre-mer ? ?),,,lvl2
+answer,Les pays qui ont été colonisés par la France.,,0.0,
+answer,Les territoires français situés en dehors du continent européen.,,1.0,
+answer,Les pays membres de l'Union européenne.,,0.0,
+question,Quelle chaîne de montagnes est située entre la France et l’Espagne ?,,,lvl2
+answer,Les Alpes,,0.0,
+answer,Les Pyrénées,,1.0,
+answer,Les Vosges,,0.0,
+question,Quelle île française se trouve dans l'océan Indien ?,,,lvl2
+answer,La Guadeloupe,,0.0,
+answer,La Réunion,,1.0,
+answer,La Martinique,,0.0,
+question,Quelle est la population approximative de la France en 2025 ?,,,lvl2
+answer,Environ 50 millions d'habitants,,0.0,
+answer,Environ 68 millions d'habitants,,1.0,
+answer,Plus de 100 millions d'habitants,,0.0,
+question,Quel fleuve traverse Paris ?,,,lvl2
+answer,Le Rhône,,0.0,
+answer,La Seine,,1.0,
+answer,La Loire,,0.0,
+question,Lequel de ces pays partage des frontières terrestres avec la France ?,,,lvl2
+answer,La Suède,,0.0,
+answer,Le Danemark,,0.0,
+answer,La Belgique,,1.0,
+question,Quel pays a une frontière avec la France métropolitaine au nord-est ?,,,lvl2
+answer,L'Espagne,,0.0,
+answer,L'Allemagne,,1.0,
+answer,L'Italie,,0.0,
+question,Où se trouvent les principales activités économiques en France ?,,,lvl2
+answer,Uniquement dans les régions rurales.,,0.0,
+answer,Principalement dans les zones montagneuses.,,0.0,
+answer,"Dans les grandes métropoles et les régions transfrontalières (Paris, Lyon, frontières allemande et suisse).।)",,1.0,
+question,"Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",,,lvl2
+answer,L'Espagne,,0.0,
+answer,La France,,1.0,
+answer,L'Italie,,0.0,
+question,Où habite la majorité des Français ?,,,lvl2
+answer,Dans les zones de montagne.,,0.0,
+answer,Dans les zones urbaines et les grandes agglomérations.,,1.0,
+answer,Dans les campagnes isolées.,,0.0,
+question,Quelle région est la plus peuplée ?,,,lvl2
+answer,La Nouvelle-Aquitaine,,0.0,
+answer,L'Île-de-France (région parisienne),,1.0,
+answer,La Bretagne,,0.0,
+question,Quelle ville française fait partie des 10 plus grandes métropoles du pays ?,,,lvl2
+answer,La Rochelle,,0.0,
+answer,Toulouse,,1.0,
+answer,Avignon,,0.0,
+question,Lequel de ces départements de France est le plus touristique ? ?),,,lvl2
+answer,La Creuse,,0.0,
+answer,Le Finistère,,0.0,
+answer,Paris,,1.0,
+question,Quand peut-on visiter gratuitement des lieux culturels en France ?,,,lvl2
+answer,Tous les jours fériés.,,0.0,
+answer,Lors des Journées européennes du Patrimoine (en septembre).।),,1.0,
+answer,Uniquement en janvier.,,0.0,
+question,Combien de personnes parlent français dans le monde ?,,,lvl2
+answer,Environ 50 millions,,0.0,
+answer,Environ 150 millions,,0.0,
+answer,Plus de 320 millions,,1.0,
+question,Qui était Marguerite Yourcenar ?,,,lvl2
+answer,Une mathématicienne,,0.0,
+answer,Une écrivaine française (première femme élue à l'Académie française).।),,1.0,
+answer,Une chanteuse d'opéra,,0.0,
+question,Quel peintre est français ?,,,lvl2
+answer,Salvador Dalí,,0.0,
+answer,Pablo Picasso,,0.0,
+answer,Claude Monet,,1.0,
+question,Quel musée est situé à Paris ?,,,lvl2
+answer,Le Musée du Prado,,0.0,
+answer,Le Centre Pompidou,,1.0,
+answer,Le British Museum,,0.0,
+question,Qui était Auguste Rodin ?,,,lvl2
+answer,Un compositeur,,0.0,
+answer,Un sculpteur français du 19e siècle (auteur du Penseur).।),,1.0,
+answer,Un explorateur,,0.0,
+question,Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?,,,lvl2
+answer,La deuxième langue,,0.0,
+answer,La cinquième langue,,1.0,
+answer,La dixième langue,,0.0,
+question,Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?,,,lvl2
+answer,La Cathédrale de Reims,,0.0,
+answer,Notre-Dame de Paris,,1.0,
+answer,La Cathédrale de Strasbourg,,0.0,
+question,Qui était une écrivaine française célèbre ?,,,lvl2
+answer,Marie Curie,,0.0,
+answer,Simone Veil,,1.0,
+answer,Marie-Madeleine Fourcade,,0.0,
+question,Qui était un célèbre musicien français ?,,,lvl2
+answer,Wolfgang Amadeus Mozart,,0.0,
+answer,Claude Debussy,,1.0,
+answer,Johann Sebastian Bach,,0.0,
+question,Qui était Auguste Renoir ?,,,lvl2
+answer,Un architecte,,0.0,
+answer,Un peintre impressionniste français.,,1.0,
+answer,Un dramaturge,,0.0,
+question,Quelle fête est française ?,,,lvl2
+answer,L'Oktoberfest,,0.0,
+answer,La Saint-Patrick,,0.0,
+answer,Le 14 juillet (Fête Nationale)),,1.0,
+question,Sur quel fleuve est situé le château d’Amboise? ?),,,lvl3
+answer,Sur la Seine,,0.0,
+answer,Sur le Rhône,,0.0,
+answer,Sur la Loire,,1.0,
+question,Qu’a mené Napoléon Ier en Europe?,,,lvl3
+answer,La Révolution industrielle,,0.0,
+answer,De nombreuses guerres,,1.0,
+answer,La colonisation de l’Afrique,,0.0,
+question,Qui a été le chef de la Résistance française contre l’occupation allemande? ?),,,lvl3
+answer,Philippe Pétain,,0.0,
+answer,Georges Clemenceau,,0.0,
+answer,Charles de Gaulle,,1.0,
+question,Quelle religion Clovis adopte-t-il?,,,lvl3
+answer,La religion musulmane,,0.0,
+answer,Le judaïsme,,0.0,
+answer,La religion chrétienne,,1.0,
+question,Quel dictateur nazi a déclenché la Seconde Guerre mondiale?,,,lvl3
+answer,Joseph Staline,,0.0,
+answer,Benito Mussolini,,0.0,
+answer,Adolf Hitler,,1.0,
+question,Que concentre Louis XIV sous son règne?,,,lvl3
+answer,Uniquement le pouvoir militaire,,0.0,
+answer,Tous les pouvoirs,,1.0,
+answer,Uniquement le pouvoir religieux,,0.0,
+question,Quel est le rôle du tourisme dans l’économie française?,,,lvl3
+answer,Un secteur marginal,,0.0,
+answer,Un élément essentiel,,1.0,
+answer,Une activité en déclin,,0.0,
+question,Que symbolisent les 12 étoiles du drapeau européen?,,,lvl3
+answer,Les idéaux d’unité et d’harmonie entre les Européens,,1.0,
+answer,Les 12 mois de l’année,,0.0,
+answer,Les 12 pays fondateurs,,0.0,
+question,En quelle année l’esclavage a-t-il été aboli en France?,,,lvl3
+answer,En 1789,,0.0,
+answer,En 1918,,0.0,
+answer,En 1848,,1.0,
+question,Contre quoi Victor Hugo s’est-il engagé?,,,lvl3
+answer,La monarchie absolue,,0.0,
+answer,La colonisation,,0.0,
+answer,Les inégalités sociales et la peine de mort,,1.0,
+question,De quelle origine est Valérie Benguigui? ?),,,lvl3
+answer,Italienne,,0.0,
+answer,Américaine,,0.0,
+answer,Algérienne,,1.0,
+question,Quel est le plus long fleuve français?,,,lvl3
+answer,Le Rhône,,0.0,
+answer,La Seine,,0.0,
+answer,La Loire,,1.0,
+question,Où se trouve l’une des plus importantes grottes préhistoriques de France?,,,lvl3
+answer,À Marseille,,0.0,
+answer,À Chartres,,0.0,
+answer,À Lascaux,,1.0,
+question,Entre quelles dates se situent les peintures de la grotte de Lascaux?,,,lvl3
+answer,Entre 2000 et 1500 ap. J.-C.,,0.0,
+answer,Entre 18 000 et 15 000 av. J.-C.,,1.0,
+answer,Entre 500 et 200 av. J.-C.,,0.0,
+question,Quels modes de transport sont connectés au port de Nantes-Saint-Nazaire?,,,lvl3
+answer,"Routier, fluvial, spatial et aérien",,0.0,
+answer,"Maritime, fluvial, ferroviaire, terrestre et aérien",,1.0,
+answer,"Maritime, spatial, cycliste et aérien",,0.0,
+question,À quelle période historique correspond l’installation des Romains?,,,lvl3
+answer,À l’Antiquité,,1.0,
+answer,À la Préhistoire,,0.0,
+answer,Au Moyen Âge,,0.0,
+question,À quelle période appartiennent les peintures de la grotte de Lascaux?,,,lvl3
+answer,À la Préhistoire,,1.0,
+answer,Au Moyen Âge,,0.0,
+answer,À l’Antiquité,,0.0,
+question,Où se situe le Mont-Saint-Michel?,,,lvl3
+answer,En Bretagne,,0.0,
+answer,En Provence,,0.0,
+answer,En Normandie,,1.0,
+question,Quelle nationalité d’origine avait Joséphine Baker?,,,lvl3
+answer,Italienne,,0.0,
+answer,Algérienne,,0.0,
+answer,Américaine,,1.0,
+question,De quelle origine est Romain Gary?,,,lvl3
+answer,Égyptienne,,0.0,
+answer,Polonaise,,0.0,
+answer,Russe,,1.0,
+question,Quel était l’objectif du traité de Rome?,,,lvl3
+answer,Supprimer toutes les frontières intérieures immédiatement,,0.0,
+answer,Créer une armée commune,,0.0,
+answer,Établir une union étroite entre les peuples européens,,1.0,
+question,Quelle est l’altitude du Mont-Blanc? ?),,,lvl3
+answer,3 200 m,,0.0,
+answer,5 500 m,,0.0,
+answer,4 810 m,,1.0,
+question,Quel peintre d’origine russe a décoré le plafond de l’Opéra Garnier de Paris? ?),,,lvl3
+answer,Pablo Picasso,,0.0,
+answer,Claude Monet,,0.0,
+answer,Marc Chagall,,1.0,
+question,Pour quelle raison la grotte de Lascaux est-elle célèbre?,,,lvl3
+answer,Pour la qualité de ses peintures,,1.0,
+answer,Pour ses poteries anciennes,,0.0,
+answer,Pour ses sculptures en pierre,,0.0,
+question,Quel mouvement social éclate en mai 1968?,,,lvl3
+answer,"Un mouvement initié par les étudiants, étendu aux salariés et ouvriers",,1.0,
+answer,Une réforme constitutionnelle,,0.0,
+answer,Une révolution armée,,0.0,
+question,Qui est Alain Mimoun? ?),,,lvl3
+answer,Un peintre d’origine russe,,0.0,
+answer,Un chanteur franco-égyptien,,0.0,
+answer,"Un athlète d’origine algérienne, ancien combattant de la Seconde Guerre mondiale",,1.0,
+question,Quelle caractéristique politique la IIIᵉ République a-t-elle apportée? ?),,,lvl3
+answer,Le retour de l’Empire,,0.0,
+answer,La forme républicaine stable du Gouvernement,,1.0,
+answer,L’instauration d’une monarchie parlementaire,,0.0,
+question,Par quels moyens la France a-t-elle constitué son empire colonial au 19ᵉ siècle?,,,lvl3
+answer,Par des guerres de conquêtes,,1.0,
+answer,Par des élections locales,,0.0,
+answer,Par des accords commerciaux pacifiques,,0.0,
+question,Quel exploit sportif Alain Mimoun a-t-il réalisé en 1956?,,,lvl3
+answer,Il a gagné le Tour de France,,0.0,
+answer,Il a remporté le marathon des Jeux olympiques,,1.0,
+answer,Il a battu le record du monde de saut en longueur,,0.0,
+question,Où repose Marie Curie?,,,lvl3
+answer,À Versailles,,0.0,
+answer,Au Panthéon,,1.0,
+answer,Au Louvre,,0.0,
+question,Quel physicien d’origine polonaise a reçu le prix Nobel de physique en 1992?,,,lvl3
+answer,Louis de Broglie,,0.0,
+answer,Pierre Curie,,0.0,
+answer,Georges Charpak,,1.0,
+question,Comment était qualifié le régime de Vichy? ?),,,lvl3
+answer,Non démocratique,,1.0,
+answer,Parlementaire,,0.0,
+answer,Républicain,,0.0,
+question,Combien de morts la Seconde Guerre mondiale a-t-elle causés selon les historiens?,,,lvl3
+answer,Moins de 5 millions,,0.0,
+answer,Plus de 50 millions,,1.0,
+answer,Plus de 9 millions,,0.0,
+question,Dans quels secteurs l’économie française a-t-elle des pôles d’excellence? ?),,,lvl3
+answer,L’aéronautique et le luxe,,1.0,
+answer,L’agriculture et la pêche,,0.0,
+answer,Le textile et la sidérurgie,,0.0,
+question,Pour quel roman Romain Gary a-t-il reçu le prix Goncourt en 1956? ?),,,lvl3
+answer,Notre-Dame de,,0.0,
+answer,Les Racines du ciel,,1.0,
+answer,La Vie devant soi,,0.0,
+question,Qui est Léon Gambetta? ?),,,lvl3
+answer,"Un fervent républicain, l’un des pères de la IIIᵉ République",,1.0,
+answer,Un roi de France,,0.0,
+answer,Un empereur romain,,0.0,
+question,Qui unifie les royaumes des peuples francs au 5e siècle?,,,lvl3
+answer,Louis XIV,,0.0,
+answer,Charlemagne,,0.0,
+answer,Clovis,,1.0,
+question,Qui a préparé la loi sur l’interruption volontaire de grossesse de 1975? ?),,,lvl3
+answer,Charles de Gaulle,,0.0,
+answer,François Mitterrand,,0.0,
+answer,Simone Veil,,1.0,
+question,Qui est l’auteur de «Alcools»? ?),,,lvl3
+answer,Guillaume Apollinaire,,1.0,
+answer,Paul Valéry,,0.0,
+answer,Jacques Prévert,,0.0,
+question,"Quel écrivain d’origine russe a reçu deux fois le prix Goncourt, dont une sous le nom d’Émile Ajar? ?)",,,lvl3
+answer,Albert Camus,,0.0,
+answer,Romain Gary,,1.0,
+answer,Victor Hugo,,0.0,
+question,Quelle chanson est associée à Miriam Makeba?,,,lvl3
+answer,Bambino,,0.0,
+answer,Pata Pata,,1.0,
+answer,L’Avare,,0.0,
+question,Qui est l’auteur de Les Misérables?,,,lvl3
+answer,Victor Hugo,,1.0,
+answer,Voltaire,,0.0,
+answer,Molière,,0.0,
+question,Quels sont deux ouvrages célèbres de Victor Hugo?,,,lvl3
+answer,Germinal et Madame Bovary,,0.0,
+answer,Les Misérables et Notre-Dame de Paris,,1.0,
+answer,L’Avare et Le Cid,,0.0,
+question,Quel traité fonde la Communauté économique européenne en 1957?,,,lvl3
+answer,Le traité de Versailles,,0.0,
+answer,Le traité de Maastricht,,0.0,
+answer,Le traité de Rome,,1.0,
+question,Qui est l’auteur de «Calligrammes»?,,,lvl3
+answer,Victor Hugo,,0.0,
+answer,Guillaume Apollinaire,,1.0,
+answer,André Breton,,0.0,
+question,Sous quel pseudonyme Romain Gary a-t-il reçu le prix Goncourt en 1975?,,,lvl3
+answer,André Gide,,0.0,
+answer,Paul Valéry,,0.0,
+answer,Émile Ajar,,1.0,
+question,À quelle période historique appartient Clovis?,,,lvl3
+answer,À la Renaissance (16e siècle)),,0.0,
+answer,À l’Antiquité (1er siècle)),,0.0,
+answer,Au Moyen Âge (5e siècle)),,1.0,
+question,Où la décolonisation française a-t-elle débuté? ?),,,lvl3
+answer,En Amérique,,0.0,
+answer,En Asie,,1.0,
+answer,En Europe,,0.0,
+question,Où se trouvait la capitale du régime de Vichy? ?),,,lvl3
+answer,À Lyon,,0.0,
+answer,À Bordeaux,,0.0,
+answer,À Vichy,,1.0,
+question,Quel magazine Françoise Giroud a-t-elle cofondé? - ?),,,lvl3
+answer,Paris Match,,0.0,
+answer,L’Express,,1.0,
+answer,Le Monde,,0.0,
+question,Quand la IIIᵉ République a-t-elle été instaurée? ?),,,lvl3
+answer,En 1875,,1.0,
+answer,En 1958,,0.0,
+answer,En 1848,,0.0,
+question,Quelles entreprises ont leur siège social à Paris La Défense? ?),,,lvl3
+answer,Les plus grosses entreprises du CAC 40,,1.0,
+answer,Des PME locales,,0.0,
+answer,Des start-ups étrangères,,0.0,
+question,Quels événements sportifs Léon Zitrone a-t-il commentés?,,,lvl3
+answer,Le Tour de France et les Jeux olympiques,,1.0,
+answer,La Coupe du monde de rugby et le Dakar,,0.0,
+answer,Le marathon de Paris et Roland-Garros,,0.0,
+question,Quel prix international Miriam Makeba a-t-elle obtenu?,,,lvl3
+answer,Un Grammy Award,,1.0,
+answer,Un Oscar,,0.0,
+answer,Un prix Nobel de la paix,,0.0,
+question,Pour quel événement la tour Eiffel a-t-elle été construite? ?),,,lvl3
+answer,La Révolution française,,0.0,
+answer,L’Exposition universelle de 1889,,1.0,
+answer,Les Jeux olympiques de 1924,,0.0,
+question,Qui est Miriam Makeba?,,,lvl3
+answer,Une poétesse née en Égypte,,0.0,
+answer,Une actrice d’origine algérienne,,0.0,
+answer,Une chanteuse sud-africaine engagée contre l’apartheid,,1.0,
+question,En quelle année Joseph Kessel est-il élu à l’Académie française? ?),,,lvl3
+answer,1956,,0.0,
+answer,1975,,0.0,
+answer,1962,,1.0,
+question,Quel statut possède le Mont-Saint-Michel? ?),,,lvl3
+answer,Monument historique national uniquement,,0.0,
+answer,Patrimoine mondial de l’UNESCO,,1.0,
+answer,Site naturel protégé uniquement,,0.0,
+question,Quelle opération militaire a eu lieu le 6 juin 1944 en Normandie?,,,lvl3
+answer,La prise de la Bastille,,0.0,
+answer,Le débarquement des alliés,,1.0,
+answer,L’armistice de 1918,,0.0,
+question,Où est née la poétesse Andrée Chedid?,,,lvl3
+answer,En Pologne,,0.0,
+answer,En Russie,,0.0,
+answer,En Égypte,,1.0,
+question,De quoi le régime de Vichy est-il en partie responsable?,,,lvl3
+answer,De la colonisation de l’Algérie,,0.0,
+answer,De l’armistice de 1918,,0.0,
+answer,De la déportation des Juifs,,1.0,
+question,Qui conduit les troupes françaises pendant la guerre de Cent Ans contre l’Angleterre?,,,lvl3
+answer,Marie-Antoinette,,0.0,
+answer,Catherine de Médicis,,0.0,
+answer,Jeanne d’Arc,,1.0,
+question,Quel est l’effet principal de l’édit de Nantes? ?),,,lvl3
+answer,Le rétablissement de la paix religieuse,,1.0,
+answer,L’abolition de la monarchie,,0.0,
+answer,Le début de la guerre de Cent Ans,,0.0,
+question,Dans quelle vallée se trouve le théâtre romain d’Orange?,,,lvl3
+answer,Dans la vallée de la Seine,,0.0,
+answer,Dans la vallée du Rhône,,1.0,
+answer,Dans la vallée de la Loire,,0.0,
+question,Quel roi de France règne de 1643 à 1715?,,,lvl3
+answer,François Ier,,0.0,
+answer,Louis XVI,,0.0,
+answer,Louis XIV,,1.0,
+question,Dans quels domaines Léon Zitrone s’est-il illustré?,,,lvl3
+answer,Littérature et poésie,,0.0,
+answer,Télévision et grands événements sportifs,,1.0,
+answer,Cinéma et théâtre,,0.0,
+question,Quels sont des exemples de talents français issus de l’immigration?,,,lvl3
+answer,"Molière, Corneille, Racine, La Fontaine",,0.0,
+answer,"Michel Platini, Zinédine Zidane, Jamel Debbouze, Marie N’Diaye",,1.0,
+answer,"Victor Hugo, Louis XIV, Jeanne d’Arc, Napoléon Ier",,0.0,
+question,Quelle était l’origine sociale de Jeanne d’Arc?,,,lvl3
+answer,Une princesse,,0.0,
+answer,Une bourgeoise de Paris,,0.0,
+answer,Une jeune paysanne,,1.0,
+question,Qui a animé l’émission télévisée «Intervilles»? ?),,,lvl3
+answer,Alain Mimoun,,0.0,
+answer,Léon Zitrone,,1.0,
+answer,Georges Moustaki,,0.0,
+question,Quel est le domaine scientifique de Marie Curie?,,,lvl3
+answer,La biologie,,0.0,
+answer,La géologie,,0.0,
+answer,La physique,,1.0,
+question,Qui a mis en place le régime de Vichy après la défaite française? ?),,,lvl3
+answer,Charles de Gaulle,,0.0,
+answer,Napoléon III,,0.0,
+answer,Le maréchal Pétain,,1.0,
+question,Quelle est une des comédies les plus connues de Molière?,,,lvl3
+answer,Le Cid,,0.0,
+answer,L’Avare,,1.0,
+answer,Les Misérables,,0.0,
+question,Que s’est-il passé en 1848 en France?,,,lvl3
+answer,La mort de Napoléon Ier,,0.0,
+answer,L’abolition de l’esclavage,,1.0,
+answer,La naissance de la IIIᵉ République,,0.0,
+question,Quelle actrice d’origine algérienne a joué dans «Le Prénom» et «Avocats et associés»?,,,lvl3
+answer,Catherine Deneuve,,0.0,
+answer,Isabelle Huppert,,0.0,
+answer,Valérie Benguigui,,1.0,
+question,Qui est Georges Moustaki? ?),,,lvl3
+answer,Un chanteur d’origine italo-grecque,,1.0,
+answer,Un peintre d’origine russe,,0.0,
+answer,Un journaliste d’origine russe,,0.0,
+question,À partir de quelle date les Romains s’installent-ils dans ce qui est aujourd’hui la France?,,,lvl3
+answer,50 av. J.-C.,,1.0,
+answer,500 ap. J.-C.,,0.0,
+answer,500 av. J.-C.,,0.0,
+question,À partir de quelle décennie Georges Moustaki s’impose-t-il comme un grand nom de la chanson française? ?),,,lvl3
+answer,Années 1960,,1.0,
+answer,Années 1980,,0.0,
+answer,Années 1940,,0.0,
+question,Le Rhône est…,,,lvl3
+answer,Une chaîne de montagnes,,0.0,
+answer,Un fleuve,,1.0,
+answer,Un lac,,0.0,
+question,La Garonne est…,,,lvl3
+answer,Un volcan,,0.0,
+answer,Une montagne,,0.0,
+answer,Un fleuve,,1.0,
+question,Quelle poétesse née en Égypte est aussi une femme de lettres française?,,,lvl3
+answer,George Sand,,0.0,
+answer,Marguerite Duras,,0.0,
+answer,Andrée Chedid,,1.0,
+question,Quel type d’État se met en place sous Louis XIV?,,,lvl3
+answer,Un État faible et divisé,,0.0,
+answer,Un État puissant et centralisé,,1.0,
+answer,Un État fédéral,,0.0,
+question,Quelle était l’origine de Haroun Tazieff?,,,lvl3
+answer,Varsovie,,1.0,
+answer,Athènes,,0.0,
+answer,Moscou,,0.0,
+question,Qui étaient persécutés ou exterminés par les nazis?,,,lvl3
+answer,"Juifs, Tziganes, homosexuels, handicapés et opposants politiques",,1.0,
+answer,Seuls les militaires,,0.0,
+answer,Nobles et prêtres,,0.0,
+question,Quelles sont les trois caractéristiques de l’école instaurée par Jules Ferry? ?),,,lvl3
+answer,"Privée, payante et catholique",,0.0,
+answer,"Obligatoire, militaire et religieuse",,0.0,
+answer,"Publique, gratuite et laïque",,1.0,
+question,Quelle fonction Françoise Giroud a-t-elle exercée dans la vie politique française? ?),,,lvl3
+answer,Ministre de la Défense,,0.0,
+answer,Deux fois Secrétaire d’État,,1.0,
+answer,Première ministre,,0.0,
+question,Quelle discipline Haroun Tazieff a-t-il fait connaître au grand public?,,,lvl3
+answer,L’astronomie,,0.0,
+answer,La volcanologie,,1.0,
+answer,La météorologie,,0.0,
+question,Combien d’entreprises sont regroupées à Paris La Défense?,,,lvl3
+answer,500,,1.0,
+answer,5 000,,0.0,
+answer,50,,0.0,
+question,Quel roi a lancé la construction du château de Versailles? ?),,,lvl3
+answer,Napoléon Ier,,0.0,
+answer,François Ier,,0.0,
+answer,Louis XIV,,1.0,
+question,Quelle physicienne née en Pologne a découvert la radioactivité?,,,lvl3
+answer,Rosalind Franklin,,0.0,
+answer,Irène Joliot-Curie,,0.0,
+answer,Marie Curie,,1.0,
+question,Qui est Joseph Kessel? ?),,,lvl3
+answer,Un journaliste d’origine russe,,0.0,
+answer,Un chanteur d’origine italo-grecque,,0.0,
+answer,Un grand reporter et romancier né en Argentine,,1.0,
+question,Avec quelle République Léon Gambetta est-il associé? ?),,,lvl3
+answer,La Ve République,,0.0,
+answer,La IIIᵉ République,,1.0,
+answer,La Iʳᵉ République,,0.0,
+question,Avec quelle découverte Georges Charpak est-il associé? ?),,,lvl3
+answer,La vaccination,,0.0,
+answer,La détection des particules,,1.0,
+answer,La biologie cellulaire,,0.0,
+question,Quelle est la plus haute montagne d’Europe?,,,lvl3
+answer,Le Mont-Blanc,,1.0,
+answer,Le Kilimandjaro,,0.0,
+answer,L’Elbrouz,,0.0,
+question,Quel roi de France publie l’édit de Nantes en 1598? ?),,,lvl3
+answer,Henri IV,,1.0,
+answer,François Ier,,0.0,
+answer,Louis XIII,,0.0,
+question,Combien de temps environ Napoléon Ier a-t-il dirigé la France?,,,lvl3
+answer,Près de 30 ans,,0.0,
+answer,Près de 5 ans,,0.0,
+answer,Près de 15 ans,,1.0,
+question,Qui est considéré comme le père de la volcanologie contemporaine?,,,lvl3
+answer,Haroun Tazieff,,1.0,
+answer,Georges Charpak,,0.0,
+answer,Joseph Kessel,,0.0,
+question,Combien d’agglomérations françaises comptent plus de 500 000 habitants?,,,lvl3
+answer,17,,1.0,
+answer,27,,0.0,
+answer,10,,0.0,
+question,Combien de fois Romain Gary a-t-il reçu le prix Goncourt?,,,lvl3
+answer,Une fois,,0.0,
+answer,Trois fois,,0.0,
+answer,Deux fois,,1.0,
+question,Qui est Vassily Kandinsky? (Vassily Kandinsky) ?),,,lvl3
+answer,Un journaliste d’origine russe,,0.0,
+answer,Un écrivain né en Argentine,,0.0,
+answer,"Un peintre d’origine russe, fondateur de l’art abstrait",,1.0,
+question,Dans quel film a joué Valérie Benguigui?,,,lvl3
+answer,Le Prénom,,1.0,
+answer,Les Misérables,,0.0,
+answer,La Grande Vadrouille,,0.0,
+question,Quelle est la superficie du territoire français (métropole et outre-mer)? ?),,,lvl3
+answer,1 million km²,,0.0,
+answer,450 000 km²,,0.0,
+answer,675 000 km²,,1.0,
+question,Quelles guerres ont marqué la décolonisation française?,,,lvl3
+answer,Les guerres d’Indochine et d’Algérie,,1.0,
+answer,La guerre de Crimée et la guerre de 1870,,0.0,
+answer,La guerre de Corée et la guerre du Vietnam,,0.0,
+question,Combien de grands groupes de plus de 10 000 salariés compte la France?,,,lvl3
+answer,Plusieurs milliers,,0.0,
+answer,Une centaine,,1.0,
+answer,Une dizaine,,0.0,
+question,En quelles années a eu lieu la décolonisation française? ?),,,lvl3
+answer,Entre 1914 et 1918,,0.0,
+answer,Entre 1950 et 1962,,1.0,
+answer,Entre 1981 et 1995,,0.0,
+question,Qui est considéré comme le plus célèbre auteur de théâtre français du 17e siècle?,,,lvl3
+answer,Molière,,1.0,
+answer,Corneille,,0.0,
+answer,Victor Hugo,,0.0,
+question,Combien de morts la Première Guerre mondiale a-t-elle faits environ?,,,lvl3
+answer,Moins d’un million,,0.0,
+answer,Plus de 9 millions,,1.0,
+answer,Plus de 50 millions,,0.0,
+question,Comment est qualifiée la monarchie sous Louis XIV?,,,lvl3
+answer,Une monarchie élective,,0.0,
+answer,Une monarchie absolue,,1.0,
+answer,Une monarchie parlementaire,,0.0,
+question,En quelle année l’âge de la majorité a-t-il été fixé à 18 ans?,,,lvl3
+answer,En 1981,,0.0,
+answer,En 1957,,0.0,
+answer,En 1974,,1.0,
+question,"Quelle artiste d’origine américaine fut danseuse, chanteuse et résistante en France pendant la Seconde Guerre mondiale? ?)",,,lvl3
+answer,Joséphine Baker,,1.0,
+answer,Nina Simone,,0.0,
+answer,Aretha Franklin,,0.0,
+question,Quelle école artistique Vassily Kandinsky contribue-t-il à fonder?,,,lvl3
+answer,L’art abstrait,,1.0,
+answer,L’impressionnisme,,0.0,
+answer,Le cubisme,,0.0,
+question,Quelle République est proclamée en 1792?,,,lvl3
+answer,La Première République,,1.0,
+answer,La Deuxième République,,0.0,
+answer,La Cinquième République,,0.0,
+question,Au temps de quel roi Molière a-t-il vécu? ?),,,lvl3
+answer,Louis XIV,,1.0,
+answer,Louis XVI,,0.0,
+answer,Napoléon Ier,,0.0,
+question,Dans quelles régions du monde la France a-t-elle constitué un empire colonial au 19ᵉ siècle?,,,lvl3
+answer,En Océanie et en Amérique du Nord,,0.0,
+answer,En Scandinavie et au Moyen-Orient,,0.0,
+answer,"Aux Antilles, en Afrique et en Asie",,1.0,
+question,Qu’adoptent les populations locales après l’installation des Romains?,,,lvl3
+answer,Leur mode de vie et la culture latine,,1.0,
+answer,Leur organisation viking,,0.0,
+answer,Leur langue grecque,,0.0,
+question,Quel pays Adolf Hitler a-t-il envahi notamment?,,,lvl3
+answer,La France,,1.0,
+answer,Les États-Unis,,0.0,
+answer,Le Royaume-Uni,,0.0,
+question,Qu’est-ce qui s’élève sur le Mont-Saint-Michel? ?),,,lvl3
+answer,Une abbaye,,1.0,
+answer,Un palais royal,,0.0,
+answer,Un château fort,,0.0,
+question,Où la décolonisation française s’est-elle poursuivie après l’Asie?,,,lvl3
+answer,En Afrique,,1.0,
+answer,En Amérique du Sud,,0.0,
+answer,En Océanie,,0.0,
+question,Quelle importance a l’action de Clovis dans l’histoire de France?,,,lvl3
+answer,Elle divise définitivement le territoire,,0.0,
+answer,Elle constitue une étape vers l’unité du territoire français,,1.0,
+answer,Elle entraîne la disparition de la royauté,,0.0,
+question,Quelle expression décrit Joséphine Baker?,,,lvl3
+answer,Poétesse symboliste,,0.0,
+answer,Actrice comique,,0.0,
+answer,Meneuse de revue noire,,1.0,
+question,Quels philosophes du 18e siècle ont combattu pour la tolérance et la liberté de pensée?,,,lvl3
+answer,"Rousseau, Voltaire, Diderot",,1.0,
+answer,"Montesquieu, Balzac, Hugo",,0.0,
+answer,"Pasteur, Descartes, Zola",,0.0,
+question,Quelle chanteuse d’origine égyptienne a connu de grands succès populaires comme «Bambino» ou «Laissez-moi danser»?,,,lvl3
+answer,Barbara,,0.0,
+answer,Dalida,,1.0,
+answer,Edith Piaf,,0.0,
+question,Quel est le premier quartier d’affaires d’Europe?,,,lvl3
+answer,La City de Londres,,0.0,
+answer,Paris La Défense,,1.0,
+answer,Francfort,,0.0,
+question,À quel siècle a vécu Diderot? ?),,,lvl3
+answer,Au 19ᵉ siècle,,0.0,
+answer,Au 15ᵉ siècle,,0.0,
+answer,Au 18ᵉ siècle,,1.0,
+question,Dans quels domaines de transport la France est-elle un leader mondial?,,,lvl3
+answer,Transport maritime et ferroviaire,,1.0,
+answer,Transport spatial et fluvial,,0.0,
+answer,Transport routier et aérien,,0.0,
+question,À quel siècle a vécu Voltaire? ?),,,lvl3
+answer,Au 18ᵉ siècle,,1.0,
+answer,Au 16ᵉ siècle,,0.0,
+answer,Au 20ᵉ siècle,,0.0,
+question,À quel siècle a vécu Rousseau? ?),,,lvl3
+answer,Au 18ᵉ siècle,,1.0,
+answer,Au 17ᵉ siècle,,0.0,
+answer,Au 19ᵉ siècle,,0.0,
+question,Combien de pays participaient à la CEE à sa création? ?),,,lvl3
+answer,"Six, dont la France",,1.0,
+answer,Douze,,0.0,
+answer,Vingt-sept,,0.0,

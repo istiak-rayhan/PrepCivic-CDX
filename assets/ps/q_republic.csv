@@ -1,0 +1,597 @@
+type,text,placeholder,is_correct,level
+question,À quoi correspond la date du 14 juillet ? [د جولای ۱۴ نیټه د څه شی سره مطابقت لري؟],,,lvl1
+answer,Le jour de la signature de la Constitution [د اساسي قانون د لاسلیکولو ورځ],,0.0,
+answer,La fête de la Révolution et de la Nation [د انقلاب او ملت ورځ],,1.0,
+answer,La date de la fin de la Seconde Guerre mondiale [د دویمې نړیوالې جګړې د پای نیټه],,0.0,
+question,Quel est l’un des symboles de la République française ? [د فرانسې جمهوریت له سمبولونو څخه کوم یو دی؟],,,lvl1
+answer,Le lion et la couronne [زمری او تاج],,0.0,
+answer,Le drapeau rouge et noir [سور او تور بیرغ],,0.0,
+answer,La Marianne [ماریان],,1.0,
+question,Le principe d’égalité signifie que : [د مساوات اصول پدې معنی دي:],,,lvl1
+answer,Tous les citoyens doivent avoir la même richesse et le même statut social. [ټول اتباع باید ورته شتمني او ټولنیز حیثیت ولري.],,0.0,
+answer,"La loi est la même pour tous, sans distinction d'origine, de race ou de religion. [قانون د ټولو لپاره یو شان دی، پرته له دې چې د اصل، نژاد یا مذهب توپیر ولري.]",,1.0,
+answer,Seules les personnes nées en France sont égales devant la loi. [یوازې په فرانسه کې زیږیدلي کسان د قانون په وړاندې مساوي دي.],,0.0,
+question,"""Liberté, égalité, fraternité"", c’est : [""آزادي، مساوات، ورورولي""، دا ده:]",,,lvl1
+answer,Le titre de l'hymne national français. [د فرانسې د ملي سرود سرلیک.],,0.0,
+answer,La devise de la République française. [د فرانسې جمهوریت شعار.],,1.0,
+answer,Le slogan d’un parti politique. [د یو سیاسي ګوند شعار.],,0.0,
+question,"A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ? ?) [ایا موږ حق لرو چې یو څوک په عامه توګه سپک کړو ځکه چې هغه توپیر لري (معلولیت، فزیکي بڼه، جنسیت ...)؟]",,,lvl1
+answer,"Oui, la liberté d'expression autorise toutes les paroles. [هو، د بیان آزادي د ټولو کلمو اجازه ورکوي.]",,0.0,
+answer,"Non, car cela constitue une discrimination punie par la loi. [نه، ځکه چې دا د قانون لخوا مجازات کیدونکي تبعیض جوړوي.]",,1.0,
+answer,"Oui, tant que l'insulte n'est pas écrite. [هو، تر هغه چې سپکاوی نه وي لیکل شوی.]",,0.0,
+question,Certains métiers peuvent-ils être réservés aux hommes ? [ایا ځینې مسلکونه یوازې د نارینه وو لپاره ساتل کیدی شي؟],,,lvl1
+answer,"Oui, dans le secteur de la défense nationale. [هو، د ملي دفاع په سکتور کې.]",,0.0,
+answer,"Non, la loi garantit l’égalité professionnelle entre les femmes et les hommes. [نه، قانون د ښځو او نارینه وو ترمنځ مسلکي مساوات تضمینوي.]",,1.0,
+answer,"Oui, les entreprises privées peuvent choisir librement leurs critères. [هو، خصوصي شرکتونه کولی شي په آزاده توګه خپل معیارونه غوره کړي.]",,0.0,
+question,De quand date la Constitution de la Ve République ? [د پنځم جمهوریت اساسي قانون له کومې نیټې څخه دی؟],,,lvl1
+answer,1946 [۱۹۴۶],,0.0,
+answer,1870 [۱۸۷۰],,0.0,
+answer,1958 [۱۹۵۸],,1.0,
+question,Le régime de la France est : [د فرانسې رژیم دی:],,,lvl1
+answer,Une monarchie constitutionnelle [اساسي قانوني پاچاهي],,0.0,
+answer,Un régime totalitaire [یو توتالیتر رژیم],,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. [یو نه جلا کیدونکی، سیکولر، دیموکراتیک او ټولنیز جمهوریت.]",,1.0,
+question,Lequel de ces symboles représente officiellement la République française ? [له دې سمبولونو څخه کوم یو په رسمي توګه د فرانسې جمهوریت استازیتوب کوي؟],,,lvl1
+answer,Le lys [لیلی],,0.0,
+answer,La couronne royale [شاهي تاج],,0.0,
+answer,"Le drapeau tricolore (bleu, blanc, rouge)) [درې رنګه بیرغ (نیلي، سپین، سور)]",,1.0,
+question,Où peut-on voir la devise de la République ? [د جمهوریت شعار چیرته لیدل کیدی شي؟],,,lvl1
+answer,Uniquement dans les musées nationaux. [یوازې په ملي موزیمونو کې.],,0.0,
+answer,Sur la majorité des produits fabriqués en France. [په فرانسه کې جوړ شوي ډیری محصولاتو باندې.],,0.0,
+answer,"Sur les bâtiments publics (mairies, écoles, préfectures...). [په عامه ودانیو کې (ښاروالۍ، ښوونځي، ولایتونه ...).]",,1.0,
+question,Quels sont des symboles officiels de la République française ? [د فرانسې د جمهوریت رسمي سمبولونه څه دي؟],,,lvl1
+answer,L'Aigle impérial et le Sceptre. [امپراطوري عقاب او عصا.],,0.0,
+answer,"Le drapeau tricolore, la Marseillaise, Marianne. [درې رنګه بیرغ، لا مارسیلیز، ماریان.]",,1.0,
+answer,La fleur de lys et le chêne. [د لیلی ګل او د بلوط ونه.],,0.0,
+question,Qu’est-ce que l’égalité ? [مساوات څه شی دی؟],,,lvl1
+answer,Le fait de ne plus avoir d'impôts à payer. [د تادیه کولو لپاره د نورو مالیاتو نه درلودل.],,0.0,
+answer,Le droit de chacun d’avoir le même métier que son voisin. [د هرچا حق لري چې د خپل ګاونډي په څیر ورته مسلک ولري.],,0.0,
+answer,Le fait d’être traité de la même manière devant la loi et la justice. [د قانون او عدالت په وړاندې د ورته چلند کیدو حقیقت.],,1.0,
+question,Que signifie la liberté ? [آزادي څه معنی لري؟],,,lvl1
+answer,Le droit de faire absolument tout ce que l’on veut. [د هر هغه څه کولو حق چې تاسو یې غواړئ په بشپړ ډول ترسره کړئ.],,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas aux autres. [د هر هغه څه کولو حق چې نورو ته زیان نه رسوي.],,1.0,
+answer,Le droit d’insulter les représentants de l’État. [د دولت استازو ته د سپکاوي حق.],,0.0,
+question,"Que signifie le mot ""fraternité"" dans la devise française ? [په فرانسوي شعار کې ""ورورګلوي"" کلمه څه معنی لري؟]",,,lvl1
+answer,Le fait d’avoir seulement des frères et des sœurs dans sa famille. [په کورنۍ کې د یوازې وروڼو او خویندو درلودل.],,0.0,
+answer,Le droit de voyager sans visa dans les autres pays d'Europe. [د اروپا نورو هیوادونو ته د ویزې پرته د سفر کولو حق.],,0.0,
+answer,La solidarité et l'entraide entre tous les citoyens. [د ټولو اتباعو ترمنځ پیوستون او دوه اړخیزه مرسته.],,1.0,
+question,Quel animal est un symbole de la France ? [کوم حیوان د فرانسې نښه ده؟],,,lvl1
+answer,Le lion [زمری],,0.0,
+answer,L'aigle [عقاب],,0.0,
+answer,Le coq [چرګ],,1.0,
+question,Quel est l’un des rôles des associations ? [د اتحادیو یو رول څه دی؟],,,lvl1
+answer,Remplacer l'État dans l'exercice de ses fonctions régaliennes. [د خپلو حاکمیتي دندو په اجرا کولو کې د دولت ځای نیول.],,0.0,
+answer,Permettre aux citoyens de s’engager pour l'intérêt général. [اتباعو ته اجازه ورکول چې ځان د عمومي ګټو لپاره ژمن کړي.],,1.0,
+answer,Gérer le système de défense nationale. [د ملي دفاع سیسټم اداره کول.],,0.0,
+question,Quel est le nom de l'hymne national ? [د ملي سرود نوم څه دی؟],,,lvl1
+answer,La Parisienne [پاریزیان],,0.0,
+answer,Le Chant du Départ [د وتلو سندره],,0.0,
+answer,La Marseillaise [لا مارسیلیز],,1.0,
+question,Quel symbole de la République française est tricolore ? [د فرانسې د جمهوریت کوم سمبول درې رنګه دی؟],,,lvl1
+answer,La Marianne [ماریان],,0.0,
+answer,Le drapeau [بیرغ],,1.0,
+answer,L'Hymne national [ملي سرود],,0.0,
+question,Quelle est la date de la fête nationale française ? [د فرانسې د ملي ورځې نیټه څه ده؟],,,lvl1
+answer,Le 1er mai [د می لومړۍ],,0.0,
+answer,Le 11 novembre [د نومبر ۱۱مه],,0.0,
+answer,Le 14 juillet [د جولای ۱۴مه],,1.0,
+question,Quelle est la devise de la République française ? [د فرانسې جمهوریت شعار څه دی؟],,,lvl1
+answer,"Unité, Justice, Travail [یووالی، عدالت، کار]",,0.0,
+answer,Honneur et Patrie [عزت او هیواد],,0.0,
+answer,"Liberté, Égalité, Fraternité [آزادي، مساوات، ورورولي]",,1.0,
+question,Quelle est la langue officielle de la République française ? [د فرانسې د جمهوریت رسمي ژبه څه ده؟],,,lvl1
+answer,Le français et l'anglais [فرانسوي او انګلیسي],,0.0,
+answer,Le français et toutes les langues régionales [فرانسوي او ټولې سیمه ایزې ژبې],,0.0,
+answer,Le français [فرانسوي],,1.0,
+question,Quelle est la place de la langue française dans la République ? [په جمهوریت کې د فرانسوي ژبې ځای څه دی؟],,,lvl1
+answer,C'est la langue des élites et de l'administration. [دا د اشرافو او ادارې ژبه ده.],,0.0,
+answer,C'est la langue privilégiée mais non obligatoire dans les services publics. [دا په عامه خدماتو کې د خوښې ژبه ده مګر لازمي نده.],,0.0,
+answer,"C'est la langue de l'enseignement, du travail, des échanges et des services publics. [دا د ښوونې، کار، تبادلې او عامه خدماتو ژبه ده.]",,1.0,
+question,Quelle liberté permet à chacun d’exprimer ses idées ? [کومه ازادي هر چا ته اجازه ورکوي چې خپل نظریات څرګند کړي؟],,,lvl1
+answer,La liberté de culte [د مذهب ازادي],,0.0,
+answer,La liberté d'association [د اتحادیې آزادي],,0.0,
+answer,La liberté d'expression [د بیان آزادي],,1.0,
+question,Quelle proposition est correcte ? La liberté d'expression : [کوم وړاندیز سم دی؟ د بیان ازادي:],,,lvl1
+answer,Est totale et ne connaît aucune limite en France. [ټول دی او په فرانسه کې هیڅ محدودیت نه پوهیږي.],,0.0,
+answer,Est limitée par la loi et ne doit pas porter atteinte à l'ordre public et aux droits d'autrui. [د قانون لخوا محدود دی او باید د عامه نظم او د نورو حقونو څخه سرغړونه ونکړي.],,1.0,
+answer,Permet de publier de fausses informations dans la presse. [تاسو ته اجازه درکوي چې په مطبوعاتو کې غلط معلومات خپاره کړئ.],,0.0,
+question,Quelles sont les couleurs du drapeau français ? [د فرانسې د بیرغ رنګونه څه دي؟],,,lvl1
+answer,"Rouge, Blanc, Vert [سور، سپین، شنه]",,0.0,
+answer,"Jaune, Bleu, Rouge [ژېړ، آبي، سور]",,0.0,
+answer,"Bleu, Blanc, Rouge [آبي، سپین، سور]",,1.0,
+question,Qu'est-ce que la Marseillaise ? [لا مارسیلیز څه شی دی؟],,,lvl1
+answer,Un chant militaire sans importance. [یو غیر مهم پوځي سندره.],,0.0,
+answer,Un chant religieux chanté dans toutes les églises. [یوه مذهبي سندره چې په ټولو کلیساګانو کې ویل کیږي.],,0.0,
+answer,L'hymne national français. [د فرانسې ملي سرود.],,1.0,
+question,Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ? [د ملي ورځې د لمانځلو لپاره د جولای په 14 د چیمپس ایلیسیس کې په دودیز ډول څه تنظیمیږي؟],,,lvl1
+answer,Une course cycliste internationale. [د بایسکل نړیواله سیالي.],,0.0,
+answer,Un grand concert de musique classique. [د کلاسیک موسیقۍ لوی کنسرت.],,0.0,
+answer,Un défilé militaire. [پوځي پریډ.],,1.0,
+question,Qui est Marianne ? [ماریان څوک دی؟],,,lvl1
+answer,L'épouse du président de la République. [د ولسمشر ښځه.],,0.0,
+answer,La mère de la Déclaration des Droits de l'Homme et du Citoyen. [د انسان او تبعه د حقونو د اعلامیې مور.],,0.0,
+answer,La figure symbolique de la République française. [د فرانسې د جمهوریت سمبولیک شخصیت.],,1.0,
+question,Une personne peut-elle changer librement de religion ? [ایا سړی په آزاده توګه خپل مذهب بدلولی شي؟],,,lvl1
+answer,"Non, uniquement si sa nouvelle religion est reconnue par l'État. [نه، یوازې هغه وخت چې د هغه نوی مذهب د دولت لخوا پیژندل شوی وي.]",,0.0,
+answer,"Non, le changement est soumis à l'autorisation du maire. [نه، بدلون د ښاروال واک پورې اړه لري.]",,0.0,
+answer,"Oui, la liberté de conscience et de culte est garantie par la loi. [هو، د ضمیر او عبادت آزادي د قانون لخوا تضمین شوې ده.]",,1.0,
+question,"""La France est une République indivisible, ..., démocratique et sociale"". Complétez cette phrase : [""فرانسه یو نه جلا کیدونکی، ...، دیموکراتیک او ټولنیز جمهوریت دی"". دا جمله بشپړه کړئ:]",,,lvl1
+answer,Humaniste [انسان دوست],,0.0,
+answer,Souveraine [خپلواک],,0.0,
+answer,Laïque [سیکولر],,1.0,
+question,En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ? [کلیسایان او د دولت جلا کولو قانون په کوم کال تصویب شو؟],,,lvl1
+answer,1805 [۱۸۰۵],,0.0,
+answer,1905 [۱۹۰۵],,1.0,
+answer,1958 [۱۹۵۸],,0.0,
+question,Que permet le principe de laïcité ? [د سیکولریزم اصول څه اجازه ورکوي؟],,,lvl1
+answer,De n'autoriser qu'une seule religion sur le territoire national. [په ملي خاوره کې یوازې یو مذهب ته اجازه ورکول.],,0.0,
+answer,D'interdire toute manifestation religieuse dans l'espace public. [په عامه ځایونو کې د هر ډول مذهبي څرګندونو منع کول.],,0.0,
+answer,D'assurer la liberté de conscience de chacun et la neutralité de l'État. [د هرچا د ضمیر د آزادۍ او د دولت بې طرفۍ ډاډمنولو لپاره.],,1.0,
+question,Quel droit est garanti par la laïcité ? [د سیکولریزم لخوا کوم حق تضمین شوی دی؟],,,lvl1
+answer,Le droit d'avoir une religion officielle. [د رسمي مذهب درلودلو حق.],,0.0,
+answer,Le droit de limiter l'accès à certaines religions. [ځینې ​​مذهبونو ته د لاسرسي محدودولو حق.],,0.0,
+answer,"Le droit de ne pas croire, ou de choisir sa religion librement. [نه باور کولو حق، یا په خپله خوښه د خپل مذهب غوره کول.]",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ? [ولې په ښوونځي کې د سیکولریزم اصولو ته باید درناوی وشي؟],,,lvl1
+answer,Pour éviter de déranger les enseignants. [د ښوونکو د ګډوډولو څخه مخنیوي لپاره.],,0.0,
+answer,Pour assurer la domination d'une religion sur les autres. [په نورو باندې د یو مذهب تسلط یقیني کول.],,0.0,
+answer,Pour garantir aux élèves la liberté de conscience et le respect de tous. [زده کونکو ته د ضمیر او د ټولو درناوي تضمین کول.],,1.0,
+question,Qu'est-ce que la laïcité ? [سیکولریزم څه شی دی؟],,,lvl1
+answer,L'interdiction de pratiquer une religion. [د مذهب د عملي کولو منع کول.],,0.0,
+answer,L'obligation d'avoir une religion d'État. [د دولتي مذهب د درلودلو مکلفیت.],,0.0,
+answer,Un principe de séparation entre les Églises (religions) et l'État. [د کلیساګانو (مذهبونو) او دولت ترمینځ د جلا کیدو اصول.],,1.0,
+question,Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ? [ایا یو ماشوم کولی شي د مذهبي دلیل لپاره ښوونځي ته له تګ څخه انکار وکړي؟],,,lvl1
+answer,"Oui, si ses parents sont d'accord. [هو، که د هغه مور او پلار موافق وي.]",,0.0,
+answer,Seulement s’il y a des examens importants ce jour-là. [یوازې هغه وخت چې پدې ورځ مهمې ازموینې شتون ولري.],,0.0,
+answer,"Non, l’instruction est obligatoire pour tous les enfants de 3 à 16 ans, quelle que soit la religion. [نه، زده کړه د ټولو ماشومانو لپاره چې عمرونه یې له ۳ څخه تر ۱۶ کلونو پورې وي، پرته له دې چې د مذهب په پام کې نیولو سره لازمي وي.]",,1.0,
+question,Une personne a-t-elle le droit de ne pas croire en une religion ? [ایا سړی حق لري چې په مذهب باور ونه کړي؟],,,lvl1
+answer,"Non, toutes les personnes doivent avoir une religion en France. [نه، ټول خلک باید په فرانسه کې یو مذهب ولري.]",,0.0,
+answer,Uniquement les personnes majeures. [یوازې لویان.],,0.0,
+answer,"Oui, le droit de ne pas croire fait partie de la liberté de conscience garantie par la loi. [هو، د نه باور کولو حق د قانون لخوا تضمین شوي د ضمیر آزادۍ برخه ده.]",,1.0,
+question,"Parmi les propositions suivantes, laquelle constitue une participation citoyenne ? [له لاندې وړاندیزونو څخه کوم یو د اتباعو ګډون جوړوي؟]",,,lvl2
+answer,Payer ses impôts. [خپل مالیات ادا کول.],,0.0,
+answer,Demander un titre de séjour. [د اوسیدو جواز غوښتنه.],,0.0,
+answer,Être bénévole dans une association. [په یوه ټولنه کې رضاکار اوسئ.],,1.0,
+question,Que garantit la liberté d’expression ? [د بیان ازادي څه تضمین کوي؟],,,lvl2
+answer,Le droit de dire n'importe quoi sans conséquence. [د پایلو پرته د هر څه ویلو حق.],,0.0,
+answer,Le droit de critiquer le gouvernement sans limite. [پرته له محدودیت څخه د حکومت د نیوکې حق.],,0.0,
+answer,Le droit de communiquer ses idées et ses opinions par tous les moyens. [د ټولو وسیلو له لارې ستاسو د نظریاتو او نظرونو د خبرولو حق.],,1.0,
+question,À quoi sert un titre de séjour ? [د اوسیدو جواز د څه لپاره دی؟],,,lvl2
+answer,À obtenir gratuitement la nationalité française. [د وړیا فرانسوي تابعیت ترلاسه کولو لپاره.],,0.0,
+answer,À payer les impôts. [د مالیاتو ورکولو لپاره.],,0.0,
+answer,À attester du droit à résider régulièrement en France pour les étrangers. [د بهرنیانو لپاره په فرانسه کې په منظم ډول د اوسیدو حق تصدیق کول.],,1.0,
+question,La liberté de circulation permet à toute personne de : [د حرکت ازادي هرچا ته اجازه ورکوي:],,,lvl2
+answer,S'installer uniquement dans la ville où elle est née. [یوازې په هغه ښار کې میشته کول چیرې چې هغه زیږیدلې وه.],,0.0,
+answer,Voyager sans passeport dans le monde entier. [پرته له پاسپورټ په ټوله نړۍ کې سفر کول.],,0.0,
+answer,Se déplacer et s'établir librement sur l'ensemble du territoire français. [په آزاده توګه د فرانسې په ټوله خاوره کې حرکت او میشت کیدل.],,1.0,
+question,"Pour retrouver les informations officielles sur les symboles de la République française, quel type de site internet est le plus fiable ? [د فرانسې جمهوریت د سمبولونو په اړه د رسمي معلوماتو موندلو لپاره، کوم ډول ویب پاڼه خورا د اعتبار وړ ده؟]",,,lvl2
+answer,Un réseau social comme Facebook. [یوه ټولنیزه شبکه لکه فیسبوک.],,0.0,
+answer,Un blog personnel. [شخصي بلاګ.],,0.0,
+answer,Un site officiel du gouvernement (.gouv.fr ou .fr). [یوه رسمي دولتي ویب پاڼه (.gouv.fr یا .fr).],,1.0,
+question,"Complétez ces paroles de la Marseillaise : ""Aux armes […] ! Formez vos bataillons"" [د لا مارسیلیز دا کلمې بشپړ کړئ: ""وسلو ته […]! خپل کنډکونه جوړ کړئ""]",,,lvl2
+answer,Les enfants du pays [د هیواد ماشومان],,0.0,
+answer,Le peuple [خلک],,0.0,
+answer,Citoyens [اتباع],,1.0,
+question,"Complétez les paroles de la Marseillaise : ""Allons enfants de la patrie […]"" [د لا مارسیلیز کلمې بشپړ کړئ: ""راځئ د پلرني ټاټوبي ماشومان […]""]",,,lvl2
+answer,L'heure est venue [وخت راغلی دی],,0.0,
+answer,La liberté nous appelle [ازادي موږ ته غږ کوي],,0.0,
+answer,Le jour de gloire est arrivé [د ویاړ ورځ راسیده],,1.0,
+question,"En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut : [د فردي آزادۍ په پلي کولو کې، کوم وړاندیز سم دی؟ یو سړی کولی شي:]",,,lvl2
+answer,Être emprisonnée sans jugement. [له محاکمې پرته بندي شي.],,0.0,
+answer,Être forcée de travailler. [کار کولو ته اړ ایستل کیږي.],,0.0,
+answer,Faire tout ce que la loi n'interdit pas. [هر هغه څه وکړئ چې قانون یې منع نه کوي.],,1.0,
+question,"Concernant la pratique de la religion, quelle proposition est correcte ? [د دین د عمل په اړه، کوم وړاندیز سم دی؟]",,,lvl2
+answer,L'État choisit les lieux de culte autorisés. [دولت د عبادت ځایونه غوره کوي.],,0.0,
+answer,Le port d'un signe religieux est interdit partout en France. [په فرانسه کې هر ځای د مذهبي سمبول اغوستل منع دي.],,0.0,
+answer,Chacun est libre de pratiquer sa religion dans les limites de l'ordre public. [هرڅوک د عامه نظم په حدودو کې د خپل مذهب په عمل کولو کې آزاد دي.],,1.0,
+question,"En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ? [د مور او پلار په توګه، ایا موږ کولی شو خپل ماشوم په ښوونځي کې د سپورت په ټولګیو کې له ګډون څخه انکار وکړو ځکه چې دوی مخلوط دي؟]",,,lvl2
+answer,"Oui, si l'établissement scolaire est privé. [هو، که ښوونځی خصوصي وي.]",,0.0,
+answer,"Oui, car la liberté religieuse le permet. [هو، ځکه چې مذهبي ازادي ورته اجازه ورکوي.]",,0.0,
+answer,"Non, car la mixité dans les cours de sport s’impose à tous au nom du principe d’égalité. [نه، ځکه چې د سپورت په ټولګیو کې ګډول د مساوات د اصولو په نوم د هرچا لپاره اړین دي.]",,1.0,
+question,Quels sont les trois principes qui composent la devise de la République française ? [کوم درې اصول دي چې د فرانسې د جمهوریت شعار جوړوي؟],,,lvl2
+answer,"Justice, Paix, Sûreté [عدالت، سوله، امنیت]",,0.0,
+answer,"Dignité, Solidarité, Progrès [وقار، پیوستون، پرمختګ]",,0.0,
+answer,"Liberté, Égalité, Fraternité [آزادي، مساوات، ورورولي]",,1.0,
+question,La répudiation de sa femme est : [د خپلې میرمنې ردول دا دي:],,,lvl2
+answer,Acceptée uniquement pour les mariages religieux. [یوازې د مذهبي ودونو لپاره منل کیږي.],,0.0,
+answer,Autorisée si elle est pratiquée à l'étranger. [اجازه ورکول کیږي که دا په بهر کې ترسره شي.],,0.0,
+answer,"Interdite et sanctionnée par la loi, le divorce étant le seul mode de rupture légal. [د قانون لخوا منع او مجازات شوی، طلاق د جلا کیدو یوازینۍ قانوني لاره ده.]",,1.0,
+question,Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ? [مالیات د عامه لګښتونو تمویل لپاره کارول کیږي. کوم وړاندیز سم دی؟],,,lvl2
+answer,Seuls les citoyens français doivent payer des impôts. [یوازې د فرانسې اتباع باید مالیه ورکړي.],,0.0,
+answer,Payer ses impôts est un choix personnel. [ستاسو مالیه ورکول یو شخصي انتخاب دی.],,0.0,
+answer,"Payer ses impôts est un devoir pour tous les résidents en France, selon leurs revenus. [په فرانسه کې د ټولو اوسیدونکو لپاره د دوی د عاید له مخې د مالیاتو ورکول یوه دنده ده.]",,1.0,
+question,Peut-on brûler publiquement un drapeau français ? [ایا موږ کولی شو په عامه توګه د فرانسې بیرغ وسوځوو؟],,,lvl2
+answer,"Oui, car la liberté d'expression le permet. [هو، ځکه چې د بیان آزادي ورته اجازه ورکوي.]",,0.0,
+answer,"Non, cela est considéré comme un outrage au symbole national. [نه، دا د ملي سمبول سپکاوی ګڼل کیږي.]",,1.0,
+answer,"Oui, sauf s'il est neuf. [هو، پرته لدې چې دا نوی وي.]",,0.0,
+question,Que fait l’État pour lutter contre les discriminations ? [دولت د تبعیض په وړاندې د مبارزې لپاره څه کوي؟],,,lvl2
+answer,Il met en place des lois pour autoriser certaines discriminations positives. [دا د ځانګړي مثبت تبعیض اجازه ورکولو لپاره قوانین پلي کوي.],,0.0,
+answer,"Il a créé des institutions comme le Défenseur des droits, et applique des sanctions pénales. [دې د حقونو د مدافع په څیر بنسټونه رامینځته کړي، او جنایي بندیزونه پلي کوي.]",,1.0,
+answer,"Il n'intervient pas, car c'est un problème privé. [هغه مداخله نه کوي، ځکه چې دا شخصي ستونزه ده.]",,0.0,
+question,Que représente Marianne ? [ماریان د څه شي استازیتوب کوي؟],,,lvl2
+answer,L'héroïne de la Révolution française de 1789. [د 1789 د فرانسې انقلاب اتل.],,0.0,
+answer,La figure symbolique de la République et de ses valeurs. [د جمهوریت او د هغې د ارزښتونو سمبولیک شخصیت.],,1.0,
+answer,Le nom de la première loi votée par le Parlement. [د پارلمان لخوا د لومړي قانون نوم منظور شو.],,0.0,
+question,Qu'est-ce que la liberté d'association ? [د اتحادیې ازادي څه ده؟],,,lvl2
+answer,Le droit de circuler librement dans toute l'Europe. [په ټوله اروپا کې په آزاده توګه د تګ راتګ حق.],,0.0,
+answer,Le droit de s'associer avec un parti politique. [د یو سیاسي ګوند سره د یوځای کیدو حق.],,0.0,
+answer,"Le droit de créer une association ou de s’y joindre, sans autorisation préalable. [پرته له مخکیني واک څخه د اتحادیې رامینځته کولو یا یوځای کیدو حق.]",,1.0,
+question,Qu'est-ce que la liberté ? [آزادي څه ده؟],,,lvl2
+answer,Le droit de faire tout ce qui est possible. [د هر هغه څه کولو حق چې امکان لري.],,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas à autrui. [د هر هغه څه کولو حق چې نورو ته زیان نه رسوي.],,1.0,
+answer,Le fait d'être exempté des impôts. [د مالیاتو څخه د معافیت حق.],,0.0,
+question,Qu'est-ce que la Marseillaise ? [لا مارسیلیز څه شی دی؟],,,lvl2
+answer,Le nom du drapeau français. [د فرانسې د بیرغ نوم.],,0.0,
+answer,L'hymne national français. [د فرانسې ملي سرود.],,1.0,
+answer,La devise de la République. [د جمهوریت شعار.],,0.0,
+question,Sur quel document peut-on voir Marianne ? [په کوم سند کې موږ ماریان لیدلی شو؟],,,lvl2
+answer,Les publicités pour le tourisme. [د سیاحت لپاره اعلانونه.],,0.0,
+answer,Les manuels scolaires uniquement. [یوازې درسي کتابونه.],,0.0,
+answer,"Les timbres, les pièces de monnaie et le logo officiel de la République. [ټاپې، سکې او د جمهوریت رسمي لوګو.]",,1.0,
+question,Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ? [یو کارګمارونکی په خپل شرکت کې د ښځو ګمارلو څخه انکار کوي. قانون څه وايي؟],,,lvl2
+answer,C'est autorisé s'il justifie que le travail est trop difficile. [دا اجازه لري که هغه دا توجیه کړي چې کار خورا ستونزمن دی.],,0.0,
+answer,"C'est interdit et constitue une discrimination, punie par la loi. [دا منع دی او تبعیض جوړوي، د قانون لخوا مجازات کیږي.]",,1.0,
+answer,C'est autorisé uniquement dans les très petites entreprises. [دا یوازې په خورا کوچنیو شرکتونو کې اجازه لري.],,0.0,
+question,Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ? [د جمهوري غوښتونکي شعار یو ارزښت مساوات دی. دا څه معنی ورکوي؟],,,lvl2
+answer,Les citoyens ont les mêmes opinions politiques. [اتباع هم همغه سیاسي نظرونه لري.],,0.0,
+answer,Tous les citoyens sont égaux devant la loi et la justice. [ټول اتباع د قانون او عدالت په وړاندې مساوي دي.],,1.0,
+answer,Les citoyens ont l'obligation de s'entraider. [اتباع مکلف دي چې یو له بل سره مرسته وکړي.],,0.0,
+question,Quelle est la place de la langue française dans la République ? [په جمهوریت کې د فرانسوي ژبې ځای څه دی؟],,,lvl2
+answer,Elle n'est utilisée que dans l'administration. [دا یوازې په اداره کې کارول کیږي.],,0.0,
+answer,Elle est une langue parmi d'autres. [دا د نورو په منځ کې یوه ژبه ده.],,0.0,
+answer,"Elle est la langue de l'enseignement, du travail et des services publics, et la seule officielle. [دا د زده کړې، کار او عامه خدماتو ژبه ده، او یوازینۍ رسمي ده.]",,1.0,
+question,Le régime de la France est : [د فرانسې رژیم دی:],,,lvl2
+answer,Une monarchie parlementaire. [یو پارلماني پاچاهي.],,0.0,
+answer,Un État fédéral. [یو فدرالي دولت.],,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. [یو نه جلا کیدونکی، سیکولر، دیموکراتیک او ټولنیز جمهوریت.]",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ? [ولې په ښوونځي کې د سیکولریزم اصولو ته باید درناوی وشي؟],,,lvl2
+answer,Pour que les élèves n'aient pas de religion. [ترڅو زده کونکي مذهب ونه لري.],,0.0,
+answer,Pour donner la priorité à la religion chrétienne. [مسیحي مذهب ته لومړیتوب ورکول.],,0.0,
+answer,"Pour garantir à tous les élèves la liberté de conscience et l'égalité, sans prosélytisme. [پرته له تبلیغ څخه ټولو زده کونکو ته د ضمیر او مساوات تضمین کول.]",,1.0,
+question,"À l'école publique, qui peut porter des signes religieux très visibles ? [په دولتي ښوونځي کې، څوک کولی شي ډیر څرګند مذهبي نښې واغوندي؟]",,,lvl2
+answer,Les élèves [زده کوونکي],,0.0,
+answer,Les usagers et parents (dans le cadre de leurs visites ou réunions). [کاروونکي او والدین (د دوی د لیدنو یا غونډو د یوې برخې په توګه).],,1.0,
+answer,Les enseignants [ښوونکي],,0.0,
+question,"Selon le principe de laïcité, que signifie la neutralité de l’État ? [د سیکولریزم د اصولو له مخې، د دولت بې طرفي څه معنی لري؟]",,,lvl2
+answer,L'État n'a aucune relation avec les citoyens. [دولت له اتباعو سره هیڅ تړاو نه لري.],,0.0,
+answer,L’État ne prend pas parti en faveur d'une religion ou contre une religion. [دولت د یو مذهب په ګټه یا د دین په خلاف اړخ نه اخلي.],,1.0,
+answer,L'État interdit toutes les religions. [دولت ټول مذهبونه منع کوي.],,0.0,
+question,Que peut faire un usager du service public dans une mairie ? [په ښاروالۍ کې د عامه خدماتو کاروونکي څه کولی شي؟],,,lvl2
+answer,Exiger que l'agent porte un signe religieux visible. [غوښتنه کوي چې اجنټ یو څرګند مذهبي نښه واغوندي.],,0.0,
+answer,"Être accueilli sans distinction d'origine, de religion ou de sexe. [د اصل، مذهب یا جنسیت له توپیر پرته ښه راغلاست.]",,1.0,
+answer,Exiger que l'agent parle uniquement une langue régionale. [غوښتنه کوي چې اجنټ یوازې په سیمه ایزه ژبه خبرې وکړي.],,0.0,
+question,Qui doit respecter le principe de neutralité religieuse dans une préfecture ? [په ولایت کې د مذهبي بې طرفۍ اصل باید څوک رعایت کړي؟],,,lvl2
+answer,Uniquement les usagers des services publics. [یوازې د عامه خدماتو کاروونکي.],,0.0,
+answer,Uniquement le préfet. [یوازې ولسمشر.],,0.0,
+answer,Tous les agents publics (fonctionnaires et contractuels). [ټول عامه اجنټان (رسمي او قراردادي).],,1.0,
+question,La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ? [ایا سیکولریزم عامه استازو ته اړتیا لري چې د کاروونکو په وړاندې بې طرفه وي؟],,,lvl2
+answer,"Non, seulement l'impartialité. [نه، یوازې بې پرېتوب.]",,0.0,
+answer,"Non, ils peuvent exprimer leurs convictions religieuses. [نه، دوی کولی شي خپل مذهبي عقیدې څرګند کړي.]",,0.0,
+answer,"Oui, afin de garantir l'égalité de traitement de tous les usagers. [هو، ترڅو د ټولو کاروونکو سره د مساوي چلند تضمین شي.]",,1.0,
+question,Que garantit le principe de laïcité ? [د سیکولریزم اصول څه تضمینوي؟],,,lvl2
+answer,Que l'État finance les Églises. [چې دولت کلیساګانې تمویلوي.],,0.0,
+answer,La suppression de toutes les religions. [د ټولو مذهبونو فشار.],,0.0,
+answer,La liberté de conscience et la neutralité de l'État envers toutes les religions et convictions. [د ټولو مذهبونو او عقیدو په وړاندې د ضمیر خپلواکي او د دولت بې طرفي.],,1.0,
+question,Que représente la laïcité ? [سیکولریزم څه شی څرګندوي؟],,,lvl2
+answer,L'union des religions sous l'autorité de l'État. [د دولت تر واک لاندې د مذهبونو اتحاد.],,0.0,
+answer,La séparation de l'État et des organisations religieuses. [د دولت او مذهبي سازمانونو جلا کول.],,1.0,
+answer,Un régime où une seule religion est dominante. [هغه رژیم چې یوازې یو مذهب غالب وي.],,0.0,
+question,Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ? [په ښوونځیو کې د سیکولریزم د منشور له مخې څه منع دي؟],,,lvl2
+answer,Les débats sur les questions religieuses ou philosophiques. [په مذهبي یا فلسفي مسلو بحثونه.],,0.0,
+answer,Les signes religieux discrets. [هوښیار مذهبي نښې.],,0.0,
+answer,Le prosélytisme et le port de signes religieux ostensibles par les élèves. [د زده کوونکو لخوا مذهبي تبلیغ او د ښکاره مذهبي نښو اغوستل.],,1.0,
+question,Que dit l'article 1er de la Constitution française ? [د فرانسې د اساسي قانون لومړۍ ماده څه وايي؟],,,lvl3
+answer,Que la France est une monarchie parlementaire. [چې فرانسه یو پارلماني پاچاهي ده.],,0.0,
+answer,"Que la France est une République indivisible, laïque, démocratique et sociale. [چې فرانسه یو نه جلا کیدونکی، سیکولر، دیموکراتیک او ټولنیز جمهوریت دی.]",,1.0,
+answer,Que la loi est l'expression de la volonté générale. [دا قانون د عمومي ارادې څرګندونه ده.],,0.0,
+question,Sur quoi est fondée la République française ? [د فرانسې جمهوریت پر څه ولاړ دی؟],,,lvl3
+answer,Sur des lois que tous doivent respecter [په هغو قوانینو کې چې ټول باید درناوی وکړي],,1.0,
+answer,Sur des traditions religieuses [په مذهبي دودونو باندې],,0.0,
+answer,Sur des coutumes orales [په شفاهي دودونو باندې],,0.0,
+question,"Qui a droit de concourir à la formation de la Loi, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د ۱۷۸۹ کال د بشري او تبعه د حقونو د اعلامیې د ۶مې مادې له مخې څوک د قانون په جوړولو کې د ګډون حق لري؟]",,,lvl3
+answer,Seuls les hommes riches [یوازې شتمن سړي],,0.0,
+answer,Les nobles et le clergé [اشراف او پادریان],,0.0,
+answer,"Tous les Citoyens, personnellement ou par représentants [ټول اتباع، شخصا یا د استازو لخوا]",,1.0,
+question,Que garantit l’article 9 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د ۱۷۸۹ کال د انسان او تبعه د حقونو د اعلامیې ۹مه ماده څه تضمین کوي؟],,,lvl3
+answer,L’égalité des sexes [د جنسیت مساوات],,0.0,
+answer,La liberté de commerce [د سوداګرۍ آزادي],,0.0,
+answer,La présomption d’innocence [د بې ګناهۍ انګیرنه],,1.0,
+question,Quel autre type de propos est interdit par la loi ? [کوم بل ډول بیان د قانون له مخې منع دی؟],,,lvl3
+answer,Débats scientifiques [علمي بحثونه],,0.0,
+answer,Provocations à la haine [کرکې ته پارول],,1.0,
+answer,Discours électoraux [ټاکنیزې ویناوې],,0.0,
+question,Quelle valeur essentielle de la République doit être respectée pour obtenir la nationalité française ? [د فرانسوي تابعیت ترلاسه کولو لپاره د جمهوریت کوم لازمي ارزښت باید درناوی وشي؟],,,lvl3
+answer,La liberté d’entreprendre [د سوداګرۍ آزادي],,0.0,
+answer,L’égalité entre les femmes et les hommes [د ښځو او نارینه وو ترمنځ مساوات],,1.0,
+answer,La supériorité d’une religion [د یو دین برتری],,0.0,
+question,"Que peuvent faire les citoyens, en plus de voter, selon la loi ? [قانون ته په کتو، د رایې ورکولو تر څنګ هیوادوال څه کولی شي؟]",,,lvl3
+answer,Être nommés juges [قاضیان وټاکل شي],,0.0,
+answer,Se présenter aux élections [ټاکنو ته کاندید شي],,1.0,
+answer,Modifier la Constitution [اساسي قانون تعدیل کړي],,0.0,
+question,"Comment la contribution commune doit-elle être répartie, selon l’article 13 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د 1789 د بشري او تبعه د حقونو د اعلامیې د 13 مادې سره سم باید ګډه مرسته څنګه وویشل شي؟]",,,lvl3
+answer,À parts égales entre tous [د ټولو تر منځ په مساوي برخو کې],,0.0,
+answer,En raison des facultés de chacun [د هرچا د وړتیا له امله],,1.0,
+answer,Uniquement entre les pauvres [یوازې د بې وزلو ترمنځ],,0.0,
+question,Quelles formes de liberté sont mentionnées à l’article 11 de la Déclaration de 1789 ? [د ۱۷۸۹ کال د اعلامیې په ۱۱مه ماده کې د آزادۍ کومې بڼې یادې شوې دي؟],,,lvl3
+answer,"Prier, se marier, travailler librement [په آزاده توګه دعا وکړئ، واده وکړئ، کار وکړئ]",,0.0,
+answer,"Parler, écrire, imprimer librement [په آزاده توګه خبرې وکړئ، ولیکئ، چاپ کړئ]",,1.0,
+answer,"Voyager, commercer, s’enrichir librement [سفر کول، تجارت کول، په وړیا توګه بډایه کول]",,0.0,
+question,Quel droit est proclamé par l’article 11 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د 1789 د بشري او تبعه د حقونو د اعلامیې د 11 مادې لخوا کوم حق اعلان شوی؟],,,lvl3
+answer,Le droit à la sécurité sociale [د ټولنیز امنیت حق],,0.0,
+answer,La libre communication des pensées et opinions [د افکارو او نظرونو وړیا اړیکه],,1.0,
+answer,Le droit à l’éducation gratuite [د وړیا زده کړې حق],,0.0,
+question,Sur quoi portent les règles collectives inscrites dans la loi ? [په قانون کې شامل ټولیز قواعد په څه پورې اړه لري؟],,,lvl3
+answer,Sur les traditions religieuses [د مذهبي دودونو په اړه],,0.0,
+answer,Sur les coutumes familiales [د کورنۍ دودونو په اړه],,0.0,
+answer,Sur la vie en société [په ټولنه کې د ژوند په اړه],,1.0,
+question,Quel symbole de la République est présent dans toutes les mairies ? [د جمهوریت کوم سمبول په ټولو ښاروالیو کې شتون لري؟],,,lvl3
+answer,L’arc de triomphe [د بریا محراب],,0.0,
+answer,Le coq gaulois [ګیلیک مرغ],,0.0,
+answer,La Marianne [ماریان],,1.0,
+question,Quelle date correspond à la prise de la Bastille par le peuple de Paris ? [کومه نیټه د پاریس د خلکو لخوا د باسټیل له نیولو سره سمون لري؟],,,lvl3
+answer,4 août 1789 [د ۱۷۸۹ کال د اګست ۴],,0.0,
+answer,14 juillet 1790 [د ۱۷۹۰ کال د جولای ۱۴],,0.0,
+answer,14 juillet 1789 [د ۱۷۸۹ کال د جولای ۱۴],,1.0,
+question,"Quelles sont des conditions d’accès aux emplois publics, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د ۱۷۸۹ کال د بشري او تبعه حقونو د اعلامیې د ۶مې مادې له مخې عامه دندو ته د لاسرسي شرایط څه دي؟]",,,lvl3
+answer,"La capacité, les vertus et les talents [وړتیا، فضیلت او استعدادونه]",,1.0,
+answer,L’appartenance religieuse [مذهبي تړاو],,0.0,
+answer,La naissance et la fortune [پیدائش او بخت],,0.0,
+question,Que permet l’article 14 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 en matière de contribution publique ? [د 1789 د بشري او تبعه د حقونو د اعلامیې 14 ماده د عامه ونډې په اړه څه اجازه ورکوي؟],,,lvl3
+answer,"En suivre l’emploi et en déterminer la quotité, l’assiette, le recouvrement et la durée [د کارولو تعقیب او د تناسب، اساس، بیا رغونې او مودې معلومول]",,1.0,
+answer,La déléguer uniquement au roi [دا یوازې پاچا ته واستوي],,0.0,
+answer,L’abolir définitivement [د تل لپاره یې لغوه کړئ],,0.0,
+question,Quel droit l’article 17 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 proclame-t-il inviolable et sacré ? [د ۱۷۸۹ کال د بشري او اتباعو د حقونو د اعلامیې اوولسمه ماده کوم حق نه سرغړونه او مقدس ګڼي؟],,,lvl3
+answer,La propriété [ملکیت],,1.0,
+answer,Le travail [کار],,0.0,
+answer,La liberté d’expression [د بیان آزادي],,0.0,
+question,Que crée l’article 12 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د ۱۷۸۹ د بشري او تبعه د حقونو د اعلامیې ۱۲ ماده څه رامینځته کوي؟],,,lvl3
+answer,Une armée privée au service du roi [یو خصوصي پوځ د پاچا په خدمت کې],,0.0,
+answer,Une force publique instituée pour l’avantage de tous [د ټولو په ګټه یو عامه ځواک رامینځته شوی],,1.0,
+answer,Une force religieuse au service de l’Église [د کلیسا په خدمت کې یو مذهبي ځواک],,0.0,
+question,Que protège l’article 10 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [د 1789 د بشري او تبعه د حقونو د اعلامیې 10 ماده څه ساتي؟],,,lvl3
+answer,Le droit de grève [د اعتصاب حق],,0.0,
+answer,"La liberté d’opinion, même religieuse [د بیان آزادي، حتی مذهبي]",,1.0,
+answer,Le droit d’héritage [د میراث حق],,0.0,
+question,Le vote en France est… [په فرانسه کې رایه ورکول دي ...],,,lvl3
+answer,Un privilège réservé [یو خوندي امتیاز],,0.0,
+answer,Une obligation [یو مکلفیت],,0.0,
+answer,Un droit [یو حق],,1.0,
+question,Qui est élu au suffrage universel en France ? [په فرانسه کې د عمومي رایو لخوا څوک ټاکل کیږي؟],,,lvl3
+answer,"Le Président, les parlementaires et les maires [ولسمشر، پارلماني غړي او ښاروالان]",,1.0,
+answer,Les juges et les préfets [قاضیان او والیان],,0.0,
+answer,Les recteurs et les ministres [رئیسان او وزیران],,0.0,
+question,La France condamne-t-elle toutes les discriminations possibles ? [ایا فرانسه ټول ممکنه تبعیضونه غندي؟],,,lvl3
+answer,"Oui, absolument toutes [هو، بالکل ټول]",,0.0,
+answer,"Oui, sauf celles dans le sport [هو، پرته په سپورت کې]",,0.0,
+answer,"Non, seulement celles fondées sur un motif prévu par la loi [نه، یوازې هغه چې د قانون لخوا چمتو شوي دلیل پراساس دي]",,1.0,
+question,Quels droits naturels et imprescriptibles sont cités à l’article 2 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [کوم طبیعي او نه منلو وړ حقونه د ۱۷۸۹ کال د بشري او تبعه د حقونو د اعلامیې په دویمه ماده کې ذکر شوي دي؟],,,lvl3
+answer,"Religion, famille, sécurité, logement [دین، کورنۍ، امنیت، کور]",,0.0,
+answer,"Liberté, propriété, sûreté, résistance à l’oppression [آزادي، ملکیت، خوندیتوب، د ظلم په وړاندې مقاومت]",,1.0,
+answer,"Égalité, fraternité, travail, solidarité [مساوات، ورورګلوي، کار، پیوستون]",,0.0,
+question,Un employeur peut-il refuser d’embaucher un salarié en raison de ses origines ? [ایا یو کارګمارونکی کولی شي د کارمند د اصلیت له امله د دندې څخه انکار وکړي؟],,,lvl3
+answer,"Oui, avec l’accord des syndicats [هو، د اتحادیې په موافقه]",,0.0,
+answer,"Oui, si l’entreprise est privée [هو، که شرکت شخصي وي]",,0.0,
+answer,"Non, c’est interdit [نه، دا منع دی]",,1.0,
+question,"Quelle condition supplémentaire est nécessaire pour voter, en plus d’avoir 18 ans? [د 18 کلنۍ برسیره، د رایې ورکولو لپاره کوم اضافي شرط اړین دی؟]",,,lvl3
+answer,Avoir un emploi [دنده ولرئ],,0.0,
+answer,Disposer de ses droits civils et politiques [خپلو مدني او سیاسي حقونو ته لاس رسی ولري],,1.0,
+answer,Payer des impôts [مالیه ورکړئ],,0.0,
+question,"À quelle époque a été composé l’hymne national, La Marseillaise? [ملي سرود، لا مارسیلیز په کوم وخت کې جوړ شو؟]",,,lvl3
+answer,À l’époque de la Révolution [د انقلاب په وخت کې],,1.0,
+answer,Au XXe siècle [په شلمه پیړۍ کې],,0.0,
+answer,Sous Louis XIV [د څوارلسم لویس لاندې],,0.0,
+question,Quelles libertés fondamentales sont garanties en France? [په فرانسه کې کومې اساسي ازادۍ تضمین شوي دي؟],,,lvl3
+answer,"Liberté de pensée, de croyance, de s’exprimer, de se réunir [د فکر ازادي، عقیده، بیان، غونډه]",,1.0,
+answer,Liberté de posséder un titre de noblesse [د شرافت لقب درلودلو ازادي],,0.0,
+answer,Liberté de commercer sans règles [پرته له مقرراتو د سوداګرۍ ازادي],,0.0,
+question,La liberté d'expression en France est... [په فرانسه کې د بیان ازادي ده...],,,lvl3
+answer,Un droit fondamental avec des limites [یو بنسټیز حق چې محدودیتونه لري],,1.0,
+answer,Un droit absolu sans limite [یو مطلق حق پرته له کوم محدودیت څخه],,0.0,
+answer,Non reconnue par la loi [د قانون له مخې نه دی منل شوی],,0.0,
+question,"Dans une République, au nom de qui gouvernent les dirigeants élus? [په یوه جمهوریت کې، ټاکل شوي مشران د چا په استازیتوب حکومت کوي؟]",,,lvl3
+answer,Au nom du président seul [یوازې د ولسمشر په استازیتوب],,0.0,
+answer,Au nom du peuple [د خلکو په استازیتوب],,1.0,
+answer,Au nom des partis politiques [د سیاسي ګوندونو په استازیتوب],,0.0,
+question,Dans quel but l'État peut-il restreindre le droit de manifester sa religion en public? [د کوم هدف لپاره دولت کولی شي په عامه توګه د خپل دین څرګندولو حق محدود کړي؟],,,lvl3
+answer,Pour empêcher toute croyance [د هر ډول عقیدې د مخنیوي لپاره],,0.0,
+answer,Pour favoriser une religion [د یو مذهب پلوي کول],,0.0,
+answer,Pour préserver l'ordre public [د عامه نظم د ساتلو لپاره],,1.0,
+question,Que doivent respecter tous les citoyen(ne)s en France? [په فرانسه کې ټول اتباع باید د څه درناوی وکړي؟],,,lvl3
+answer,Les lois et les règlements [قوانین او مقررات],,1.0,
+answer,Les traditions religieuses [مذهبي دودونه],,0.0,
+answer,Seulement les coutumes locales [یوازې محلي دودونه],,0.0,
+question,"Quelles bornes limitent l'exercice des droits naturels, selon l'article 4 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د 1789 د بشري او تبعه د حقونو د اعلامیې 4 مادې له مخې کوم محدودیتونه د طبیعي حقونو کارول محدودوي؟]",,,lvl3
+answer,Celles décidées par le gouvernement [هغه چې د حکومت لخوا پریکړه کیږي],,0.0,
+answer,Celles fixées par la Loi [هغه چې د قانون لخوا ټاکل شوي],,1.0,
+answer,Celles imposées par la religion [هغه چې د مذهب لخوا وضع شوي],,0.0,
+question,Quel code définit les règles essentielles applicables entre les personnes? [کوم کوډ د هغو کسانو ترمنځ د تطبیق وړ اړین قواعد تعریفوي؟],,,lvl3
+answer,Le code civil [مدني کوډ],,1.0,
+answer,Le code électoral [انتخاباتي قانون],,0.0,
+answer,Le code du travail [د کار قانون],,0.0,
+question,Que déclare l'article 16 de la Déclaration de 1789 à propos de la Constitution? [د 1789 اعالمیه 16 ماده د اساسي قانون په اړه څه وايي؟],,,lvl3
+answer,"Sans garantie des droits et séparation des pouvoirs, il n'y a pas de Constitution [د حقونو تضمین او د واکونو جلا کولو پرته، هیڅ اساسي قانون شتون نلري]",,1.0,
+answer,La Constitution émane du roi seul [اساسي قانون یوازې د پاچا څخه راځي],,0.0,
+answer,Toute société religieuse a automatiquement une Constitution [هره مذهبي ټولنه په اوتومات ډول اساسي قانون لري],,0.0,
+question,Quel site internet présente les principales règles et le fonctionnement des institutions? [کومه ویب پاڼه د بنسټونو اصلي قواعد او عملیات وړاندې کوي؟],,,lvl3
+answer,www.palais-elysee.fr [www.palais-elysee.fr],,0.0,
+answer,www.vie-publique.fr [www.vie-publique.fr],,1.0,
+answer,www.gouverbement.fr [www.gouverbement.fr],,0.0,
+question,Comment sont souvent regroupées les lois en France? [په فرانسه کې قوانین اکثرا څنګه ګروپ کیږي؟],,,lvl3
+answer,En brochures publicitaires [په اعلاناتو بروشرونو کې],,0.0,
+answer,En codes [په کوډونو کې],,1.0,
+answer,En magazines [په مجلو کې],,0.0,
+question,"Dans les années 1880, quelle liberté est garantie par une loi? [په 1880 لسیزه کې، د قانون لخوا کومه ازادي تضمین شوه؟]",,,lvl3
+answer,La liberté de commercer [د سوداګرۍ آزادي],,0.0,
+answer,La liberté de chasser [د ښکار آزادي],,0.0,
+answer,La liberté de la presse [د مطبوعاتو ازادي],,1.0,
+question,Que représentent les impôts et les cotisations sociales en France? [په فرانسه کې مالیه او ټولنیزې ونډې څه استازیتوب کوي؟],,,lvl3
+answer,Un moyen de récompenser les plus riches [د شتمنو انعام ورکولو یوه لاره],,0.0,
+answer,Une illustration de la fraternité [د ورورګلوۍ بیلګه],,1.0,
+answer,Une sanction contre les travailleurs [د کارګرانو پر ضد بندیز],,0.0,
+question,"Que peut défendre la Loi, selon l'article 5 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د ۱۷۸۹ کال د بشري او تبعه حقونو د اعلامیې د ۵مې مادې له مخې قانون د څه شی دفاع کولی شي؟]",,,lvl3
+answer,Les croyances religieuses [مذهبي عقیدې],,0.0,
+answer,Les actions nuisibles à la Société [د ټولنې لپاره زیان رسونکي عملونه],,1.0,
+answer,Les opinions politiques [سیاسي نظرونه],,0.0,
+question,De quelle époque date la Déclaration des Droits de l'Homme et du Citoyen? [د بشري او اتباعو د حقونو اعلامیه له کوم وخت څخه ده؟],,,lvl3
+answer,Du Moyen Âge [د منځنۍ دورې څخه],,0.0,
+answer,De la Révolution française de 1789 [د 1789 فرانسوي انقلاب],,1.0,
+answer,De la Seconde Guerre mondiale [دویمه نړیواله جګړه],,0.0,
+question,Quel système illustre le principe de fraternité depuis 1945? [کوم سیسټم د ۱۹۴۵ راهیسې د ورورګلوۍ اصول بیانوي؟],,,lvl3
+answer,L'armée nationale [ملي پوځ],,0.0,
+answer,Le système scolaire [د ښوونځي سیسټم],,0.0,
+answer,La sécurité sociale [ټولنیز امنیت],,1.0,
+question,Quelle règle a rappelé le Conseil constitutionnel en 2004? [د اساسي قانون شورا په 2004 کې کومه قاعده یاد کړه؟],,,lvl3
+answer,Les croyants ont priorité sur les lois de la République [مؤمنان د جمهوریت د قوانینو په پرتله لومړیتوب لري],,0.0,
+answer,Nul ne peut se prévaloir de ses croyances religieuses pour s'affranchir des règles communes [هیڅوک نشي کولی د عامو قوانینو څخه د ځان خلاصولو لپاره د خپلو مذهبي عقیدو څخه کار واخلي],,1.0,
+answer,Les religions décident des règles de vie publique [مذهبونه د عامه ژوند قواعد ټاکي],,0.0,
+question,Que vise l'interdiction prévue par la loi du 15 mars 2004? [د مارچ 15، 2004 قانون لخوا چمتو شوي ممانعت موخه څه ده؟],,,lvl3
+answer,Les signes ou tenues manifestant ostensiblement l'appartenance à une religion [نښې نښانې یا جامې چې په ښکاره توګه د مذهب سره تړاو لري],,1.0,
+answer,Toute forme de vêtement traditionnel [د دودیزو جامو هره بڼه],,0.0,
+answer,Les symboles discrets portés sous les vêtements [د جامو لاندې پټ شوي سمبولونه],,0.0,
+question,Qu'est-ce que l'État garantit en matière religieuse? [دیني چارو کې دولت څه تضمینوي؟],,,lvl3
+answer,La liberté religieuse [مذهبي آزادي],,1.0,
+answer,La supériorité de la religion majoritaire [د اکثریت مذهب لوړوالی],,0.0,
+answer,L'interdiction de changer de religion [د مذهب د بدلولو بندیز],,0.0,
+question,Quel type d'apologie est interdit dans le cadre de la liberté d'expression? [د بیان د ازادۍ په صورت کې د کوم ډول بخښنې ممانعت دی؟],,,lvl3
+answer,La Révolution française [د فرانسې انقلاب],,0.0,
+answer,Les découvertes scientifiques [علمي موندنې],,0.0,
+answer,Crimes contre l'humanité [د انسانیت پروړاندې جرمونه],,1.0,
+question,Que signifie le terme « ostensiblement » à propos des signes religieux à l'école? [په ښوونځیو کې د مذهبي سمبولونو په اړه «اوستینسیبل» اصطلاح څه معنی لري؟],,,lvl3
+answer,De manière trop visible [په خورا ښکاره ډول],,1.0,
+answer,De manière discrète [په احتیاط سره],,0.0,
+answer,De manière secrète [په پټه توګه],,0.0,
+question,"Dans quelles conditions peut-on être privé de sa propriété, selon l'article 17 de la Déclaration de 1789? [د ۱۷۸۹ کال د اعلامیې د ۱۷مې مادې له مخې په کومو شرایطو کې یو څوک له خپل ملکیت څخه محروم کیدای شي؟]",,,lvl3
+answer,Si la majorité des voisins le souhaite [که ډیری ګاونډیان دا غواړي],,0.0,
+answer,Si le roi le décide sans motif [که پاچا دا د دلیل پرته پریکړه وکړي],,0.0,
+answer,Si la nécessité publique l'exige et avec une juste et préalable indemnité [که عامه اړتیا ورته اړتیا ولري او د عادلانه او مخکینۍ جبران سره],,1.0,
+question,Que proclame l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د 1789 د بشري او تبعه د حقونو د اعلامیې 1 ماده څه اعلان کوي؟],,,lvl3
+answer,Tous les citoyens doivent payer des impôts [ټول اتباع باید مالیه ورکړي],,0.0,
+answer,La monarchie est le régime naturel [پاچاهي طبیعي نظام دی],,0.0,
+answer,Les hommes naissent et demeurent libres et égaux en droits [نارینه پیدا کیږي او په حقوقو کې آزاد او مساوي پاتې کیږي],,1.0,
+question,"Selon l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789, sur quoi peuvent être fondées les distinctions sociales? [د 1789 د بشري او تبعه د حقونو د اعلامیې د لومړۍ مادې پر بنسټ، ټولنیز توپیرونه په څه شی ولاړ دي؟]",,,lvl3
+answer,Sur la naissance [د زیږون په وخت کې],,0.0,
+answer,Sur l'utilité commune [په عامه کارونې],,1.0,
+answer,Sur la richesse [د شتمنۍ په اړه],,0.0,
+question,Pourquoi l'école doit-elle être neutre face aux religions? [ولې ښوونځي باید د مذهبونو په وړاندې بې طرفه وي؟],,,lvl3
+answer,Parce qu'elle n'accueille que des mineurs [ځکه چې دا یوازې کوچنيانو ته ښه راغلاست وايي],,0.0,
+answer,Parce que c'est une institution publique qui forme tous les citoyens [ځکه چې دا یو عامه اداره ده چې ټول اتباع روزي],,1.0,
+answer,Parce qu'elle dépend de l'Église [ځکه چې دا په کلیسا پورې اړه لري],,0.0,
+question,Quelle fête a eu lieu le 14 juillet 1790? [کوم جشن د جولای په 14، 1790 کې ترسره شو؟],,,lvl3
+answer,La fête des Vendanges [د انګورو د حاصلاتو جشن],,0.0,
+answer,La fête du Travail [د کار ورځ],,0.0,
+answer,La fête de la Fédération [د فدراسیون ورځ],,1.0,
+question,L'administration peut-elle refuser la nationalité française à une personne qui ne respecte pas l'égalité femmes-hommes? [ایا اداره کولی شي هغه چا ته د فرانسوي تابعیت ورکولو څخه انکار وکړي چې د ښځو او نارینه وو ترمنځ مساوات ته درناوی نه کوي؟],,,lvl3
+answer,"Non, sauf si la personne a commis un crime [نه، پرته لدې چې هغه کس جرم کړی وي]",,0.0,
+answer,"Oui, même si elle est mariée avec un(e) Français(e) [هو، حتی که هغې له یو فرانسوي سره واده کړی وي]",,1.0,
+answer,"Non, jamais [نه، هیڅکله]",,0.0,
+question,"En France, les personnes d'orientation sexuelle différente ont-elles moins de droits que les autres citoyens? [په فرانسه کې، ایا د مختلف جنسي تمایل لرونکي خلک د نورو اتباعو په پرتله لږ حقونه لري؟]",,,lvl3
+answer,"Oui, mais seulement en matière de mariage [هو، خو یوازې د واده په اړه]",,0.0,
+answer,"Oui, elles ont moins de droits [هو، دوی لږ حقونه لري]",,0.0,
+answer,"Non, elles ont les mêmes droits et les mêmes devoirs [نه، دوی ورته حقونه او ورته دندې لري]",,1.0,
+question,Que garantit l'article 7 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د 1789 د بشري او تبعه د حقونو د اعلامیې 7 ماده څه تضمین کوي؟],,,lvl3
+answer,La possibilité d'être emprisonné sans jugement [د قضاوت پرته د بندي کیدو امکان],,0.0,
+answer,La primauté de la police sur la justice [په عدالت کې د پولیسو لومړیتوب],,0.0,
+answer,Nul homme ne peut être arrêté ou détenu que selon la Loi [هیڅوک د قانون له مخې نشي نیول کیدی یا توقیف کیدی شي],,1.0,
+question,Quelle est l'une des raisons de l'interdiction des signes religieux ostensibles à l'école? [په ښوونځیو کې د ښکاره مذهبي نښو منع کولو یو لامل څه دی؟],,,lvl3
+answer,Protéger les mineurs contre les pressions de leurs camarades [د کوچنيانو ساتنه د دوی د ملګرو له فشارونو څخه],,1.0,
+answer,Favoriser une seule religion officielle [د یوازینی رسمي مذهب هڅول],,0.0,
+answer,Empêcher toute pratique religieuse dans la société [په ټولنه کې د هر ډول مذهبي عمل مخنیوی کول],,0.0,
+question,"Selon l'article 13 de la Déclaration de 1789, pourquoi une contribution commune est-elle indispensable? [د 1789 د اعلامیې د 13 مادې سره سم، ولې ګډه مرسته اړینه ده؟]",,,lvl3
+answer,Pour l'entretien de la force publique et les dépenses d'administration [د عامه ځواک ساتلو او د اداري لګښتونو لپاره],,1.0,
+answer,Pour les fêtes nationales [د ملي رخصتیو لپاره],,0.0,
+answer,Pour financer la noblesse [د شرافت تمویل لپاره],,0.0,
+question,Que garantit la République à ses citoyens? [جمهوریت خپلو اتباعو ته څه تضمین کوي؟],,,lvl3
+answer,"Le respect des principes de liberté, d'égalité et de fraternité [د آزادۍ، مساواتو او ورورګلوۍ اصولو ته درناوی]",,1.0,
+answer,La prospérité économique pour tous [د ټولو لپاره اقتصادي سوکالي],,0.0,
+answer,La supériorité d'une religion [د یو مذهب برتری],,0.0,
+question,"De quelle époque date le drapeau tricolore bleu, blanc, rouge? [آبي، سپین، سور درې رنګه بیرغ له کوم وخت څخه دی؟]",,,lvl3
+answer,De la Première Guerre mondiale [له لومړۍ نړیوالې جګړې څخه],,0.0,
+answer,De la Révolution française [د فرانسې له انقلاب څخه],,1.0,
+answer,De l'Empire napoléonien [د ناپلیونیک امپراتورۍ څخه],,0.0,
+question,Que condamne la France en matière de traitement entre personnes? [فرانسه د خلکو په وړاندې د چلند په اړه څه غندي؟],,,lvl3
+answer,Les préférences sportives [د سپورت غوره توبونه],,0.0,
+answer,Les différences de goût personnels [په شخصي خوند کې توپیرونه],,0.0,
+answer,Les discriminations fondées sur un motif prévu par la loi [تبعیض چې د قانون لخوا چمتو شوي اساس پراساس دی],,1.0,
+question,Que signifie le suffrage universel? [د عمومي رایې حق څه معنی لري؟],,,lvl3
+answer,"Tous les citoyens, hommes et femmes, peuvent voter [ټول اتباع، نارینه او ښځینه، کولی شي رایه ورکړي]",,1.0,
+answer,Seuls les contribuables peuvent voter [یوازې مالیه ورکوونکي کولی شي رایه ورکړي],,0.0,
+answer,Seuls les hommes peuvent voter [یوازې نارینه کولی شي رایه ورکړي],,0.0,
+question,"Comment s'appelle le fait de traiter moins favorablement une personne à cause de ses origines, de sa religion ou de son sexe? [د هغه چا سره د لږ مناسب چلند کولو عمل ته څه ویل کیږي چې د هغه د اصل، مذهب یا جنسیت له امله وي؟]",,,lvl3
+answer,Une discrimination [یو تبعیض],,1.0,
+answer,Une coutume professionnelle [د مسلکي رواج],,0.0,
+answer,Une préférence légale [د قانوني غوره توب],,0.0,
+question,La liberté d'expression est limitée afin de... [د بیان ازادي د دې لپاره محدوده ده ...],,,lvl3
+answer,Empêcher toute critique politique [د هر ډول سیاسي نیوکې مخه نیول],,0.0,
+answer,Protéger uniquement l'État [یوازې د دولت ساتنه],,0.0,
+answer,Respecter les droits des autres [د نورو حقونو ته درناوی],,1.0,
+question,Quelle limite fixe l'article 10 de la Déclaration de 1789 à la liberté d'opinion? [د 1789 کال اعلامیه په 10 ماده کې د بیان آزادۍ لپاره کوم حد ټاکي؟],,,lvl3
+answer,L'approbation du gouvernement [د حکومت تایید],,0.0,
+answer,Le respect des traditions religieuses [د مذهبي دودونو درناوی],,0.0,
+answer,Le respect de l'ordre public établi par la Loi [د قانون لخوا رامینځته شوي د عامه نظم درناوی],,1.0,
+question,L'avènement de la République française a été... [د فرانسې جمهوریت راتګ و ...],,,lvl3
+answer,Décidé par un seul dirigeant [د یوه مشر لخوا پریکړه شوې],,0.0,
+answer,Progressif et le fruit de plusieurs combats [پرمختللی او د څو جګړو پایله],,1.0,
+answer,Instantané et sans opposition [سمدستي او پرته له مخالفت],,0.0,
+question,Que prévoit la loi française concernant les femmes et les hommes? [فرانسوي قانون د ښځو او نارینه وو په اړه څه وايي؟],,,lvl3
+answer,Elle limite certains droits des femmes [دا د ښځو ځینې حقونه محدودوي],,0.0,
+answer,Elle donne plus de droits aux hommes [دا نارینه وو ته ډیر حقونه ورکوي],,0.0,
+answer,Elle leur accorde les mêmes droits [هغه دوی ته ورته حقونه ورکوي],,1.0,
+question,Comment se traduit la volonté de vivre ensemble des citoyens? [د اتباعو د یوځای ژوند کولو هیله څنګه منعکس کیږي؟],,,lvl3
+answer,Par la compétition entre eux [د دوی ترمنځ د سیالۍ له لارې],,0.0,
+answer,Par la solidarité entre eux [د دوی ترمنځ د پیوستون له لارې],,1.0,
+answer,Par l’isolement des individus [د افرادو د انزوا له لارې],,0.0,
+question,En quelle année la République française s'installe-t-elle de façon stable? [په کوم کال کې د فرانسې جمهوریت په ثبات سره تاسیس شو؟],,,lvl3
+answer,1875 [۱۸۷۵],,1.0,
+answer,1945 [۱۹۴۵],,0.0,
+answer,1789 [۱۷۸۹],,0.0,
+question,Quelles personnes contribuent aux cotisations sociales en France? ?) [کوم خلک په فرانسه کې په ټولنیزو ونډو کې مرسته کوي؟],,,lvl3
+answer,Seulement les salariés [یوازې کارمندان],,0.0,
+answer,Seulement l'État [یوازې دولت],,0.0,
+answer,"Employeurs, salariés et non-salariés [کارګمارونکي، کارمندان او غیر کارمندان]",,1.0,
+question,"Où réside le principe de toute souveraineté, selon l'article 3 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د 1789 د بشري او تبعه د حقونو د اعلامیې د دریمې مادې له مخې، د ټولو حاکمیت اصول چیرته دي؟]",,,lvl3
+answer,Dans le Roi [په پاچا کې],,0.0,
+answer,Dans la Nation [په ملت کې],,1.0,
+answer,Dans l'armée [په پوځ کې],,0.0,
+question,Qu'est-ce que le code pénal définit? ?) [د جزا قانون څه شی ټاکي؟],,,lvl3
+answer,Les règles de politesse en société [په ټولنه کې د اخلاقو اصول],,0.0,
+answer,Les infractions et les peines correspondantes [سرغړونې او د هغې اړوند جزاګانې],,1.0,
+answer,Les conditions de mariage [د واده شرایط],,0.0,
+question,Quel type de propos est interdit par la loi? [د قانون له مخې کوم ډول بیان منع دی؟],,,lvl3
+answer,Critiques littéraires [ادبي نیوکې],,0.0,
+answer,Opinions politiques différentes [مختلف سیاسي نظرونه],,0.0,
+answer,Injures et propos diffamatoires [سپکاوی او توهین کوونکی بیانونه],,1.0,
+question,Sur quoi repose la France selon le principe de fraternité? [د ورورګلوۍ د اصولو له مخې فرانسه په څه ولاړه ده؟],,,lvl3
+answer,Sur la supériorité d'une religion [د یو مذهب په برتري باندې],,0.0,
+answer,Sur la volonté de vivre ensemble des citoyens [د اتباعو د یوځای ژوند کولو په هیله],,1.0,
+answer,Sur l'autorité d'un seul chef [د یو واحد مشر په واک کې],,0.0,
+question,"Dans les années 1880, l'école publique devient... [په ۱۸۸۰ لسیزه کې، دولتي ښوونځي شو...]",,,lvl3
+answer,"Obligatoire, gratuite et laïque [لازمي، وړیا او سیکولر]",,1.0,
+answer,Payante pour les pauvres [د غریبانو لپاره د تادیې وړ],,0.0,
+answer,Réservée aux garçons [د هلکانو لپاره ځانګړی شوی],,0.0,
+question,"Que doit établir la Loi en matière de peines, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د 1789 د بشري او تبعه د حقونو د اعلامیې 8 ماده د جزا په اړه قانون څه باید رامینځته کړي؟]",,,lvl3
+answer,Les peines décidées par le roi [د پاچا لخوا پریکړه شوې جریمې],,0.0,
+answer,Les peines les plus sévères possibles [تر ټولو سختې ممکنه سزاګانې],,0.0,
+answer,Seulement des peines strictement nécessaires [یوازې په کلکه اړین جریمې],,1.0,
+question,À partir de quel âge peut-on voter en France? [تاسو د کوم عمر څخه په فرانسه کې رایه ورکولی شئ؟],,,lvl3
+answer,16 ans [۱۶ کاله],,0.0,
+answer,18 ans [۱۸ کاله],,1.0,
+answer,21 ans [۲۱ کاله],,0.0,
+question,"Quand peut-on être puni, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د ۱۷۸۹ کال د بشري او تبعه د حقونو د اعلامیې د اتمې مادې له مخې کله یو څوک مجازات کېدای شي؟]",,,lvl3
+answer,Même si aucune loi n'existait au moment des faits [حتی که د پیښې په وخت کې هیڅ قانون شتون نه درلود],,0.0,
+answer,Selon la volonté d'un supérieur [د یو مشر د غوښتنې له مخې],,0.0,
+answer,Uniquement en vertu d'une Loi établie et promulguée avant le délit [یوازې د جرم څخه مخکې د رامینځته شوي او نافذ شوي قانون لاندې],,1.0,
+question,Où peut-on consulter toutes les lois françaises en vigueur sur internet? [چیرته کولی شئ په انټرنیټ کې ټول نافذ فرانسوي قوانینو سره مشوره وکړئ؟],,,lvl3
+answer,Sur www.wikipedia.org [په www.wikipedia.org کې],,0.0,
+answer,Sur www.assemblee.fr [په www.assemblee.fr کې],,0.0,
+answer,Sur www.legifrance.gouv.fr [په www.legifrance.gouv.fr کې],,1.0,
+question,Quelle est la forme politique de la France? [د فرانسې سیاسي بڼه څه ده؟],,,lvl3
+answer,Une démocratie [یو ډیموکراسي],,1.0,
+answer,Une monarchie [یو پاچاهي],,0.0,
+answer,Une dictature [یو ډیکټاتور],,0.0,
+question,"Qu'est-ce que la Loi, selon l'article 6 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [قانون څه شی دی، د 1789 کال د انسان او تبعه د حقونو د اعلامیې د 6 مادې له مخې؟]",,,lvl3
+answer,La décision d'un chef [د مشر پریکړه],,0.0,
+answer,L'expression de la volonté générale [د عمومي ارادې څرګندونه],,1.0,
+answer,La tradition des ancêtres [د نیکونو دود],,0.0,
+question,Que proclame l'article 15 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [د 1789 د بشري او تبعه د حقونو د اعلامیې 15 ماده څه اعلان کوي؟],,,lvl3
+answer,La Société a le droit de demander compte à tout Agent public [ټولنه حق لري چې هر عامه مامور حساب ورکړي],,1.0,
+answer,Le roi contrôle seul les agents publics [یوازې پاچا د عامه استازو کنټرول لري],,0.0,
+answer,Les agents publics sont irresponsables [عامه کارمندان غیر مسؤل دي],,0.0,

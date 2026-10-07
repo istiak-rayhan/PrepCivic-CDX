@@ -1,0 +1,697 @@
+type,text,placeholder,is_correct,level
+question,Qui nomme le Premier ministre ? [Who appoints the Prime Minister?],,,lvl1
+answer,Le Président de l'Assemblée Nationale [The President of the National Assembly],,0.0,
+answer,Le Président du Sénat [The President of the Senate],,0.0,
+answer,Le Président de la République [The President of the Republic],,1.0,
+question,Le Parlement est composé : [Parliament is composed of:],,,lvl1
+answer,Du Président de la République et du Premier ministre [The President of the Republic and the Prime Minister],,0.0,
+answer,Du Gouvernement et du Conseil d'État [The Government and the Council of State],,0.0,
+answer,De l'Assemblée Nationale et du Sénat [The National Assembly and the Senate],,1.0,
+question,Qu'est-ce que le pouvoir exécutif ? Le pouvoir : [What is the executive power? The power:],,,lvl1
+answer,Qui fait les lois [That makes the laws],,0.0,
+answer,Qui juge et sanctionne les personnes [That judges and sanctions people],,0.0,
+answer,Qui met en œuvre les lois et conduit la politique de la Nation [That implements the laws and conducts the policy of the Nation],,1.0,
+question,Les dirigeants sont élus par les citoyens dans : [Leaders are elected by citizens in:],,,lvl1
+answer,Une dictature [A dictatorship],,0.0,
+answer,Une monarchie [A monarchy],,0.0,
+answer,Une démocratie [A democracy],,1.0,
+question,A-t-on le droit de ne pas respecter une loi ? [Do we have the right not to respect a law?],,,lvl1
+answer,"Oui, si la loi est ancienne. [Yes, if the law is old.]",,0.0,
+answer,"Oui, si l'on n'est pas d'accord avec la loi. [Yes, if one does not agree with the law.]",,0.0,
+answer,"Non, la loi s'applique à tous et doit être respectée . [No, the law applies to everyone and must be respected.]",,1.0,
+question,Qui doit respecter la loi ? [Who must respect the law?],,,lvl1
+answer,Uniquement les citoyens français. [Only French citizens.],,0.0,
+answer,Uniquement les fonctionnaires. [Only civil servants.],,0.0,
+answer,"Toutes les personnes résidant en France, y compris les visiteurs. [All persons residing in France, including visitors.]",,1.0,
+question,Quel est le rôle de l'autorité judiciaire ? [What is the role of the judicial authority?],,,lvl1
+answer,Faire la guerre et signer les traités internationaux. [To make war and sign international treaties.],,0.0,
+answer,Voter les lois. [To vote on laws.],,0.0,
+answer,Veiller au respect de la loi et sanctionner son non-respect. [To ensure respect for the law and sanction its non-respect.],,1.0,
+question,Quel pouvoir détient un juge ? Le pouvoir : [What power does a judge hold? The power:],,,lvl1
+answer,Exécutif [Executive],,0.0,
+answer,Législatif [Legislative],,0.0,
+answer,Judiciaire [Judicial],,1.0,
+question,L'autorité judiciaire est exercée par : [The judicial authority is exercised by:],,,lvl1
+answer,Le Gouvernement et les préfets. [The Government and the prefects.],,0.0,
+answer,Le Parlement et les maires. [The Parliament and the mayors.],,0.0,
+answer,Les magistrats (juges et procureurs).।) [Magistrates (judges and prosecutors).।)],,1.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ? [What happens if a minister does not respect the law?],,,lvl1
+answer,"Rien, car il est protégé par son statut. [Nothing, because he is protected by his status.]",,0.0,
+answer,Il est jugé par le Président de la République. [He is judged by the President of the Republic.],,0.0,
+answer,Il est jugé par la Cour de Justice de la République (CJR) ou les tribunaux ordinaires. ।) [He is judged by the Court of Justice of the Republic (CJR) or ordinary courts. ।)],,1.0,
+question,Qui est élu lors des élections législatives ? ?) [Who is elected during the legislative elections? ?)],,,lvl1
+answer,Le Président de la République [The President of the Republic],,0.0,
+answer,Les députés à l'Assemblée Nationale) [The deputies to the National Assembly)],,1.0,
+answer,Les maires et leurs conseillers municipaux [Mayors and their municipal councilors],,0.0,
+question,Combien de députés composent l’Assemblée nationale ? ?) [How many deputies make up the National Assembly? ?)],,,lvl1
+answer,Environ 350 [About 350],,0.0,
+answer,577 [577],,1.0,
+answer,Environ 700 [About 700],,0.0,
+question,Quand sont élus les sénateurs ? [When are senators elected?],,,lvl1
+answer,Au suffrage universel direct par tous les citoyens. [By direct universal suffrage by all citizens.],,0.0,
+answer,Lors des élections présidentielles. [During the presidential elections.],,0.0,
+answer,"Au suffrage universel indirect par les ""grands électeurs"" (élus locaux). ।) [By indirect universal suffrage by the ""grand electors"" (local elected officials). ।)]",,1.0,
+question,Qui est élu lors des élections municipales ? ?) [Who is elected during the municipal elections? ?)],,,lvl1
+answer,Les conseillers régionaux et départementaux [Regional and departmental councilors],,0.0,
+answer,Les maires et les conseillers municipaux [Mayors and municipal councilors],,1.0,
+answer,Les députés au Parlement européen [Members of the European Parliament],,0.0,
+question,Qui est élu lors des élections présidentielles ? [Who is elected during the presidential elections?],,,lvl1
+answer,Le Premier ministre [The Prime Minister],,0.0,
+answer,Le Président de la République [The President of the Republic],,1.0,
+answer,Le Président du Sénat [The President of the Senate],,0.0,
+question,À partir de quel âge a-t-on le droit de voter ? [From what age do we have the right to vote?],,,lvl1
+answer,21 ans [21 years old],,0.0,
+answer,16 ans [16 years old],,0.0,
+answer,18 ans [18 years old],,1.0,
+question,Pour combien de temps est élu le président de la République française ? [For how long is the President of the French Republic elected?],,,lvl1
+answer,7 ans [7 years],,0.0,
+answer,6 ans [6 years],,0.0,
+answer,5 ans [5 years],,1.0,
+question,Pour combien de temps sont élus les députés ? ?) [For how long are deputies elected? ?)],,,lvl1
+answer,7 ans [7 years],,0.0,
+answer,6 ans [6 years],,0.0,
+answer,5 ans [5 years],,1.0,
+question,Pour combien de temps sont élus les sénateurs ? [For how long are senators elected?],,,lvl1
+answer,5 ans [5 years],,0.0,
+answer,6 ans [6 years],,1.0,
+answer,7 ans [7 years],,0.0,
+question,Qui possède le pouvoir exécutif ? [Who holds the executive power?],,,lvl1
+answer,Le Parlement (Parlement) [The Parliament (Parliament)],,0.0,
+answer,Le Président de la République et le Gouvernement [The President of the Republic and the Government],,1.0,
+answer,La Cour de Cassation [The Court of Cassation],,0.0,
+question,Quelle condition est nécessaire pour voter aux élections ? [What condition is necessary to vote in elections?],,,lvl1
+answer,Être propriétaire d'un logement en France. [To own a home in France.],,0.0,
+answer,Être titulaire de la nationalité française depuis 10 ans. [To hold French nationality for 10 years.],,0.0,
+answer,Être âgé de 18 ans et être de nationalité française (pour la plupart des élections).।) [To be 18 years old and be of French nationality (for most elections).।)],,1.0,
+question,Qui peut voter aux élections en France ? [Who can vote in elections in France?],,,lvl1
+answer,Tous les résidents étrangers. [All foreign residents.],,0.0,
+answer,Tous les citoyens français majeurs (pour la plupart des élections).।) [All adult French citizens (for most elections).।)],,1.0,
+answer,Uniquement les hommes majeurs. [Only adult men.],,0.0,
+question,Que signifie « suffrage universel » ? ?) [What does "universal suffrage" mean? ?)],,,lvl1
+answer,Que seuls les hommes peuvent voter. [That only men can vote.],,0.0,
+answer,Que seuls les plus riches peuvent voter. [That only the richest can vote.],,0.0,
+answer,"Que tous les citoyens majeurs peuvent voter, sans distinction. [That all adult citizens can vote, without distinction.]",,1.0,
+question,"Concernant les partis politiques, quelle proposition est correcte ? [Concerning political parties, which statement is correct?]",,,lvl1
+answer,Ils sont interdits par la Constitution française. [They are banned by the French Constitution.],,0.0,
+answer,Un seul parti est autorisé par l'État. [Only one party is authorized by the State.],,0.0,
+answer,Ils sont libres de se créer et d'exercer leur activité dans le respect de la loi. [They are free to form and carry out their activities in compliance with the law.],,1.0,
+question,Quel est le rôle des députés ? ?) [What is the role of deputies? ?)],,,lvl1
+answer,Exécuter les lois et gérer l'administration. [To execute the laws and manage the administration.],,0.0,
+answer,Voter les lois et contrôler l'action du Gouvernement. [To vote on laws and control the action of the Government.],,1.0,
+answer,Juger les crimes et délits. [To judge crimes and misdemeanors.],,0.0,
+question,La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ? [The separation of powers is a fundamental principle. What are the three powers concerned?],,,lvl1
+answer,"Le pouvoir militaire, le pouvoir civil, le pouvoir religieux. [Military power, civil power, religious power.]",,0.0,
+answer,"Le pouvoir exécutif, le pouvoir législatif, le pouvoir judiciaire. [Executive power, legislative power, judicial power.]",,1.0,
+answer,"Le pouvoir national, le pouvoir régional, le pouvoir local. [National power, regional power, local power.]",,0.0,
+question,Qui possède le pouvoir législatif ? [Who holds the legislative power?],,,lvl1
+answer,Le Président de la République [The President of the Republic],,0.0,
+answer,Le Parlement (Assemblée Nationale et Sénat)) [The Parliament (National Assembly and Senate))],,1.0,
+answer,Les juges [The judges],,0.0,
+question,Qui sanctionne l'auteur d'un vol ? [Who sanctions the author of a theft?],,,lvl1
+answer,Le préfet [The prefect],,0.0,
+answer,Le maire [The mayor],,0.0,
+answer,L'autorité judiciaire (les tribunaux).।) [The judicial authority (the courts).।)],,1.0,
+question,Qui élit les députés ? ?) [Who elects the deputies? ?)],,,lvl1
+answer,Le Président de la République [The President of the Republic],,0.0,
+answer,"Les ""grands électeurs"" [The ""grand electors""]",,0.0,
+answer,Les citoyens français par vote direct. [French citizens by direct vote.],,1.0,
+question,Qui vote les lois ? [Who votes on laws?],,,lvl1
+answer,Le Gouvernement [The Government],,0.0,
+answer,Le Parlement (Assemblée Nationale et Sénat)) [The Parliament (National Assembly and Senate))],,1.0,
+answer,Le Conseil d'État [The Council of State],,0.0,
+question,Qui réside au palais de l'Élysée ? ?) [Who resides at the Élysée Palace? ?)],,,lvl1
+answer,Le Premier ministre [The Prime Minister],,0.0,
+answer,Le Président de la République [The President of the Republic],,1.0,
+answer,Le Président de l'Assemblée Nationale [The President of the National Assembly],,0.0,
+question,Combien y a-t-il de départements en France ? ?) [How many departments are there in France? ?)],,,lvl1
+answer,Environ 50 [About 50],,0.0,
+answer,101 (96 en métropole et 5 en Outre-mer au 1er janvier 2025).।) [101 (96 in mainland France and 5 overseas as of January 1, 2025).।)],,1.0,
+answer,Environ 150 [About 150],,0.0,
+question,Qui représente l'État dans un département ? ?) [Who represents the State in a department? ?)],,,lvl1
+answer,Le Président du Conseil départemental [The President of the Departmental Council],,0.0,
+answer,Le Préfet [The Prefect],,1.0,
+answer,Le Président de la Région [The President of the Region],,0.0,
+question,Qui dirige la commune ? ?) [Who runs the municipality? ?)],,,lvl1
+answer,Le Préfet [The Prefect],,0.0,
+answer,Le Maire (et le Conseil Municipal)) [The Mayor (and the Municipal Council))],,1.0,
+answer,Le Président de la Région [The President of the Region],,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ? [Does the President of the Republic have all powers?],,,lvl1
+answer,"Oui, il détient tous les pouvoirs exécutifs et législatifs. [Yes, he holds all executive and legislative powers.]",,0.0,
+answer,"Non, les pouvoirs sont séparés entre l'Exécutif, le Législatif et le Judiciaire. [No, powers are separated between the Executive, Legislative, and Judicial.]",,1.0,
+answer,"Oui, car il est le chef des armées. [Yes, because he is the commander-in-chief of the armed forces.]",,0.0,
+question,Qui est le préfet ? [Who is the prefect?],,,lvl1
+answer,L'élu local chargé de l'urbanisme. [The local elected official in charge of urban planning.],,0.0,
+answer,Le représentant de l'État dans un département ou une région. [The State representative in a department or region.],,1.0,
+answer,Le chef de la police municipale. [The head of the municipal police.],,0.0,
+question,Quel est le rôle du Parlement ? [What is the role of the Parliament?],,,lvl1
+answer,Diriger le pays et appliquer les lois. [To lead the country and apply the laws.],,0.0,
+answer,"Voter les lois, contrôler l'action du Gouvernement et évaluer les politiques publiques. [To vote on laws, control the Government's action, and evaluate public policies.]",,1.0,
+answer,Juger les crimes et délits les plus graves. [To judge the most serious crimes and misdemeanors.],,0.0,
+question,Quel est le régime politique de la France aujourd'hui ? [What is the political regime of France today?],,,lvl1
+answer,Une monarchie constitutionnelle [A constitutional monarchy],,0.0,
+answer,Une République démocratique [A democratic Republic],,1.0,
+answer,Une fédération de régions [A federation of regions],,0.0,
+question,Combien d'États font partie de l'Union européenne au 1er janvier 2025 ? [How many states are part of the European Union as of January 1, 2025?],,,lvl1
+answer,26 [26],,0.0,
+answer,27 [27],,1.0,
+answer,28 [28],,0.0,
+question,Quel État n'est pas membre de l'Union européenne ? [Which state is not a member of the European Union?],,,lvl1
+answer,L'Allemagne [Germany],,0.0,
+answer,L'Espagne [Spain],,0.0,
+answer,La Suisse [Switzerland],,1.0,
+question,Quelle condition est nécessaire pour voter aux élections européennes ? ?) [What condition is necessary to vote in European elections? ?)],,,lvl1
+answer,Être titulaire d'une carte de résident. ।) [To hold a resident card. ।)],,0.0,
+answer,Être citoyen français ou citoyen d'un autre État membre de l'Union européenne résidant en France. [To be a French citizen or a citizen of another European Union member state residing in France.],,1.0,
+answer,Avoir plus de 25 ans. [To be over 25 years old.],,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ? [How often are European elections held?],,,lvl1
+answer,Tous les 4 ans [Every 4 years],,0.0,
+answer,Tous les 5 ans [Every 5 years],,1.0,
+answer,Tous les 7 ans [Every 7 years],,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ? [Which country is a founding member of the European Union?],,,lvl1
+answer,La Pologne [Poland],,0.0,
+answer,L'Allemagne [Germany],,1.0,
+answer,L'Espagne [Spain],,0.0,
+question,Quelle est la monnaie utilisée en France ? [What is the currency used in France?],,,lvl1
+answer,Le Franc [The Franc],,0.0,
+answer,L'Euro [The Euro],,1.0,
+answer,Le Dollar [The Dollar],,0.0,
+question,Qui élit les députés européens ? ?) [Who elects the Members of the European Parliament? ?)],,,lvl1
+answer,Les parlements nationaux. [National parliaments.],,0.0,
+answer,Les citoyens européens par vote direct. [European citizens by direct vote.],,1.0,
+answer,Le Conseil européen [The European Council],,0.0,
+question,Quand célèbre-t-on la journée de l'Europe ? [When is Europe Day celebrated?],,,lvl1
+answer,Le 1er janvier [January 1st],,0.0,
+answer,Le 14 juillet [July 14th],,0.0,
+answer,Le 9 mai [May 9th],,1.0,
+question,Qu'est-ce que l'État de droit ? ?) [What is the rule of law? ?)],,,lvl2
+answer,Un État dirigé par un monarque. [A state ruled by a monarch.],,0.0,
+answer,Un État où le chef a tous les pouvoirs. [A state where the leader has all powers.],,0.0,
+answer,Un État dans lequel la puissance publique est soumise au droit (à la loi). ।) [A state in which public power is subject to the law (to the rule of law). ।)],,1.0,
+question,Le président de la République a commis un crime. Quelle proposition est correcte ? [The President of the Republic has committed a crime. Which statement is correct?],,,lvl2
+answer,Il bénéficie d'une immunité totale à vie. [He benefits from total immunity for life.],,0.0,
+answer,Il peut être jugé par une juridiction spéciale pour les actes commis en dehors de ses fonctions. [He can be judged by a special court for acts committed outside his duties.],,1.0,
+answer,Seul le Parlement peut le juger. [Only Parliament can judge him.],,0.0,
+question,La loi est l'expression de : [The law is the expression of:],,,lvl2
+answer,La volonté du Gouvernement. [The will of the Government.],,0.0,
+answer,La volonté du Président de la République. [The will of the President of the Republic.],,0.0,
+answer,La volonté générale (du peuple).।) [The general will (of the people).।)],,1.0,
+question,Quelle est la durée du mandat du conseil municipal et du maire ? [What is the term length for the municipal council and the mayor?],,,lvl2
+answer,5 ans [5 years],,0.0,
+answer,6 ans [6 years],,1.0,
+answer,7 ans [7 years],,0.0,
+question,Que garantit l’État de droit ? ?) [What does the rule of law guarantee? ?)],,,lvl2
+answer,Que les lois peuvent changer sans contrôle. [That laws can change without control.],,0.0,
+answer,Que l'administration est au-dessus des lois. [That the administration is above the laws.],,0.0,
+answer,Que tous (citoyens et pouvoirs publics) sont soumis au respect du droit et de la loi. ।) [That everyone (citizens and public authorities) is subject to respect for the law. ।)],,1.0,
+question,Une personne peut-elle voter à la place d'une autre ? [Can one person vote in place of another?],,,lvl2
+answer,"Oui, si elle présente la carte d'identité de l'autre personne. [Yes, if they present the other person's ID card.]",,0.0,
+answer,"Non, le vote est personnel, sauf en cas de procuration dans les conditions fixées par la loi. ।) [No, voting is personal, except in case of proxy under the conditions set by law. ।)]",,1.0,
+answer,"Oui, si la personne qui vote est de la même famille. [Yes, if the person voting is from the same family.]",,0.0,
+question,Est-ce que le vote est obligatoire ? [Is voting mandatory?],,,lvl2
+answer,"Non, le vote est un droit et une liberté, mais il n'est pas obligatoire en France. [No, voting is a right and a freedom, but it is not mandatory in France.]",,1.0,
+answer,"Oui, il est obligatoire pour tous les citoyens de plus de 18 ans. [Yes, it is mandatory for all citizens over 18.]",,0.0,
+answer,"Oui, sauf pour les élections européennes. [Yes, except for European elections.]",,0.0,
+question,"À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ? [At the end of his term, can the President of the Republic decide to stay in power?]",,,lvl2
+answer,"Oui, s'il a le soutien du Gouvernement. [Yes, if he has the support of the Government.]",,0.0,
+answer,"Non, il doit se représenter et être réélu par les citoyens. [No, he must run again and be re-elected by the citizens.]",,1.0,
+answer,"Oui, en cas de crise nationale grave. [Yes, in the event of a severe national crisis.]",,0.0,
+question,Qui dirige l'action du Gouvernement ? [Who directs the action of the Government?],,,lvl2
+answer,Le Président de l'Assemblée Nationale [The President of the National Assembly],,0.0,
+answer,Le Premier ministre [The Prime Minister],,1.0,
+answer,Le Président de la République [The President of the Republic],,0.0,
+question,Quelle est l'organisation administrative de la France ? [What is the administrative organization of France?],,,lvl2
+answer,Un État fédéral [A federal state],,0.0,
+answer,"Un État unitaire décentralisé (Communes, Départements, Régions).।) [A decentralized unitary state (Municipalities, Departments, Regions).।)]",,1.0,
+answer,Une confédération d'États [A confederation of states],,0.0,
+question,Pourquoi séparer les trois pouvoirs dans une démocratie ? [Why separate the three powers in a democracy?],,,lvl2
+answer,Pour simplifier le travail du Gouvernement. [To simplify the work of the Government.],,0.0,
+answer,Pour donner plus d'autorité au Président. [To give more authority to the President.],,0.0,
+answer,Pour éviter l'abus de pouvoir et garantir les libertés des citoyens. [To prevent abuse of power and guarantee the freedoms of citizens.],,1.0,
+question,Quel est le rôle du gouvernement ? [What is the role of the government?],,,lvl2
+answer,Voter les lois et contrôler le Parlement. [To vote on laws and control the Parliament.],,0.0,
+answer,Conduire la politique de la Nation et appliquer les lois votées par le Parlement. [To conduct national policy and apply the laws passed by Parliament.],,1.0,
+answer,Juger les crimes et les délits. [To judge crimes and misdemeanors.],,0.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ? [What happens if a minister does not respect the law?],,,lvl2
+answer,Il démissionne sans conséquence judiciaire. [He resigns without judicial consequences.],,0.0,
+answer,Il est jugé par la Cour de Justice de la République (CJR) pour les actes commis dans l’exercice de ses fonctions. ।) [He is judged by the Court of Justice of the Republic (CJR) for acts committed in the exercise of his functions. ।)],,1.0,
+answer,Il est jugé par le Premier ministre. [He is judged by the Prime Minister.],,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ? [Does the President of the Republic have all powers?],,,lvl2
+answer,"Oui, il est le chef de l'État et du Gouvernement. [Yes, he is the Head of State and Government.]",,0.0,
+answer,"Non, le pouvoir est séparé entre trois organes (Exécutif, Législatif, Judiciaire).।) [No, power is separated among three bodies (Executive, Legislative, Judicial).।)]",,1.0,
+answer,"Oui, pendant les cinq ans de son mandat. [Yes, during his five-year term.]",,0.0,
+question,Qui est le préfet ? [Who is the prefect?],,,lvl2
+answer,L'élu à la tête du Conseil départemental. [The elected official heading the Departmental Council.],,0.0,
+answer,Le chef de la police nationale. [The head of the national police.],,0.0,
+answer,Le représentant de l'État dans une région ou un département. [The State representative in a region or a department.],,1.0,
+question,Quelle condition est nécessaire pour voter aux élections ? [What condition is necessary to vote in elections?],,,lvl2
+answer,Avoir plus de 21 ans. [To be over 21 years old.],,0.0,
+answer,Être majeur (18 ans) et de nationalité française. ।) [To be of age (18 years old) and of French nationality. ।)],,1.0,
+answer,Résider en France depuis au moins 5 ans. [To have resided in France for at least 5 years.],,0.0,
+question,Qu'est-ce que l'Hôtel de Matignon ? ?) [What is the Hôtel de Matignon? ?)],,,lvl2
+answer,La résidence officielle du Président de la République. [The official residence of the President of the Republic.],,0.0,
+answer,La résidence officielle et le bureau du Premier ministre. [The official residence and office of the Prime Minister.],,1.0,
+answer,Le siège de l'Assemblée Nationale. [The seat of the National Assembly.],,0.0,
+question,Le Parlement est composé : [Parliament is composed of:],,,lvl2
+answer,Du Président de la République et du Premier ministre. [The President of the Republic and the Prime Minister.],,0.0,
+answer,Du Conseil d'État et de la Cour de Cassation. [The Council of State and the Court of Cassation.],,0.0,
+answer,De l'Assemblée Nationale et du Sénat. [The National Assembly and the Senate.],,1.0,
+question,Quel est le rôle du président de la République ? [What is the role of the President of the Republic?],,,lvl2
+answer,Appliquer les lois et gérer le budget. [To apply laws and manage the budget.],,0.0,
+answer,Garantir le bon fonctionnement des institutions et l'indépendance nationale. [To guarantee the proper functioning of institutions and national independence.],,1.0,
+answer,Juger les crimes et délits. [To judge crimes and misdemeanors.],,0.0,
+question,Quel est le rôle du Premier ministre ? [What is the role of the Prime Minister?],,,lvl2
+answer,"Diriger l'action du Gouvernement, responsable devant le Parlement. [To direct the action of the Government, responsible to Parliament.]",,1.0,
+answer,Représenter la France dans le monde. [To represent France in the world.],,0.0,
+answer,Contrôler les juges. [To control the judges.],,0.0,
+question,Qui est le chef du Gouvernement ? [Who is the head of the Government?],,,lvl2
+answer,Le Président de la République [The President of the Republic],,0.0,
+answer,Le Premier ministre [The Prime Minister],,1.0,
+answer,Le Président de la Région [The President of the Region],,0.0,
+question,Combien y a-t-il de régions en France ? ?) [How many regions are there in France? ?)],,,lvl2
+answer,18 (13 en métropole et 5 en Outre-mer).।) [18 (13 in mainland France and 5 overseas).।)],,1.0,
+answer,22 [22],,0.0,
+answer,96 [96],,0.0,
+question,Quel est le rôle du Défenseur des droits ? [What is the role of the Defender of Rights?],,,lvl2
+answer,Défendre le territoire national. [To defend the national territory.],,0.0,
+answer,Veiller au respect des droits et libertés par les administrations et lutter contre les discriminations. [To ensure respect for rights and freedoms by administrations and to fight against discrimination.],,1.0,
+answer,Rédiger les projets de loi du Gouvernement. [To draft the Government's bills.],,0.0,
+question,Depuis quand l'euro est-elle la monnaie unique ? [Since when has the euro been the single currency?],,,lvl2
+answer,1999 [1999],,0.0,
+answer,2002 [2002],,1.0,
+answer,2007 [2007],,0.0,
+question,Quel est le rôle principal du département ? ?) [What is the main role of the department? ?)],,,lvl2
+answer,La défense nationale et la diplomatie. [National defense and diplomacy.],,0.0,
+answer,"L’action sociale, la gestion des collèges et des routes départementales. [Social action, management of middle schools and departmental roads.]",,1.0,
+answer,La politique étrangère et la monnaie. [Foreign policy and currency.],,0.0,
+question,Quel est le rôle principal des communes ? ?) [What is the main role of municipalities? ?)],,,lvl2
+answer,L'enseignement supérieur et la défense nationale. [Higher education and national defense.],,0.0,
+answer,"L’état civil, l’urbanisme local et la gestion des écoles maternelles et primaires. [Civil registration, local urban planning, and management of nursery and primary schools.]",,1.0,
+answer,La politique étrangère et la monnaie. [Foreign policy and currency.],,0.0,
+question,Combien de communes environ existe-t-il en France ? ?) [Approximately how many municipalities exist in France? ?)],,,lvl2
+answer,Environ 5 000 [Around 5,000],,0.0,
+answer,Environ 15 000 [Around 15,000],,0.0,
+answer,Plus de 34 000 [More than 34,000],,1.0,
+question,Quel traité concerne la construction de l'Union européenne ? [Which treaty concerns the construction of the European Union?],,,lvl2
+answer,Le traité de Versailles [The Treaty of Versailles],,0.0,
+answer,Le traité de Paris [The Treaty of Paris],,0.0,
+answer,Le traité de Rome (signé en 1957).।) [The Treaty of Rome (signed in 1957).।)],,1.0,
+question,Quel État a quitté l'Union européenne en 2020 ? [Which state left the European Union in 2020?],,,lvl2
+answer,La Norvège [Norway],,0.0,
+answer,Le Royaume-Uni [The United Kingdom],,1.0,
+answer,La Suisse [Switzerland],,0.0,
+question,Quelle est la devise de l’Union européenne ? [What is the motto of the European Union?],,,lvl2
+answer,"Liberté, Égalité, Fraternité [Liberty, Equality, Fraternity]",,0.0,
+answer,Unie dans la diversité [United in diversity],,1.0,
+answer,Paix et Prospérité [Peace and Prosperity],,0.0,
+question,Quel est l'hymne de l'Union européenne ? [What is the anthem of the European Union?],,,lvl2
+answer,L'Ode à la joie (composée par Beethoven). [Ode to Joy (composed by Beethoven).],,1.0,
+answer,La Marseillaise [La Marseillaise],,0.0,
+answer,Le Chant du départ [Le Chant du départ],,0.0,
+question,De quoi est composé le drapeau européen ? [What is the European flag made of?],,,lvl2
+answer,Un cercle de 27 étoiles de couleurs différentes. [A circle of 27 stars of different colors.],,0.0,
+answer,Un cercle de 12 étoiles dorées sur fond bleu. [A circle of 12 golden stars on a blue background.],,1.0,
+answer,Un aigle impérial et des étoiles. [An imperial eagle and stars.],,0.0,
+question,De quelle couleur est le drapeau européen ? [What color is the European flag?],,,lvl2
+answer,Vert et blanc [Green and white],,0.0,
+answer,Rouge et or [Red and gold],,0.0,
+answer,Bleu et or (ou jaune).।) [Blue and gold (or yellow).।)],,1.0,
+question,"En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-elle été signé ?, , ?) [In what year was the Maastricht Treaty, which marks the foundation of the European Union, signed?, , ?)]",,,lvl2
+answer,1957 [1957],,0.0,
+answer,1989 [1989],,0.0,
+answer,1992 [1992],,1.0,
+question,Où est le siège du Parlement européen ? [Where is the seat of the European Parliament?],,,lvl2
+answer,Bruxelles [Brussels],,0.0,
+answer,Strasbourg [Strasbourg],,1.0,
+answer,Berlin [Berlin],,0.0,
+question,Où est le siège de la Commission européenne ? [Where is the seat of the European Commission?],,,lvl2
+answer,Strasbourg [Strasbourg],,0.0,
+answer,Bruxelles [Brussels],,1.0,
+answer,Luxembourg [Luxembourg],,0.0,
+question,Quel État n'est pas membre de l'Union européenne ? [Which state is not a member of the European Union?],,,lvl2
+answer,L'Autriche [Austria],,0.0,
+answer,La Norvège [Norway],,1.0,
+answer,La Pologne [Poland],,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ? [How often are European elections held?],,,lvl2
+answer,Tous les 4 ans [Every 4 years],,0.0,
+answer,Tous les 5 ans [Every 5 years],,1.0,
+answer,Tous les 6 ans [Every 6 years],,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ? [Which country is a founding member of the European Union?],,,lvl2
+answer,L'Irlande [Ireland],,0.0,
+answer,L'Italie [Italy],,1.0,
+answer,La Grèce [Greece],,0.0,
+question,Dans combien de pays le français est-il parlé? [In how many countries is French spoken?],,,lvl3
+answer,27 [27],,0.0,
+answer,18 [18],,0.0,
+answer,70 [70],,1.0,
+question,Que comprend l’état civil tenu par les communes? ?) [What does the civil registry kept by municipalities include? ?)],,,lvl3
+answer,"Les naissances, mariages et décès [Births, marriages and deaths]",,1.0,
+answer,Les résultats électoraux [Election results],,0.0,
+answer,Les jugements judiciaires [Judicial rulings],,0.0,
+question,Les Terres australes et antarctiques françaises sont… [The French Southern and Antarctic Lands are…],,,lvl3
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+answer,Une «commune d’outre-mer» [An "overseas municipality"],,0.0,
+question,Quelle est la durée du mandat des sénateurs en France? [What is the term of office for senators in France?],,,lvl3
+answer,7 ans [7 years],,0.0,
+answer,6 ans [6 years],,1.0,
+answer,5 ans [5 years],,0.0,
+question,Qui est responsable des collèges? [Who is responsible for middle schools?],,,lvl3
+answer,La commune [The municipality],,0.0,
+answer,Le département [The department],,1.0,
+answer,La région [The region],,0.0,
+question,Qui administre une région en France? ?) [Who administers a region in France? ?)],,,lvl3
+answer,Le conseil départemental [The departmental council],,0.0,
+answer,Le conseil régional [The regional council],,1.0,
+answer,Le préfet [The prefect],,0.0,
+question,Quelle est la capitale de la région Hauts-de-France? ?) [What is the capital of the Hauts-de-France region? ?)],,,lvl3
+answer,Arras [Arras],,0.0,
+answer,Amiens [Amiens],,0.0,
+answer,Lille [Lille],,1.0,
+question,Mayotte est… ...) [Mayotte is… ...)],,,lvl3
+answer,Un conseil d’outre-mer [An overseas council],,0.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,1.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,0.0,
+question,Saint-Martin est… ...) [Saint-Martin is… ...)],,,lvl3
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+answer,Un conseil d’outre-mer [An overseas council],,0.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+question,Quel est le principe de la démocratie française? [What is the principle of French democracy?],,,lvl3
+answer,"Le gouvernement des élites, pour les élites [The government of the elites, for the elites]",,0.0,
+answer,Le gouvernement par l’armée [Government by the army],,0.0,
+answer,"Le gouvernement du peuple, par le peuple et pour le peuple [Government of the people, by the people, and for the people]",,1.0,
+question,Quelle est la capitale de la Martinique? [What is the capital of Martinique?],,,lvl3
+answer,Saint-Pierre [Saint-Pierre],,0.0,
+answer,Fort-de-France [Fort-de-France],,1.0,
+answer,Le Lamentin [Le Lamentin],,0.0,
+question,Quelle est la capitale de La Réunion? ?) [What is the capital of Reunion Island? ?)],,,lvl3
+answer,Saint-Denis [Saint-Denis],,1.0,
+answer,Mamoudzou [Mamoudzou],,0.0,
+answer,Saint-Pierre [Saint-Pierre],,0.0,
+question,Que peuvent faire librement les partis politiques en France? [What can political parties do freely in France?],,,lvl3
+answer,Se former et exercer leur activité [Form and carry out their activities],,1.0,
+answer,Exister seulement s’ils sont religieux [Exist only if they are religious],,0.0,
+answer,Être autorisés uniquement par le président [Be authorized only by the president],,0.0,
+question,Saint-Barthélemy est… [Saint-Barthélemy is…],,,lvl3
+answer,Une «commune d’outre-mer» [An "overseas municipality"],,0.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+question,À quoi est soumis le pouvoir politique en France? [What is political power subject to in France?],,,lvl3
+answer,À la volonté d’un seul chef [To the will of a single leader],,0.0,
+answer,À la loi [To the law],,1.0,
+answer,À la religion dominante [To the dominant religion],,0.0,
+question,De quoi les départements sont-ils responsables? ?) [What are the departments responsible for? ?)],,,lvl3
+answer,De la défense nationale [For national defense],,0.0,
+answer,"Des collèges, de la protection de l’enfance, de l’aide aux personnes âgées [For middle schools, child protection, aid for the elderly]",,1.0,
+answer,De la politique étrangère [For foreign policy],,0.0,
+question,Quelle est la capitale de la Guadeloupe? [What is the capital of Guadeloupe?],,,lvl3
+answer,Saint-François [Saint-François],,0.0,
+answer,Basse-Terre [Basse-Terre],,1.0,
+answer,Pointe-à-Pitre [Pointe-à-Pitre],,0.0,
+question,La Guyane est… ...) [French Guiana is… ...)],,,lvl3
+answer,Un département et région d’outre-mer [An overseas department and region],,1.0,
+answer,Un conseil d’outre-mer [An overseas council],,0.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,0.0,
+question,Qui est responsable des écoles primaires? [Who is responsible for primary schools?],,,lvl3
+answer,La région [The region],,0.0,
+answer,La commune [The municipality],,1.0,
+answer,Le département [The department],,0.0,
+question,La Nouvelle-Calédonie est… ...) [New Caledonia is… ...)],,,lvl3
+answer,Une «commune d’outre-mer» [An "overseas municipality"],,0.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+question,Tous les combien d’années ont lieu les élections législatives pour élire les députés? [How often do legislative elections to elect deputies take place?],,,lvl3
+answer,Tous les 5 ans [Every 5 years],,1.0,
+answer,Tous les 4 ans [Every 4 years],,0.0,
+answer,Tous les 6 ans [Every 6 years],,0.0,
+question,Quelle est la capitale de la région Occitanie? ?) [What is the capital of the Occitanie region? ?)],,,lvl3
+answer,Toulouse [Toulouse],,1.0,
+answer,Nîmes [Nîmes],,0.0,
+answer,Montpellier [Montpellier],,0.0,
+question,Quelle place occupe la France à l’ONU? ?) [What is France's position at the UN? ?)],,,lvl3
+answer,Membre permanent du Conseil de sécurité [Permanent member of the Security Council],,1.0,
+answer,Secrétaire général [Secretary-General],,0.0,
+answer,Membre non permanent du Conseil de sécurité [Non-permanent member of the Security Council],,0.0,
+question,Quelle est la capitale de la région Grand Est? ?) [What is the capital of the Grand Est region? ?)],,,lvl3
+answer,Strasbourg [Strasbourg],,1.0,
+answer,Metz [Metz],,0.0,
+answer,Nancy [Nancy],,0.0,
+question,Que partagent les États membres de l’Union européenne? [What do the member states of the European Union share?],,,lvl3
+answer,Des principes démocratiques [Democratic principles],,1.0,
+answer,Une même langue [The same language],,0.0,
+answer,Une même armée [The same army],,0.0,
+question,Quelle est la capitale de Mayotte? ?) [What is the capital of Mayotte? ?)],,,lvl3
+answer,Mamoudzou [Mamoudzou],,1.0,
+answer,Koungou [Koungou],,0.0,
+answer,Dzaoudzi [Dzaoudzi],,0.0,
+question,Qui est responsable de la formation professionnelle? ?) [Who is responsible for vocational training? ?)],,,lvl3
+answer,Le département [The department],,0.0,
+answer,La commune [The municipality],,0.0,
+answer,La région [The region],,1.0,
+question,Que sanctionne la justice en France? [What does the justice system sanction in France?],,,lvl3
+answer,Les choix religieux [Religious choices],,0.0,
+answer,Les infractions aux règles de droit [Infractions against legal rules],,1.0,
+answer,Les opinions politiques [Political opinions],,0.0,
+question,En quelle année a été adoptée la Charte des droits fondamentaux de l’Union européenne? [In what year was the Charter of Fundamental Rights of the European Union adopted?],,,lvl3
+answer,2000 [2000],,1.0,
+answer,1992 [1992],,0.0,
+answer,1957 [1957],,0.0,
+question,Quelle est la capitale de Wallis-et-Futuna? [What is the capital of Wallis and Futuna?],,,lvl3
+answer,Wallis [Wallis],,0.0,
+answer,Mata-Utu [Mata-Utu],,1.0,
+answer,Futuna [Futuna],,0.0,
+question,De quoi les communes sont-elles responsables? ?) [What are the municipalities responsible for? ?)],,,lvl3
+answer,"Des écoles maternelles et primaires, des activités sportives et culturelles, de la voirie communale, de l’état civil) [Nursery and primary schools, sports and cultural activities, municipal roads, civil registration)]",,1.0,
+answer,Des impôts nationaux [National taxes],,0.0,
+answer,Des universités et de la recherche [Universities and research],,0.0,
+question,Tous les combien d’années ont lieu les élections du Parlement européen? [How often do European Parliament elections take place?],,,lvl3
+answer,Tous les 6 ans [Every 6 years],,0.0,
+answer,Tous les 10 ans [Every 10 years],,0.0,
+answer,Tous les 5 ans [Every 5 years],,1.0,
+question,La Réunion est… ...) [Reunion Island is… ...)],,,lvl3
+answer,Un département et région d’outre-mer [An overseas department and region],,1.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,0.0,
+answer,Une «commune d’outre-mer» [An "overseas municipality"],,0.0,
+question,Qui est responsable des transports publics régionaux? [Who is responsible for regional public transport?],,,lvl3
+answer,La commune [The municipality],,0.0,
+answer,Le département [The department],,0.0,
+answer,La région [The region],,1.0,
+question,Quelles peines peuvent être prononcées par la justice? [What penalties can be handed down by the justice system?],,,lvl3
+answer,"Emprisonnement, amende [Imprisonment, fine]",,1.0,
+answer,Déchéance automatique de nationalité [Automatic forfeiture of nationality],,0.0,
+answer,Travail bénévole obligatoire [Compulsory volunteer work],,0.0,
+question,Par qui la justice est-elle rendue en France? [By whom is justice rendered in France?],,,lvl3
+answer,Par les députés [By the deputies],,0.0,
+answer,Par les juges [By the judges],,1.0,
+answer,Par le Président [By the President],,0.0,
+question,Donne trois exemples de collectivités d’outre-mer françaises. [Give three examples of French overseas collectivities.],,,lvl3
+answer,"Luxembourg, Andorre, Suisse [Luxembourg, Andorra, Switzerland]",,0.0,
+answer,"Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna [New Caledonia, French Polynesia, Wallis and Futuna]",,1.0,
+answer,"Corse, Provence, Bretagne [Corsica, Provence, Brittany]",,0.0,
+question,Qui est responsable de la construction des lycées? ?) [Who is responsible for the construction of high schools? ?)],,,lvl3
+answer,Le département [The department],,0.0,
+answer,La région [The region],,1.0,
+answer,La commune [The municipality],,0.0,
+question,Comment les lois traitent-elles les citoyens? [How do laws treat citizens?],,,lvl3
+answer,Selon leur origine sociale [According to their social origin],,0.0,
+answer,Selon leur religion [According to their religion],,0.0,
+answer,De façon égale [Equally],,1.0,
+question,Quelle est la capitale de la Nouvelle-Calédonie? ?) [What is the capital of New Caledonia? ?)],,,lvl3
+answer,Papeete [Papeete],,0.0,
+answer,Koné [Koné],,0.0,
+answer,Nouméa [Nouméa],,1.0,
+question,Quelle est la capitale de Saint-Pierre-et-Miquelon? ?) [What is the capital of Saint-Pierre and Miquelon? ?)],,,lvl3
+answer,Miquelon [Miquelon],,0.0,
+answer,Saint-Denis [Saint-Denis],,0.0,
+answer,Saint-Pierre [Saint-Pierre],,1.0,
+question,La Guadeloupe est… [Guadeloupe is…],,,lvl3
+answer,Une «commune d’outre-mer» [An "overseas municipality"],,0.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,1.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,0.0,
+question,Selon quel texte le pouvoir politique doit-il fonctionner? [According to which text must political power operate?],,,lvl3
+answer,Les traditions religieuses [Religious traditions],,0.0,
+answer,Les coutumes locales [Local customs],,0.0,
+answer,La Constitution et la loi [The Constitution and the law],,1.0,
+question,Wallis-et-Futuna est… ...) [Wallis and Futuna is… ...)],,,lvl3
+answer,Une «commune d’outre-mer» [An "overseas municipality"],,0.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+question,Quelle est la capitale de la région Centre-Val de Loire? ?) [What is the capital of the Centre-Val de Loire region? ?)],,,lvl3
+answer,Tours [Tours],,0.0,
+answer,Orléans [Orléans],,1.0,
+answer,Blois [Blois],,0.0,
+question,Quelle est la capitale de Saint-Martin? ?) [What is the capital of Saint-Martin? ?)],,,lvl3
+answer,Marigot [Marigot],,1.0,
+answer,Gustavia [Gustavia],,0.0,
+answer,Phillipsburg [Phillipsburg],,0.0,
+question,Quels droits sont associés à la citoyenneté européenne? [What rights are associated with European citizenship?],,,lvl3
+answer,"Circuler, travailler, étudier, s’installer dans les autres pays de l’Union [To travel, work, study, and settle in other EU countries]",,1.0,
+answer,Être exempté d’impôts [To be exempt from taxes],,0.0,
+answer,Avoir automatiquement deux nationalités [To automatically have dual nationality],,0.0,
+question,Dans combien de pays européens l’euro est-il utilisé avec la France? [In how many European countries is the euro used alongside France?],,,lvl3
+answer,27 [27],,0.0,
+answer,20 [20],,1.0,
+answer,12 [12],,0.0,
+question,Quelle est la capitale de la région Corse? ?) [What is the capital of the Corsica region? ?)],,,lvl3
+answer,Bastia [Bastia],,0.0,
+answer,Calvi [Calvi],,0.0,
+answer,Ajaccio [Ajaccio],,1.0,
+question,Quelle est la capitale de la région Normandie? ?) [What is the capital of the Normandy region? ?)],,,lvl3
+answer,Rouen [Rouen],,1.0,
+answer,Caen [Caen],,0.0,
+answer,Le Havre [Le Havre],,0.0,
+question,Quelle autorité enregistre les décès? [Which authority registers deaths?],,,lvl3
+answer,Le département [The department],,0.0,
+answer,La commune [The municipality],,1.0,
+answer,La région [The region],,0.0,
+question,Par quel mode de scrutin est élu le Président de la République? [By what voting method is the President of the Republic elected?],,,lvl3
+answer,Au suffrage universel indirect [By indirect universal suffrage],,0.0,
+answer,Au suffrage universel direct [By direct universal suffrage],,1.0,
+answer,Par nomination du Parlement [By parliamentary appointment],,0.0,
+question,Pour combien de temps le maire est-il élu? [For how long is the mayor elected?],,,lvl3
+answer,4 ans [4 years],,0.0,
+answer,6 ans [6 years],,1.0,
+answer,5 ans [5 years],,0.0,
+question,Pour combien de temps les conseillers régionaux sont-ils élus? ?) [For how long are regional councilors elected? ?)],,,lvl3
+answer,6 ans [6 years],,1.0,
+answer,5 ans [5 years],,0.0,
+answer,7 ans [7 years],,0.0,
+question,Comment les communes sont-elles regroupées? ?) [How are municipalities grouped? ?)],,,lvl3
+answer,En départements [Into departments],,0.0,
+answer,En régions [Into regions],,0.0,
+answer,"En intercommunalités (communautés de communes, métropoles, etc.) [Into intercommunalities (communities of municipalities, metropolises, etc.)]",,1.0,
+question,Comment sont élus les sénateurs en France? [How are senators elected in France?],,,lvl3
+answer,Au suffrage universel indirect [By indirect universal suffrage],,1.0,
+answer,Par le Président de la République [By the President of the Republic],,0.0,
+answer,Au suffrage universel direct [By direct universal suffrage],,0.0,
+question,Qui est responsable de la voirie communale? ?) [Who is responsible for municipal roads? ?)],,,lvl3
+answer,La région [The region],,0.0,
+answer,La commune [The municipality],,1.0,
+answer,Le département [The department],,0.0,
+question,Qui peut représenter l’État dans certaines collectivités d’outre-mer? ?) [Who can represent the State in certain overseas collectivities? ?)],,,lvl3
+answer,Les hauts-commissaires [High Commissioners],,1.0,
+answer,Les gouverneurs élus [Elected governors],,0.0,
+answer,Les ambassadeurs [Ambassadors],,0.0,
+question,Quelle est la capitale de la région Auvergne-Rhône-Alpes? ?) [What is the capital of the Auvergne-Rhône-Alpes region? ?)],,,lvl3
+answer,Chambéry [Chambéry],,0.0,
+answer,Grenoble [Grenoble],,0.0,
+answer,Lyon [Lyon],,1.0,
+question,. Qui administre les départements? ?) [. Who administers the departments? ?)],,,lvl3
+answer,Les maires [The mayors],,0.0,
+answer,Les conseils départementaux [The departmental councils],,1.0,
+answer,Les conseils régionaux [The regional councils],,0.0,
+question,Qu’est-ce qui est garanti concernant la justice en France? [What is guaranteed regarding justice in France?],,,lvl3
+answer,Son indépendance [Its independence],,1.0,
+answer,Sa dépendance au gouvernement [Its dependence on the government],,0.0,
+answer,Sa soumission aux partis politiques [Its submission to political parties],,0.0,
+question,Que règle la justice en France? [What does the justice system settle in France?],,,lvl3
+answer,Les élections présidentielles [Presidential elections],,0.0,
+answer,"Les litiges entre particuliers, entreprises et citoyens avec l’administration [Disputes between individuals, companies, and citizens with the administration]",,1.0,
+answer,Les décisions économiques du Gouvernement [The economic decisions of the Government],,0.0,
+question,Qui administre les régions? [Who administers the regions?],,,lvl3
+answer,Les préfets [The prefects],,0.0,
+answer,Le Sénat [The Senate],,0.0,
+answer,Les conseils régionaux [The regional councils],,1.0,
+question,Depuis quelle année les citoyens français sont-ils aussi citoyens européens? [Since what year have French citizens also been European citizens?],,,lvl3
+answer,1957 [1957],,0.0,
+answer,1992 [1992],,1.0,
+answer,2000 [2000],,0.0,
+question,Qui est responsable de l’aide aux personnes âgées? [Who is responsible for aid to the elderly?],,,lvl3
+answer,La région [The region],,0.0,
+answer,Le département [The department],,1.0,
+answer,La commune [The municipality],,0.0,
+question,Quel texte définit l’organisation de l’État en France? ?) [Which text defines the organization of the State in France? ?)],,,lvl3
+answer,Le Code civil [The Civil Code],,0.0,
+answer,La Constitution [The Constitution],,1.0,
+answer,La Déclaration des droits de l’homme et du citoyen [The Declaration of the Rights of Man and of the Citizen],,0.0,
+question,Quels sont les cinq départements-régions d’outre-mer? ?) [What are the five overseas departments-regions? ?)],,,lvl3
+answer,"Guadeloupe, Guyane, Martinique, Mayotte, La Réunion [Guadeloupe, French Guiana, Martinique, Mayotte, Reunion Island]",,1.0,
+answer,"Corse, Monaco, Andorre, Luxembourg, Sardaigne [Corsica, Monaco, Andorra, Luxembourg, Sardinia]",,0.0,
+answer,"Polynésie française, Wallis-et-Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon [French Polynesia, Wallis and Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre and Miquelon]",,0.0,
+question,Que garantit la Charte des droits fondamentaux de l’Union européenne? [What does the Charter of Fundamental Rights of the European Union guarantee?],,,lvl3
+answer,L’unité monétaire [Monetary unity],,0.0,
+answer,Les droits des personnes [The rights of individuals],,1.0,
+answer,La politique étrangère commune [The common foreign policy],,0.0,
+question,De quelle majorité politique le Premier ministre est-il issu? [Which political majority does the Prime Minister come from?],,,lvl3
+answer,De la majorité au Sénat [From the majority in the Senate],,0.0,
+answer,De la majorité présidentielle uniquement [From the presidential majority only],,0.0,
+answer,De la majorité aux élections législatives [From the majority in the legislative elections],,1.0,
+question,Quelle est la capitale de la région Nouvelle-Aquitaine? [What is the capital of the New Aquitaine region?],,,lvl3
+answer,Limoges [Limoges],,0.0,
+answer,Bordeaux [Bordeaux],,1.0,
+answer,Pau [Pau],,0.0,
+question,Quelle est la capitale de la région Provence-Alpes-Côte d’Azur? ?) [What is the capital of the Provence-Alpes-Côte d'Azur region? ?)],,,lvl3
+answer,Marseille [Marseille],,1.0,
+answer,Toulon [Toulon],,0.0,
+answer,Nice [Nice],,0.0,
+question,Qui est responsable de la protection de l’enfance? [Who is responsible for child protection?],,,lvl3
+answer,La région [The region],,0.0,
+answer,Le département [The department],,1.0,
+answer,La commune [The municipality],,0.0,
+question,De quoi les régions sont-elles responsables? [What are the regions responsible for?],,,lvl3
+answer,"Des transports publics, de la formation professionnelle, de la construction et de l’entretien des lycées [Public transport, vocational training, construction and maintenance of high schools]",,1.0,
+answer,Des écoles maternelles [Nursery schools],,0.0,
+answer,Des hôpitaux militaires [Military hospitals],,0.0,
+question,Quelle est la capitale de la région Bourgogne-Franche-Comté? [What is the capital of the Bourgogne-Franche-Comté region?],,,lvl3
+answer,Mâcon [Mâcon],,0.0,
+answer,Besançon [Besançon],,0.0,
+answer,Dijon [Dijon],,1.0,
+question,Quelle est la capitale de la Polynésie française? ?) [What is the capital of French Polynesia? ?)],,,lvl3
+answer,Raiatea [Raiatea],,0.0,
+answer,Papeete [Papeete],,1.0,
+answer,Nouméa [Nouméa],,0.0,
+question,Qui est responsable des activités culturelles locales? [Who is responsible for local cultural activities?],,,lvl3
+answer,La région [The region],,0.0,
+answer,Le département [The department],,0.0,
+answer,La commune [The municipality],,1.0,
+question,Quelle est la place économique de la France dans le monde? [What is France's economic rank in the world?],,,lvl3
+answer,Dixième puissance mondiale [Tenth world power],,0.0,
+answer,Sixième puissance mondiale [Sixth world power],,1.0,
+answer,Première puissance mondiale [First world power],,0.0,
+question,Saint-Pierre-et-Miquelon est… [Saint-Pierre and Miquelon is…],,,lvl3
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+answer,Un conseil d’outre-mer [An overseas council],,0.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+question,Qui est responsable de l’entretien des lycées? ?) [Who is responsible for the maintenance of high schools? ?)],,,lvl3
+answer,La commune [The municipality],,0.0,
+answer,La région [The region],,1.0,
+answer,Le département [The department],,0.0,
+question,Quelle est la capitale de la Guyane française? ?) [What is the capital of French Guiana? ?)],,,lvl3
+answer,Fort-de-France [Fort-de-France],,0.0,
+answer,Cayenne [Cayenne],,1.0,
+answer,Mamoudzou [Mamoudzou],,0.0,
+question,Combien de collectivités d’outre-mer la France compte-t-elle? ?) [How many overseas collectivities does France have? ?)],,,lvl3
+answer,7 [7],,1.0,
+answer,12 [12],,0.0,
+answer,5 [5],,0.0,
+question,Quelle est la capitale de Saint-Barthélemy? ?) [What is the capital of Saint-Barthélemy? ?)],,,lvl3
+answer,Marigot [Marigot],,0.0,
+answer,Saint-Martin [Saint-Martin],,0.0,
+answer,Gustavia [Gustavia],,1.0,
+question,Qui représente l’État dans les départements et régions? [Who represents the State in the departments and regions?],,,lvl3
+answer,Le député [The deputy],,0.0,
+answer,Le maire [The mayor],,0.0,
+answer,Le préfet [The prefect],,1.0,
+question,Combien de chambres composent le Parlement français? [How many chambers make up the French Parliament?],,,lvl3
+answer,Trois [Three],,0.0,
+answer,Une [One],,0.0,
+answer,Deux [Two],,1.0,
+question,Quelle proportion de la population mondiale représentent les Français? [What proportion of the world population do the French represent?],,,lvl3
+answer,1 % [1 %],,1.0,
+answer,10 % [10 %],,0.0,
+answer,5 % [5 %],,0.0,
+question,Quelle est la capitale de la région Bretagne? ?) [What is the capital of the Brittany region? ?)],,,lvl3
+answer,Vannes [Vannes],,0.0,
+answer,Quimper [Quimper],,0.0,
+answer,Rennes [Rennes],,1.0,
+question,La Polynésie française est… ...) [French Polynesia is… ...)],,,lvl3
+answer,Un conseil d’outre-mer [An overseas council],,0.0,
+answer,Une collectivité d’outre-mer [An overseas collectivity],,1.0,
+answer,Un département et région d’outre-mer [An overseas department and region],,0.0,
+question,Combien de territoires d’outre-mer la France compte-t-elle au total? [How many overseas territories does France have in total?],,,lvl3
+answer,5 [5],,0.0,
+answer,12 [12],,1.0,
+answer,7 [7],,0.0,
+question,Que peuvent faire les citoyens français installés dans un autre pays de l’Union? [What can French citizens living in another EU country do?],,,lvl3
+answer,Être automatiquement fonctionnaires de ce pays [Be automatically civil servants of that country],,0.0,
+answer,Voter aux élections locales de ce pays [Vote in local elections in that country],,1.0,
+answer,Se présenter à la présidence de ce pays [Run for the presidency of that country],,0.0,

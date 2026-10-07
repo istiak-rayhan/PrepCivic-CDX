@@ -1,0 +1,697 @@
+type,text,placeholder,is_correct,level
+question,Qui nomme le Premier ministre ? [څوک لومړی وزیر ټاکي؟],,,lvl1
+answer,Le Président de l'Assemblée Nationale [د ملي شورا رییس],,0.0,
+answer,Le Président du Sénat [د سنا رییس],,0.0,
+answer,Le Président de la République [د ولسمشر],,1.0,
+question,Le Parlement est composé : [پارلمان له دې څخه جوړ دی:],,,lvl1
+answer,Du Président de la République et du Premier ministre [د ولسمشر او لومړي وزیر څخه],,0.0,
+answer,Du Gouvernement et du Conseil d'État [د حکومت او دولتي شورا څخه],,0.0,
+answer,De l'Assemblée Nationale et du Sénat [د ملي شورا او سنا څخه],,1.0,
+question,Qu'est-ce que le pouvoir exécutif ? Le pouvoir : [اجرائیه ځواک څه شی دی؟ ځواک:],,,lvl1
+answer,Qui fait les lois [کوم چې قوانین جوړوي],,0.0,
+answer,Qui juge et sanctionne les personnes [کوم چې د خلکو قضاوت او جزا ورکوي],,0.0,
+answer,Qui met en œuvre les lois et conduit la politique de la Nation [کوم چې قوانین پلي کوي او د ملت سیاست رهبري کوي],,1.0,
+question,Les dirigeants sont élus par les citoyens dans : [مشران د اتباعو لخوا ټاکل کیږي په:],,,lvl1
+answer,Une dictature [یو ډیکټاتور],,0.0,
+answer,Une monarchie [یوه پاچاهي],,0.0,
+answer,Une démocratie [یو ډیموکراسي],,1.0,
+question,A-t-on le droit de ne pas respecter une loi ? [ایا موږ حق لرو چې قانون ته درناوی ونه کړو؟],,,lvl1
+answer,"Oui, si la loi est ancienne. [هو، که قانون زوړ وي.]",,0.0,
+answer,"Oui, si l'on n'est pas d'accord avec la loi. [هو، که څوک له قانون سره موافق نه وي.]",,0.0,
+answer,"Non, la loi s'applique à tous et doit être respectée . [نه، قانون په ټولو پلي کیږي او باید درناوی یې وشي.]",,1.0,
+question,Qui doit respecter la loi ? [څوک باید قانون ته درناوی وکړي؟],,,lvl1
+answer,Uniquement les citoyens français. [یوازې د فرانسې اتباع.],,0.0,
+answer,Uniquement les fonctionnaires. [یوازې دولتي کارمندان.],,0.0,
+answer,"Toutes les personnes résidant en France, y compris les visiteurs. [ټول هغه کسان چې په فرانسه کې اوسیږي، په شمول د لیدونکو.]",,1.0,
+question,Quel est le rôle de l'autorité judiciaire ? [د قضایي واک رول څه دی؟],,,lvl1
+answer,Faire la guerre et signer les traités internationaux. [جګړه کول او د نړیوالو تړونونو لاسلیک کول.],,0.0,
+answer,Voter les lois. [د قوانینو تصویب کول.],,0.0,
+answer,Veiller au respect de la loi et sanctionner son non-respect. [د قانون درناوي ته پاملرنه او د نه درناوي په صورت کې جزا ورکول.],,1.0,
+question,Quel pouvoir détient un juge ? Le pouvoir : [یو قاضي کوم واک لري؟ واک:],,,lvl1
+answer,Exécutif [اجرائیوي],,0.0,
+answer,Législatif [مقننه],,0.0,
+answer,Judiciaire [قضایی],,1.0,
+question,L'autorité judiciaire est exercée par : [قضايي واک د دې لخوا کارول کیږي:],,,lvl1
+answer,Le Gouvernement et les préfets. [حکومت او والیان.],,0.0,
+answer,Le Parlement et les maires. [پارلمان او ښاروالان.],,0.0,
+answer,Les magistrats (juges et procureurs). [قاضیان او څارنوالان.],,1.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ? [که چیرې یو وزیر قانون ته درناوی ونه کړي څه پیښیږي؟],,,lvl1
+answer,"Rien, car il est protégé par son statut. [هیڅ نه، ځکه چې هغه د خپل موقف لخوا خوندي دی.]",,0.0,
+answer,Il est jugé par le Président de la République. [د هغه قضاوت د ولسمشر لخوا کیږي.],,0.0,
+answer,Il est jugé par la Cour de Justice de la République (CJR) ou les tribunaux ordinaires. [هغه د جمهوریت د عدالت محکمې (CJR) یا عادي محکمو لخوا قضاوت کیږي.],,1.0,
+question,Qui est élu lors des élections législatives ? [د مقننه ټاکنو پرمهال څوک ټاکل کیږي؟],,,lvl1
+answer,Le Président de la République [د ولسمشر],,0.0,
+answer,Les députés à l'Assemblée Nationale [په ملي شورا کې استازي],,1.0,
+answer,Les maires et leurs conseillers municipaux [ښاروالان او د دوی د ښاروالۍ شورا غړي],,0.0,
+question,Combien de députés composent l’Assemblée nationale ? [ملي شورا له څو استازو جوړه ده؟],,,lvl1
+answer,Environ 350 [شاوخوا ۳۵۰],,0.0,
+answer,577 [۵۷۷],,1.0,
+answer,Environ 700 [شاوخوا ۷۰۰],,0.0,
+question,Quand sont élus les sénateurs ? [سناتوران کله ټاکل کیږي؟],,,lvl1
+answer,Au suffrage universel direct par tous les citoyens. [د ټولو اتباعو لخوا د مستقیمو نړیوالو رایو له لارې.],,0.0,
+answer,Lors des élections présidentielles. [د ولسمشریزو ټاکنو پرمهال.],,0.0,
+answer,"Au suffrage universel indirect par les ""grands électeurs"" (élus locaux). [د ""لویو ټاکونکو"" (سیمه ایزو استازو) لخوا د غیر مستقیمو نړیوالو رایو له لارې.]",,1.0,
+question,Qui est élu lors des élections municipales ? [د ښاروالۍ په ټاکنو کې څوک ټاکل کیږي؟],,,lvl1
+answer,Les conseillers régionaux et départementaux [سیمه ایز او ډیپارټمنټ مشاورین],,0.0,
+answer,Les maires et les conseillers municipaux [ښاروالان او د ښاروالۍ شورا غړي],,1.0,
+answer,Les députés au Parlement européen [د اروپا پارلمان استازي],,0.0,
+question,Qui est élu lors des élections présidentielles ? [د ولسمشریزو ټاکنو پرمهال څوک ټاکل کیږي؟],,,lvl1
+answer,Le Premier ministre [لومړی وزیر],,0.0,
+answer,Le Président de la République [د ولسمشر],,1.0,
+answer,Le Président du Sénat [د سنا رییس],,0.0,
+question,À partir de quel âge a-t-on le droit de voter ? [له کوم عمر څخه د رایې ورکولو حق لرو؟],,,lvl1
+answer,21 ans [۲۱ کاله],,0.0,
+answer,16 ans [۱۶ کاله],,0.0,
+answer,18 ans [۱۸ کاله],,1.0,
+question,Pour combien de temps est élu le président de la République française ? [د فرانسې ولسمشر د څومره وخت لپاره ټاکل کیږي؟],,,lvl1
+answer,7 ans [۷ کاله],,0.0,
+answer,6 ans [۶ کاله],,0.0,
+answer,5 ans [۵ کاله],,1.0,
+question,Pour combien de temps sont élus les députés ? [استازي د څومره وخت لپاره ټاکل کیږي؟],,,lvl1
+answer,7 ans [۷ کاله],,0.0,
+answer,6 ans [۶ کاله],,0.0,
+answer,5 ans [۵ کاله],,1.0,
+question,Pour combien de temps sont élus les sénateurs ? [سناتوران د څومره وخت لپاره ټاکل کیږي؟],,,lvl1
+answer,5 ans [۵ کاله],,0.0,
+answer,6 ans [۶ کاله],,1.0,
+answer,7 ans [۷ کاله],,0.0,
+question,Qui possède le pouvoir exécutif ? [څوک اجرائیه واک لري؟],,,lvl1
+answer,Le Parlement [پارلمان],,0.0,
+answer,Le Président de la République et le Gouvernement [د ولسمشر او حکومت],,1.0,
+answer,La Cour de Cassation [د قضاوت محکمه],,0.0,
+question,Quelle condition est nécessaire pour voter aux élections ? [په ټاکنو کې د رایې ورکولو لپاره کوم شرط اړین دی؟],,,lvl1
+answer,Être propriétaire d'un logement en France. [په فرانسه کې د استوګنې ځای خاوند وي.],,0.0,
+answer,Être titulaire de la nationalité française depuis 10 ans. [د ۱۰ کلونو لپاره د فرانسوي تابعیت درلودل.],,0.0,
+answer,Être âgé de 18 ans et être de nationalité française. [۱۸ کلن وي او فرانسوي تابعیت ولري.],,1.0,
+question,Qui peut voter aux élections en France ? [په فرانسه کې په ټاکنو کې څوک رایه ورکولی شي؟],,,lvl1
+answer,Tous les résidents étrangers. [ټول بهرني اوسیدونکي.],,0.0,
+answer,Tous les citoyens français majeurs. [ټول قانوني عمر لرونکي فرانسوي اتباع.],,1.0,
+answer,Uniquement les hommes majeurs. [یوازې قانوني عمر لرونکي نارینه.],,0.0,
+question,Que signifie « suffrage universel » ? [«عمومي رایه» څه معنی لري؟],,,lvl1
+answer,Que seuls les hommes peuvent voter. [دا چې یوازې نارینه کولی شي رایه ورکړي.],,0.0,
+answer,Que seuls les plus riches peuvent voter. [دا چې یوازې بډایه کسان کولی شي رایه ورکړي.],,0.0,
+answer,"Que tous les citoyens majeurs peuvent voter, sans distinction. [دا چې ټول قانوني عمر لرونکي اتباع کولی شي پرته له کوم توپیر څخه رایه ورکړي.]",,1.0,
+question,"Concernant les partis politiques, quelle proposition est correcte ? [د سیاسي ګوندونو په اړه، کوم وړاندیز سم دی؟]",,,lvl1
+answer,Ils sont interdits par la Constitution française. [دوی د فرانسې د اساسي قانون لخوا منع دي.],,0.0,
+answer,Un seul parti est autorisé par l'État. [د دولت لخوا یوازې یو ګوند ته اجازه ورکړل شوې ده.],,0.0,
+answer,Ils sont libres de se créer et d'exercer leur activité dans le respect de la loi. [دوی آزاد دي چې د قانون په درناوي سره خپل فعالیتونه رامینځته او تمرین کړي.],,1.0,
+question,Quel est le rôle des députés ? [د استازو رول څه دی؟],,,lvl1
+answer,Exécuter les lois et gérer l'administration. [د قوانینو پلي کول او اداره اداره کول.],,0.0,
+answer,Voter les lois et contrôler l'action du Gouvernement. [د قوانینو تصویب کول او د حکومت عمل کنټرول کول.],,1.0,
+answer,Juger les crimes et délits. [د جرمونو او سرغړونو قضاوت کول.],,0.0,
+question,La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ? [د واکونو جلا کول یو بنسټیز اصل دی. درې ښکیل واکونه کوم دي؟],,,lvl1
+answer,"Le pouvoir militaire, le pouvoir civil, le pouvoir religieux. [نظامي ځواک، مدني ځواک، مذهبي ځواک.]",,0.0,
+answer,"Le pouvoir exécutif, le pouvoir législatif, le pouvoir judiciaire. [اجرائیه ځواک، مقننه ځواک، قضایی ځواک.]",,1.0,
+answer,"Le pouvoir national, le pouvoir régional, le pouvoir local. [ملي ځواک، سیمه ایز ځواک، محلي ځواک.]",,0.0,
+question,Qui possède le pouvoir législatif ? [مقننه واک د چا سره دی؟],,,lvl1
+answer,Le Président de la République [د ولسمشر],,0.0,
+answer,Le Parlement [پارلمان],,1.0,
+answer,Les juges [قاضیان],,0.0,
+question,Qui sanctionne l'auteur d'un vol ? [د غلا کوونکي ته څوک جزا ورکوي؟],,,lvl1
+answer,Le préfet [والي],,0.0,
+answer,Le maire [ښاروال],,0.0,
+answer,L'autorité judiciaire [قضايي واک],,1.0,
+question,Qui élit les députés ? [استازي څوک ټاکي؟],,,lvl1
+answer,Le Président de la République [د ولسمشر],,0.0,
+answer,"Les ""grands électeurs"" [""لوی ټاکونکي""]",,0.0,
+answer,Les citoyens français par vote direct. [د مستقیمو رایو له لارې فرانسوي اتباع.],,1.0,
+question,Qui vote les lois ? [قوانین څوک تصویبوي؟],,,lvl1
+answer,Le Gouvernement [حکومت],,0.0,
+answer,Le Parlement [پارلمان],,1.0,
+answer,Le Conseil d'État [د دولتي شورا],,0.0,
+question,Qui réside au palais de l'Élysée ? [څوک په الیزې ماڼۍ کې اوسیږي؟],,,lvl1
+answer,Le Premier ministre [لومړی وزیر],,0.0,
+answer,Le Président de la République [د ولسمشر],,1.0,
+answer,Le Président de l'Assemblée Nationale [د ملي شورا رییس],,0.0,
+question,Combien y a-t-il de départements en France ? [په فرانسه کې څو ډیپارټمنټونه دي؟],,,lvl1
+answer,Environ 50 [شاوخوا ۵۰],,0.0,
+answer,101 [۱۰۱],,1.0,
+answer,Environ 150 [شاوخوا ۱۵۰],,0.0,
+question,Qui représente l'État dans un département ? [په یوه ډیپارټمنټ کې د دولت استازیتوب څوک کوي؟],,,lvl1
+answer,Le Président du Conseil départemental [د ډیپارټمنټ شورا رییس],,0.0,
+answer,Le Préfet [والي],,1.0,
+answer,Le Président de la Région [د سیمې رییس],,0.0,
+question,Qui dirige la commune ? [کمون (ښاروالۍ) څوک رهبري کوي؟],,,lvl1
+answer,Le Préfet [والي],,0.0,
+answer,Le Maire [ښاروال],,1.0,
+answer,Le Président de la Région [د سیمې رییس],,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ? [ایا ولسمشر ټول واکونه لري؟],,,lvl1
+answer,"Oui, il détient tous les pouvoirs exécutifs et législatifs. [هو، هغه ټول اجرائیوي او مقننه واکونه لري.]",,0.0,
+answer,"Non, les pouvoirs sont séparés entre l'Exécutif, le Législatif et le Judiciaire. [نه، واکونه د اجرائیوي، مقننه او قضایه ترمنځ ویشل شوي دي.]",,1.0,
+answer,"Oui, car il est le chef des armées. [هو، ځکه چې هغه د اردو مشر دی.]",,0.0,
+question,Qui est le préfet ? [والي څوک دی؟],,,lvl1
+answer,L'élu local chargé de l'urbanisme. [سیمه ایز استازی د ښاري پلان جوړونې مسؤل دی.],,0.0,
+answer,Le représentant de l'État dans un département ou une région. [په یوه ډیپارټمنټ یا سیمه کې د دولت استازی.],,1.0,
+answer,Le chef de la police municipale. [د ښاروالۍ د پولیسو مشر.],,0.0,
+question,Quel est le rôle du Parlement ? [د پارلمان رول څه دی؟],,,lvl1
+answer,Diriger le pays et appliquer les lois. [د هیواد رهبري کول او د قوانینو پلي کول.],,0.0,
+answer,"Voter les lois, contrôler l'action du Gouvernement et évaluer les politiques publiques. [د قوانینو تصویب، د حکومت عمل کنټرول کول او د عامه تګلارو ارزونه.]",,1.0,
+answer,Juger les crimes et délits les plus graves. [د جدي جرمونو او سرغړونو قضاوت کول.],,0.0,
+question,Quel est le régime politique de la France aujourd'hui ? [نن ورځ د فرانسې سیاسي نظام څه دی؟],,,lvl1
+answer,Une monarchie constitutionnelle [اساسي قانوني پاچاهي],,0.0,
+answer,Une République démocratique [یو ډیموکراتیک جمهوریت],,1.0,
+answer,Une fédération de régions [د سیمو فدراسیون],,0.0,
+question,Combien d'États font partie de l'Union européenne au 1er janvier 2025 ? [د ۲۰۲۵ کال د جنوري تر لومړۍ نیټې د اروپا په اتحادیه کې څو ایالتونه دي؟],,,lvl1
+answer,26 [۲۶],,0.0,
+answer,27 [۲۷],,1.0,
+answer,28 [۲۸],,0.0,
+question,Quel État n'est pas membre de l'Union européenne ? [کوم ایالت د اروپایی اتحادیې غړی نه دی؟],,,lvl1
+answer,L'Allemagne [جرمني],,0.0,
+answer,L'Espagne [اسپانیا],,0.0,
+answer,La Suisse [سویس],,1.0,
+question,Quelle condition est nécessaire pour voter aux élections européennes ? [د اروپا په ټاکنو کې د رایې ورکولو لپاره کوم شرط اړین دی؟],,,lvl1
+answer,Être titulaire d'une carte de résident. [د استوګنې کارت درلودل.],,0.0,
+answer,Être citoyen français ou citoyen d'un autre État membre de l'Union européenne résidant en France. [فرانسوی تبعه وي یا د اروپایی اتحادیې د بل غړي هیواد تبعه وي چې په فرانسه کې اوسیږي.],,1.0,
+answer,Avoir plus de 25 ans. [د ۲۵ کلونو څخه ډیر عمر ولري.],,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ? [اروپایی ټاکنې هر څو ځله ترسره کیږي؟],,,lvl1
+answer,Tous les 4 ans [هر ۴ کاله],,0.0,
+answer,Tous les 5 ans [هر ۵ کاله],,1.0,
+answer,Tous les 7 ans [هر ۷ کاله],,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ? [کوم هیواد د اروپایی اتحادیې بنسټ ایښودونکی هیواد دی؟],,,lvl1
+answer,La Pologne [پولنډ],,0.0,
+answer,L'Allemagne [جرمني],,1.0,
+answer,L'Espagne [اسپانیا],,0.0,
+question,Quelle est la monnaie utilisée en France ? [په فرانسه کې کارول کیدونکې پیسې څه دي؟],,,lvl1
+answer,Le Franc [فرانک],,0.0,
+answer,L'Euro [یورو],,1.0,
+answer,Le Dollar [ډالر],,0.0,
+question,Qui élit les députés européens ? [د اروپا استازي څوک ټاکي؟],,,lvl1
+answer,Les parlements nationaux. [ملي پارلمانونه.],,0.0,
+answer,Les citoyens européens par vote direct. [د مستقیمو رایو له لارې اروپایی اتباع.],,1.0,
+answer,Le Conseil européen [اروپایی شورا],,0.0,
+question,Quand célèbre-t-on la journée de l'Europe ? [د اروپا ورځ کله لمانځل کیږي؟],,,lvl1
+answer,Le 1er janvier [د جنوري لومړۍ],,0.0,
+answer,Le 14 juillet [د جولای ۱۴مه],,0.0,
+answer,Le 9 mai [د می ۹مه],,1.0,
+question,Qu'est-ce que l'État de droit ? [د قانون واکمني څه شی دی؟],,,lvl2
+answer,Un État dirigé par un monarque. [یو دولت چې د یو پاچا لخوا رهبري کیږي.],,0.0,
+answer,Un État où le chef a tous les pouvoirs. [یو دولت چیرې چې مشر ټول واکونه لري.],,0.0,
+answer,Un État dans lequel la puissance publique est soumise au droit. [یو دولت چې پکې عامه ځواک د قانون تابع وي.],,1.0,
+question,Le président de la République a commis un crime. Quelle proposition est correcte ? [ولسمشر یو جرم ترسره کړی دی. کوم وړاندیز سم دی؟],,,lvl2
+answer,Il bénéficie d'une immunité totale à vie. [هغه د عمر لپاره بشپړ معافیت لري.],,0.0,
+answer,Il peut être jugé par une juridiction spéciale pour les actes commis en dehors de ses fonctions. [هغه د خپلو دندو څخه بهر ترسره شویو اعمالو لپاره د یوې ځانګړې محکمې لخوا قضاوت کیدی شي.],,1.0,
+answer,Seul le Parlement peut le juger. [یوازې پارلمان کولی شي د هغه قضاوت وکړي.],,0.0,
+question,La loi est l'expression de : [قانون د دې بیان دی:],,,lvl2
+answer,La volonté du Gouvernement. [د حکومت اراده.],,0.0,
+answer,La volonté du Président de la République. [د ولسمشر اراده.],,0.0,
+answer,La volonté générale. [د عمومي اراده.],,1.0,
+question,Quelle est la durée du mandat du conseil municipal et du maire ? [د ښاروالۍ شورا او ښاروال د دندې موده څومره ده؟],,,lvl2
+answer,5 ans [۵ کاله],,0.0,
+answer,6 ans [۶ کاله],,1.0,
+answer,7 ans [۷ کاله],,0.0,
+question,Que garantit l’État de droit ? [د قانون واکمني څه تضمین کوي؟],,,lvl2
+answer,Que les lois peuvent changer sans contrôle. [چې قوانین د کنټرول پرته بدل کیدی شي.],,0.0,
+answer,Que l'administration est au-dessus des lois. [چې اداره له قوانینو پورته ده.],,0.0,
+answer,Que tous sont soumis au respect du droit et de la loi. [چې ټول د قانون او مقرراتو درناوي تابع دي.],,1.0,
+question,Une personne peut-elle voter à la place d'une autre ? [ایا یو څوک کولی شي د بل چا پر ځای رایه ورکړي؟],,,lvl2
+answer,"Oui, si elle présente la carte d'identité de l'autre personne. [هو، که هغه د بل کس د پیژندنې کارت وړاندې کړي.]",,0.0,
+answer,"Non, le vote est personnel, sauf en cas de procuration dans les conditions fixées par la loi. [نه، رایه شخصي ده، پرته له دې چې د قانون لخوا ټاکل شویو شرایطو لاندې د وکالت په صورت کې.]",,1.0,
+answer,"Oui, si la personne qui vote est de la même famille. [هو، که رایه ورکوونکی د یوې کورنۍ څخه وي.]",,0.0,
+question,Est-ce que le vote est obligatoire ? [ایا رایه ورکول لازمي دي؟],,,lvl2
+answer,"Non, le vote est un droit et une liberté, mais il n'est pas obligatoire en France. [نه، رایه ورکول یو حق او آزادي ده، مګر دا په فرانسه کې لازمي نده.]",,1.0,
+answer,"Oui, il est obligatoire pour tous les citoyens de plus de 18 ans. [هو، دا د ټولو اتباعو لپاره چې عمرونه یې له ۱۸ کلونو ډیر وي لازمي دی.]",,0.0,
+answer,"Oui, sauf pour les élections européennes. [هو، پرته د اروپا ټاکنو لپاره.]",,0.0,
+question,"À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ? [د خپلې دورې په پای کې، ایا ولسمشر پریکړه کولی شي چې په واک کې پاتې شي؟]",,,lvl2
+answer,"Oui, s'il a le soutien du Gouvernement. [هو، که هغه د حکومت ملاتړ ولري.]",,0.0,
+answer,"Non, il doit se représenter et être réélu par les citoyens. [نه، هغه باید بیا ودریږي او د اتباعو لخوا بیا وټاکل شي.]",,1.0,
+answer,"Oui, en cas de crise nationale grave. [هو، د جدي ملي بحران په صورت کې.]",,0.0,
+question,Qui dirige l'action du Gouvernement ? [د حکومت عمل څوک رهبري کوي؟],,,lvl2
+answer,Le Président de l'Assemblée Nationale [د ملي شورا رییس],,0.0,
+answer,Le Premier ministre [لومړی وزیر],,1.0,
+answer,Le Président de la République [د ولسمشر],,0.0,
+question,Quelle est l'organisation administrative de la France ? [د فرانسې اداري سازمان څه دی؟],,,lvl2
+answer,Un État fédéral [یو فدرالي دولت],,0.0,
+answer,Un État unitaire décentralisé [یو غیر متمرکز واحد دولت],,1.0,
+answer,Une confédération d'États [د ایالتونو فدراسیون],,0.0,
+question,Pourquoi séparer les trois pouvoirs dans une démocratie ? [ولې په ډیموکراسۍ کې درې واکونه جلا کیږي؟],,,lvl2
+answer,Pour simplifier le travail du Gouvernement. [د حکومت کار ساده کولو لپاره.],,0.0,
+answer,Pour donner plus d'autorité au Président. [د ولسمشر ته د لا زیات واک ورکولو لپاره.],,0.0,
+answer,Pour éviter l'abus de pouvoir et garantir les libertés des citoyens. [د واک د ناوړه ګټې اخیستنې مخنیوي او د اتباعو د آزادۍ تضمینولو لپاره.],,1.0,
+question,Quel est le rôle du gouvernement ? [د حکومت رول څه دی؟],,,lvl2
+answer,Voter les lois et contrôler le Parlement. [د قوانینو تصویب کول او پارلمان کنټرول کول.],,0.0,
+answer,Conduire la politique de la Nation et appliquer les lois votées par le Parlement. [د ملت سیاست رهبري کول او د پارلمان لخوا تصویب شوي قوانین پلي کول.],,1.0,
+answer,Juger les crimes et les délits. [د جرمونو او سرغړونو قضاوت کول.],,0.0,
+question,Que se passe-t-il si un ministre ne respecte pas la loi ? [که چیرې یو وزیر قانون ته درناوی ونه کړي څه پیښیږي؟],,,lvl2
+answer,Il démissionne sans conséquence judiciaire. [هغه د قضایی پایلو پرته استعفا کوي.],,0.0,
+answer,Il est jugé par la Cour de Justice de la République. [هغه د جمهوریت د عدالت محکمې لخوا قضاوت کیږي.],,1.0,
+answer,Il est jugé par le Premier ministre. [د هغه قضاوت د لومړي وزیر لخوا کیږي.],,0.0,
+question,Est-ce que le président de la République a tous les pouvoirs ? [ایا ولسمشر ټول واکونه لري؟],,,lvl2
+answer,"Oui, il est le chef de l'État et du Gouvernement. [هو، هغه د دولت او حکومت مشر دی.]",,0.0,
+answer,"Non, le pouvoir est séparé entre trois organes. [نه، واک د دریو ارګانونو ترمنځ جلا شوی دی.]",,1.0,
+answer,"Oui, pendant les cinq ans de son mandat. [هو، د هغه د پنځه کلنې دندې پرمهال.]",,0.0,
+question,Qui est le préfet ? [والي څوک دی؟],,,lvl2
+answer,L'élu à la tête du Conseil départemental. [هغه ټاکل شوی چې د ډیپارټمنټ شورا په سر کې وي.],,0.0,
+answer,Le chef de la police nationale. [د ملي پولیسو مشر.],,0.0,
+answer,Le représentant de l'État dans une région ou un département. [په یوه سیمه یا ډیپارټمنټ کې د دولت استازی.],,1.0,
+question,Quelle condition est nécessaire pour voter aux élections ? [په ټاکنو کې د رایې ورکولو لپاره کوم شرط اړین دی؟],,,lvl2
+answer,Avoir plus de 21 ans. [د ۲۱ کلونو څخه ډیر عمر ولري.],,0.0,
+answer,Être majeur et de nationalité française. [قانوني عمر او فرانسوي تابعیت ولري.],,1.0,
+answer,Résider en France depuis au moins 5 ans. [لږترلږه د ۵ کلونو لپاره په فرانسه کې اوسیږي.],,0.0,
+question,Qu'est-ce que l'Hôtel de Matignon ? [د هوټل دی ماتینون څه شی دی؟],,,lvl2
+answer,La résidence officielle du Président de la République. [د ولسمشر رسمي استوګنځی.],,0.0,
+answer,La résidence officielle et le bureau du Premier ministre. [د لومړي وزیر رسمي استوګنځی او دفتر.],,1.0,
+answer,Le siège de l'Assemblée Nationale. [د ملي شورا مرکزي دفتر.],,0.0,
+question,Le Parlement est composé : [پارلمان له دې څخه جوړ دی:],,,lvl2
+answer,Du Président de la République et du Premier ministre. [د ولسمشر او لومړي وزیر څخه.],,0.0,
+answer,Du Conseil d'État et de la Cour de Cassation. [د دولتي شورا او د قضاوت محکمې څخه.],,0.0,
+answer,De l'Assemblée Nationale et du Sénat. [د ملي شورا او سنا څخه.],,1.0,
+question,Quel est le rôle du président de la République ? [د ولسمشر رول څه دی؟],,,lvl2
+answer,Appliquer les lois et gérer le budget. [د قوانینو پلي کول او د بودیجې اداره کول.],,0.0,
+answer,Garantir le bon fonctionnement des institutions et l'indépendance nationale. [د بنسټونو د ښه فعالیت او ملي خپلواکۍ تضمین کول.],,1.0,
+answer,Juger les crimes et délits. [د جرمونو او سرغړونو قضاوت کول.],,0.0,
+question,Quel est le rôle du Premier ministre ? [د لومړي وزیر رول څه دی؟],,,lvl2
+answer,"Diriger l'action du Gouvernement, responsable devant le Parlement. [د حکومت عمل رهبري کول، د پارلمان پروړاندې مسؤل.]",,1.0,
+answer,Représenter la France dans le monde. [په نړۍ کې د فرانسې استازیتوب کول.],,0.0,
+answer,Contrôler les juges. [د قاضیانو کنټرول کول.],,0.0,
+question,Qui est le chef du Gouvernement ? [د حکومت مشر څوک دی؟],,,lvl2
+answer,Le Président de la République [د ولسمشر],,0.0,
+answer,Le Premier ministre [لومړی وزیر],,1.0,
+answer,Le Président de la Région [د سیمې رییس],,0.0,
+question,Combien y a-t-il de régions en France ? [په فرانسه کې څو سیمې دي؟],,,lvl2
+answer,18 [۱۸],,1.0,
+answer,22 [۲۲],,0.0,
+answer,96 [۹۶],,0.0,
+question,Quel est le rôle du Défenseur des droits ? [د حقونو د مدافع رول څه دی؟],,,lvl2
+answer,Défendre le territoire national. [د ملي خاورې دفاع کول.],,0.0,
+answer,Veiller au respect des droits et libertés par les administrations et lutter contre les discriminations. [د ادارو لخوا د حقونو او آزادیو درناوي ته پاملرنه او د تبعیض پروړاندې مبارزه کول.],,1.0,
+answer,Rédiger les projets de loi du Gouvernement. [د حکومت د قانون پروژې لیکل.],,0.0,
+question,Depuis quand l'euro est-elle la monnaie unique ? [له کوم وخت راهیسې یورو یوازینۍ پیسې دي؟],,,lvl2
+answer,1999 [۱۹۹۹],,0.0,
+answer,2002 [۲۰۰۲],,1.0,
+answer,2007 [۲۰۰۷],,0.0,
+question,Quel est le rôle principal du département ? [د ډیپارټمنټ اصلي رول څه دی؟],,,lvl2
+answer,La défense nationale et la diplomatie. [ملي دفاع او ډیپلوماسي.],,0.0,
+answer,"L’action sociale, la gestion des collèges et des routes départementales. [ټولنیز عمل، د کالجونو مدیریت او ډیپارټمنټ سړکونه.]",,1.0,
+answer,La politique étrangère et la monnaie. [بهرنۍ تګلاره او پیسې.],,0.0,
+question,Quel est le rôle principal des communes ? [د ښاروالیو اصلي رول څه دی؟],,,lvl2
+answer,L'enseignement supérieur et la défense nationale. [لوړې زده کړې او ملي دفاع.],,0.0,
+answer,"L’état civil, l’urbanisme local et la gestion des écoles maternelles et primaires. [مدني حالت، سیمه ایز ښاري پلان جوړونه او د وړکتونونو او لومړني ښوونځیو مدیریت.]",,1.0,
+answer,La politique étrangère et la monnaie. [بهرنۍ تګلاره او پیسې.],,0.0,
+question,Combien de communes environ existe-t-il en France ? [په فرانسه کې شاوخوا څو ښاروالۍ شتون لري؟],,,lvl2
+answer,Environ 5 000 [شاوخوا ۵۰۰۰],,0.0,
+answer,Environ 15 000 [شاوخوا ۱۵۰۰۰],,0.0,
+answer,Plus de 34 000 [له ۳۴۰۰۰ څخه ډیر],,1.0,
+question,Quel traité concerne la construction de l'Union européenne ? [کوم تړون د اروپایی اتحادیې جوړولو پورې اړه لري؟],,,lvl2
+answer,Le traité de Versailles [د ورسای تړون],,0.0,
+answer,Le traité de Paris [د پاریس تړون],,0.0,
+answer,Le traité de Rome. [د روم تړون.],,1.0,
+question,Quel État a quitté l'Union européenne en 2020 ? [کوم ایالت په ۲۰۲۰ کې د اروپا اتحادیه پریښوده؟],,,lvl2
+answer,La Norvège [ناروې],,0.0,
+answer,Le Royaume-Uni [انګلستان],,1.0,
+answer,La Suisse [سویس],,0.0,
+question,Quelle est la devise de l’Union européenne ? [د اروپا د اتحادیې شعار څه دی؟],,,lvl2
+answer,"Liberté, Égalité, Fraternité [آزادي، مساوات، ورورولي]",,0.0,
+answer,Unie dans la diversité [په تنوع کې متحد],,1.0,
+answer,Paix et Prospérité [سوله او سوکالي],,0.0,
+question,Quel est l'hymne de l'Union européenne ? [د اروپا د اتحادیې ملي سرود څه دی؟],,,lvl2
+answer,L'Ode à la joie. [د خوښۍ سندره.],,1.0,
+answer,La Marseillaise [لا مارسیلیز],,0.0,
+answer,Le Chant du départ [د وتلو سندره],,0.0,
+question,De quoi est composé le drapeau européen ? [د اروپا بیرغ له څه شي جوړ شوی دی؟],,,lvl2
+answer,Un cercle de 27 étoiles de couleurs différentes. [د مختلفو رنګونو د ۲۷ ستورو یوه دایره.],,0.0,
+answer,Un cercle de 12 étoiles dorées sur fond bleu. [په آبي شالید کې د ۱۲ طلایی ستورو یوه دایره.],,1.0,
+answer,Un aigle impérial et des étoiles. [یو شاهي عقاب او ستوري.],,0.0,
+question,De quelle couleur est le drapeau européen ? [د اروپا بیرغ کوم رنګ دی؟],,,lvl2
+answer,Vert et blanc [شین او سپین],,0.0,
+answer,Rouge et or [سور او طلايي],,0.0,
+answer,Bleu et or. [آبي او طلايي.],,1.0,
+question,En quelle année le traité de Maastricht a-t-il été signé ? [د ماستریخت تړون په کوم کال کې لاسلیک شو؟],,,lvl2
+answer,1957 [۱۹۵۷],,0.0,
+answer,1989 [۱۹۸۹],,0.0,
+answer,1992 [۱۹۹۲],,1.0,
+question,Où est le siège du Parlement européen ? [د اروپا پارلمان مرکزي دفتر چیرته دی؟],,,lvl2
+answer,Bruxelles [بروکسل],,0.0,
+answer,Strasbourg [سټراسبورګ],,1.0,
+answer,Berlin [برلین],,0.0,
+question,Où est le siège de la Commission européenne ? [د اروپا کمیسیون مرکزي دفتر چیرته دی؟],,,lvl2
+answer,Strasbourg [سټراسبورګ],,0.0,
+answer,Bruxelles [بروکسل],,1.0,
+answer,Luxembourg [لوګزامبورګ],,0.0,
+question,Quel État n'est pas membre de l'Union européenne ? [کوم ایالت د اروپایی اتحادیې غړی نه دی؟],,,lvl2
+answer,L'Autriche [اتریش],,0.0,
+answer,La Norvège [ناروې],,1.0,
+answer,La Pologne [پولنډ],,0.0,
+question,À quelle fréquence les élections européennes sont-elles organisées ? [اروپایی ټاکنې هر څو ځله ترسره کیږي؟],,,lvl2
+answer,Tous les 4 ans [هر ۴ کاله],,0.0,
+answer,Tous les 5 ans [هر ۵ کاله],,1.0,
+answer,Tous les 6 ans [هر ۶ کاله],,0.0,
+question,Quel pays est un pays fondateur de l'Union européenne ? [کوم هیواد د اروپایی اتحادیې بنسټ ایښودونکی هیواد دی؟],,,lvl2
+answer,L'Irlande [ایرلینډ],,0.0,
+answer,L'Italie [ایټالیا],,1.0,
+answer,La Grèce [یونان],,0.0,
+question,Dans combien de pays le français est-il parlé? [په څو هیوادونو کې فرانسوي ژبه ویل کیږي؟],,,lvl3
+answer,27 [۲۷],,0.0,
+answer,18 [۱۸],,0.0,
+answer,70 [۷۰],,1.0,
+question,Que comprend l’état civil tenu par les communes? [د ښاروالیو لخوا ساتل شوی مدني حالت څه شی لري؟],,,lvl3
+answer,"Les naissances, mariages et décès [زیږونونه، ودونه او مړینې]",,1.0,
+answer,Les résultats électoraux [د ټاکنو پایلې],,0.0,
+answer,Les jugements judiciaires [د محکمې پریکړې],,0.0,
+question,Les Terres australes et antarctiques françaises sont… [د فرانسې سویل او انټارټیک ځمکې دي...],,,lvl3
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+answer,Une commune d’outre-mer [د بهرنیو چارو یوه ښاروالۍ],,0.0,
+question,Quelle est la durée du mandat des sénateurs en France? [په فرانسه کې د سناتورانو د دندې موده څومره ده؟],,,lvl3
+answer,7 ans [۷ کاله],,0.0,
+answer,6 ans [۶ کاله],,1.0,
+answer,5 ans [۵ کاله],,0.0,
+question,Qui est responsable des collèges? [د کالجونو مسؤل څوک دی؟],,,lvl3
+answer,La commune [ښاروالۍ],,0.0,
+answer,Le département [ډیپارټمنټ],,1.0,
+answer,La région [سیمه],,0.0,
+question,Qui administre une région en France? [په فرانسه کې یوه سیمه څوک اداره کوي؟],,,lvl3
+answer,Le conseil départemental [د ډیپارټمنټ شورا],,0.0,
+answer,Le conseil régional [سیمه ایزه شورا],,1.0,
+answer,Le préfet [والي],,0.0,
+question,Quelle est la capitale de la région Hauts-de-France? [د هټس دی فرانسې سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Arras [اراس],,0.0,
+answer,Amiens [امینز],,0.0,
+answer,Lille [لیل],,1.0,
+question,Mayotte est… [مایوټ دی...],,,lvl3
+answer,Un conseil d’outre-mer [د بهرنیو چارو یوه شورا],,0.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,1.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,0.0,
+question,Saint-Martin est… [سینټ مارټین دی...],,,lvl3
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+answer,Un conseil d’outre-mer [د بهرنیو چارو یوه شورا],,0.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+question,Quel est le principe de la démocratie française? [د فرانسوي ډیموکراسۍ اصل څه دی؟],,,lvl3
+answer,"Le gouvernement des élites, pour les élites [د اشرافو حکومت، د اشرافو لپاره]",,0.0,
+answer,Le gouvernement par l’armée [د اردو لخوا حکومت],,0.0,
+answer,"Le gouvernement du peuple, par le peuple et pour le peuple [د خلکو حکومت، د خلکو لخوا او د خلکو لپاره]",,1.0,
+question,Quelle est la capitale de la Martinique? [د مارټینیک پلازمینه کومه ده؟],,,lvl3
+answer,Saint-Pierre [سینټ پییر],,0.0,
+answer,Fort-de-France [فورټ دی فرانس],,1.0,
+answer,Le Lamentin [لی لامینټین],,0.0,
+question,Quelle est la capitale de La Réunion? [د ریونیون پلازمینه کومه ده؟],,,lvl3
+answer,Saint-Denis [سینټ ډینس],,1.0,
+answer,Mamoudzou [مامودزو],,0.0,
+answer,Saint-Pierre [سینټ پییر],,0.0,
+question,Que peuvent faire librement les partis politiques en France? [سیاسي ګوندونه په فرانسه کې په آزاده توګه څه کولی شي؟],,,lvl3
+answer,Se former et exercer leur activité [رامینځته کیدل او خپل فعالیت تمرین کول],,1.0,
+answer,Exister seulement s’ils sont religieux [یوازې هغه وخت شتون لري که دوی مذهبي وي],,0.0,
+answer,Être autorisés uniquement par le président [یوازې د ولسمشر لخوا اجازه ورکړل شوې ده],,0.0,
+question,Saint-Barthélemy est… [سینټ بارتلمي دی...],,,lvl3
+answer,Une commune d’outre-mer [د بهرنیو چارو یوه ښاروالۍ],,0.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+question,À quoi est soumis le pouvoir politique en France? [په فرانسه کې سیاسي واک د څه شي تابع دی؟],,,lvl3
+answer,À la volonté d’un seul chef [د یوه مشر ارادې ته],,0.0,
+answer,À la loi [قانون ته],,1.0,
+answer,À la religion dominante [غالب مذهب ته],,0.0,
+question,De quoi les départements sont-ils responsables? [ډیپارټمنټونه د څه شی مسؤلیت لري؟],,,lvl3
+answer,De la défense nationale [د ملي دفاع],,0.0,
+answer,"Des collèges, de la protection de l’enfance, de l’aide aux personnes âgées [د کالجونو، د ماشومانو خوندیتوب، د زړو خلکو سره مرسته]",,1.0,
+answer,De la politique étrangère [د بهرنۍ تګلارې],,0.0,
+question,Quelle est la capitale de la Guadeloupe? [د ګوادلوپ پلازمینه کومه ده؟],,,lvl3
+answer,Saint-François [سینټ فرانسوا],,0.0,
+answer,Basse-Terre [باس ټیر],,1.0,
+answer,Pointe-à-Pitre [پواینټ-ا-پیتری],,0.0,
+question,La Guyane est… [ګیانا ده...],,,lvl3
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,1.0,
+answer,Un conseil d’outre-mer [د بهرنیو چارو یوه شورا],,0.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,0.0,
+question,Qui est responsable des écoles primaires? [د لومړنیو ښوونځیو مسؤل څوک دی؟],,,lvl3
+answer,La région [سیمه],,0.0,
+answer,La commune [ښاروالۍ],,1.0,
+answer,Le département [ډیپارټمنټ],,0.0,
+question,La Nouvelle-Calédonie est… [نوی کالیډونیا ده...],,,lvl3
+answer,Une commune d’outre-mer [د بهرنیو چارو یوه ښاروالۍ],,0.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+question,Tous les combien d’années ont lieu les élections législatives pour élire les députés? [د استازو د ټاکلو لپاره مقننه ټاکنې هر څو کاله ترسره کیږي؟],,,lvl3
+answer,Tous les 5 ans [هر ۵ کاله],,1.0,
+answer,Tous les 4 ans [هر ۴ کاله],,0.0,
+answer,Tous les 6 ans [هر ۶ کاله],,0.0,
+question,Quelle est la capitale de la région Occitanie? [د اوکیتاني سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Toulouse [تولوز],,1.0,
+answer,Nîmes [نیمس],,0.0,
+answer,Montpellier [مونټپیلیئر],,0.0,
+question,Quelle place occupe la France à l’ONU? [فرانسه په ملګرو ملتونو کې څه ځای لري؟],,,lvl3
+answer,Membre permanent du Conseil de sécurité [د امنیت شورا دایمي غړی],,1.0,
+answer,Secrétaire général [عمومي منشي],,0.0,
+answer,Membre non permanent du Conseil de sécurité [د امنیت شورا غیر دایمي غړی],,0.0,
+question,Quelle est la capitale de la région Grand Est? [د ګرانډ ایسټ سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Strasbourg [سټراسبورګ],,1.0,
+answer,Metz [میټز],,0.0,
+answer,Nancy [نانسي],,0.0,
+question,Que partagent les États membres de l’Union européenne? [د اروپایی اتحادیې غړي هیوادونه څه شریکوي؟],,,lvl3
+answer,Des principes démocratiques [ډیموکراتیک اصول],,1.0,
+answer,Une même langue [یوه ژبه],,0.0,
+answer,Une même armée [یو پوځ],,0.0,
+question,Quelle est la capitale de Mayotte? [د مایوټ پلازمینه کومه ده؟],,,lvl3
+answer,Mamoudzou [مامودزو],,1.0,
+answer,Koungou [کونګو],,0.0,
+answer,Dzaoudzi [دزاودزی],,0.0,
+question,Qui est responsable de la formation professionnelle? [د مسلکي زده کړو مسؤل څوک دی؟],,,lvl3
+answer,Le département [ډیپارټمنټ],,0.0,
+answer,La commune [ښاروالۍ],,0.0,
+answer,La région [سیمه],,1.0,
+question,Que sanctionne la justice en France? [په فرانسه کې عدالت د څه شی جزا ورکوي؟],,,lvl3
+answer,Les choix religieux [مذهبي انتخابونه],,0.0,
+answer,Les infractions aux règles de droit [د قانون له مقرراتو څخه سرغړونې],,1.0,
+answer,Les opinions politiques [سیاسي نظرونه],,0.0,
+question,En quelle année a été adoptée la Charte des droits fondamentaux de l’Union européenne? [د اروپایی اتحادیې د بنسټیزو حقونو منشور په کوم کال کې تصویب شو؟],,,lvl3
+answer,2000 [۲۰۰۰],,1.0,
+answer,1992 [۱۹۹۲],,0.0,
+answer,1957 [۱۹۵۷],,0.0,
+question,Quelle est la capitale de Wallis-et-Futuna? [د والس او فوټونا پلازمینه کومه ده؟],,,lvl3
+answer,Wallis [والس],,0.0,
+answer,Mata-Utu [ماتا-اوتو],,1.0,
+answer,Futuna [فوټونا],,0.0,
+question,De quoi les communes sont-elles responsables? [ښاروالۍ د څه شی مسؤلیت لري؟],,,lvl3
+answer,"Des écoles maternelles et primaires, des activités sportives et culturelles, de la voirie communale, de l’état civil [د وړکتونونو او لومړني ښوونځیو، سپورتي او کلتوري فعالیتونو، ښاروالۍ سړکونو، مدني حالت]",,1.0,
+answer,Des impôts nationaux [د ملي مالیاتو],,0.0,
+answer,Des universités et de la recherche [د پوهنتونونو او څیړنو],,0.0,
+question,Tous les combien d’années ont lieu les élections du Parlement européen? [د اروپا پارلمان ټاکنې هر څو کاله ترسره کیږي؟],,,lvl3
+answer,Tous les 6 ans [هر ۶ کاله],,0.0,
+answer,Tous les 10 ans [هر ۱۰ کاله],,0.0,
+answer,Tous les 5 ans [هر ۵ کاله],,1.0,
+question,La Réunion est… [ریونیون دی...],,,lvl3
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,1.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,0.0,
+answer,Une commune d’outre-mer [د بهرنیو چارو یوه ښاروالۍ],,0.0,
+question,Qui est responsable des transports publics régionaux? [د سیمه ایزو عامه ترانسپورت مسؤل څوک دی؟],,,lvl3
+answer,La commune [ښاروالۍ],,0.0,
+answer,Le département [ډیپارټمنټ],,0.0,
+answer,La région [سیمه],,1.0,
+question,Quelles peines peuvent être prononcées par la justice? [محکمې کومې جزاګانې ورکولی شي؟],,,lvl3
+answer,"Emprisonnement, amende [زندان، جریمه]",,1.0,
+answer,Déchéance automatique de nationalité [د تابعیت اتوماتیک له لاسه ورکول],,0.0,
+answer,Travail bénévole obligatoire [لازمي داوطلبانه کار],,0.0,
+question,Par qui la justice est-elle rendue en France? [په فرانسه کې عدالت د چا لخوا ترسره کیږي؟],,,lvl3
+answer,Par les députés [د استازو لخوا],,0.0,
+answer,Par les juges [د قاضیانو لخوا],,1.0,
+answer,Par le Président [د ولسمشر لخوا],,0.0,
+question,Donne trois exemples de collectivités d’outre-mer françaises. [د فرانسې د بهرنیو ټولنو درې بیلګې ورکړئ.],,,lvl3
+answer,"Luxembourg, Andorre, Suisse [لوګزامبورګ، اندورا، سویس]",,0.0,
+answer,"Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna [نوې کالیډونیا، فرانسوي پولینیشیا، والس او فوټونا]",,1.0,
+answer,"Corse, Provence, Bretagne [کورس، پروونس، بریتاني]",,0.0,
+question,Qui est responsable de la construction des lycées? [د لیسو جوړولو مسؤل څوک دی؟],,,lvl3
+answer,Le département [ډیپارټمنټ],,0.0,
+answer,La région [سیمه],,1.0,
+answer,La commune [ښاروالۍ],,0.0,
+question,Comment les lois traitent-elles les citoyens? [قوانین له اتباعو سره څنګه چلند کوي؟],,,lvl3
+answer,Selon leur origine sociale [د دوی د ټولنیز اصل سره سم],,0.0,
+answer,Selon leur religion [د دوی د مذهب سره سم],,0.0,
+answer,De façon égale [په مساوي توګه],,1.0,
+question,Quelle est la capitale de la Nouvelle-Calédonie? [د نوي کالیډونیا پلازمینه کومه ده؟],,,lvl3
+answer,Papeete [پاپیت],,0.0,
+answer,Koné [کون],,0.0,
+answer,Nouméa [نومیا],,1.0,
+question,Quelle est la capitale de Saint-Pierre-et-Miquelon? [د سینټ پییر او میکیلون پلازمینه کومه ده؟],,,lvl3
+answer,Miquelon [میکیلون],,0.0,
+answer,Saint-Denis [سینټ ډینس],,0.0,
+answer,Saint-Pierre [سینټ پییر],,1.0,
+question,La Guadeloupe est… [ګوادلوپ دی...],,,lvl3
+answer,Une commune d’outre-mer [د بهرنیو چارو یوه ښاروالۍ],,0.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,1.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,0.0,
+question,Selon quel texte le pouvoir politique doit-il fonctionner? [د کوم متن له مخې باید سیاسي واک کار وکړي؟],,,lvl3
+answer,Les traditions religieuses [مذهبي دودونه],,0.0,
+answer,Les coutumes locales [سیمه ایز دودونه],,0.0,
+answer,La Constitution et la loi [اساسي قانون او قانون],,1.0,
+question,Wallis-et-Futuna est… [والس او فوټونا دی...],,,lvl3
+answer,Une commune d’outre-mer [د بهرنیو چارو یوه ښاروالۍ],,0.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+question,Quelle est la capitale de la région Centre-Val de Loire? [د سینټر-وال دي لوار سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Tours [تورس],,0.0,
+answer,Orléans [اورلیانز],,1.0,
+answer,Blois [بلوا],,0.0,
+question,Quelle est la capitale de Saint-Martin? [د سینټ مارټین پلازمینه کومه ده؟],,,lvl3
+answer,Marigot [ماریګوټ],,1.0,
+answer,Gustavia [ګوستاویا],,0.0,
+answer,Phillipsburg [فلیپسبرګ],,0.0,
+question,Quels droits sont associés à la citoyenneté européenne? [کوم حقونه د اروپایی تابعیت سره تړاو لري؟],,,lvl3
+answer,"Circuler, travailler, étudier, s’installer dans les autres pays de l’Union [د اتحادیې په نورو هیوادونو کې سفر کول، کار کول، زده کړه کول، میشت کیدل]",,1.0,
+answer,Être exempté d’impôts [د مالیاتو څخه معاف کیدل],,0.0,
+answer,Avoir automatiquement deux nationalités [په اوتومات ډول دوه تابعیتونه درلودل],,0.0,
+question,Dans combien de pays européens l’euro est-il utilisé avec la France? [په څو اروپایی هیوادونو کې یورو د فرانسې سره یوځای کارول کیږي؟],,,lvl3
+answer,27 [۲۷],,0.0,
+answer,20 [۲۰],,1.0,
+answer,12 [۱۲],,0.0,
+question,Quelle est la capitale de la région Corse? [د کورس سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Bastia [باستیا],,0.0,
+answer,Calvi [کالوی],,0.0,
+answer,Ajaccio [اجاکسیو],,1.0,
+question,Quelle est la capitale de la région Normandie? [د نورمانډي سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Rouen [رون],,1.0,
+answer,Caen [کاین],,0.0,
+answer,Le Havre [لی هاور],,0.0,
+question,Quelle autorité enregistre les décès? [کوم واک مړینې ثبتوي؟],,,lvl3
+answer,Le département [ډیپارټمنټ],,0.0,
+answer,La commune [ښاروالۍ],,1.0,
+answer,La région [سیمه],,0.0,
+question,Par quel mode de scrutin est élu le Président de la République? [د ولسمشر د ټاکلو لپاره کوم ډول رایه کارول کیږي؟],,,lvl3
+answer,Au suffrage universel indirect [د غیر مستقیم عمومي رایو له لارې],,0.0,
+answer,Au suffrage universel direct [د مستقیم عمومي رایو له لارې],,1.0,
+answer,Par nomination du Parlement [د پارلمان لخوا د ټاکل کیدو له لارې],,0.0,
+question,Pour combien de temps le maire est-il élu? [ښاروال د څومره وخت لپاره ټاکل کیږي؟],,,lvl3
+answer,4 ans [۴ کاله],,0.0,
+answer,6 ans [۶ کاله],,1.0,
+answer,5 ans [۵ کاله],,0.0,
+question,Pour combien de temps les conseillers régionaux sont-ils élus? [سیمه ایز مشاورین د څومره وخت لپاره ټاکل کیږي؟],,,lvl3
+answer,6 ans [۶ کاله],,1.0,
+answer,5 ans [۵ کاله],,0.0,
+answer,7 ans [۷ کاله],,0.0,
+question,Comment les communes sont-elles regroupées? [ښاروالۍ څنګه ګروپ کیږي؟],,,lvl3
+answer,En départements [په ډیپارټمنټونو کې],,0.0,
+answer,En régions [په سیمو کې],,0.0,
+answer,"En intercommunalités [په بین الښاروالیو کې]",,1.0,
+question,Comment sont élus les sénateurs en France? [په فرانسه کې سناتوران څنګه ټاکل کیږي؟],,,lvl3
+answer,Au suffrage universel indirect [د غیر مستقیم عمومي رایو له لارې],,1.0,
+answer,Par le Président de la République [د ولسمشر لخوا],,0.0,
+answer,Au suffrage universel direct [د مستقیم عمومي رایو له لارې],,0.0,
+question,Qui est responsable de la voirie communale? [د ښاروالۍ د سړکونو مسؤل څوک دی؟],,,lvl3
+answer,La région [سیمه],,0.0,
+answer,La commune [ښاروالۍ],,1.0,
+answer,Le département [ډیپارټمنټ],,0.0,
+question,Qui peut représenter l’État dans certaines collectivités d’outre-mer? [په ځینو بهرنیو ټولنو کې د دولت استازیتوب څوک کولی شي؟],,,lvl3
+answer,Les hauts-commissaires [لوی کمیشنران],,1.0,
+answer,Les gouverneurs élus [ټاکل شوي والیان],,0.0,
+answer,Les ambassadeurs [سفیران],,0.0,
+question,Quelle est la capitale de la région Auvergne-Rhône-Alpes? [د اوورګن-رون-الپس سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Chambéry [چیمبري],,0.0,
+answer,Grenoble [ګرینوبل],,0.0,
+answer,Lyon [لیون],,1.0,
+question,Qui administre les départements? [ډیپارټمنټونه څوک اداره کوي؟],,,lvl3
+answer,Les maires [ښاروالان],,0.0,
+answer,Les conseils départementaux [د ډیپارټمنټ شوراګانې],,1.0,
+answer,Les conseils régionaux [سیمه ایزې شوراګانې],,0.0,
+question,Qu’est-ce qui est garanti concernant la justice en France? [د فرانسې د عدالت په اړه څه تضمین شوي دي؟],,,lvl3
+answer,Son indépendance [د هغې خپلواکي],,1.0,
+answer,Sa dépendance au gouvernement [د حکومت سره د هغې تړاو],,0.0,
+answer,Sa soumission aux partis politiques [سیاسي ګوندونو ته د هغې تسلیمدل],,0.0,
+question,Que règle la justice en France? [په فرانسه کې عدالت څه تنظیموي؟],,,lvl3
+answer,Les élections présidentielles [ولسمشریزې ټاکنې],,0.0,
+answer,"Les litiges entre particuliers, entreprises et citoyens avec l’administration [د اشخاصو، شرکتونو او د ادارې سره د اتباعو ترمنځ شخړې]",,1.0,
+answer,Les décisions économiques du Gouvernement [د حکومت اقتصادي پریکړې],,0.0,
+question,Qui administre les régions? [سیمې څوک اداره کوي؟],,,lvl3
+answer,Les préfets [والیان],,0.0,
+answer,Le Sénat [سنا],,0.0,
+answer,Les conseils régionaux [سیمه ایزې شوراګانې],,1.0,
+question,Depuis quelle année les citoyens français sont-ils aussi citoyens européens? [له کوم کال راهیسې فرانسوي اتباع د اروپا اتباع هم دي؟],,,lvl3
+answer,1957 [۱۹۵۷],,0.0,
+answer,1992 [۱۹۹۲],,1.0,
+answer,2000 [۲۰۰۰],,0.0,
+question,Qui est responsable de l’aide aux personnes âgées? [د زړو خلکو سره د مرستې مسؤل څوک دی؟],,,lvl3
+answer,La région [سیمه],,0.0,
+answer,Le département [ډیپارټمنټ],,1.0,
+answer,La commune [ښاروالۍ],,0.0,
+question,Quel texte définit l’organisation de l’État en France? [کوم متن په فرانسه کې د دولت تنظیم تعریفوي؟],,,lvl3
+answer,Le Code civil [مدني قانون],,0.0,
+answer,La Constitution [اساسي قانون],,1.0,
+answer,La Déclaration des droits de l’homme et du citoyen [د بشري او اتباعو د حقونو اعلامیه],,0.0,
+question,Quels sont les cinq départements-régions d’outre-mer? [د بهرنیو چارو پنځه څانګې-سیمې کومې دي؟],,,lvl3
+answer,"Guadeloupe, Guyane, Martinique, Mayotte, La Réunion [ګوادلوپ، ګیانا، مارتینیک، مایوټ، ریونیون]",,1.0,
+answer,"Corse, Monaco, Andorre, Luxembourg, Sardaigne [کورس، موناکو، اندورا، لوګزامبورګ، سارډینیا]",,0.0,
+answer,"Polynésie française, Wallis-et-Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon [فرانسوي پولینیشیا، والس او فوټونا، سینټ بارتلمي، سینټ مارټین، سینټ پییر او میکیلون]",,0.0,
+question,Que garantit la Charte des droits fondamentaux de l’Union européenne? [د اروپایی اتحادیې د بنسټیزو حقونو منشور څه تضمین کوي؟],,,lvl3
+answer,L’unité monétaire [د اسعارو یووالی],,0.0,
+answer,Les droits des personnes [د خلکو حقونه],,1.0,
+answer,La politique étrangère commune [ګډ بهرنی سیاست],,0.0,
+question,De quelle majorité politique le Premier ministre est-il issu? [لومړی وزیر له کوم سیاسي اکثریت څخه راځي؟],,,lvl3
+answer,De la majorité au Sénat [په سنا کې له اکثریت څخه],,0.0,
+answer,De la majorité présidentielle uniquement [یوازې د ولسمشریزو اکثریت څخه],,0.0,
+answer,De la majorité aux élections législatives [د مقننه ټاکنو په اکثریت کې],,1.0,
+question,Quelle est la capitale de la région Nouvelle-Aquitaine? [د نوي اکویتین سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Limoges [لیموجز],,0.0,
+answer,Bordeaux [بوردو],,1.0,
+answer,Pau [پاو],,0.0,
+question,Quelle est la capitale de la région Provence-Alpes-Côte d’Azur? [د پروونس-الپس-کوټ دی ازور سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Marseille [مارسیل],,1.0,
+answer,Toulon [تولون],,0.0,
+answer,Nice [نیس],,0.0,
+question,Qui est responsable de la protection de l’enfance? [د ماشومانو د خوندیتوب مسؤل څوک دی؟],,,lvl3
+answer,La région [سیمه],,0.0,
+answer,Le département [ډیپارټمنټ],,1.0,
+answer,La commune [ښاروالۍ],,0.0,
+question,De quoi les régions sont-elles responsables? [سیمې د څه شی مسؤلیت لري؟],,,lvl3
+answer,"Des transports publics, de la formation professionnelle, de la construction et de l’entretien des lycées [د عامه ترانسپورت، مسلکي روزنې، د لیسو جوړولو او ساتنې لپاره]",,1.0,
+answer,Des écoles maternelles [د وړکتونونو],,0.0,
+answer,Des hôpitaux militaires [د نظامي روغتونونو],,0.0,
+question,Quelle est la capitale de la région Bourgogne-Franche-Comté? [د بورګون-فرانش-کومټي سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Mâcon [ماکون],,0.0,
+answer,Besançon [بیسانکون],,0.0,
+answer,Dijon [دیجون],,1.0,
+question,Quelle est la capitale de la Polynésie française? [د فرانسوي پولینیشیا پلازمینه کومه ده؟],,,lvl3
+answer,Raiatea [رایټیا],,0.0,
+answer,Papeete [پاپیت],,1.0,
+answer,Nouméa [نومیا],,0.0,
+question,Qui est responsable des activités culturelles locales? [د محلي کلتوري فعالیتونو مسؤل څوک دی؟],,,lvl3
+answer,La région [سیمه],,0.0,
+answer,Le département [ډیپارټمنټ],,0.0,
+answer,La commune [ښاروالۍ],,1.0,
+question,Quelle est la place économique de la France dans le monde? [په نړۍ کې د فرانسې اقتصادي ځای کوم دی؟],,,lvl3
+answer,Dixième puissance mondiale [لسم نړیوال ځواک],,0.0,
+answer,Sixième puissance mondiale [شپږم نړیوال ځواک],,1.0,
+answer,Première puissance mondiale [لومړی نړیوال ځواک],,0.0,
+question,Saint-Pierre-et-Miquelon est… [سینټ پییر او میکیلون دی...],,,lvl3
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+answer,Un conseil d’outre-mer [د بهرنیو چارو یوه شورا],,0.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+question,Qui est responsable de l’entretien des lycées? [د لیسو د ساتنې مسؤل څوک دی؟],,,lvl3
+answer,La commune [ښاروالۍ],,0.0,
+answer,La région [سیمه],,1.0,
+answer,Le département [ډیپارټمنټ],,0.0,
+question,Quelle est la capitale de la Guyane française? [د فرانسوي ګیانا پلازمینه کومه ده؟],,,lvl3
+answer,Fort-de-France [فورټ دی فرانس],,0.0,
+answer,Cayenne [کایین],,1.0,
+answer,Mamoudzou [مامودزو],,0.0,
+question,Combien de collectivités d’outre-mer la France compte-t-elle? [فرانسه د بهرنیو چارو څو ټولنې لري؟],,,lvl3
+answer,7 [۷],,1.0,
+answer,12 [۱۲],,0.0,
+answer,5 [۵],,0.0,
+question,Quelle est la capitale de Saint-Barthélemy? [د سینټ بارتلمي پلازمینه کومه ده؟],,,lvl3
+answer,Marigot [ماریګوټ],,0.0,
+answer,Saint-Martin [سینټ مارټین],,0.0,
+answer,Gustavia [ګوستاویا],,1.0,
+question,Qui représente l’État dans les départements et régions? [په ډیپارټمنټونو او سیمو کې د دولت استازیتوب څوک کوي؟],,,lvl3
+answer,Le député [استازی],,0.0,
+answer,Le maire [ښاروال],,0.0,
+answer,Le préfet [والي],,1.0,
+question,Combien de chambres composent le Parlement français? [د فرانسې پارلمان له څو خونو څخه جوړ دی؟],,,lvl3
+answer,Trois [درې],,0.0,
+answer,Une [یوه],,0.0,
+answer,Deux [دوه],,1.0,
+question,Quelle proportion de la population mondiale représentent les Français? [فرانسویان د نړۍ د نفوس څو سلنه جوړوي؟],,,lvl3
+answer,1 % [۱ ٪],,1.0,
+answer,10 % [۱۰ ٪],,0.0,
+answer,5 % [۵ ٪],,0.0,
+question,Quelle est la capitale de la région Bretagne? [د بریتاني سیمې پلازمینه کومه ده؟],,,lvl3
+answer,Vannes [وانس],,0.0,
+answer,Quimper [کیمپر],,0.0,
+answer,Rennes [رینز],,1.0,
+question,La Polynésie française est… [فرانسوي پولینیشیا دی...],,,lvl3
+answer,Un conseil d’outre-mer [د بهرنیو چارو یوه شورا],,0.0,
+answer,Une collectivité d’outre-mer [د بهرنیو چارو یوه ټولنه],,1.0,
+answer,Un département et région d’outre-mer [یوه څانګه او د بهرنیو چارو سیمه],,0.0,
+question,Combien de territoires d’outre-mer la France compte-t-elle au total? [فرانسه په ټولیز ډول د بهرنیو چارو څو سیمې لري؟],,,lvl3
+answer,5 [۵],,0.0,
+answer,12 [۱۲],,1.0,
+answer,7 [۷],,0.0,
+question,Que peuvent faire les citoyens français installés dans un autre pays de l’Union? [هغه فرانسوي اتباع چې د اتحادیې په بل هیواد کې میشت دي، څه کولی شي؟],,,lvl3
+answer,Être automatiquement fonctionnaires de ce pays [په اتوماتيک ډول د دې هیواد دولتي کارمندان شي],,0.0,
+answer,Voter aux élections locales de ce pays [د دې هیواد په محلي ټاکنو کې رایه ورکول],,1.0,
+answer,Se présenter à la présidence de ce pays [د دې هیواد ولسمشرۍ ته ځان نومول],,0.0,

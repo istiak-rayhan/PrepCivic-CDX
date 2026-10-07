@@ -1,0 +1,697 @@
+type,text,placeholder,is_correct,level
+question,"Qui nomme le Premier ministre ? (কে প্রধানমন্ত্রীকে নিয়োগ করেন?)",,,lvl1
+answer,"Le Président de l'Assemblée Nationale (জাতীয় পরিষদের সভাপতি)",,0,
+answer,"Le Président du Sénat (সেনেটের সভাপতি)",,0,
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,1,
+question,"Le Parlement est composé : (সংসদ গঠিত হয়:)",,,lvl1
+answer,"Du Président de la République et du Premier ministre (প্রজাতন্ত্রের রাষ্ট্রপতি এবং প্রধানমন্ত্রীর)",,0,
+answer,"Du Gouvernement et du Conseil d'État (সরকার এবং রাজ্য পরিষদের)",,0,
+answer,"De l'Assemblée Nationale et du Sénat (জাতীয় পরিষদ এবং সেনেট দ্বারা)",,1,
+question,"Qu'est-ce que le pouvoir exécutif ? Le pouvoir : (নির্বাহী ক্ষমতা কী? এই ক্ষমতা:)",,,lvl1
+answer,"Qui fait les lois (যারা আইন তৈরি করে)",,0,
+answer,"Qui juge et sanctionne les personnes (যারা মানুষের বিচার করে এবং শাস্তি দেয়)",,0,
+answer,"Qui met en œuvre les lois et conduit la politique de la Nation (যারা আইন প্রয়োগ করে এবং জাতির নীতি পরিচালনা করে)",,1,
+question,"Les dirigeants sont élus par les citoyens dans : (শাসকরা নাগরিকদের দ্বারা নির্বাচিত হন:)",,,lvl1
+answer,"Une dictature (একটি একনায়কতন্ত্রে)",,0,
+answer,"Une monarchie (একটি রাজতন্ত্রে)",,0,
+answer,"Une démocratie (একটি গণতন্ত্রে)",,1,
+question,"A-t-on le droit de ne pas respecter une loi ? (একটি আইনকে সম্মান না করার অধিকার আছে কি?)",,,lvl1
+answer,"Oui, si la loi est ancienne. (হ্যাঁ, যদি আইনটি পুরোনো হয়।)",,0,
+answer,"Oui, si l'on n'est pas d'accord avec la loi. (হ্যাঁ, যদি কেউ আইনটির সাথে একমত না হয়।)",,0,
+answer,"Non, la loi s'applique à tous et doit être respectée . (না, আইন সকলের জন্য প্রযোজ্য এবং অবশ্যই সম্মান করতে হবে।)",,1,
+question,"Qui doit respecter la loi ? (আইন কাকে অবশ্যই সম্মান করতে হবে?)",,,lvl1
+answer,"Uniquement les citoyens français. (শুধুমাত্র ফরাসি নাগরিকদের।)",,0,
+answer,"Uniquement les fonctionnaires. (শুধুমাত্র সরকারি কর্মচারীদের।)",,0,
+answer,"Toutes les personnes résidant en France, y compris les visiteurs. (ফ্রান্সে বসবাসকারী সকল ব্যক্তি, পরিদর্শকরা সহ।)",,1,
+question,"Quel est le rôle de l'autorité judiciaire ? (বিচার ব্যবস্থার ভূমিকা কী?)",,,lvl1
+answer,"Faire la guerre et signer les traités internationaux. (যুদ্ধ করা এবং আন্তর্জাতিক চুক্তি স্বাক্ষর করা।)",,0,
+answer,"Voter les lois. (আইন পাস করা।)",,0,
+answer,"Veiller au respect de la loi et sanctionner son non-respect. (আইনের প্রতি সম্মান নিশ্চিত করা এবং তা অমান্য করার শাস্তি দেওয়া।)",,1,
+question,"Quel pouvoir détient un juge ? Le pouvoir : (একজন বিচারক কোন ক্ষমতা রাখেন? এই ক্ষমতা:)",,,lvl1
+answer,"Exécutif (নির্বাহী)",,0,
+answer,"Législatif (আইন প্রণয়নকারী)",,0,
+answer,"Judiciaire (বিচার বিভাগীয়)",,1,
+question,"L'autorité judiciaire est exercée par : (বিচার ব্যবস্থা কাদের দ্বারা পরিচালিত হয়?)",,,lvl1
+answer,"Le Gouvernement et les préfets. (সরকার এবং প্রিফেক্টদের দ্বারা।)",,0,
+answer,"Le Parlement et les maires. (সংসদ এবং মেয়রদের দ্বারা।)",,0,
+answer,"Les magistrats (juges et procureurs). (ম্যাজিস্ট্রেটদের দ্বারা (বিচারক ও প্রসিকিউটর)।)",,1,
+question,"Que se passe-t-il si un ministre ne respecte pas la loi ? (যদি কোনো মন্ত্রী আইন অমান্য করেন তবে কী হবে?)",,,lvl1
+answer,"Rien, car il est protégé par son statut. (কিছুই হবে না, কারণ তিনি তার পদমর্যাদা দ্বারা সুরক্ষিত।)",,0,
+answer,"Il est jugé par le Président de la République. (তিনি প্রজাতন্ত্রের রাষ্ট্রপতি দ্বারা বিচারিত হন।)",,0,
+answer,"Il est jugé par la Cour de Justice de la République (CJR) ou les tribunaux ordinaires. (তিনি প্রজাতন্ত্রের বিচার আদালত (CJR) বা সাধারণ আদালত দ্বারা বিচারিত হন।)",,1,
+question,"Qui est élu lors des élections législatives ? (আইনসভা নির্বাচনে (législatives) কে নির্বাচিত হন?)",,,lvl1
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,0,
+answer,"Les députés à l'Assemblée Nationale (জাতীয় পরিষদের সদস্যরা (députés))",,1,
+answer,"Les maires et leurs conseillers municipaux (মেয়র ও তাদের পৌর কাউন্সিলররা)",,0,
+question,"Combien de députés composent l’Assemblée nationale ? (জাতীয় পরিষদে কতজন ডেপুটি (députés) থাকেন?)",,,lvl1
+answer,"Environ 350 (প্রায় ৩৫০ জন)",,0,
+answer,"577 (৫৭৭ জন)",,1,
+answer,"Environ 700 (প্রায় ৭০০ জন)",,0,
+question,"Quand sont élus les sénateurs ? (সেনেটররা কখন নির্বাচিত হন?)",,,lvl1
+answer,"Au suffrage universel direct par tous les citoyens. (সকল নাগরিকের সরাসরি সর্বজনীন ভোটাধিকার দ্বারা।)",,0,
+answer,"Lors des élections présidentielles. (রাষ্ট্রপতি নির্বাচনের সময়।)",,0,
+answer,"Au suffrage universel indirect par les ""grands électeurs"" (élus locaux). (স্থানীয় নির্বাচিত প্রতিনিধিদের (বড় ভোটার) দ্বারা পরোক্ষ সর্বজনীন ভোটাধিকারের মাধ্যমে।)",,1,
+question,"Qui est élu lors des élections municipales ? (পৌরসভা নির্বাচনে (municipales) কে নির্বাচিত হন?)",,,lvl1
+answer,"Les conseillers régionaux et départementaux (আঞ্চলিক ও বিভাগীয় কাউন্সিলররা)",,0,
+answer,"Les maires et les conseillers municipaux (মেয়র ও পৌর কাউন্সিলররা)",,1,
+answer,"Les députés au Parlement européen (ইউরোপীয় সংসদের ডেপুটিরা)",,0,
+question,"Qui est élu lors des élections présidentielles ? (রাষ্ট্রপতি নির্বাচনে কে নির্বাচিত হন?)",,,lvl1
+answer,"Le Premier ministre (প্রধানমন্ত্রী)",,0,
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,1,
+answer,"Le Président du Sénat (সেনেটের সভাপতি)",,0,
+question,"À partir de quel âge a-t-on le droit de voter ? (কত বছর বয়স থেকে ভোট দেওয়ার অধিকার আছে?)",,,lvl1
+answer,"21 ans (২১ বছর)",,0,
+answer,"16 ans (১৬ বছর)",,0,
+answer,"18 ans (১৮ বছর)",,1,
+question,"Pour combien de temps est élu le président de la République française ? (ফরাসি প্রজাতন্ত্রের রাষ্ট্রপতি কত সময়ের জন্য নির্বাচিত হন?)",,,lvl1
+answer,"7 ans (৭ বছর)",,0,
+answer,"6 ans (৬ বছর)",,0,
+answer,"5 ans (৫ বছর)",,1,
+question,"Pour combien de temps sont élus les députés ? (ডেপুটিরা (députés) কত সময়ের জন্য নির্বাচিত হন?)",,,lvl1
+answer,"7 ans (৭ বছর)",,0,
+answer,"6 ans (৬ বছর)",,0,
+answer,"5 ans (৫ বছর)",,1,
+question,"Pour combien de temps sont élus les sénateurs ? (সেনেটররা কত সময়ের জন্য নির্বাচিত হন?)",,,lvl1
+answer,"5 ans (৫ বছর)",,0,
+answer,"6 ans (৬ বছর)",,1,
+answer,"7 ans (৭ বছর)",,0,
+question,"Qui possède le pouvoir exécutif ? (নির্বাহী ক্ষমতা কার হাতে ন্যস্ত?)",,,lvl1
+answer,"Le Parlement (Parlement)",,0,
+answer,"Le Président de la République et le Gouvernement (প্রজাতন্ত্রের রাষ্ট্রপতি এবং সরকার)",,1,
+answer,"La Cour de Cassation (কোর্ট দে কাসাসিওঁ / সর্বোচ্চ আপিল আদালত)",,0,
+question,"Quelle condition est nécessaire pour voter aux élections ? (নির্বাচনে ভোট দেওয়ার জন্য কোন শর্তটি প্রয়োজনীয়?)",,,lvl1
+answer,"Être propriétaire d'un logement en France. (ফ্রান্সে একটি বাড়ির মালিক হওয়া।)",,0,
+answer,"Être titulaire de la nationalité française depuis 10 ans. (১০ বছর ধরে ফরাসি জাতীয়তার অধিকারী হওয়া।)",,0,
+answer,"Être âgé de 18 ans et être de nationalité française (pour la plupart des élections). (১৮ বছর বয়সী হওয়া এবং ফরাসি জাতীয়তার অধিকারী হওয়া (বেশিরভাগ নির্বাচনের জন্য)।)",,1,
+question,"Qui peut voter aux élections en France ? (ফ্রান্সে নির্বাচনে কে ভোট দিতে পারে?)",,,lvl1
+answer,"Tous les résidents étrangers. (সকল বিদেশী বাসিন্দা।)",,0,
+answer,"Tous les citoyens français majeurs (pour la plupart des élections). (সকল প্রাপ্তবয়স্ক ফরাসি নাগরিক (বেশিরভাগ নির্বাচনের জন্য)।)",,1,
+answer,"Uniquement les hommes majeurs. (শুধুমাত্র প্রাপ্তবয়স্ক পুরুষরা।)",,0,
+question,"Que signifie « suffrage universel » ? (« সর্বজনীন ভোটাধিকার » (suffrage universel) মানে কী?)",,,lvl1
+answer,"Que seuls les hommes peuvent voter. (যে শুধুমাত্র পুরুষরা ভোট দিতে পারে।)",,0,
+answer,"Que seuls les plus riches peuvent voter. (যে শুধুমাত্র ধনীরাই ভোট দিতে পারে।)",,0,
+answer,"Que tous les citoyens majeurs peuvent voter, sans distinction. (যে সকল প্রাপ্তবয়স্ক নাগরিক কোনো ভেদাভেদ ছাড়া ভোট দিতে পারে।)",,1,
+question,"Concernant les partis politiques, quelle proposition est correcte ? (রাজনৈতিক দলগুলির বিষয়ে, কোন প্রস্তাবটি সঠিক?)",,,lvl1
+answer,"Ils sont interdits par la Constitution française. (তারা ফরাসি সংবিধান দ্বারা নিষিদ্ধ।)",,0,
+answer,"Un seul parti est autorisé par l'État. (রাষ্ট্র দ্বারা শুধুমাত্র একটি দল অনুমোদিত।)",,0,
+answer,"Ils sont libres de se créer et d'exercer leur activité dans le respect de la loi. (তারা আইন মেনে স্বাধীনভাবে গঠিত হতে এবং তাদের কার্যকলাপ পরিচালনা করতে পারে।)",,1,
+question,"Quel est le rôle des députés ? (ডেপুটিদের (députés) ভূমিকা কী?)",,,lvl1
+answer,"Exécuter les lois et gérer l'administration. (আইন কার্যকর করা এবং প্রশাসন পরিচালনা করা।)",,0,
+answer,"Voter les lois et contrôler l'action du Gouvernement. (আইন পাস করা এবং সরকারের কার্য নিয়ন্ত্রণ করা।)",,1,
+answer,"Juger les crimes et délits. (অপরাধ ও অসদাচরণের বিচার করা।)",,0,
+question,"La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ? (ক্ষমতার পৃথকীকরণ একটি মৌলিক নীতি। সংশ্লিষ্ট তিনটি ক্ষমতা কী কী?)",,,lvl1
+answer,"Le pouvoir militaire, le pouvoir civil, le pouvoir religieux. (সামরিক ক্ষমতা, বেসামরিক ক্ষমতা, ধর্মীয় ক্ষমতা।)",,0,
+answer,"Le pouvoir exécutif, le pouvoir législatif, le pouvoir judiciaire. (নির্বাহী ক্ষমতা, আইন প্রণয়নকারী ক্ষমতা, বিচার বিভাগীয় ক্ষমতা।)",,1,
+answer,"Le pouvoir national, le pouvoir régional, le pouvoir local. (জাতীয় ক্ষমতা, আঞ্চলিক ক্ষমতা, স্থানীয় ক্ষমতা।)",,0,
+question,"Qui possède le pouvoir législatif ? (আইন প্রণয়নকারী ক্ষমতা কার হাতে ন্যস্ত?)",,,lvl1
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,0,
+answer,"Le Parlement (Assemblée Nationale et Sénat) (সংসদ (জাতীয় পরিষদ এবং সেনেট))",,1,
+answer,"Les juges (বিচারকরা)",,0,
+question,"Qui sanctionne l'auteur d'un vol ? (চুরির অপরাধীকে কে শাস্তি দেয়?)",,,lvl1
+answer,"Le préfet (প্রিফেক্ট)",,0,
+answer,"Le maire (মেয়র)",,0,
+answer,"L'autorité judiciaire (les tribunaux). (বিচার ব্যবস্থা (আদালত)।)",,1,
+question,"Qui élit les députés ? (কে ডেপুটিদের (députés) নির্বাচিত করে?)",,,lvl1
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,0,
+answer,"Les ""grands électeurs"" (বড় ভোটাররা)",,0,
+answer,"Les citoyens français par vote direct. (সরাসরি ভোটের মাধ্যমে ফরাসি নাগরিকরা।)",,1,
+question,"Qui vote les lois ? (আইন কে পাস করে?)",,,lvl1
+answer,"Le Gouvernement (সরকার)",,0,
+answer,"Le Parlement (Assemblée Nationale et Sénat) (সংসদ (জাতীয় পরিষদ এবং সেনেট))",,1,
+answer,"Le Conseil d'État (রাজ্য পরিষদ)",,0,
+question,"Qui réside au palais de l'Élysée ? (কে এলিসি প্রাসাদে (palais de l'Élysée) বাস করেন?)",,,lvl1
+answer,"Le Premier ministre (প্রধানমন্ত্রী)",,0,
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,1,
+answer,"Le Président de l'Assemblée Nationale (জাতীয় পরিষদের সভাপতি)",,0,
+question,"Combien y a-t-il de départements en France ? (ফ্রান্সে কতগুলি দেপার্তমঁ (départements) আছে?)",,,lvl1
+answer,"Environ 50 (প্রায় ৫০টি)",,0,
+answer,"101 (96 en métropole et 5 en Outre-mer au 1er janvier 2025). (১০১টি (মূল ভূখণ্ডে ৯৬টি এবং বিদেশে ৫টি ১লা জানুয়ারি ২০২৫ অনুযায়ী)।)",,1,
+answer,"Environ 150 (প্রায় ১৫০টি)",,0,
+question,"Qui représente l'État dans un département ? (একটি দেপার্তমঁ - তে (département) কে রাষ্ট্রের প্রতিনিধিত্ব করে?)",,,lvl1
+answer,"Le Président du Conseil départemental (বিভাগীয় কাউন্সিলের সভাপতি)",,0,
+answer,"Le Préfet (প্রিফেক্ট)",,1,
+answer,"Le Président de la Région (আঞ্চলিক সভাপতি)",,0,
+question,"Qui dirige la commune ? (কে কমুনের (commune) পরিচালনা করেন?)",,,lvl1
+answer,"Le Préfet (প্রিফেক্ট)",,0,
+answer,"Le Maire (et le Conseil Municipal) (মেয়র (এবং পৌরসভা কাউন্সিল))",,1,
+answer,"Le Président de la Région (আঞ্চলিক সভাপতি)",,0,
+question,"Est-ce que le président de la République a tous les pouvoirs ? (প্রজাতন্ত্রের রাষ্ট্রপতির কি সমস্ত ক্ষমতা রয়েছে?)",,,lvl1
+answer,"Oui, il détient tous les pouvoirs exécutifs et législatifs. (হ্যাঁ, তিনি সমস্ত নির্বাহী ও আইন প্রণয়নকারী ক্ষমতা রাখেন।)",,0,
+answer,"Non, les pouvoirs sont séparés entre l'Exécutif, le Législatif et le Judiciaire. (না, ক্ষমতাগুলি নির্বাহী, আইন প্রণয়নকারী এবং বিচার ব্যবস্থার মধ্যে বিভক্ত।)",,1,
+answer,"Oui, car il est le chef des armées. (হ্যাঁ, কারণ তিনি সেনাবাহিনীর প্রধান।)",,0,
+question,"Qui est le préfet ? (প্রিফেক্ট কে?)",,,lvl1
+answer,"L'élu local chargé de l'urbanisme. (নগর পরিকল্পনায় দায়িত্বপ্রাপ্ত স্থানীয় নির্বাচিত কর্মকর্তা।)",,0,
+answer,"Le représentant de l'État dans un département ou une région. (একটি দেপার্তমঁ বা অঞ্চলে রাষ্ট্রের প্রতিনিধি।)",,1,
+answer,"Le chef de la police municipale. (পৌর পুলিশের প্রধান।)",,0,
+question,"Quel est le rôle du Parlement ? (সংসদের ভূমিকা কী?)",,,lvl1
+answer,"Diriger le pays et appliquer les lois. (দেশ পরিচালনা করা এবং আইন প্রয়োগ করা।)",,0,
+answer,"Voter les lois, contrôler l'action du Gouvernement et évaluer les politiques publiques. (আইন পাস করা, সরকারের কার্য নিয়ন্ত্রণ করা এবং সরকারি নীতিগুলির মূল্যায়ন করা।)",,1,
+answer,"Juger les crimes et délits les plus graves. (সবচেয়ে গুরুতর অপরাধ ও অসদাচরণের বিচার করা।)",,0,
+question,"Quel est le régime politique de la France aujourd'hui ? (আজকের দিনে ফ্রান্সের রাজনৈতিক ব্যবস্থা কী?)",,,lvl1
+answer,"Une monarchie constitutionnelle (একটি সাংবিধানিক রাজতন্ত্র)",,0,
+answer,"Une République démocratique (একটি গণতান্ত্রিক প্রজাতন্ত্র)",,1,
+answer,"Une fédération de régions (অঞ্চলের একটি ফেডারেশন)",,0,
+question,"Combien d'États font partie de l'Union européenne au 1er janvier 2025 ? (১লা জানুয়ারি ২০২৫ অনুযায়ী কতগুলি রাষ্ট্র ইউরোপীয় ইউনিয়নের অংশ?)",,,lvl1
+answer,"26 (২৬টি)",,0,
+answer,"27 (২৭টি)",,1,
+answer,"28 (২৮টি)",,0,
+question,"Quel État n'est pas membre de l'Union européenne ? (কোন রাষ্ট্র ইউরোপীয় ইউনিয়নের সদস্য নয়?)",,,lvl1
+answer,"L'Allemagne (জার্মানি)",,0,
+answer,"L'Espagne (স্পেন)",,0,
+answer,"La Suisse (সুইজারল্যান্ড)",,1,
+question,"Quelle condition est nécessaire pour voter aux élections européennes ? (ইউরোপীয় নির্বাচনে (européennes) ভোট দেওয়ার জন্য কোন শর্তটি প্রয়োজনীয়?)",,,lvl1
+answer,"Être titulaire d'une carte de résident. (একটি রেসিডেন্ট কার্ডের (carte de résident) অধিকারী হওয়া।)",,0,
+answer,"Être citoyen français ou citoyen d'un autre État membre de l'Union européenne résidant en France. (ফরাসি নাগরিক হওয়া বা ফ্রান্সে বসবাসকারী ইউরোপীয় ইউনিয়নের অন্য কোনো সদস্য রাষ্ট্রের নাগরিক হওয়া।)",,1,
+answer,"Avoir plus de 25 ans. (২৫ বছরের বেশি বয়সী হওয়া।)",,0,
+question,"À quelle fréquence les élections européennes sont-elles organisées ? (কত ঘন ঘন ইউরোপীয় নির্বাচন অনুষ্ঠিত হয়?)",,,lvl1
+answer,"Tous les 4 ans (প্রতি ৪ বছর অন্তর)",,0,
+answer,"Tous les 5 ans (প্রতি ৫ বছর অন্তর)",,1,
+answer,"Tous les 7 ans (প্রতি ৭ বছর অন্তর)",,0,
+question,"Quel pays est un pays fondateur de l'Union européenne ? (কোন দেশটি ইউরোপীয় ইউনিয়নের প্রতিষ্ঠাতা দেশ?)",,,lvl1
+answer,"La Pologne (পোল্যান্ড)",,0,
+answer,"L'Allemagne (জার্মানি)",,1,
+answer,"L'Espagne (স্পেন)",,0,
+question,"Quelle est la monnaie utilisée en France ? (ফ্রান্সে কোন মুদ্রা ব্যবহৃত হয়?)",,,lvl1
+answer,"Le Franc",,0,
+answer,"L'Euro",,1,
+answer,"Le Dollar",,0,
+question,"Qui élit les députés européens ? (কে ইউরোপীয় সংসদ সদস্যদের (députés européens) নির্বাচিত করে?)",,,lvl1
+answer,"Les parlements nationaux. (জাতীয় সংসদগুলি।)",,0,
+answer,"Les citoyens européens par vote direct. (ইউরোপীয় নাগরিকরা সরাসরি ভোটের মাধ্যমে।)",,1,
+answer,"Le Conseil européen (ইউরোপীয় কাউন্সিল)",,0,
+question,"Quand célèbre-t-on la journée de l'Europe ? (ইউরোপ দিবস কবে উদযাপন করা হয়?)",,,lvl1
+answer,"Le 1er janvier (১লা জানুয়ারি)",,0,
+answer,"Le 14 juillet (১৪ই জুলাই)",,0,
+answer,"Le 9 mai (৯ই মে)",,1,
+question,"Qu'est-ce que l'État de droit ? (আইনের শাসন (État de droit) কী?)",,,lvl2
+answer,"Un État dirigé par un monarque. (একজন রাজার দ্বারা পরিচালিত রাষ্ট্র।)",,0,
+answer,"Un État où le chef a tous les pouvoirs. (একটি রাষ্ট্র যেখানে প্রধানের সমস্ত ক্ষমতা থাকে।)",,0,
+answer,"Un État dans lequel la puissance publique est soumise au droit (à la loi). (একটি রাষ্ট্র যেখানে সরকারি ক্ষমতা আইনের (আইন) অধীন।)",,1,
+question,"Le président de la République a commis un crime. Quelle proposition est correcte ? (প্রজাতন্ত্রের রাষ্ট্রপতি একটি অপরাধ করেছেন। কোন প্রস্তাবটি সঠিক?)",,,lvl2
+answer,"Il bénéficie d'une immunité totale à vie. (তিনি আজীবন সম্পূর্ণ অনাক্রম্যতা ভোগ করেন।)",,0,
+answer,"Il peut être jugé par une juridiction spéciale pour les actes commis en dehors de ses fonctions. (তার দায়িত্বের বাইরে করা কাজের জন্য তিনি একটি বিশেষ আদালতে বিচারিত হতে পারেন।)",,1,
+answer,"Seul le Parlement peut le juger. (শুধুমাত্র সংসদ তার বিচার করতে পারে।)",,0,
+question,"La loi est l'expression de : (আইন কিসের প্রকাশ?)",,,lvl2
+answer,"La volonté du Gouvernement. (সরকারের ইচ্ছা।)",,0,
+answer,"La volonté du Président de la République. (প্রজাতন্ত্রের রাষ্ট্রপতির ইচ্ছা।)",,0,
+answer,"La volonté générale (du peuple). (সাধারণ ইচ্ছা (জনগণের)।)",,1,
+question,"Quelle est la durée du mandat du conseil municipal et du maire ? (পৌরসভা কাউন্সিল এবং মেয়রের মেয়াদের সময়কাল কত?)",,,lvl2
+answer,"5 ans (৫ বছর)",,0,
+answer,"6 ans (৬ বছর)",,1,
+answer,"7 ans (৭ বছর)",,0,
+question,"Que garantit l’État de droit ? (আইনের শাসন (État de droit) কী নিশ্চিত করে?)",,,lvl2
+answer,"Que les lois peuvent changer sans contrôle. (যে আইনগুলি কোনো নিয়ন্ত্রণ ছাড়াই পরিবর্তন হতে পারে।)",,0,
+answer,"Que l'administration est au-dessus des lois. (যে প্রশাসন আইনের ঊর্ধ্বে।)",,0,
+answer,"Que tous (citoyens et pouvoirs publics) sont soumis au respect du droit et de la loi. (যে প্রত্যেকে (নাগরিক এবং সরকারি ক্ষমতা) আইন ও অধিকারের প্রতি শ্রদ্ধাশীল হতে বাধ্য।)",,1,
+question,"Une personne peut-elle voter à la place d'une autre ? (একজন ব্যক্তি কি অন্য কারো পরিবর্তে ভোট দিতে পারে?)",,,lvl2
+answer,"Oui, si elle présente la carte d'identité de l'autre personne. (হ্যাঁ, যদি সে অন্য ব্যক্তির পরিচয়পত্র দেখায়।)",,0,
+answer,"Non, le vote est personnel, sauf en cas de procuration dans les conditions fixées par la loi. (না, ভোট ব্যক্তিগত, তবে আইন দ্বারা নির্ধারিত শর্তে প্রক্সি (procuration) দেওয়া যেতে পারে।)",,1,
+answer,"Oui, si la personne qui vote est de la même famille. (হ্যাঁ, যদি ভোট দেওয়া ব্যক্তি একই পরিবারের হয়।)",,0,
+question,"Est-ce que le vote est obligatoire ? (ভোট দেওয়া কি বাধ্যতামূলক?)",,,lvl2
+answer,"Non, le vote est un droit et une liberté, mais il n'est pas obligatoire en France. (না, ভোট একটি অধিকার এবং স্বাধীনতা, তবে ফ্রান্সে এটি বাধ্যতামূলক নয়।)",,1,
+answer,"Oui, il est obligatoire pour tous les citoyens de plus de 18 ans. (হ্যাঁ, ১৮ বছরের বেশি বয়সী সকল নাগরিকের জন্য এটি বাধ্যতামূলক।)",,0,
+answer,"Oui, sauf pour les élections européennes. (হ্যাঁ, তবে ইউরোপীয় নির্বাচনের জন্য ছাড়া।)",,0,
+question,"À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ? (তার মেয়াদ শেষে, প্রজাতন্ত্রের রাষ্ট্রপতি কি ক্ষমতায় থাকার সিদ্ধান্ত নিতে পারেন?)",,,lvl2
+answer,"Oui, s'il a le soutien du Gouvernement. (হ্যাঁ, যদি তার সরকারের সমর্থন থাকে।)",,0,
+answer,"Non, il doit se représenter et être réélu par les citoyens. (না, তাকে অবশ্যই পুনরায় প্রতিদ্বন্দ্বিতা করতে হবে এবং নাগরিকদের দ্বারা পুনরায় নির্বাচিত হতে হবে।)",,1,
+answer,"Oui, en cas de crise nationale grave. (হ্যাঁ, গুরুতর জাতীয় সংকটের ক্ষেত্রে।)",,0,
+question,"Qui dirige l'action du Gouvernement ? (কে সরকারের কার্য পরিচালনা করেন?)",,,lvl2
+answer,"Le Président de l'Assemblée Nationale (জাতীয় পরিষদের সভাপতি)",,0,
+answer,"Le Premier ministre (প্রধানমন্ত্রী)",,1,
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,0,
+question,"Quelle est l'organisation administrative de la France ? (ফ্রান্সের প্রশাসনিক সংগঠন কী?)",,,lvl2
+answer,"Un État fédéral (একটি ফেডারেল রাষ্ট্র)",,0,
+answer,"Un État unitaire décentralisé (Communes, Départements, Régions). (একটি বিকেন্দ্রীভূত একক রাষ্ট্র (কমিউন, দেপার্তমঁ, অঞ্চল)।)",,1,
+answer,"Une confédération d'États (রাষ্ট্রের একটি কনফেডারেশন)",,0,
+question,"Pourquoi séparer les trois pouvoirs dans une démocratie ? (একটি গণতন্ত্রে তিনটি ক্ষমতাকে কেন পৃথক করা হয়?)",,,lvl2
+answer,"Pour simplifier le travail du Gouvernement. (সরকারের কাজ সহজ করার জন্য।)",,0,
+answer,"Pour donner plus d'autorité au Président. (রাষ্ট্রপতিকে আরও কর্তৃত্ব দেওয়ার জন্য।)",,0,
+answer,"Pour éviter l'abus de pouvoir et garantir les libertés des citoyens. (ক্ষমতার অপব্যবহার এড়াতে এবং নাগরিকদের স্বাধীনতা নিশ্চিত করতে।)",,1,
+question,"Quel est le rôle du gouvernement ? (সরকারের ভূমিকা কী?)",,,lvl2
+answer,"Voter les lois et contrôler le Parlement. (আইন পাস করা এবং সংসদকে নিয়ন্ত্রণ করা।)",,0,
+answer,"Conduire la politique de la Nation et appliquer les lois votées par le Parlement. (জাতির নীতি পরিচালনা করা এবং সংসদ দ্বারা পাস হওয়া আইন প্রয়োগ করা।)",,1,
+answer,"Juger les crimes et les délits. (অপরাধ ও অসদাচরণের বিচার করা।)",,0,
+question,"Que se passe-t-il si un ministre ne respecte pas la loi ? (যদি কোনো মন্ত্রী আইন অমান্য করেন তবে কী হবে?)",,,lvl2
+answer,"Il démissionne sans conséquence judiciaire. (তিনি বিচারিক পরিণতি ছাড়াই পদত্যাগ করেন।)",,0,
+answer,"Il est jugé par la Cour de Justice de la République (CJR) pour les actes commis dans l’exercice de ses fonctions. (তার দায়িত্ব পালনের সময় করা কাজের জন্য তিনি প্রজাতন্ত্রের বিচার আদালত (CJR) দ্বারা বিচারিত হন।)",,1,
+answer,"Il est jugé par le Premier ministre. (তিনি প্রধানমন্ত্রী দ্বারা বিচারিত হন।)",,0,
+question,"Est-ce que le président de la République a tous les pouvoirs ? (প্রজাতন্ত্রের রাষ্ট্রপতির কি সমস্ত ক্ষমতা রয়েছে?)",,,lvl2
+answer,"Oui, il est le chef de l'État et du Gouvernement. (হ্যাঁ, তিনি রাষ্ট্র ও সরকারের প্রধান।)",,0,
+answer,"Non, le pouvoir est séparé entre trois organes (Exécutif, Législatif, Judiciaire). (না, ক্ষমতা তিনটি অঙ্গের মধ্যে বিভক্ত (নির্বাহী, আইন প্রণয়নকারী, বিচার বিভাগীয়)।)",,1,
+answer,"Oui, pendant les cinq ans de son mandat. (হ্যাঁ, তার পাঁচ বছরের মেয়াদের সময়।)",,0,
+question,"Qui est le préfet ? (প্রিফেক্ট কে?)",,,lvl2
+answer,"L'élu à la tête du Conseil départemental. (বিভাগীয় কাউন্সিলের প্রধান নির্বাচিত কর্মকর্তা।)",,0,
+answer,"Le chef de la police nationale. (জাতীয় পুলিশের প্রধান।)",,0,
+answer,"Le représentant de l'État dans une région ou un département. (একটি অঞ্চল বা দেপার্তমঁ - তে রাষ্ট্রের প্রতিনিধি।)",,1,
+question,"Quelle condition est nécessaire pour voter aux élections ? (নির্বাচনে ভোট দেওয়ার জন্য কোন শর্তটি প্রয়োজনীয়?)",,,lvl2
+answer,"Avoir plus de 21 ans. (২১ বছরের বেশি বয়সী হওয়া।)",,0,
+answer,"Être majeur (18 ans) et de nationalité française. (প্রাপ্তবয়স্ক (১৮ বছর) এবং ফরাসি জাতীয়তার অধিকারী হওয়া।)",,1,
+answer,"Résider en France depuis au moins 5 ans. (কমপক্ষে ৫ বছর ধরে ফ্রান্সে বসবাস করা।)",,0,
+question,"Qu'est-ce que l'Hôtel de Matignon ? (হোটেল দে মাতিনিয়ঁ (Hôtel de Matignon) কী?)",,,lvl2
+answer,"La résidence officielle du Président de la République. (প্রজাতন্ত্রের রাষ্ট্রপতির সরকারি বাসভবন।)",,0,
+answer,"La résidence officielle et le bureau du Premier ministre. (প্রধানমন্ত্রীর সরকারি বাসভবন এবং অফিস।)",,1,
+answer,"Le siège de l'Assemblée Nationale. (জাতীয় পরিষদের সদর দপ্তর।)",,0,
+question,"Le Parlement est composé : (সংসদ গঠিত হয়:)",,,lvl2
+answer,"Du Président de la République et du Premier ministre. (প্রজাতন্ত্রের রাষ্ট্রপতি এবং প্রধানমন্ত্রীর।)",,0,
+answer,"Du Conseil d'État et de la Cour de Cassation. (রাজ্য পরিষদ এবং সর্বোচ্চ আপিল আদালতের।)",,0,
+answer,"De l'Assemblée Nationale et du Sénat. (জাতীয় পরিষদ এবং সেনেট দ্বারা।)",,1,
+question,"Quel est le rôle du président de la République ? (প্রজাতন্ত্রের রাষ্ট্রপতির ভূমিকা কী?)",,,lvl2
+answer,"Appliquer les lois et gérer le budget. (আইন প্রয়োগ করা এবং বাজেট পরিচালনা করা।)",,0,
+answer,"Garantir le bon fonctionnement des institutions et l'indépendance nationale. (প্রতিষ্ঠানগুলির সঠিক কার্যকারিতা এবং জাতীয় স্বাধীনতা নিশ্চিত করা।)",,1,
+answer,"Juger les crimes et délits. (অপরাধ ও অসদাচরণের বিচার করা।)",,0,
+question,"Quel est le rôle du Premier ministre ? (প্রধানমন্ত্রীর ভূমিকা কী?)",,,lvl2
+answer,"Diriger l'action du Gouvernement, responsable devant le Parlement. (সরকারের কার্য পরিচালনা করা, সংসদের কাছে যিনি দায়ী।)",,1,
+answer,"Représenter la France dans le monde. (বিশ্বে ফ্রান্সের প্রতিনিধিত্ব করা।)",,0,
+answer,"Contrôler les juges. (বিচারকদের নিয়ন্ত্রণ করা।)",,0,
+question,"Qui est le chef du Gouvernement ? (সরকারের প্রধান কে?)",,,lvl2
+answer,"Le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি)",,0,
+answer,"Le Premier ministre (প্রধানমন্ত্রী)",,1,
+answer,"Le Président de la Région (আঞ্চলিক সভাপতি)",,0,
+question,"Combien y a-t-il de régions en France ? (ফ্রান্সে কতগুলি অঞ্চল (régions) আছে?)",,,lvl2
+answer,"18 (13 en métropole et 5 en Outre-mer). (১৮টি (মূল ভূখণ্ডে ১৩টি এবং বিদেশে ৫টি)।)",,1,
+answer,"22 (২২টি)",,0,
+answer,"96 (৯৬টি)",,0,
+question,"Quel est le rôle du Défenseur des droits ? (Défenseur des droits- এর ভূমিকা কী?)",,,lvl2
+answer,"Défendre le territoire national. (জাতীয় ভূখণ্ড রক্ষা করা।)",,0,
+answer,"Veiller au respect des droits et libertés par les administrations et lutter contre les discriminations. (প্রশাসনের দ্বারা অধিকার ও স্বাধীনতার প্রতি সম্মান নিশ্চিত করা এবং বৈষম্যের বিরুদ্ধে লড়াই করা।)",,1,
+answer,"Rédiger les projets de loi du Gouvernement. (সরকারের খসড়া আইন তৈরি করা।)",,0,
+question,"Depuis quand l'euro est-elle la monnaie unique ? (কবে থেকে ইউরো একক মুদ্রা?)",,,lvl2
+answer,"1999 (১৯৯৯)",,0,
+answer,"2002 (২০০২)",,1,
+answer,"2007 (২০০৭)",,0,
+question,"Quel est le rôle principal du département ? (দেপার্তমঁ - র (département) প্রধান ভূমিকা কী?)",,,lvl2
+answer,"La défense nationale et la diplomatie. (জাতীয় প্রতিরক্ষা এবং কূটনীতি।)",,0,
+answer,"L’action sociale, la gestion des collèges et des routes départementales. (সামাজিক কার্যক্রম, কলেজ এবং বিভাগীয় রাস্তাগুলির ব্যবস্থাপনা।)",,1,
+answer,"La politique étrangère et la monnaie. (বিদেশ নীতি এবং মুদ্রা।)",,0,
+question,"Quel est le rôle principal des communes ? (কমুনের (communes) প্রধান ভূমিকা কী?)",,,lvl2
+answer,"L'enseignement supérieur et la défense nationale. (উচ্চ শিক্ষা এবং জাতীয় প্রতিরক্ষা।)",,0,
+answer,"L’état civil, l’urbanisme local et la gestion des écoles maternelles et primaires. (নাগরিক অবস্থা, স্থানীয় নগর পরিকল্পনা এবং প্রাক - প্রাথমিক ও প্রাথমিক বিদ্যালয়গুলির ব্যবস্থাপনা।)",,1,
+answer,"La politique étrangère et la monnaie. (বিদেশ নীতি এবং মুদ্রা।)",,0,
+question,"Combien de communes environ existe-t-il en France ? (ফ্রান্সে আনুমানিক কতগুলি কমিউন (communes) বিদ্যমান?)",,,lvl2
+answer,"Environ 5 000 (প্রায় ৫,০০০)",,0,
+answer,"Environ 15 000 (প্রায় ১৫,০০০)",,0,
+answer,"Plus de 34 000 (৩৪,০০০-এর বেশি)",,1,
+question,"Quel traité concerne la construction de l'Union européenne ? (কোন চুক্তিটি ইউরোপীয় ইউনিয়নের গঠনের সাথে সম্পর্কিত?)",,,lvl2
+answer,"Le traité de Versailles (ভার্সাই চুক্তি)",,0,
+answer,"Le traité de Paris (প্যারিস চুক্তি)",,0,
+answer,"Le traité de Rome (signé en 1957). (রোম চুক্তি (১৯৫৭ সালে স্বাক্ষরিত)।)",,1,
+question,"Quel État a quitté l'Union européenne en 2020 ? (কোন রাষ্ট্র ২০২০ সালে ইউরোপীয় ইউনিয়ন ছেড়েছে?)",,,lvl2
+answer,"La Norvège (নরওয়ে)",,0,
+answer,"Le Royaume-Uni (যুক্তরাজ্য)",,1,
+answer,"La Suisse (সুইজারল্যান্ড)",,0,
+question,"Quelle est la devise de l’Union européenne ? (ইউরোপীয় ইউনিয়নের মূলমন্ত্র কী?)",,,lvl2
+answer,"Liberté, Égalité, Fraternité (স্বাধীনতা, সমতা, ভ্রাতৃত্ব)",,0,
+answer,"Unie dans la diversité (বৈচিত্র্যের মধ্যে ঐক্য)",,1,
+answer,"Paix et Prospérité (শান্তি ও সমৃদ্ধি)",,0,
+question,"Quel est l'hymne de l'Union européenne ? (ইউরোপীয় ইউনিয়নের জাতীয় সঙ্গীত কী?)",,,lvl2
+answer,"L'Ode à la joie (composée par Beethoven).",,1,
+answer,"La Marseillaise",,0,
+answer,"Le Chant du départ",,0,
+question,"De quoi est composé le drapeau européen ? (ইউরোপীয় পতাকা কী দিয়ে গঠিত?)",,,lvl2
+answer,"Un cercle de 27 étoiles de couleurs différentes. (বিভিন্ন রঙের ২৭টি তারার একটি বৃত্ত।)",,0,
+answer,"Un cercle de 12 étoiles dorées sur fond bleu. (নীল পটভূমিতে ১২টি সোনালী তারার একটি বৃত্ত।)",,1,
+answer,"Un aigle impérial et des étoiles. (একটি সাম্রাজ্যিক ঈগল এবং তারা।)",,0,
+question,"De quelle couleur est le drapeau européen ? (ইউরোপীয় পতাকার রং কী?)",,,lvl2
+answer,"Vert et blanc (সবুজ ও সাদা)",,0,
+answer,"Rouge et or (লাল ও সোনালী)",,0,
+answer,"Bleu et or (ou jaune). (নীল এবং সোনালী (বা হলুদ)।)",,1,
+question,"En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-elle été signé ? (কোন বছর মাষ্ট্রিচ চুক্তি (traité de Maastricht), যা ইউরোপীয় ইউনিয়নের প্রতিষ্ঠা চিহ্নিত করে, স্বাক্ষরিত হয়েছিল?)",,,lvl2
+answer,"1957 (১৯৫৭)",,0,
+answer,"1989 (১৯৮৯)",,0,
+answer,"1992 (১৯৯২)",,1,
+question,"Où est le siège du Parlement européen ? (ইউরোপীয় সংসদের সদর দপ্তর কোথায়?)",,,lvl2
+answer,"Bruxelles",,0,
+answer,"Strasbourg",,1,
+answer,"Berlin",,0,
+question,"Où est le siège de la Commission européenne ? (ইউরোপীয় কমিশনের সদর দপ্তর কোথায়?)",,,lvl2
+answer,"Strasbourg (স্ট্রাসবুর্গ)",,0,
+answer,"Bruxelles (ব্রাসেলস)",,1,
+answer,"Luxembourg (লুক্সেমবার্গ)",,0,
+question,"Quel État n'est pas membre de l'Union européenne ? (কোন রাষ্ট্র ইউরোপীয় ইউনিয়নের সদস্য নয়?)",,,lvl2
+answer,"L'Autriche (অস্ট্রিয়া)",,0,
+answer,"La Norvège (নরওয়ে)",,1,
+answer,"La Pologne (পোল্যান্ড)",,0,
+question,"À quelle fréquence les élections européennes sont-elles organisées ? (কত ঘন ঘন ইউরোপীয় নির্বাচন অনুষ্ঠিত হয়?)",,,lvl2
+answer,"Tous les 4 ans (প্রতি ৪ বছর অন্তর)",,0,
+answer,"Tous les 5 ans (প্রতি ৫ বছর অন্তর)",,1,
+answer,"Tous les 6 ans (প্রতি ৬ বছর অন্তর)",,0,
+question,"Quel pays est un pays fondateur de l'Union européenne ? (কোন দেশটি ইউরোপীয় ইউনিয়নের প্রতিষ্ঠাতা দেশ?)",,,lvl2
+answer,"L'Irlande (আয়ারল্যান্ড)",,0,
+answer,"L'Italie (ইতালি)",,1,
+answer,"La Grèce (গ্রিস)",,0,
+question,"Dans combien de pays le français est-il parlé? (কতগুলি দেশে ফরাসি ভাষা বলা হয়?)",,,lvl3
+answer,"27 (২৭)",,0,
+answer,"18 (১৮)",,0,
+answer,"70 (৭০)",,1,
+question,"Que comprend l’état civil tenu par les communes? (পৌরসভাগুলি দ্বারা পরিচালিত দেওয়ানি অবস্থা (état civil) কী অন্তর্ভুক্ত করে?)",,,lvl3
+answer,"Les naissances, mariages et décès (জন্ম, বিবাহ এবং মৃত্যু)",,1,
+answer,"Les résultats électoraux (নির্বাচনী ফলাফল)",,0,
+answer,"Les jugements judiciaires (বিচারিক রায়)",,0,
+question,"Les Terres australes et antarctiques françaises sont… (ফরাসি দক্ষিণ ও অ্যান্টার্কটিক ভূমি হল...)",,,lvl3
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+answer,"Une «commune d’outre-mer» (একটি ""সামুদ্রিক কমিউন"")",,0,
+question,"Quelle est la durée du mandat des sénateurs en France? (ফ্রান্সে সিনেটরদের কার্যকালের মেয়াদ কত বছর?)",,,lvl3
+answer,"7 ans (৭ বছর)",,0,
+answer,"6 ans (৬ বছর)",,1,
+answer,"5 ans (৫ বছর)",,0,
+question,"Qui est responsable des collèges? (কে কলেজের জন্য দায়ী?)",,,lvl3
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,1,
+answer,"La région (রেজিওঁ - অঞ্চল)",,0,
+question,"Qui administre une région en France? (কে ফ্রান্সে একটি অঞ্চল (région) পরিচালনা করে?)",,,lvl3
+answer,"Le conseil départemental (দেপার্তমঁ - বিভাগীয় পরিষদ)",,0,
+answer,"Le conseil régional (রেজিওঁ - আঞ্চলিক পরিষদ)",,1,
+answer,"Le préfet (প্রেফে - প্রিফেক্ট)",,0,
+question,"Quelle est la capitale de la région Hauts-de-France? (ও-দ্য-ফ্রঁস (Hauts-de-France) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Arras",,0,
+answer,"Amiens",,0,
+answer,"Lille",,1,
+question,"Mayotte est… (মায়োত (Mayotte) হল...)",,,lvl3
+answer,"Un conseil d’outre-mer (একটি সামুদ্রিক পরিষদ)",,0,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,1,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,0,
+question,"Saint-Martin est… (সাঁ-মার্তাঁ (Saint-Martin) হল...)",,,lvl3
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+answer,"Un conseil d’outre-mer (একটি সামুদ্রিক পরিষদ)",,0,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+question,"Quel est le principe de la démocratie française? (ফরাসি গণতন্ত্রের নীতি কী?)",,,lvl3
+answer,"Le gouvernement des élites, pour les élites (অভিজাতদের সরকার, অভিজাতদের জন্য)",,0,
+answer,"Le gouvernement par l’armée (সেনাবাহিনীর মাধ্যমে সরকার)",,0,
+answer,"Le gouvernement du peuple, par le peuple et pour le peuple (জনগণের সরকার, জনগণের দ্বারা এবং জনগণের জন্য)",,1,
+question,"Quelle est la capitale de la Martinique? (মার্তিনিকের রাজধানী কোনটি?)",,,lvl3
+answer,"Saint-Pierre",,0,
+answer,"Fort-de-France",,1,
+answer,"Le Lamentin",,0,
+question,"Quelle est la capitale de La Réunion? (লা রেউনিয়ঁ (La Réunion) এর রাজধানী কোনটি?)",,,lvl3
+answer,"Saint-Denis",,1,
+answer,"Mamoudzou",,0,
+answer,"Saint-Pierre",,0,
+question,"Que peuvent faire librement les partis politiques en France? (ফ্রান্সে রাজনৈতিক দলগুলি স্বাধীনভাবে কী করতে পারে?)",,,lvl3
+answer,"Se former et exercer leur activité (গঠিত হওয়া এবং তাদের কার্যকলাপ পরিচালনা করা)",,1,
+answer,"Exister seulement s’ils sont religieux (শুধুমাত্র যদি তারা ধর্মীয় হয় তবেই অস্তিত্ব থাকা)",,0,
+answer,"Être autorisés uniquement par le président (শুধুমাত্র রাষ্ট্রপতি দ্বারা অনুমোদিত হওয়া)",,0,
+question,"Saint-Barthélemy est… (Saint-Barthélemy হল...)",,,lvl3
+answer,"Une «commune d’outre-mer» (একটি ""সামুদ্রিক কমিউন"")",,0,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+question,"À quoi est soumis le pouvoir politique en France? (ফ্রান্সে রাজনৈতিক ক্ষমতা কিসের অধীন?)",,,lvl3
+answer,"À la volonté d’un seul chef (একজন মাত্র নেতার ইচ্ছার অধীন)",,0,
+answer,"À la loi (আইনের অধীন)",,1,
+answer,"À la religion dominante (প্রধান ধর্মের অধীন)",,0,
+question,"De quoi les départements sont-ils responsables? (দেপার্তমঁ (বিভাগগুলি) কিসের জন্য দায়ী?)",,,lvl3
+answer,"De la défense nationale (জাতীয় প্রতিরক্ষার জন্য)",,0,
+answer,"Des collèges, de la protection de l’enfance, de l’aide aux personnes âgées (কলেজ, শিশু সুরক্ষা, বয়স্কদের সহায়তার জন্য)",,1,
+answer,"De la politique étrangère (বিদেশ নীতির জন্য)",,0,
+question,"Quelle est la capitale de la Guadeloupe? (গুয়াদেলুপের রাজধানী কোনটি?)",,,lvl3
+answer,"Saint-François",,0,
+answer,"Basse-Terre",,1,
+answer,"Pointe-à-Pitre",,0,
+question,"La Guyane est… (গিয়ান (Guyane) হল...)",,,lvl3
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,1,
+answer,"Un conseil d’outre-mer (একটি সামুদ্রিক পরিষদ)",,0,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,0,
+question,"Qui est responsable des écoles primaires? (কে প্রাথমিক বিদ্যালয়ের জন্য দায়ী?)",,,lvl3
+answer,"La région (আঞ্চলিক পরিষদ)",,0,
+answer,"La commune (কমিউন - পৌরসভা)",,1,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+question,"La Nouvelle-Calédonie est… (নুভেল-ক্যালেডোনি (Nouvelle-Calédonie) হল...)",,,lvl3
+answer,"Une «commune d’outre-mer» (একটি ""সামুদ্রিক কমিউন"")",,0,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+question,"Tous les combien d’années ont lieu les élections législatives pour élire les députés? (সংসদ সদস্যদের নির্বাচনের জন্য আইনসভার নির্বাচন কত বছর অন্তর অনুষ্ঠিত হয়?)",,,lvl3
+answer,"Tous les 5 ans (প্রতি ৫ বছর অন্তর)",,1,
+answer,"Tous les 4 ans (প্রতি ৪ বছর অন্তর)",,0,
+answer,"Tous les 6 ans (প্রতি ৬ বছর অন্তর)",,0,
+question,"Quelle est la capitale de la région Occitanie? (অক্সিতানি (Occitanie) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Toulouse",,1,
+answer,"Nîmes",,0,
+answer,"Montpellier",,0,
+question,"Quelle place occupe la France à l’ONU? (জাতিসংঘে (ONU) ফ্রান্সের স্থান কোনটি?)",,,lvl3
+answer,"Membre permanent du Conseil de sécurité (নিরাপত্তা পরিষদের স্থায়ী সদস্য)",,1,
+answer,"Secrétaire général (মহাসচিব)",,0,
+answer,"Membre non permanent du Conseil de sécurité (নিরাপত্তা পরিষদের অস্থায়ী সদস্য)",,0,
+question,"Quelle est la capitale de la région Grand Est? (গ্রঁদ এস্ত (Grand Est) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Strasbourg",,1,
+answer,"Metz",,0,
+answer,"Nancy",,0,
+question,"Que partagent les États membres de l’Union européenne? (ইউরোপীয় ইউনিয়নের সদস্য রাষ্ট্রগুলো কী ভাগ করে নেয়?)",,,lvl3
+answer,"Des principes démocratiques (গণতান্ত্রিক নীতিগুলি)",,1,
+answer,"Une même langue (একটি অভিন্ন ভাষা)",,0,
+answer,"Une même armée (একটি অভিন্ন সেনাবাহিনী)",,0,
+question,"Quelle est la capitale de Mayotte? (মায়োত (Mayotte) এর রাজধানী কোনটি?)",,,lvl3
+answer,"Mamoudzou (মামুদজু)",,1,
+answer,"Koungou (কুঙ্গু)",,0,
+answer,"Dzaoudzi (জাউজি)",,0,
+question,"Qui est responsable de la formation professionnelle? (কে বৃত্তিমূলক প্রশিক্ষণের (formation professionnelle) জন্য দায়ী?)",,,lvl3
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+answer,"La région (রেজিওঁ - অঞ্চল)",,1,
+question,"Que sanctionne la justice en France? (ফ্রান্সে বিচার ব্যবস্থা কীসের জন্য শাস্তি দেয়?)",,,lvl3
+answer,"Les choix religieux (ধর্মীয় পছন্দের জন্য)",,0,
+answer,"Les infractions aux règles de droit (আইনের নিয়ম লঙ্ঘনের জন্য)",,1,
+answer,"Les opinions politiques (রাজনৈতিক মতামতের জন্য)",,0,
+question,"En quelle année a été adoptée la Charte des droits fondamentaux de l’Union européenne? (কোন বছর ইউরোপীয় ইউনিয়নের মৌলিক অধিকার সনদ গৃহীত হয়েছিল?)",,,lvl3
+answer,"2000 (২০০০)",,1,
+answer,"1992 (১৯৯২)",,0,
+answer,"1957 (১৯৫৭)",,0,
+question,"Quelle est la capitale de Wallis-et-Futuna? (Wallis-et-Futuna রাজধানী কোনটি?)",,,lvl3
+answer,"Wallis",,0,
+answer,"Mata-Utu",,1,
+answer,"Futuna",,0,
+question,"De quoi les communes sont-elles responsables? (কমিউনগুলি (পৌরসভাগুলি) কিসের জন্য দায়ী?)",,,lvl3
+answer,"Des écoles maternelles et primaires, des activités sportives et culturelles, de la voirie communale, de l’état civil (কিন্ডারগার্টেন ও প্রাথমিক বিদ্যালয়, খেলাধুলা ও সাংস্কৃতিক কার্যক্রম, পৌর রাস্তার রক্ষণাবেক্ষণ, দেওয়ানি অবস্থা (état civil))",,1,
+answer,"Des impôts nationaux (জাতীয় করের জন্য)",,0,
+answer,"Des universités et de la recherche (বিশ্ববিদ্যালয় ও গবেষণার জন্য)",,0,
+question,"Tous les combien d’années ont lieu les élections du Parlement européen? (ইউরোপীয় পার্লামেন্টের নির্বাচন কত বছর অন্তর অনুষ্ঠিত হয়?)",,,lvl3
+answer,"Tous les 6 ans (প্রতি ৬ বছর অন্তর)",,0,
+answer,"Tous les 10 ans (প্রতি ১০ বছর অন্তর)",,0,
+answer,"Tous les 5 ans (প্রতি ৫ বছর অন্তর)",,1,
+question,"La Réunion est… (লা রেউনিয়ঁ (La Réunion) হল...)",,,lvl3
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,1,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,0,
+answer,"Une «commune d’outre-mer» (একটি ""সামুদ্রিক কমিউন"")",,0,
+question,"Qui est responsable des transports publics régionaux? (কে আঞ্চলিক গণপরিবহনের জন্য দায়ী?)",,,lvl3
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+answer,"La région (রেজিওঁ - অঞ্চল)",,1,
+question,"Quelles peines peuvent être prononcées par la justice? (বিচার ব্যবস্থা দ্বারা কোন শাস্তিগুলি ঘোষণা করা যেতে পারে?)",,,lvl3
+answer,"Emprisonnement,   amende (কারাদণ্ড, জরিমানা)",,1,
+answer,"Déchéance automatique de nationalité (নাগরিকত্ব স্বয়ংক্রিয়ভাবে বাতিল)",,0,
+answer,"Travail bénévole obligatoire (বাধ্যতামূলক স্বেচ্ছাসেবী কাজ)",,0,
+question,"Par qui la justice est-elle rendue en France? (ফ্রান্সে বিচার কাজ কার দ্বারা সম্পাদিত হয়?)",,,lvl3
+answer,"Par les députés (সংসদ সদস্যদের দ্বারা)",,0,
+answer,"Par les juges (বিচারকদের দ্বারা)",,1,
+answer,"Par le Président (রাষ্ট্রপতির দ্বারা)",,0,
+question,"Donne trois exemples de collectivités d’outre-mer françaises. (ফ্রান্সের তিনটি সামুদ্রিক সংস্থামের উদাহরণ দাও।)",,,lvl3
+answer,"Luxembourg, Andorre, Suisse",,0,
+answer,"Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna",,1,
+answer,"Corse, Provence, Bretagne",,0,
+question,"Qui est responsable de la construction des lycées? (কে উচ্চবিদ্যালয় (lycées) নির্মাণের জন্য দায়ী?)",,,lvl3
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+answer,"La région (রেজিওঁ - অঞ্চল)",,1,
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+question,"Comment les lois traitent-elles les citoyens? (আইন নাগরিকদের সাথে কেমন আচরণ করে?)",,,lvl3
+answer,"Selon leur origine sociale (তাদের সামাজিক উৎস অনুযায়ী)",,0,
+answer,"Selon leur religion (তাদের ধর্ম অনুযায়ী)",,0,
+answer,"De façon égale (সমানভাবে)",,1,
+question,"Quelle est la capitale de la Nouvelle-Calédonie? (নুভেল-ক্যালেডোনি (Nouvelle-Calédonie) এর রাজধানী কোনটি?)",,,lvl3
+answer,"Papeete",,0,
+answer,"Koné",,0,
+answer,"Nouméa",,1,
+question,"Quelle est la capitale de Saint-Pierre-et-Miquelon? (সাঁ-পিয়ের-এ-মিকেলোঁ (Saint-Pierre-et-Miquelon) এর রাজধানী কোনটি?)",,,lvl3
+answer,"Miquelon",,0,
+answer,"Saint-Denis",,0,
+answer,"Saint-Pierre",,1,
+question,"La Guadeloupe est… (Guadeloupe হল...)",,,lvl3
+answer,"Une «commune d’outre-mer» (একটি ""সামুদ্রিক কমিউন"")",,0,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,1,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,0,
+question,"Selon quel texte le pouvoir politique doit-il fonctionner? (কোন লেখা অনুযায়ী রাজনৈতিক ক্ষমতাকে কাজ করতে হবে?)",,,lvl3
+answer,"Les traditions religieuses (ধর্মীয় ঐতিহ্য)",,0,
+answer,"Les coutumes locales (স্থানীয় রীতি নীতি)",,0,
+answer,"La Constitution et la loi (সংবিধান এবং আইন)",,1,
+question,"Wallis-et-Futuna est… (ওয়ালিস ও ফুটুনা (Wallis-et-Futuna) হল...)",,,lvl3
+answer,"Une «commune d’outre-mer» (একটি ""সামুদ্রিক কমিউন"")",,0,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+question,"Quelle est la capitale de la région Centre-Val de Loire? (সঁত্র-ভাল-দো-লোয়ার (Centre-Val de Loire) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Tours",,0,
+answer,"Orléans",,1,
+answer,"Blois",,0,
+question,"Quelle est la capitale de Saint-Martin? (সাঁ-মার্তাঁ (Saint-Martin) এর রাজধানী কোনটি?)",,,lvl3
+answer,"Marigot",,1,
+answer,"Gustavia",,0,
+answer,"Phillipsburg",,0,
+question,"Quels droits sont associés à la citoyenneté européenne? (ইউরোপীয় নাগরিকত্বের সাথে কোন অধিকারগুলি যুক্ত?)",,,lvl3
+answer,"Circuler, travailler, étudier, s’installer dans les autres pays de l’Union (ইউনিয়নের অন্যান্য দেশে চলাফেরা, কাজ করা, পড়াশোনা করা, স্থায়ী হওয়া)",,1,
+answer,"Être exempté d’impôts (কর থেকে অব্যাহতি পাওয়া)",,0,
+answer,"Avoir automatiquement deux nationalités (স্বয়ংক্রিয়ভাবে দুটি জাতীয়তা থাকা)",,0,
+question,"Dans combien de pays européens l’euro est-il utilisé avec la France? (ফ্রান্সের সাথে আর কতগুলি ইউরোপীয় দেশে ইউরো ব্যবহার করা হয়?)",,,lvl3
+answer,"27 (২৭)",,0,
+answer,"20 (২০)",,1,
+answer,"12 (১২)",,0,
+question,"Quelle est la capitale de la région Corse? (কোর্স (Corse) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Bastia",,0,
+answer,"Calvi",,0,
+answer,"Ajaccio",,1,
+question,"Quelle est la capitale de la région Normandie? (নরম্যান্ডি (Normandie) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Rouen",,1,
+answer,"Caen",,0,
+answer,"Le Havre",,0,
+question,"Quelle autorité enregistre les décès? (কোন কর্তৃপক্ষ মৃত্যু নিবন্ধন করে?)",,,lvl3
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+answer,"La commune (কমিউন - পৌরসভা)",,1,
+answer,"La région (রেজিওঁ - অঞ্চল)",,0,
+question,"Par quel mode de scrutin est élu le Président de la République? (প্রজাতন্ত্রের রাষ্ট্রপতি কোন ধরনের নির্বাচন পদ্ধতি দ্বারা নির্বাচিত হন?)",,,lvl3
+answer,"Au suffrage universel indirect (পরোক্ষ সর্বজনীন ভোটাধিকার দ্বারা)",,0,
+answer,"Au suffrage universel direct (প্রত্যক্ষ সর্বজনীন ভোটাধিকার দ্বারা)",,1,
+answer,"Par nomination du Parlement (পার্লামেন্ট কর্তৃক নিয়োগের মাধ্যমে)",,0,
+question,"Pour combien de temps le maire est-il élu? (মেয়র কত সময়ের জন্য নির্বাচিত হন?)",,,lvl3
+answer,"4 ans (৪ বছর)",,0,
+answer,"6 ans (৬ বছর)",,1,
+answer,"5 ans (৫ বছর)",,0,
+question,"Pour combien de temps les conseillers régionaux sont-ils élus? (আঞ্চলিক কাউন্সিলররা (conseillers régionaux) কত সময়ের জন্য নির্বাচিত হন?)",,,lvl3
+answer,"6 ans (৬ বছর)",,1,
+answer,"5 ans (৫ বছর)",,0,
+answer,"7 ans (৭ বছর)",,0,
+question,"Comment les communes sont-elles regroupées? (পৌরসভাগুলি (communes) কীভাবে একত্রিত হয়?)",,,lvl3
+answer,"En départements (বিভাগগুলিতে)",,0,
+answer,"En régions (অঞ্চলগুলিতে)",,0,
+answer,"En intercommunalités (communautés de communes, métropoles, etc.) (আন্তঃপৌরসংস্থাগুলিতে, যেমন: কমিউনিটি অফ কমিউন, মেট্রোপল ইত্যাদি)",,1,
+question,"Comment sont élus les sénateurs en France? (ফ্রান্সে সিনেটররা কীভাবে নির্বাচিত হন?)",,,lvl3
+answer,"Au suffrage universel indirect (পরোক্ষ সর্বজনীন ভোটাধিকার দ্বারা)",,1,
+answer,"Par le Président de la République (প্রজাতন্ত্রের রাষ্ট্রপতি দ্বারা)",,0,
+answer,"Au suffrage universel direct (প্রত্যক্ষ সর্বজনীন ভোটাধিকার দ্বারা)",,0,
+question,"Qui est responsable de la voirie communale? (কে পৌর রাস্তার রক্ষণাবেক্ষণের (voirie communale) জন্য দায়ী?)",,,lvl3
+answer,"La région (আঞ্চলিক পরিষদ)",,0,
+answer,"La commune (কমিউন - পৌরসভা)",,1,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+question,"Qui peut représenter l’État dans certaines collectivités d’outre-mer? (কিছু সামুদ্রিক সংস্থামে (collectivités d'outre-mer) কে রাষ্ট্রের প্রতিনিধিত্ব করতে পারে?)",,,lvl3
+answer,"Les hauts-commissaires (উচ্চ কমিশনাররা)",,1,
+answer,"Les gouverneurs élus (নির্বাচিত গভর্নররা)",,0,
+answer,"Les ambassadeurs (রাষ্ট্রদূতরা)",,0,
+question,"Quelle est la capitale de la région Auvergne-Rhône-Alpes? (ওভের্ন-রোন-আল্প (Auvergne-Rhône-Alpes) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Chambéry",,0,
+answer,"Grenoble",,0,
+answer,"Lyon",,1,
+question,". Qui administre les départements? (দেপার্তমঁ (বিভাগগুলি) কে পরিচালনা করে?)",,,lvl3
+answer,"Les maires (মেয়ররা)",,0,
+answer,"Les conseils départementaux (বিভাগীয় পরিষদগুলি)",,1,
+answer,"Les conseils régionaux (আঞ্চলিক পরিষদগুলি)",,0,
+question,"Qu’est-ce qui est garanti concernant la justice en France? (ফ্রান্সে বিচার ব্যবস্থা সম্পর্কে কী নিশ্চিত করা হয়?)",,,lvl3
+answer,"Son indépendance (এর স্বাধীনতা)",,1,
+answer,"Sa dépendance au gouvernement (সরকারের উপর এর নির্ভরতা)",,0,
+answer,"Sa soumission aux partis politiques (রাজনৈতিক দলগুলির প্রতি এর বশ্যতা)",,0,
+question,"Que règle la justice en France? (ফ্রান্সে বিচার ব্যবস্থা কী নিয়ন্ত্রণ করে?)",,,lvl3
+answer,"Les élections présidentielles (রাষ্ট্রপতি নির্বাচন)",,0,
+answer,"Les litiges entre particuliers, entreprises et citoyens avec l’administration (ব্যক্তি, সংস্থা এবং প্রশাসনের সাথে নাগরিকদের মধ্যে বিরোধ)",,1,
+answer,"Les décisions économiques du Gouvernement (সরকারের অর্থনৈতিক সিদ্ধান্ত)",,0,
+question,"Qui administre les régions? (অঞ্চলগুলি কে পরিচালনা করে?)",,,lvl3
+answer,"Les préfets (প্রেফেক্টরা)",,0,
+answer,"Le Sénat (সিনেট)",,0,
+answer,"Les conseils régionaux (আঞ্চলিক পরিষদগুলি)",,1,
+question,"Depuis quelle année les citoyens français sont-ils aussi citoyens européens? (কোন বছর থেকে ফরাসি নাগরিকরা ইউরোপীয় নাগরিকও বটে?)",,,lvl3
+answer,"1957 (১৯৫৭)",,0,
+answer,"1992 (১৯৯২)",,1,
+answer,"2000 (২০০০)",,0,
+question,"Qui est responsable de l’aide aux personnes âgées? (কে বয়স্ক ব্যক্তিদের সহায়তার জন্য দায়ী?)",,,lvl3
+answer,"La région (আঞ্চলিক পরিষদ)",,0,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,1,
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+question,"Quel texte définit l’organisation de l’État en France? (ফ্রান্সে রাষ্ট্রের সংগঠন (organisation de l'État) কোন লেখাটি সংজ্ঞায়িত করে?)",,,lvl3
+answer,"Le Code civil (দেওয়ানি আইন)",,0,
+answer,"La Constitution (সংবিধান)",,1,
+answer,"La Déclaration des droits de l’homme et du citoyen (মানবাধিকার ও নাগরিক অধিকারের ঘোষণা)",,0,
+question,"Quels sont les cinq départements-régions d’outre-mer? (পাঁচটি সামুদ্রিক বিভাগ ও অঞ্চল (DROM) কী কী?)",,,lvl3
+answer,"Guadeloupe, Guyane, Martinique, Mayotte, La Réunion",,1,
+answer,"Corse, Monaco, Andorre, Luxembourg, Sardaigne",,0,
+answer,"Polynésie française, Wallis-et-Futuna, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon",,0,
+question,"Que garantit la Charte des droits fondamentaux de l’Union européenne? (ইউরোপীয় ইউনিয়নের মৌলিক অধিকার সনদ কী নিশ্চিত করে?)",,,lvl3
+answer,"L’unité monétaire (মুদ্রাগত ঐক্য)",,0,
+answer,"Les droits des personnes (ব্যক্তিদের অধিকার)",,1,
+answer,"La politique étrangère commune (সাধারণ বিদেশ নীতি)",,0,
+question,"De quelle majorité politique le Premier ministre est-il issu? (প্রধানমন্ত্রী কোন রাজনৈতিক সংখ্যাগরিষ্ঠতা থেকে আসেন?)",,,lvl3
+answer,"De la majorité au Sénat (সিনেটের সংখ্যাগরিষ্ঠতা থেকে)",,0,
+answer,"De la majorité présidentielle uniquement (শুধুমাত্র রাষ্ট্রপতির সংখ্যাগরিষ্ঠতা থেকে)",,0,
+answer,"De la majorité aux élections législatives (আইনসভার নির্বাচনের সংখ্যাগরিষ্ঠতা থেকে)",,1,
+question,"Quelle est la capitale de la région Nouvelle-Aquitaine? (Nouvelle-Aquitaine অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Limoges",,0,
+answer,"Bordeaux",,1,
+answer,"Pau",,0,
+question,"Quelle est la capitale de la région Provence-Alpes-Côte d’Azur? (প্রোভঁস-আল্প-কোত দাজুর (Provence-Alpes-Côte d’Azur) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Marseille",,1,
+answer,"Toulon",,0,
+answer,"Nice",,0,
+question,"Qui est responsable de la protection de l’enfance? (কে শিশু সুরক্ষার জন্য দায়ী?)",,,lvl3
+answer,"La région (আঞ্চলিক পরিষদ)",,0,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,1,
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+question,"De quoi les régions sont-elles responsables? (অঞ্চলগুলি কিসের জন্য দায়ী?)",,,lvl3
+answer,"Des transports publics, de la formation professionnelle, de la construction et de l’entretien des lycées (গণপরিবহন, বৃত্তিমূলক প্রশিক্ষণ, উচ্চবিদ্যালয় নির্মাণ ও রক্ষণাবেক্ষণের জন্য)",,1,
+answer,"Des écoles maternelles (কিন্ডারগার্টেন বিদ্যালয়ের জন্য)",,0,
+answer,"Des hôpitaux militaires (সামরিক হাসপাতালের জন্য)",,0,
+question,"Quelle est la capitale de la région Bourgogne-Franche-Comté? (Bourgogne-Franche-Comté অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Mâcon",,0,
+answer,"Besançon",,0,
+answer,"Dijon",,1,
+question,"Quelle est la capitale de la Polynésie française? (ফরাসি পলিনেশিয়ার (Polynésie française) রাজধানী কোনটি?)",,,lvl3
+answer,"Raiatea",,0,
+answer,"Papeete",,1,
+answer,"Nouméa",,0,
+question,"Qui est responsable des activités culturelles locales? (কে স্থানীয় সাংস্কৃতিক কার্যক্রমের জন্য দায়ী?)",,,lvl3
+answer,"La région (আঞ্চলিক পরিষদ)",,0,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+answer,"La commune (কমিউন - পৌরসভা)",,1,
+question,"Quelle est la place économique de la France dans le monde? (বিশ্বে ফ্রান্সের অর্থনৈতিক স্থান কী?)",,,lvl3
+answer,"Dixième puissance mondiale (দশম বিশ্ব শক্তি)",,0,
+answer,"Sixième puissance mondiale (ষষ্ঠ বিশ্ব শক্তি)",,1,
+answer,"Première puissance mondiale (প্রথম বিশ্ব শক্তি)",,0,
+question,"Saint-Pierre-et-Miquelon est… (Saint-Pierre-et-Miquelon হল...)",,,lvl3
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+answer,"Un conseil d’outre-mer (একটি সামুদ্রিক পরিষদ)",,0,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+question,"Qui est responsable de l’entretien des lycées? (কে উচ্চবিদ্যালয় (lycées) রক্ষণাবেক্ষণের জন্য দায়ী?)",,,lvl3
+answer,"La commune (কমিউন - পৌরসভা)",,0,
+answer,"La région (রেজিওঁ - অঞ্চল)",,1,
+answer,"Le département (দেপার্তমঁ - বিভাগ)",,0,
+question,"Quelle est la capitale de la Guyane française? (ফরাসি গায়ানার (Guyane française) রাজধানী কোনটি?)",,,lvl3
+answer,"Fort-de-France",,0,
+answer,"Cayenne",,1,
+answer,"Mamoudzou",,0,
+question,"Combien de collectivités d’outre-mer la France compte-t-elle? (ফ্রান্সে কতগুলি সামুদ্রিক সংস্থাম (collectivités d'outre-mer - COM) রয়েছে?)",,,lvl3
+answer,"7 (৭টি)",,1,
+answer,"12 (১২টি)",,0,
+answer,"5 (৫টি)",,0,
+question,"Quelle est la capitale de Saint-Barthélemy? (সাঁ-বার্তেলেমি (Saint-Barthélemy) এর রাজধানী কোনটি?)",,,lvl3
+answer,"Marigot (মারিগোট)",,0,
+answer,"Saint-Martin (সাঁ-মার্তাঁ)",,0,
+answer,"Gustavia (গুস্তাভিয়া)",,1,
+question,"Qui représente l’État dans les départements et régions? (কে বিভাগ এবং অঞ্চলগুলিতে রাষ্ট্রের প্রতিনিধিত্ব করেন?)",,,lvl3
+answer,"Le député (সংসদ সদস্য)",,0,
+answer,"Le maire (মেয়র)",,0,
+answer,"Le préfet (প্রেফে - প্রিফেক্ট)",,1,
+question,"Combien de chambres composent le Parlement français? (ফরাসি পার্লামেন্ট কয়টি কক্ষ নিয়ে গঠিত?)",,,lvl3
+answer,"Trois (তিনটি)",,0,
+answer,"Une (একটি)",,0,
+answer,"Deux (দুটি)",,1,
+question,"Quelle proportion de la population mondiale représentent les Français? (বিশ্ব জনসংখ্যার কত শতাংশ ফরাসিরা?)",,,lvl3
+answer,"1 % (১ শতাংশ)",,1,
+answer,"10 % (১০ শতাংশ)",,0,
+answer,"5 % (৫ শতাংশ)",,0,
+question,"Quelle est la capitale de la région Bretagne? (ব্রেতাইন (Bretagne) অঞ্চলের রাজধানী কোনটি?)",,,lvl3
+answer,"Vannes",,0,
+answer,"Quimper",,0,
+answer,"Rennes",,1,
+question,"La Polynésie française est… (পলিনেজি ফ্রঁসেজ (Polynésie française) হল...)",,,lvl3
+answer,"Un conseil d’outre-mer (একটি সামুদ্রিক পরিষদ)",,0,
+answer,"Une collectivité d’outre-mer (একটি সামুদ্রিক সংস্থাম)",,1,
+answer,"Un département et région d’outre-mer (একটি সামুদ্রিক বিভাগ ও অঞ্চল)",,0,
+question,"Combien de territoires d’outre-mer la France compte-t-elle au total? (ফ্রান্সে মোট কতগুলি সামুদ্রিক অঞ্চল আছে?)",,,lvl3
+answer,"5 (৫টি)",,0,
+answer,"12 (১২টি)",,1,
+answer,"7 (৭টি)",,0,
+question,"Que peuvent faire les citoyens français installés dans un autre pays de l’Union? (ইউনিয়নের অন্য কোনো দেশে বসবাসকারী ফরাসি নাগরিকরা কী করতে পারে?)",,,lvl3
+answer,"Être automatiquement fonctionnaires de ce pays (স্বয়ংক্রিয়ভাবে সেই দেশের সরকারি কর্মচারী হওয়া)",,0,
+answer,"Voter aux élections locales de ce pays (সেই দেশের স্থানীয় নির্বাচনে ভোট দেওয়া)",,1,
+answer,"Se présenter à la présidence de ce pays (সেই দেশের রাষ্ট্রপতি পদে প্রার্থী হওয়া)",,0,

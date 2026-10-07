@@ -1,0 +1,250 @@
+{
+  "categories": {
+    "q_history.csv": {
+      "questions": 223,
+      "duplicate_questions": {},
+      "alignment": {
+        "bn": {
+          "rows": 893,
+          "french_rows": 893,
+          "type_mismatches": 0
+        },
+        "ar": {
+          "rows": 893,
+          "french_rows": 893,
+          "type_mismatches": 0
+        },
+        "ur": {
+          "rows": 893,
+          "french_rows": 893,
+          "type_mismatches": 0
+        },
+        "ps": {
+          "rows": 893,
+          "french_rows": 893,
+          "type_mismatches": 0
+        },
+        "en": {
+          "rows": 893,
+          "french_rows": 893,
+          "type_mismatches": 0
+        }
+      },
+      "invalid_blocks": []
+    },
+    "q_institutions.csv": {
+      "questions": 174,
+      "duplicate_questions": {
+        "Le Parlement est compos\u00e9 :": 2,
+        "Que se passe-t-il si un ministre ne respecte pas la loi ?": 2,
+        "Quelle condition est n\u00e9cessaire pour voter aux \u00e9lections ?": 2,
+        "Est-ce que le pr\u00e9sident de la R\u00e9publique a tous les pouvoirs ?": 2,
+        "Qui est le pr\u00e9fet ?": 2,
+        "Quel \u00c9tat n'est pas membre de l'Union europ\u00e9enne ?": 2,
+        "\u00c0 quelle fr\u00e9quence les \u00e9lections europ\u00e9ennes sont-elles organis\u00e9es ?": 2,
+        "Quel pays est un pays fondateur de l'Union europ\u00e9enne ?": 2
+      },
+      "alignment": {
+        "bn": {
+          "rows": 697,
+          "french_rows": 697,
+          "type_mismatches": 0
+        },
+        "ar": {
+          "rows": 697,
+          "french_rows": 697,
+          "type_mismatches": 0
+        },
+        "ur": {
+          "rows": 697,
+          "french_rows": 697,
+          "type_mismatches": 0
+        },
+        "ps": {
+          "rows": 697,
+          "french_rows": 697,
+          "type_mismatches": 0
+        },
+        "en": {
+          "rows": 697,
+          "french_rows": 697,
+          "type_mismatches": 0
+        }
+      },
+      "invalid_blocks": []
+    },
+    "q_republic.csv": {
+      "questions": 149,
+      "duplicate_questions": {
+        "Le r\u00e9gime de la France est :": 2,
+        "Quelle est la place de la langue fran\u00e7aise dans la R\u00e9publique ?": 2,
+        "Qu'est-ce que la Marseillaise ?": 2,
+        "Pourquoi le principe de la\u00efcit\u00e9 doit-il \u00eatre respect\u00e9 \u00e0 l'\u00e9cole ?": 2
+      },
+      "alignment": {
+        "bn": {
+          "rows": 597,
+          "french_rows": 597,
+          "type_mismatches": 0
+        },
+        "ar": {
+          "rows": 597,
+          "french_rows": 597,
+          "type_mismatches": 0
+        },
+        "ur": {
+          "rows": 597,
+          "french_rows": 597,
+          "type_mismatches": 0
+        },
+        "ps": {
+          "rows": 597,
+          "french_rows": 597,
+          "type_mismatches": 0
+        },
+        "en": {
+          "rows": 597,
+          "french_rows": 597,
+          "type_mismatches": 0
+        }
+      },
+      "invalid_blocks": []
+    },
+    "q_situations.csv": {
+      "questions": 113,
+      "duplicate_questions": {
+        "Une association sportive subventionn\u00e9e impose une pri\u00e8re avant chaque match. Est-ce autoris\u00e9 ?": 2,
+        "Un citoyen laisse les d\u00e9jections de son chien sur le trottoir. Quelle r\u00e8gle s\u2019applique ?": 2,
+        "Un site collecte les coordonn\u00e9es d\u2019usagers sans autorisation. Est-ce l\u00e9gal ?": 2,
+        "Un employeur lit les mails personnels d\u2019un salari\u00e9 sur son ordinateur professionnel. Est-ce autoris\u00e9 ?": 2,
+        "Une citoyenne dispose de temps libre et souhaite s\u2019impliquer dans la vie locale. Quelle initiative illustre la fraternit\u00e9 ?": 2,
+        "Une personne jette une canette dans la poubelle \u201cpapier\u201d. Est-ce grave ?": 2,
+        "Un citoyen veut choisir \u00e0 quoi sert son imp\u00f4t (\u00e9coles mais pas arm\u00e9e). Est-ce possible ?\u0964 ?)": 2,
+        "Un conducteur est contr\u00f4l\u00e9 avec 0,7 g d\u2019alcool par litre de sang. Quelle est la bonne r\u00e9action ?": 2,
+        "Des habitants signent une p\u00e9tition pour cr\u00e9er une piste cyclable. Effet juridique ?": 2
+      },
+      "alignment": {
+        "bn": {
+          "rows": 453,
+          "french_rows": 453,
+          "type_mismatches": 0
+        },
+        "ar": {
+          "rows": 453,
+          "french_rows": 453,
+          "type_mismatches": 0
+        },
+        "ur": {
+          "rows": 453,
+          "french_rows": 453,
+          "type_mismatches": 0
+        },
+        "ps": {
+          "rows": 453,
+          "french_rows": 453,
+          "type_mismatches": 0
+        },
+        "en": {
+          "rows": 453,
+          "french_rows": 453,
+          "type_mismatches": 0
+        }
+      },
+      "invalid_blocks": []
+    },
+    "q_society.csv": {
+      "questions": 70,
+      "duplicate_questions": {
+        "Concernant l'acc\u00e8s aux soins, quelle proposition est correcte ?": 2,
+        "Dans une entreprise, le droit syndical permet :": 2,
+        "Dans une entreprise, le droit de gr\u00e8ve autorise :": 2
+      },
+      "alignment": {
+        "bn": {
+          "rows": 281,
+          "french_rows": 281,
+          "type_mismatches": 0
+        },
+        "ar": {
+          "rows": 281,
+          "french_rows": 281,
+          "type_mismatches": 0
+        },
+        "ur": {
+          "rows": 281,
+          "french_rows": 281,
+          "type_mismatches": 0
+        },
+        "ps": {
+          "rows": 281,
+          "french_rows": 281,
+          "type_mismatches": 0
+        },
+        "en": {
+          "rows": 281,
+          "french_rows": 281,
+          "type_mismatches": 0
+        }
+      },
+      "invalid_blocks": []
+    },
+    "q_values.csv": {
+      "questions": 125,
+      "duplicate_questions": {
+        "Est-il toujours possible de divorcer ?": 2,
+        "Quel est le r\u00f4le de la police ?": 2,
+        "Que doit faire une victime de violences ?": 2,
+        "Quelle est l'infraction la plus grave ?": 2,
+        "Quelle proposition constitue une obligation ?": 2,
+        "Que doit-on faire face aux ordres des policiers ou gendarmes ?": 2,
+        "Quel est un exemple d\u2019assistance \u00e0 personne en danger ?": 2,
+        "Quelle proposition repr\u00e9sente un exemple de d\u00e9lit ?": 2,
+        "Qui veille au maintien de l\u2019ordre public ?": 2
+      },
+      "alignment": {
+        "bn": {
+          "rows": 501,
+          "french_rows": 501,
+          "type_mismatches": 0
+        },
+        "ar": {
+          "rows": 501,
+          "french_rows": 501,
+          "type_mismatches": 0
+        },
+        "ur": {
+          "rows": 501,
+          "french_rows": 501,
+          "type_mismatches": 0
+        },
+        "ps": {
+          "rows": 449,
+          "french_rows": 501,
+          "type_mismatches": 0
+        },
+        "en": {
+          "rows": 501,
+          "french_rows": 501,
+          "type_mismatches": 0
+        }
+      },
+      "invalid_blocks": []
+    }
+  },
+  "missing_ui_keys": {
+    "ar": [],
+    "bn": [],
+    "en": [],
+    "fr": [],
+    "ps": [],
+    "ur": []
+  },
+  "duplicate_json_keys": {
+    "ar": [],
+    "bn": [],
+    "en": [],
+    "fr": [],
+    "ps": [],
+    "ur": []
+  }
+}

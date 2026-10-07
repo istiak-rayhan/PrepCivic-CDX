@@ -1,0 +1,453 @@
+type,text,placeholder,is_correct,level
+question,Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? [یو تمویل شوی سپورتي ټولنه د هرې لوبې دمخه د لمانځه امر کوي. ایا دا اجازه لري؟],,,lvl1
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. [نه، د عامه بودیجې لخوا تمویل شوې ټولنه باید بې طرفۍ ته درناوی وکړي.]",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. [هو، که دا د محلي دود برخه وي.]",,0.0,
+answer,"Oui, si les adhérents sont d’accord. [هو، که غړي موافق وي.]",,0.0,
+question,Une élève porte un voile pendant les cours. Quelle règle s’applique ? [یوه زده کوونکې د ټولګیو پر مهال حجاب اغوندي. کومه قاعده پلي کیږي؟],,,lvl1
+answer,Les signes religieux ostensibles sont interdits dans les établissements publics. [په عامه ادارو کې ښکاره مذهبي نښې منع دي.],,1.0,
+answer,Autorisé pour les filles majeures. [د لویانو انجونو لپاره اجازه ده.],,0.0,
+answer,Autorisé si l’élève reste discrète. [اجازه ورکول کیږي که چیرې زده کونکی په احتیاط سره پاتې شي.],,0.0,
+question,Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? [یو تبعه د خپل سپي ملایان په سړک کې پریږدي. کومه قاعده پلي کیږي؟],,,lvl1
+answer,Couvrir avec du sable. [په شګو پوښ ​​کړئ.],,0.0,
+answer,"Laisser sur place, la pluie nettoiera. [په ځای کې پریږدئ، باران به یې پاک کړي.]",,0.0,
+answer,Ramasser et jeter dans les poubelles prévues. [پورته کړئ او په ورکړل شوي کثافاتو کې یې واچوئ.],,1.0,
+question,Un utilisateur partage un faux message d’alerte terroriste. Risque-t-il une sanction ? [یو کاروونکی د جعلي تروریستي خبرتیا پیغام شریکوي. ایا هغه د مجازاتو خطر لري؟],,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. [هو، د جعلي خبرونو خپرول جزا لري.]",,1.0,
+answer,"Oui, seulement si cela devient viral. [هو، یوازې که چیرې دا ویروس شي.]",,0.0,
+answer,"Non, s’il supprime après. [نه، که وروسته یې پاک کړي.]",,0.0,
+question,Un passant photographie un inconnu dans la rue et publie la photo sans accord. Est-ce légal ? [یو لاروی په سړک کې د یوه نامعلوم کس عکس اخلي او له موافقې پرته یې خپروي. ایا دا قانوني دی؟],,,lvl1
+answer,"Non, le droit à l’image protège toute personne identifiable. [نه، د انځور حق د پیژندلو وړ شخص ساتي.]",,1.0,
+answer,"Oui, si la photo est artistique. [هو، که عکس هنري وي.]",,0.0,
+answer,"Oui, si elle ne montre rien de choquant. [هو، که دا کوم ټکان ورکوونکی ونه ښيي.]",,0.0,
+question,Un voisin filme en permanence l’entrée de votre domicile. Quel est votre recours immédiat ? [یو ګاونډی په دوامداره توګه ستاسو د کور دروازه فلم کوي. ستاسو سمدستي حل څه دی؟],,,lvl1
+answer,Il n’y a pas de recours. [هیڅ حل نشته.],,0.0,
+answer,Lui demander de réorienter la caméra puis saisir la CNIL ou la justice si nécessaire. [له هغه څخه وغواړئ چې کیمره بیا وګرځوي او بیا د CNIL یا محاکمې سره اړیکه ونیسي که اړتیا وي.],,1.0,
+answer,Couper les câbles de la caméra. [د کیمرې کیبلونه پرې کړئ.],,0.0,
+question,"Lors du 11 novembre, un élu prononce un discours religieux. Est-ce conforme ? [د نومبر په 11، یو ټاکل شوی چارواکی مذهبي وینا کوي. ایا دا مطابقت لري؟]",,,lvl1
+answer,"Oui, pour honorer les croyants morts pour la France. [هو، د فرانسې لپاره د مړو مومنانو درناوي لپاره.]",,0.0,
+answer,"Oui, si personne ne proteste. [هو، که څوک اعتراض ونه کړي.]",,0.0,
+answer,"Non, les cérémonies publiques doivent rester neutres. [نه، عامه مراسم باید بې طرفه پاتې شي.]",,1.0,
+question,Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? [یو ټاکل شوی چارواکی د خپلو مالي ګټو له اعلانولو ډډه کوي. ایا دا جدي ده؟],,,lvl1
+answer,"Oui, la transparence est une obligation. [هو، روڼتیا یو مکلفیت دی.]",,1.0,
+answer,"Non, c’est une vie privée. [نه، دا یو شخصي ژوند دی.]",,0.0,
+answer,"Oui, seulement s’il gagne beaucoup. [هو، یوازې هغه وخت چې هغه ډیر عاید ترلاسه کړي.]",,0.0,
+question,Un maire veut pardonner une contravention à un ami. En a-t-il le droit ? [یو ښاروال غواړي خپل ملګري ته د ترافیکي سرغړونې بخښنه وکړي. ایا هغه حق لري؟],,,lvl1
+answer,"Oui, par amitié. [هو، د دوستۍ څخه بهر.]",,0.0,
+answer,"Non, seul le juge ou l’administration compétente peut. [نه، یوازې قاضي یا وړ اداره کولی شي.]",,1.0,
+answer,"Oui, par amitié. [هو، د دوستۍ څخه بهر.]",,0.0,
+question,Un média publie la photo d’un suspect avec le mot coupable. Est-ce légal ? [یوه رسنۍ د یوه شکمن عکس د ګناه کلمې سره خپروي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, si le public veut savoir. [هو، که خلک غواړي پوه شي.]",,0.0,
+answer,"Oui, s’il est arrêté. [هو، که هغه ونیول شي.]",,0.0,
+answer,"Non, cela viole la présomption d’innocence. [نه، دا د بې ګناهۍ انګیرنې څخه سرغړونه ده.]",,1.0,
+question,Un internaute publie des propos incitant à la haine. Quelle réaction conforme ? [د انټرنیټ یو کارونکی هغه تبصرې خپروي چې کرکې ته هڅوي. کوم موافق غبرګون؟],,,lvl1
+answer,Signaler et sanctionner ces propos. [دا تبصرې راپور کړئ او مجازات یې کړئ.],,1.0,
+answer,Effacer seulement s’il s’excuse. [یوازې ړنګ کړئ که هغه بخښنه وغواړي.],,0.0,
+answer,Tolérer car c’est une opinion. [زغمل ځکه چې دا یو نظر دی.],,0.0,
+question,Vous êtes témoin d’un comportement suspect pouvant être lié à la radicalisation. Que faire ? [تاسو د شکمن چلند شاهد یاست چې کیدی شي د افراطیت سره تړاو ولري. څه باید وکړو؟],,,lvl1
+answer,Enquêter vous-même. [پخپله پلټنه وکړئ.],,0.0,
+answer,Ne rien faire sauf danger immédiat. [د سمدستي خطر پرته بل څه مه کوئ.],,0.0,
+answer,Signaler via le numéro d’urgence ou la plateforme dédiée. [د بیړنۍ شمیرې یا وقف شوي پلیټ فارم له لارې راپور ورکړئ.],,1.0,
+question,Un employeur refuse une promotion à cause de l’orientation sexuelle. Quelle base légale ? [یو کارګمارونکی د جنسي تمایل له امله د ترویج څخه انکار کوي. کوم قانوني اساس؟],,,lvl1
+answer,L’orientation sexuelle est un critère de discrimination interdit. [جنسي تمایل د تبعیض منع شوی معیار دی.],,1.0,
+answer,Il n’y a pas de discrimination. [هیڅ تبعیض نشته.],,0.0,
+answer,Le salarié doit prouver que son orientation sexuelle n’a aucun lien avec ses compétences. [کارمند باید ثابته کړي چې د هغه جنسي تمایل د هغه د مهارتونو سره هیڅ تړاو نلري.],,0.0,
+question,Des personnes rient pendant la minute de silence du 11 novembre. Est-ce sanctionnable ? [د نومبر د ۱۱مې د چوپتیا پر مهال خلک خندل. ایا دا د مجازاتو وړ دی؟],,,lvl1
+answer,"Oui, seulement si c’est filmé. [هو، یوازې که چیرې دا فلم شوی وي.]",,0.0,
+answer,"Oui, c’est un outrage à la mémoire collective. [هو، دا د ډله ایزې حافظې سپکاوی دی.]",,1.0,
+answer,"Non, s’ils sont jeunes. [نه، که دوی ځوان وي.]",,0.0,
+question,Vous voulez connaître les dépenses de votre mairie. Quel est votre droit ? [تاسو غواړئ د خپل ښاروالۍ لګښتونه وپیژنئ. ستا حق څه دی؟],,,lvl1
+answer,Passer obligatoirement par un avocat. [د وکیل څخه تیریدل لازمي دي.],,0.0,
+answer,Vous n’avez pas ce droit. [تاسو دا حق نه لرئ.],,0.0,
+answer,Droit d’accès aux documents administratifs. [اداري اسنادو ته د لاسرسي حق.],,1.0,
+question,Un citoyen devient bénévole dans une association alimentaire. Quel principe illustre-t-il ? [یو تبعه د خواړو په ټولنه کې رضاکار کیږي. هغه کوم اصول بیانوي؟],,,lvl1
+answer,La neutralité. [بې طرفي.],,0.0,
+answer,L’égalité. [مساوات.],,0.0,
+answer,La fraternité. [ورورولي.],,1.0,
+question,Un promeneur capture des grenouilles pour les observer. Est-ce autorisé ? [یو پیاده کونکی د لیدلو لپاره چونګښې نیسي. ایا دا اجازه لري؟],,,lvl1
+answer,"Oui, pour usage personnel. [هو، د شخصي استعمال لپاره.]",,0.0,
+answer,"Oui, s’il les relâche plus tard. [هو، که هغه وروسته خوشې کړي.]",,0.0,
+answer,"Non, certaines espèces sont protégées. [نه، ځینې ډولونه خوندي دي.]",,1.0,
+question,Une voisine âgée tombe dans le hall. Que devez-vous faire ? [یو زوړ ګاونډی په تالار کې راښکته کیږي. تاسو باید څه وکړئ؟],,,lvl1
+answer,Passer votre chemin. [خپلې لارې ته لاړ شه.],,0.0,
+answer,Filmer la scène. [د صحنې فلم اخیستل.],,0.0,
+answer,L’aider immédiatement et appeler les secours. [سمدستي له هغې سره مرسته وکړئ او د مرستې لپاره زنګ ووهئ.],,1.0,
+question,Un parent demande une dispense de sport pour raison religieuse. Quelle réponse conforme ? [یو مور او پلار د مذهبي دلیلونو لپاره د سپورت معافیت غوښتنه کوي. کوم موافق ځواب؟],,,lvl1
+answer,Remplacer le sport par une étude surveillée. [د سپورت ځای په نظارت شوي مطالعې سره.],,0.0,
+answer,Accorder une dispense permanente. [د دایمي معافیت ورکول.],,0.0,
+answer,Expliquer que les cours sont obligatoires pour tous. [تشریح کړئ چې درسونه د هرچا لپاره لازمي دي.],,1.0,
+question,Deux salariés ont des salaires différents pour le même poste. Quelle règle s’applique ? [دوه کارمندان د ورته موقف لپاره مختلف معاشونه لري. کومه قاعده پلي کیږي؟],,,lvl1
+answer,L’entreprise peut fixer librement les salaires. [شرکت کولی شي په آزاده توګه معاشونه وټاکي.],,0.0,
+answer,Égalité de rémunération pour un travail égal. [د مساوي کار لپاره مساوي معاش.],,1.0,
+answer,Différence normale selon le sexe. [د جنسیت له مخې نورمال توپیر.],,0.0,
+question,"À l’hôpital public, une infirmière refuse un patient pour sa religion. Quelle conduite respecte la laïcité ? [په یوه دولتي روغتون کې، یوه نرسه د هغه د مذهب له امله د ناروغ څخه انکار کوي. کوم چلند د سیکولریزم درناوی کوي؟]",,,lvl1
+answer,Choisir les patients selon sa religion. [ناروغان د خپل مذهب له مخې وټاکئ.],,0.0,
+answer,Soigner tous les patients sans distinction. [د ټولو ناروغانو سره پرته له توپیر څخه درملنه وکړئ.],,1.0,
+answer,Soigner seulement ceux qui partagent ses convictions. [یوازې د هغو کسانو درملنه وکړئ چې د هغه باور شریکوي.],,0.0,
+question,Parents séparés en désaccord sur l’école. Que dit la loi ? [جلا شوي والدین په ښوونځي کې اختلاف لري. قانون څه وايي؟],,,lvl1
+answer,Les décisions importantes doivent être prises par les deux parents. [مهمې پریکړې باید د دواړو والدینو لخوا ونیول شي.],,1.0,
+answer,Le juge décide toujours seul. [قاضي تل یوازې پریکړه کوي.],,0.0,
+answer,La mère décide seule. [مور پخپله پریکړه کوي.],,0.0,
+question,Une commune refuse une salle municipale pour des funérailles laïques. Est-ce légal ? [یو ښاروال د سیکولر جنازې لپاره د ښاروالۍ خونه ردوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, seules les cérémonies religieuses sont autorisées. [هو، یوازې مذهبي مراسمو ته اجازه شته.]",,0.0,
+answer,"Non, le service public doit traiter toutes les convictions également. [نه، عامه خدمت باید د ټولو اعتقاداتو سره مساوي چلند وکړي.]",,1.0,
+answer,"Oui, car les funérailles sont privées. [هو، ځکه جنازه خصوصي ده.]",,0.0,
+question,Un cycliste circule la nuit sans éclairage sur une route non éclairée. Est-ce autorisé ? [یو بایسکل چلونکی د شپې په ناڅرګنده سړک کې له رڼا پرته سفر کوي. ایا دا اجازه لري؟],,,lvl1
+answer,"Oui, s’il roule lentement. [هو، که هغه ورو ورو چلوي.]",,0.0,
+answer,"Non, l’éclairage est obligatoire pour être visible. [نه، د لیدلو لپاره رڼا اړینه ده.]",,1.0,
+answer,"Oui, s’il porte des vêtements sombres. [هو، که هغه تیاره جامې واغوندي.]",,0.0,
+question,Un agent d’accueil d’une préfecture affiche un verset religieux sur son bureau. Est-ce conforme ? [د یوې حوزې یو استقبال کونکی په خپل میز کې مذهبي آیت ښیي. ایا دا مطابقت لري؟],,,lvl1
+answer,"Non, la neutralité interdit tout affichage de conviction personnelle. [نه، بې طرفي د شخصي عقیدې ښودل منع کوي.]",,1.0,
+answer,"Oui, si le public ne le remarque pas. [هو، که خلک پام نه کوي.]",,0.0,
+answer,"Oui, s’il s’agit d’un petit texte. [هو، که دا یو کوچنی متن وي.]",,0.0,
+question,Un salarié demande quelques minutes de pause pour prier sans perturber le travail. Quelle réponse conforme ? [یو کارمند غوښتنه کوي چې د کار ګډوډولو پرته د لمانځه لپاره یو څو دقیقې وقفه وکړي. کوم موافق ځواب؟],,,lvl1
+answer,L’employeur peut accepter si cela ne désorganise pas l’entreprise. [ګمارونکی کولی شي ومني که دا د شرکت ګډوډ نه کړي.],,1.0,
+answer,Refuser toute demande religieuse par principe. [په اصولو کې هره مذهبي غوښتنه ردول.],,0.0,
+answer,L’obliger à prier dans l’espace clients. [هغه مجبورول چې د پیرودونکي ساحه کې لمونځ وکړي.],,0.0,
+question,Un de vos voisins installe une caméra de surveillance qui filme de manière permanente l'entrée de votre domicile. Quel est votre recours légal immédiat ? [ستاسو یو ګاونډی یوه امنیتي کیمره نصبوي چې په دوامداره توګه ستاسو د کور دروازه فلم کوي. ستاسو سمدستي قانوني حل څه دی؟],,,lvl1
+answer,"Lui demander de réorienter sa caméra pour qu'elle ne filme que sa propriété, et en cas de refus, saisir la CNIL ou la justice. [له هغه څخه وغواړئ چې خپله کیمره بنده کړي ترڅو دا یوازې د هغه ملکیت فلم کړي، او د انکار په صورت کې، CNIL یا عدالت سره اړیکه ونیسي.]",,1.0,
+answer,"Couper les câbles de la caméra, car elle porte atteinte à votre vie privée. [د کیمرې کیبلونه پرې کړئ، ځکه چې دا ستاسو د محرمیت څخه سرغړونه کوي.]",,0.0,
+answer,"Il n'y a pas de recours, car les caméras privées sont totalement libres. [هیڅ لاره نشته، ځکه چې شخصي کیمرې په بشپړه توګه وړیا دي.]",,0.0,
+question,Un automobiliste ne s’arrête pas au passage piéton. Est-ce autorisé ? [موټر چلونکی د پیاده چلونکو په لاره نه دریږي. ایا دا اجازه لري؟],,,lvl1
+answer,"Non, il doit céder le passage. [نه، هغه باید لاره ورکړي.]",,1.0,
+answer,"Oui, si personne n’est blessé. [هو، که څوک ټپي نه وي.]",,0.0,
+answer,"Oui, la route est prioritaire. [هو، سړک لومړیتوب دی.]",,0.0,
+question,Un maire décide d’installer une crèche de Noël dans le hall de la mairie. Dans quel cas est-ce légal ? [یو ښاروال پریکړه کوي چې د ښاروالۍ په تالار کې د کرسمس کریچ نصب کړي. په کوم حالت کې دا قانوني ده؟],,,lvl1
+answer,Si la crèche a un caractère culturel ou festif et non religieux. [که چیرې د زیږون صحنه کلتوري یا جشن ولري او مذهبي ځانګړتیا ونلري.],,1.0,
+answer,"Jamais, même pour célébrer la culture locale. [هیڅکله نه، حتی د ځایی کلتور لمانځلو لپاره.]",,0.0,
+answer,"Toujours, car c’est une tradition. [تل، ځکه چې دا یو دود دی.]",,0.0,
+question,Votre voisin construit une clôture qui empiète légèrement sur votre terrain. Quelle est la base de votre droit à exiger le retrait ? [ستاسو ګاونډی یو کټ جوړوي چې ستاسو په ملکیت کې یو څه تجاوز کوي. ستاسو د حق اساس څه دی چې د وتلو غوښتنه وکړئ؟],,,lvl1
+answer,Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. [تاسو کولی شئ د خپلې ځمکې د دې کوچنۍ برخې کارولو لپاره د کرایې غوښتنه وکړئ.],,0.0,
+answer,Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. [د ملکیت حق مطلق او نه سرغړونکی دی: حتی یو کوچنی تجاوز باید لیرې شي.],,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. [تاسو هیڅ شی نشئ کولی، ځکه چې تجاوز خورا کوچنی دی چې قانوني عمل توجیه کړي.]",,0.0,
+question,Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? [یو سایټ د واک پرته د کاروونکي د اړیکو توضیحات راټولوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, si les données restent en Europe. [هو، که معلومات په اروپا کې پاتې شي.]",,0.0,
+answer,"Oui, si c’est pour la publicité. [هو، که دا د اعلاناتو لپاره وي.]",,0.0,
+answer,"Non, il faut le consentement clair de la personne. [نه، د سړي روښانه رضایت ته اړتیا ده.]",,1.0,
+question,Un journal publie un article critiquant le gouvernement. Peut-il être sanctionné ? [یوه ورځپاڼه د حکومت پر ضد مقاله خپروي. ایا هغه مجازات کیدی شي؟],,,lvl1
+answer,"Oui, si l’article dérange. [هو، که مقاله ګډوډ کړي.]",,0.0,
+answer,"Oui, si le gouvernement le souhaite. [هو، که حکومت وغواړي.]",,0.0,
+answer,"Non, la liberté de la presse est protégée dans le cadre de la loi. [نه، د مطبوعاتو ازادي د قانون په چوکاټ کې خوندي ده.]",,1.0,
+question,Un enfant étranger résidant en France sans papiers souhaite être scolarisé. L’école peut-elle refuser ? [په فرانسه کې یو بهرنی ماشوم چې د کاغذ پرته اوسیږي غواړي ښوونځي ته لاړ شي. ایا ښوونځي انکار کولی شي؟],,,lvl1
+answer,"Oui, s’il ne parle pas encore français. [هو، که هغه تر اوسه فرانسوي خبرې نه کوي.]",,0.0,
+answer,"Non, tout enfant a droit à l’éducation en France. [نه، هر ماشوم په فرانسه کې د زده کړې حق لري.]",,1.0,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. [هو، که د هغه مور او پالر د استوګنې جواز ونلري.]",,0.0,
+question,Une candidate voilée postule dans un supermarché. L’employeur la rejette pour ce motif. Est-ce légal ? [په سوپر مارکیټ کې محجبه کاندیدان پلي کیږي. کارفرما دا د دې دلیل لپاره ردوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Non, c’est une discrimination fondée sur la religion. [نه، دا په مذهب ولاړ تبعیض دی.]",,1.0,
+answer,"Oui, si les clients sont gênés. [هو، که پیرودونکي شرمنده وي.]",,0.0,
+answer,"Oui, car l’employeur refuse tous les signes religieux. [هو، ځکه چې کار ورکوونکی ټول مذهبي نښې ردوي.]",,0.0,
+question,Une voisine âgée chute dans l’escalier. Quelle conduite civique ? [یو زوړ ګاونډی د زینو ښکته کیږي. کوم مدني چلند؟],,,lvl1
+answer,Alerter les secours immédiatement. [سمدستي بیړنیو خدماتو ته خبر ورکړئ.],,1.0,
+answer,Filmer la scène pour preuve. [د ثبوت لپاره صحنه فلم کړئ.],,0.0,
+answer,"Ne rien faire, elle se relèvera. [هیڅ مه کوئ، هغه به بیرته پورته شي.]",,0.0,
+question,Une commune refuse la location d’une salle municipale pour des funérailles laïques. Est-ce légal ? [یوه ښاروالۍ د سیکولر جنازې لپاره د ښاروالۍ خونې کرایه کولو څخه انکار کوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Non, le service public doit traiter également toutes convictions. [نه، عامه خدمت باید د ټولو اعتقاداتو سره مساوي چلند وکړي.]",,1.0,
+answer,"Oui, car les funérailles sont privées. [هو، ځکه جنازه خصوصي ده.]",,0.0,
+answer,"Oui, les cérémonies religieuses seules sont autorisées. [هو، یوازې مذهبي مراسمو ته اجازه شته.]",,0.0,
+question,"Votre voisin construit une clôture sur son terrain, mais une petite partie empiète de quelques centimètres sur le vôtre. Quelle est la base de votre droit à exiger le retrait de cette partie ? [ستاسو ګاونډی په خپل ملکیت کې یو کټ جوړوي، مګر یوه کوچنۍ برخه یې څو سانتي متره ستاسو په څیر تیریږي. د دې برخې د وتلو غوښتنه کولو لپاره ستاسو د حق اساس څه دی؟]",,,lvl1
+answer,Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. [تاسو کولی شئ د خپلې ځمکې د دې کوچنۍ برخې کارولو لپاره د کرایې غوښتنه وکړئ.],,0.0,
+answer,Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. [د ملکیت حق مطلق او نه سرغړونکی دی: حتی یو کوچنی تجاوز باید لیرې شي.],,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. [تاسو هیڅ شی نشئ کولی، ځکه چې تجاوز خورا کوچنی دی چې قانوني عمل توجیه کړي.]",,0.0,
+question,"Sur un réseau social, un citoyen publie un photomontage satirique très offensant sur un responsable politique, mais sans appel à la violence. Le citoyen risque-t-il une condamnation ? [په ټولنیزه شبکه کې، یو تبعه په یوه سیاستوال باندې خورا سپکاوی کونکي عکسونه خپروي، مګر د تاوتریخوالي غوښتنه نه کوي. ایا تبعه د محاکمې خطر لري؟]",,,lvl1
+answer,"Non, la satire est toujours protégée par la liberté d'expression, même si elle est jugée de mauvais goût. [نه، طنزیه تل د بیان د آزادۍ لخوا ساتل کیږي، حتی که دا په خراب خوند کې وګڼل شي.]",,0.0,
+answer,"Oui, car la loi interdit toute critique des responsables politiques sous quelque forme que ce soit. [هو، ځکه چې قانون په هره بڼه د سیاستوالو نیوکه منع کوي.]",,0.0,
+answer,"Le citoyen risque une condamnation pour injure publique, mais il pourra invoquer son droit à la satire politique. [ښاریان د عامه سپکاوي له امله د محاکمې له خطر سره مخامخ دي، مګر هغه کولی شي د سیاسي طنز په حق کې غوښتنه وکړي.]",,1.0,
+question,Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? [یو تمویل شوی سپورتي ټولنه د هرې لوبې دمخه د لمانځه امر کوي. ایا دا اجازه لري؟],,,lvl1
+answer,"Oui, si les adhérents sont d’accord. [هو، که غړي موافق وي.]",,0.0,
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. [نه، د عامه بودیجې لخوا تمویل شوې ټولنه باید بې طرفۍ ته درناوی وکړي.]",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. [هو، که دا د محلي دود برخه وي.]",,0.0,
+question,"Lors d’une alerte inondation, certains habitants ignorent les consignes d’évacuation. Quelle attitude responsable ? [د سیلاب خبرتیا په جریان کې، ځینې اوسیدونکي د وتلو لارښوونې له پامه غورځوي. کوم مسؤل چلند؟]",,,lvl1
+answer,Suivre les instructions des autorités et aider les voisins vulnérables. [د چارواکو لارښوونې تعقیب کړئ او د زیان منونکو ګاونډیانو سره مرسته وکړئ.],,1.0,
+answer,Publier une vidéo sur internet pour alerter sans partir. [د پریښودو پرته خبرداری ورکولو لپاره په انټرنیټ کې ویډیو خپره کړئ.],,0.0,
+answer,Rester chez soi « pour protéger ses biens ». [د خپلو توکو د ساتنې لپاره په کور کې پاتې شئ.],,0.0,
+question,Une association culturelle exclut un membre pour ses opinions politiques radicales. Est-ce légal ? [یوه کلتوري ټولنه یو غړی د هغه د افراطي سیاسي نظریاتو له امله وباسي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, si cette possibilité est prévue dans les statuts de l’association. [هو، که دا امکان د اتحادیې په قوانینو کې چمتو شوی وي.]",,1.0,
+answer,"Non, car une fois membre l’exclusion est impossible. [نه، ځکه چې یو ځل یو غړی اخراج ناممکن دی.]",,0.0,
+answer,"Non, car toute exclusion pour opinions politiques est interdite. [نه، ځکه چې د سیاسي نظرونو لپاره هر ډول اخراج منع دی.]",,0.0,
+question,Un promeneur capture des papillons pour les collectionner. Est-ce autorisé ? [یو پیاده کونکی تیتلی نیسي ترڅو راټول کړي. ایا دا اجازه لري؟],,,lvl1
+answer,"Oui, s’il les relâche après. [هو، که هغه وروسته خوشې کړي.]",,0.0,
+answer,"Oui, s’il les garde chez lui. [هو، که هغه په کور کې وساتي.]",,0.0,
+answer,"Non, certaines espèces sont protégées. [نه، ځینې ډولونه خوندي دي.]",,1.0,
+question,Un homme refuse de s’adresser à une agente publique en raison de son sexe. Quelle marche à suivre ? [یو سړی د خپل جنسیت له امله د عامه اجنټ سره خبرې کولو څخه انکار کوي. څه باید وکړو؟],,,lvl1
+answer,L'agente doit rappeler la loi de 1905 et refuser la démarche. [اجنټ باید د 1905 قانون یاد کړي او پروسه رد کړي.],,0.0,
+answer,L'agente informe que le service public ne peut être refusé pour ce motif et peut interrompre la démarche. [استازی خبر ورکوي چې د دې دلیل لپاره د عامه خدماتو څخه انکار نشي کیدی او ممکن دا پروسه مداخله وکړي.],,1.0,
+answer,L'agente doit demander à un collègue masculin d’assurer le service. [اجنټ باید د نارینه همکار څخه د خدماتو چمتو کولو غوښتنه وکړي.],,0.0,
+question,Un restaurant refuse un client en fauteuil roulant pour raisons de place. Est-ce légal ? [یو رستورانت د ځای دالیلو له امله په ویلچیر کې پیرودونکي ردوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, si le restaurant est petit. [هو، که رستورانت کوچنی وي.]",,0.0,
+answer,"Non, refuser un client en raison de son handicap est interdit. [نه، د هغه د معلولیت له امله د پیرودونکي ردول منع دي.]",,1.0,
+answer,"Oui, si le client vient seul. [هو، که پیرودونکی یوازې راشي.]",,0.0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? [یو ګاونډی په خپل باغ کې شنه کثافات سوځوي، چې د دروند لوګي سبب کیږي. کوم غبرګون د مدنيت سره سمون لري؟]",,,lvl1
+answer,Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. [هغه ته یادونه وکړئ چې دا عمل منع دی او د اړتیا په صورت کې د ښار تالار ته راپور ورکړئ.],,1.0,
+answer,L’imiter pour “équilibrer les nuisances”. [د تکلیف توازن لپاره د هغه تقلید کول.],,0.0,
+answer,Le laisser faire car c’est sa propriété. [پریږده چې دا یې وکړي ځکه چې دا د هغه ملکیت دی.],,0.0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? [د حادثې په جریان کې، د لارویانو د مرستې پر ځای فلم اخیستل. کوم اخلاقي او قانوني قاعده؟]",,,lvl1
+answer,Porter assistance en priorité. [د لومړیتوب په توګه مرسته چمتو کړئ.],,1.0,
+answer,Attendre que d’autres interviennent. [انتظار وکړئ چې نور مداخله وکړي.],,0.0,
+answer,Filmer pour les réseaux. [د شبکې لپاره فلم کول.],,0.0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? [په فرانسه کې د هر ډول موټرو ځمکني موټر مالک لپاره لږترلږه قانوني مکلفیت څه دی، حتی که هغه موټر هم نه وي؟]",,,lvl1
+answer,L’obligation de souscrire une assurance tous risques. [د هراړخیز بیمې اخیستلو مکلفیت.],,0.0,
+answer,Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. [هیڅ مکلفیت نشته که چیرې موټر په شخصي ملکیت کې ولاړ وي.],,0.0,
+answer,L’obligation de souscrire une assurance en responsabilité civile (au tiers). [د ملکي مسؤلیت بیمه اخیستلو مکلفیت (دریم اړخ).],,1.0,
+question,"Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ? [په سړک کې، تاسو یو ټپي او بې هوښه کس وګورئ. تاسو باید څه وکړئ؟]",,,lvl1
+answer,Continuer votre chemin. [خپلې لارې ته دوام ورکړئ.],,0.0,
+answer,Filmer pour garder une preuve. [د ثبوت ساتلو لپاره فلم وکړئ.],,0.0,
+answer,Alerter les secours et sécuriser les lieux . [بیړني خدماتو ته خبرداری ورکړئ او سیمه خوندي کړئ.],,1.0,
+question,Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? [یو کارګمارونکی په خپل مسلکي کمپیوټر کې د کارمند شخصي بریښنالیکونه لولي. ایا دا اجازه لري؟],,,lvl1
+answer,"Non, les messages identifiés comme personnels sont protégés. [نه، د شخصي په توګه پیژندل شوي پیغامونه خوندي دي.]",,1.0,
+answer,"Oui, car le matériel appartient à l’entreprise. [هو، ځکه چې تجهیزات د شرکت پورې اړه لري.]",,0.0,
+answer,"Oui, s’il ne les partage pas. [هو، که هغه یې شریک نه کړي.]",,0.0,
+question,Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? [یو درمل جوړونکی د پیرودونکي د ناروغۍ په اړه خپلو ګاونډیانو ته وایي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, s’il veut prévenir les autres. [هو، که هغه غواړي نورو ته خبرداری ورکړي.]",,0.0,
+answer,"Non, il viole le secret professionnel. [نه، دا د مسلکي محرمیت څخه سرغړونه ده.]",,1.0,
+answer,"Oui, si le client est d’accord après. [هو، که پیرودونکی وروسته موافق وي.]",,0.0,
+question,Que doit-on faire face aux ordres des policiers ou gendarmes ? [موږ د پولیسو یا ګاونډیانو امرونو سره څه وکړو؟],,,lvl1
+answer,Les négocier sur place. [دوی سره په ځای کې خبرې وکړئ.],,0.0,
+answer,Les contester immédiatement. [سمدستي یې ننګ کړئ.],,0.0,
+answer,Les respecter dans le cadre de la loi. [د قانون په چوکاټ کې دوی ته درناوی وکړئ.],,1.0,
+question,Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? [جلا شوي مور او پالر د خپل ماشوم لپاره د ښوونځي په انتخاب کې اختلاف لري. قانون پدې حالت کې د والدینو د واک کارولو څرنګوالی تعریفوي؟],,,lvl1
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. [مهمې پریکړې باید د دواړو والدینو لخوا په ګډه وشي، حتی له جلا کیدو وروسته.]",,1.0,
+answer,La mère a toujours le dernier mot. [مور تل وروستۍ خبره لري.],,0.0,
+answer,Le juge décide automatiquement. [قاضي په خپله پریکړه کوي.],,0.0,
+question,Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? [کله چې موږ د تاوتریخوالي شاهد یو څه چلند لرو؟],,,lvl1
+answer,Intervenir seul physiquement. [یوازې فزیکي مداخله وکړئ.],,0.0,
+answer,Ne rien faire. [هیڅ مه کوه.],,0.0,
+answer,Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. [عاجل خدماتو یا قانون پلي کونکو ته خبرداری ورکړئ او تر ممکنه حده مرسته وکړئ.],,1.0,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? [د انټرنیټ یو کاروونکی خپروي چې « [ایکس ګروپ] خطرناک دی، دوی باید تعقیب شي ». کوم غبرګون ثابت دی؟]",,,lvl1
+answer,Signaler et sanctionner ces propos. [دا تبصرې راپور کړئ او مجازات یې کړئ.],,1.0,
+answer,Tolérer car c’est une opinion. [زغمل ځکه چې دا یو نظر دی.],,0.0,
+answer,Effacer seulement s’il s’excuse. [یوازې ړنګ کړئ که هغه بخښنه وغواړي.],,0.0,
+question,Est-il toujours possible de divorcer ? [ایا دا تل ممکنه ده چې طلاق واخلئ؟],,,lvl1
+answer,"Oui, uniquement avec l’accord des familles. [هو، یوازې د کورنیو په رضایت.]",,0.0,
+answer,"Non, sauf en cas de faute grave. [نه، پرته د جدي غلطۍ په صورت کې.]",,0.0,
+answer,"Oui, le divorce est un droit reconnu par la loi. [هو، طلاق د قانون له مخې پیژندل شوی حق دی.]",,1.0,
+question,Le recours à l’avortement est-il autorisé ? [ایا سقط ته لاسرسی جواز لري؟],,,lvl1
+answer,"Non, il est interdit. [نه، دا منع دی.]",,0.0,
+answer,Seulement avec l’accord du conjoint. [یوازې د میړه په رضایت سره.],,0.0,
+answer,"Oui, dans les conditions prévues par la loi. [هو، د قانون لخوا چمتو شوي شرایطو کې.]",,1.0,
+question,Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? [یو خپلواک کارګر د ټولنیز امنیت سره مرسته کولو څخه انکار کوي. ایا دا اجازه لري؟],,,lvl1
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. [نه، د ملي پیوستون د تمویل لپاره مرستې لازمي دي.]",,1.0,
+answer,"Oui, s’il a une assurance privée. [هو، که هغه شخصي بیمه ولري.]",,0.0,
+answer,"Oui, s’il n’est jamais malade. [هو، که هغه هیڅکله ناروغ نه وي.]",,0.0,
+question,Quel est un exemple d’assistance à personne en danger ? [په خطر کې یو چا ته د مرستې یوه بیلګه څه ده؟],,,lvl1
+answer,Appeler les secours pour une personne blessée. [د یو ټپي شوي کس لپاره د مرستې غوښتنه وکړئ.],,1.0,
+answer,Quitter les lieux sans agir. [د عمل کولو پرته ځای پریږدئ.],,0.0,
+answer,Filmer la scène. [د صحنې فلم اخیستل.],,0.0,
+question,Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? [دوه فرانسوي واده شوې میرمنې MAP کاروي. ماشوم څنګه په قانوني توګه دویمې مور سره تړاو لري؟],,,lvl1
+answer,La loi ne reconnaît pas la seconde mère. [قانون دوهمه مور نه پیژني.],,0.0,
+answer,La seconde mère doit adopter l’enfant. [دویمه مور باید ماشوم په غاړه واخلي.],,0.0,
+answer,Les deux mères sont reconnues comme parents dès la naissance. [دواړه میندې د زیږون څخه د مور او پلار په توګه پیژندل کیږي.],,1.0,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? [په یوه ودانۍ کې اوسیدونکي ټوله شپه عام څراغونه پریږدي. د کوم مدني چلند اختیارول؟]",,,lvl1
+answer,Ignorer le problème. [ستونزه له پامه غورځول.],,0.0,
+answer,Retirer les ampoules de force. [بلبونه په زور سره لرې کړئ.],,0.0,
+answer,Proposer des capteurs ou des minuteries pour réduire le gaspillage. [د کثافاتو د کمولو لپاره سینسرونه یا ټایمرونه وړاندیز کړئ.],,1.0,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? [د دې لپاره چې د هغې مدني حالت (لومړی نوم او جنس) د هغې په رسمي اسنادو کې بدل شي، ایا یو ټرانسجنډر باید عملیات وکړي؟]",,,lvl1
+answer,"Oui, c’est obligatoire. [هو دا لازمي ده.]",,0.0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. [نه، د 2017 راهیسې، هیڅ عملیات یا طبي مداخلې ته اړتیا نشته.]",,1.0,
+answer,"Oui, mais seulement une attestation psychiatrique. [هو، مګر یوازې د رواني ناروغۍ سند.]",,0.0,
+question,Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? [یو تبعه چې په جریمه کولو محکوم شوی د اختلاف له امله یې له ورکولو انکار کوي. کوم چلند د قانون سره سم دی؟],,,lvl1
+answer,Se faire justice soi-même. [خپل ځان عدالت ته سپارل.],,0.0,
+answer,Exécuter la décision ou exercer un recours prévu par la loi. [پریږدئ یا پریکړه پلي کړئ یا د قانون لخوا چمتو شوي اپیل تمرین کړئ.],,1.0,
+answer,Ignorer la décision. [پریکړه له پامه غورځول.],,0.0,
+question,Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? [یو ګاونډی د غلا په تور تورن دی خو تر اوسه محاکمه شوی نه دی. څنګه غبرګون وښيي؟],,,lvl1
+answer,Attendre la décision de justice avant de le juger. [د هغه د قضاوت کولو دمخه د محکمې پریکړې ته انتظار وکړئ.],,1.0,
+answer,Le considérer coupable immédiatement. [سمدستي مجرم وګڼئ.],,0.0,
+answer,Publier son nom sur les réseaux sociaux. [نوم یې په خواله رسنیو کې خپور کړئ.],,0.0,
+question,Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? [د عامه ترانسپورت اعتصاب اعلان شو. کوم سیسټم اجازه ورکوي چې کاروونکو ته مخکې له مخکې خبر ورکړل شي؟],,,lvl1
+answer,Le droit de réquisition. [د غوښتنې حق.],,0.0,
+answer,Le service minimum avec publication des prévisions de circulation. [د ترافیک وړاندوینو خپرولو سره لږترلږه خدمت.],,1.0,
+answer,Une limitation légale du nombre de grévistes. [د برید کونکو په شمیر قانوني محدودیت.],,0.0,
+question,Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? [یو سړی د « بانک » څخه بریښنالیک ترلاسه کوي چې د دوی کوډونه غوښتنه کوي. هغه باید څه وکړي؟],,,lvl1
+answer,Répondre pour vérifier. [د چک کولو لپاره ځواب ورکړئ.],,0.0,
+answer,Ne pas répondre et signaler la fraude. [ځواب مه ورکوئ او د درغلۍ راپور ورکړئ.],,1.0,
+answer,Donner les codes si l’adresse semble officielle. [که ادرس رسمي ښکاري کوډونه ورکړئ.],,0.0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? [د اسنادو پرته د هویت چک په جریان کې، ایا پولیس کولی شي تاسو سټیشن ته بوځي؟]",,,lvl1
+answer,"Non, jamais. [نه، هیڅکله.]",,0.0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. [هو، د هویت تصدیق لپاره چې کیدای شي تر 4 ساعتونو پورې دوام وکړي.]",,1.0,
+answer,"Non, elle doit vous laisser partir. [نه، هغه باید تاسو پریږدي.]",,0.0,
+question,Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? [یو اوسیدونکی د ښاروالۍ شورا په عامه غونډه کې ګډون کوي. آیا هغه خبرې کولی شي؟],,,lvl1
+answer,"Oui, si le maire l’autorise selon les règles locales. [هو، که ښاروال د محلي مقرراتو له مخې دا اجازه ورکړي.]",,1.0,
+answer,"Non, seuls les élus peuvent parler. [نه، یوازې ټاکل شوي چارواکي کولی شي خبرې وکړي.]",,0.0,
+answer,"Oui, librement et sans limite. [هو، په آزاده توګه او پرته له حد څخه.]",,0.0,
+question,Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? [یو رستورانت کوونکی همجنسباز جوړه ته د خدمت کولو څخه انکار کوي. قانون څه دی؟],,,lvl1
+answer,Autorisé si le restaurant est familial. [اجازه ورکول کیږي که رستورانت د کورنۍ دوستانه وي.],,0.0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. [دا منع دی، خدمت ته السرسی په جنسي تمایل پورې اړه نشي کولی.]",,1.0,
+answer,Autorisé s’il affiche ce refus. [اجازه ورکول کیږي که هغه دا انکار وښیې.],,0.0,
+question,Qui veille au maintien de l’ordre public ? [څوک د عامه نظم ساتل تضمینوي؟],,,lvl1
+answer,Le Parlement. [پارلمان.],,0.0,
+answer,Les mairies. [د ښاروالۍ تالارونه.],,0.0,
+answer,La police et la gendarmerie. [پولیس او جنډرمیري.],,1.0,
+question,Le respect des décisions de justice est-il obligatoire ? [ایا د محکمې پریکړو ته درناوی اړین دی؟],,,lvl1
+answer,"Non, si on n’est pas d’accord. [نه، که موږ موافق نه یو.]",,0.0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. [هو، حتی د اختلاف په صورت کې، د قانوني مرستې امکان سره.]",,1.0,
+answer,Seulement pour les étrangers. [یوازې د بهرنیانو لپاره.],,0.0,
+question,Quelle proposition constitue une obligation ? [کوم وړاندیز یو مکلفیت جوړوي؟],,,lvl1
+answer,Respecter la loi. [د قانون درناوی وکړئ.],,1.0,
+answer,Voter à chaque élection. [په هره ټاکنو کې رایه ورکړئ.],,0.0,
+answer,Adhérer à une association. [له یوې ټولنې سره یوځای شئ.],,0.0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? [د قانوني چک په جریان کې، یو لاروی د خپل هویت له ورکولو ډډه کوي. کوم چلند سم دی؟]",,,lvl1
+answer,Refuser au nom de la liberté individuelle. [د شخصي ازادۍ په نوم انکار کول.],,0.0,
+answer,Reporter le contrôle à plus tard. [د کنټرول وروسته وځنډوئ.],,0.0,
+answer,Coopérer et présenter une pièce d’identité. [همکاري وکړئ او یو ID وړاندې کړئ.],,1.0,
+question,Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? [تاسو غواړئ د خپل ښاروالۍ د عامه لګښتونو توضیحات وپیژنئ. ستا حق څه دی؟],,,lvl1
+answer,Passer obligatoirement par un avocat. [د وکیل څخه تیریدل لازمي دي.],,0.0,
+answer,Vous n’avez pas ce droit. [تاسو دا حق نه لرئ.],,0.0,
+answer,Le droit d’accès aux documents administratifs. [اداري اسنادو ته د لاسرسي حق.],,1.0,
+question,Une candidate voilée postule dans un supermarché ; l’employeur la rejette pour ce motif. Est-ce légal ? [محجبه کانديدان په سوپر مارکیټ کې پلي کیږي؛ کارفرما دا د دې دلیل لپاره ردوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, car l’employeur refuse tous les signes religieux. [هو، ځکه چې کار ورکوونکی ټول مذهبي نښې ردوي.]",,0.0,
+answer,"Oui, si les clients sont gênés. [هو، که پیرودونکي شرمنده وي.]",,0.0,
+answer,"Non, c’est une discrimination fondée sur la religion. [نه، دا په مذهب ولاړ تبعیض دی.]",,1.0,
+question,Un homme se présente à la mairie pour une démarche administrative et refuse de s'adresser à une agente publique en raison de son sexe. Quelle est la marche à suivre pour l'agente ? [یو سړی د اداري پروسې لپاره د ښار تالار ته راځي او د جنسیت له امله د عامه اجنټ سره د خبرو کولو څخه انکار کوي. د اجنټ لپاره طرزالعمل څه دی؟],,,lvl1
+answer,L'agente doit lui rappeler la loi de 1905 sur la laïcité et refuser d'effectuer la démarche. [اجنټ باید د سیکولریزم په اړه د 1905 قانون یاد کړي او د طرزالعمل ترسره کولو څخه انکار وکړي.],,0.0,
+answer,"L'agente doit l'informer que le service public ne peut être rendu qu'au guichet qu'il refuse, et que son refus est une rupture du principe d'égalité. [استازی باید ورته خبر ورکړي چې د عامه خدماتو یوازې په هغه کاونټر کې چمتو کیدی شي چې هغه یې ردوي، او دا چې د هغه انکار د مساوات د اصولو څخه سرغړونه ده.]",,1.0,
+answer,L'agente doit demander à un collègue masculin d'assurer le service pour éviter un conflit. [اجنټ باید د شخړې مخنیوي لپاره د نارینه همکار څخه د خدماتو چمتو کولو غوښتنه وکړي.],,0.0,
+question,Un automobiliste voit une voiture accidentée mais poursuit sa route « pour ne pas être en retard ». Quelle attitude conforme ? [یو موټر چلوونکی یو ټکر شوی موټر ګوري مګر خپل سفر ته دوام ورکوي « ترڅو ناوخته نه وي ». کوم موافق چلند؟],,,lvl1
+answer,Filmer et poster la vidéo. [ویډیو فلم او پوسټ کړئ.],,0.0,
+answer,S’arrêter et prévenir les secours. [ودریږئ او بیړني خدماتو ته زنګ ووهئ.],,1.0,
+answer,Poursuivre son trajet. [خپل سفر ته دوام ورکړئ.],,0.0,
+question,Une commune refuse de proposer un hébergement d’urgence à une famille sans abri en hiver. Est-ce conforme ? [یوه ښاروالۍ په ژمي کې یوې بې کوره کورنۍ ته د بیړني استوګنې وړاندیز کولو څخه انکار کوي. ایا دا مطابقت لري؟],,,lvl1
+answer,"Non, toute personne sans abri doit pouvoir accéder à un hébergement d’urgence. [نه، هر بې کوره سړی باید بیړني استوګنځي ته لاسرسی ولري.]",,1.0,
+answer,"Oui, si la famille vient d’une autre région. [هو، که کورنۍ د بلې سیمې څخه راشي.]",,0.0,
+answer,"Oui, si les centres sont pleins. [هو، که مرکزونه ډک وي.]",,0.0,
+question,Une entreprise déverse des solvants dans un ruisseau pour “économiser le traitement”. Quelle conséquence ? [یو شرکت د « درملنې خوندي کولو » لپاره سیند ته محلولونه خالي کوي. څه پایله؟],,,lvl1
+answer,Toléré s’il s’agit d’une petite quantité. [د زغملو وړ که لږ مقدار وي.],,0.0,
+answer,Autorisé sur terrain privé. [په شخصي ځمکه کې اجازه ورکړل شوې.],,0.0,
+answer,C’est une infraction environnementale grave. [دا د چاپیریال یو جدي سرغړونه ده.],,1.0,
+question,Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? [یوه ښاریان خالي وخت لري او غواړي په محلي ژوند کې برخه واخلي. کوم نوښت د ورورولۍ څرګندونه کوي؟],,,lvl1
+answer,S’engager comme bénévole dans une association. [په یوه ټولنه کې د رضاکار په توګه دخیل شئ.],,1.0,
+answer,Aider seulement contre rémunération. [یوازې د معاش لپاره مرسته وکړئ.],,0.0,
+answer,Attendre que l’État fasse tout. [انتظار وکړئ چې دولت هرڅه وکړي.],,0.0,
+question,Un utilisateur partage un faux message d’alerte “terroriste”. Risque-t-il une sanction ? [یو کاروونکی د جعلي « تروریست » خبرتیا پیغام شریکوي. ایا هغه د مجازاتو خطر لري؟],,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. [هو، د جعلي خبرونو خپرول جزا لري.]",,1.0,
+answer,"Non, s’il supprime après. [نه، که وروسته یې پاک کړي.]",,0.0,
+answer,"Oui, seulement si cela devient viral. [هو، یوازې که چیرې دا ویروس شي.]",,0.0,
+question,Un locataire organise des barbecues collectifs sur le balcon malgré l’interdiction de la copropriété. Est-ce légal ? [یو کرایه کونکی د ګډ ملکیت له ممانعت سره سره په بالکوني کې ډله ایز باربیکیو تنظیموي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, s’il invite les voisins. [هو، که هغه ګاونډیانو ته بلنه ورکړي.]",,0.0,
+answer,"Oui, si ce n’est pas fréquent. [هو، که دا پرله پسې نه وي.]",,0.0,
+answer,"Non, le règlement intérieur s’impose à tous. [نه، داخلي مقررات په ټولو باندې پلي کیږي.]",,1.0,
+question,Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? [یو سړی په « کاغذ » کثافاتو کې کین اچوي. ایا دا جدي ده؟],,,lvl1
+answer,"Non, c’est toujours mieux que par terre. [نه، دا تل د ځمکې په پرتله ښه ده.]",,0.0,
+answer,"Oui, seulement si quelqu’un la voit. [هو، یوازې که څوک یې وګوري.]",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. [هو، د کثافاتو ناسمه جلا کول د بیا کارونې مخه نیسي.]",,1.0,
+question,Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ? [یو تبعه غواړي دا وټاکي چې د هغه مالیه د څه لپاره کارول کیږي (ښوونځي مګر اردو نه). ایا دا ممکنه ده؟],,,lvl1
+answer,"Oui, sur demande à la mairie. [هو، د ښار په تالار کې د غوښتنې پراساس.]",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. [نه، مالیه ډله ایز ده او په انفرادي توګه نه ټاکل کیږي.]",,1.0,
+answer,"Oui, en cochant la bonne case. [هو، د سم بکس چیک کولو سره.]",,0.0,
+question,Une entreprise paie différemment deux salariés pour le même poste et la même ancienneté. Quelle règle s’applique ? [یو شرکت د ورته موقعیت او ورته لوړتیا لپاره دوه کارمندانو ته په جلا توګه تادیه کوي. کومه قاعده پلي کیږي؟],,,lvl1
+answer,La différence est normale si les employés sont de sexe différent. [توپیر نورمال دی که چیرې کارمندان د مختلف جنسونو څخه وي.],,0.0,
+answer,L’entreprise peut fixer librement les salaires sans justification. [شرکت کولی شي په آزاده توګه د توجیه پرته معاشونه وټاکي.],,0.0,
+answer,L’égalité de rémunération pour un travail égal. [د مساوي کار لپاره مساوي معاش.],,1.0,
+question,"Sur un forum d'actualité, vous laissez un commentaire anonyme très agressif visant une personne publique, mais sans diffamation. Votre commentaire est-il protégé par la liberté d'expression ? [د خبري فورم په جریان کې، تاسو د عامه شخصیت په هدف یو خورا تیریدونکی نامعلوم نظر پریږدئ، مګر د بدنامۍ پرته. ایا ستاسو نظر د بیان د آزادۍ لخوا خوندي دی؟]",,,lvl1
+answer,"Non, l'anonymat ne protège pas contre l'injure publique, et l'hébergeur pourra être contraint de communiquer votre identité. [نه، د نوم نه ښودل د عامه سپکاوي په وړاندې ساتنه نه کوي، او کوربه اړتیا لري چې ستاسو هویت سره اړیکه ونیسي.]",,1.0,
+answer,"Oui, car la liberté d'expression en ligne est totale tant qu'on utilise un pseudonyme. [هو، ځکه چې آنلاین د بیان آزادي تر هغه وخته بشپړه ده چې تاسو یو تخلص کاروئ.]",,0.0,
+answer,"Oui, car seule la presse est soumise à des lois strictes sur la diffamation et l'injure. [هو، ځکه چې یوازې مطبوعات د بدنامۍ او سپکاوي سختو قوانینو تابع دي.]",,0.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? [یو چلوونکی د 0.7 ګرامه الکول فی لیتر وینې سره چک شوی. مناسب غبرګون څه دی؟]",,,lvl1
+answer,Tenter de négocier sur place. [په ځای کې د خبرو اترو هڅه وکړئ.],,0.0,
+answer,Fuir le contrôle. [د کنټرول څخه وتښتي.],,0.0,
+answer,Reconnaître l’infraction et accepter les sanctions prévues par la loi. [سرغړونه ومنئ او د قانون لخوا چمتو شوي جریمې ومنئ.],,1.0,
+question,Un collectif veut manifester demain sans déclaration préalable. Quelle démarche conforme ? [یو ډله ایز غواړي سبا پرته له مخکینۍ اعلامیې مظاهره وکړي. کومه پروسه مطابقت لري؟],,,lvl1
+answer,Bloquer la circulation pour attirer l’attention. [د پام اړولو لپاره ترافیک بند کړئ.],,0.0,
+answer,Manifester librement sans formalité. [د رسميت پرته په آزاده توګه مظاهره وکړئ.],,0.0,
+answer,Déclarer la manifestation et respecter l’ordre public. [مظاهره اعلان کړئ او د عامه نظم درناوی وکړئ.],,1.0,
+question,Un propriétaire refuse de louer à un couple étranger malgré un dossier solide. Est-ce autorisé ? [یو مالک د قوي دوسیه سره سره بهرني جوړه ته کرایه کولو څخه انکار کوي. ایا دا اجازه لري؟],,,lvl1
+answer,"Oui, car c’est son logement. [هو، ځکه چې دا د هغه کور دی.]",,0.0,
+answer,"Non, c’est une discrimination liée à l’origine. [نه، دا د اصل پورې تړلی تبعیض دی.]",,1.0,
+answer,"Oui, si le loyer est augmenté. [هو، که کرایه زیاته شي.]",,0.0,
+question,Un dessinateur publie une caricature jugée offensante par un groupe religieux qui porte plainte pour blasphème. Quelle règle s’applique ? [یوه کارتونست د یوې مذهبي ډلې لخوا چې د کفر شکایت درج کوي د سپکاوي په توګه کاریکچر خپروي. کومه قاعده پلي کیږي؟],,,lvl1
+answer,Le juge peut condamner pour offense aux croyants. [قاضي کولای شي د مؤمنانو په وړاندې د سرغړونې په تور محکوم کړي.],,0.0,
+answer,Le blasphème n’est pas un délit en France ; seule l’incitation à la haine est punie. [کفر په فرانسه کې جرم نه دی؛ یوازې نفرت ته هڅول سزا ده.],,1.0,
+answer,Toute moquerie de religion est interdite. [د دين مسخره کول منع دي.],,0.0,
+question,Un passager monte dans le train sans billet “parce que tout le monde le fait”. Quelle attitude civique ? [یو مسافر له ټکټ پرته په ریل ګاډي کې سپاره شي « ځکه چې هرڅوک دا کوي ». کوم مدني چلند؟],,,lvl1
+answer,Se cacher du contrôleur. [له کنټرولر څخه پټول.],,0.0,
+answer,Argumenter sur le prix trop élevé. [د قیمت په اړه بحث خورا لوړ دی.],,0.0,
+answer,Acheter un billet et respecter les règles de transport. [ټکټ واخلئ او د ټرانسپورټ قواعد درناوی وکړئ.],,1.0,
+question,Un donneur est refusé parce qu’il est homosexuel. Est-ce légal ? [يو مرستندوی رد شو ځکه چې هغه همجنسباز دی. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, pour des raisons morales. [هو، د اخلاقي دلیلونو لپاره.]",,0.0,
+answer,"Non, les critères doivent reposer uniquement sur la sécurité sanitaire. [نه، معیارونه باید یوازې د روغتیا خوندیتوب پر بنسټ وي.]",,1.0,
+answer,"Oui, car le personnel choisit librement. [هو، ځکه چې کارمندان په آزاده توګه غوره کوي.]",,0.0,
+question,Un contribuable refuse de payer ses impôts en disant “je n’utilise pas les services publics”. Est-ce recevable ? [یو مالیه ورکوونکی د خپلو مالیاتو له ورکولو ډډه کوي او وايي چې « زه د عامه خدماتو څخه کار نه اخلم ». ایا دا د منلو وړ ده؟],,,lvl1
+answer,"Oui, s’il n’a pas d’enfants scolarisés. [هو، که هغه د ښوونځي په عمر ماشومان ونه لري.]",,0.0,
+answer,"Non, l’impôt finance le fonctionnement collectif. [نه، مالیه د ټولیزو عملیاتو تمویل کوي.]",,1.0,
+answer,"Oui, s’il est né à l’étranger. [هو، که هغه په بهر کې زیږیدلی وي.]",,0.0,
+question,Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? [یو تبعه د خپل سپي ملایان په سړک کې پریږدي. کومه قاعده پلي کیږي؟],,,lvl1
+answer,"Laisser sur place, « la pluie nettoiera ». [په ځای کې پریږدئ، باران به یې پاک کړي.]",,0.0,
+answer,Couvrir avec du sable. [په شګو پوښ ​​کړئ.],,0.0,
+answer,Ramasser et jeter dans les poubelles prévues. [پورته کړئ او په ورکړل شوي کثافاتو کې یې واچوئ.],,1.0,
+question,Un candidat à l'embauche se voit refuser le poste car il mentionne sur son CV qu'il est délégué syndical dans son entreprise actuelle. De quoi l'entreprise se rend-elle coupable ? [یو نوماند دندې ته د رد کیدو له امله رد کیږي ځکه چې هغه په خپل CV کې یادونه کوي چې هغه په خپل اوسني شرکت کې د اتحادیې استازی دی. شرکت د څه شي مجرم دی؟],,,lvl1
+answer,"Le refus est légitime, car l'employeur peut juger que l'engagement syndical nuit à la productivité. [انکار مشروع دی، ځکه چې ګمارونکی قضاوت کولی شي چې د اتحادیې ښکیلتیا تولید ته زیان رسوي.]",,0.0,
+answer,"Discrimination syndicale, un délit sévèrement puni par le Code du travail et le Code pénal. [د اتحادیې تبعیض، د کار قانون او جزا قانون لخوا سخته سزا ورکول کیږي.]",,1.0,
+answer,"Rupture d'égalité de traitement, mais qui ne constitue pas une discrimination punissable. [د مساوي چلند ماتول، مګر کوم چې د مجازاتو وړ تبعیض نه جوړوي.]",,0.0,
+question,Un usager malentendant se présente à un guichet administratif sans interprète en langue des signes. L'agent public doit-il lui fournir une aide spécifique ? [د اوریدو ضعیف کارونکي د نښان ژبې ژباړونکي پرته په اداري کاونټر کې ښکاري. ایا عامه اجنټ باید هغه ته ځانګړې مرستې چمتو کړي؟],,,lvl1
+answer,"Non, l'usager doit se présenter avec les moyens nécessaires à sa compréhension. [نه، کارن باید ځان د هغه د پوهیدو لپاره اړین وسیلو سره وړاندې کړي.]",,0.0,
+answer,L'administration a une obligation d'adaptation et de compensation pour garantir l'égalité d'accès au service pour les personnes handicapées. [اداره د معلولیت لرونکو کسانو لپاره خدمت ته د مساوي لاسرسي د تضمین لپاره د موافقت او جبران مسؤلیت لري.],,1.0,
+answer,"Non, car les services publics n'ont pas l'obligation d'engager des interprètes. [نه، ځکه چې عامه خدمات مکلف ندي چې ژباړونکي وګماري.]",,0.0,
+question,Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? [اوسیدونکي د سایکل لارې جوړولو لپاره یو عریضه لاسلیک کوي. قانوني اغیز؟],,,lvl1
+answer,Elle crée immédiatement la piste. [دا سمدلاسه لار رامینځته کوي.],,0.0,
+answer,Elle remplace un vote municipal. [دا د ښاروالۍ رایې بدلوي.],,0.0,
+answer,Elle peut être transmise à la collectivité mais ne l’oblige pas. [دا کیدی شي ټولنې ته ولیږدول شي مګر دا اړتیا نلري.],,1.0,
+question,Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ? [یو تبعه غواړي دا وټاکي چې د هغه مالیه د څه لپاره کارول کیږي (ښوونځي مګر اردو نه). ایا دا ممکنه ده؟],,,lvl1
+answer,"Oui, en cochant la bonne case. [هو، د سم بکس چیک کولو سره.]",,0.0,
+answer,"Oui, sur demande à la mairie. [هو، د ښار په تالار کې د غوښتنې پراساس.]",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. [نه، مالیه ډله ایز ده او په انفرادي توګه نه ټاکل کیږي.]",,1.0,
+question,Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? [یو ناروغ کارمند د توجیه شوي طبي غیر حاضرۍ لپاره د ګوښه کولو لیک ترلاسه کوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. [نه، د روغتیا حالت پر بنسټ ګوښه کول تبعیض دی.]",,1.0,
+answer,"Oui, dès qu’il dépasse une semaine d’arrêt. [هو، هرڅومره ژر چې دا د کار څخه یوه اونۍ تیریږي.]",,0.0,
+answer,"Oui, s’il est remplacé par quelqu’un de plus disponible. [هو، که دا د یو ډیر شتون لرونکي لخوا بدل شي.]",,0.0,
+question,"Lors d'un entretien d'embauche, un recruteur vous pose une question sur votre âge sans lien avec les compétences requises. Quelle est votre option de réponse la plus appropriée, du point de vue légal ? [د دندې د مرکې په جریان کې، یو استخدام کوونکی ستاسو د عمر په اړه پوښتنه کوي چې د اړتیا وړ مهارتونو پورې اړه نلري. له قانوني نظره د غبرګون ستاسو ترټولو مناسب انتخاب څه دی؟]",,,lvl1
+answer,Rappeler poliment que l'âge est un critère de discrimination interdit et demander en quoi cette question est pertinente pour le poste. [په شایسته توګه په یاد ولرئ چې عمر یو منع شوی تبعیض معیار دی او پوښتنه وکړئ چې دا پوښتنه څنګه د موقف پورې تړاو لري.],,1.0,
+answer,"Répondre que le Code du travail interdit de poser cette question, sous peine d'annulation de l'entretien. [ځواب ورکړئ چې د کار قانون د مرکې د لغوه کیدو د جریمې لاندې د دې پوښتنې پوښتنه منع کوي.]",,0.0,
+answer,Mentir sur son âge pour éviter d'être pénalisé. [د مجازاتو څخه مخنیوي لپاره د خپل عمر په اړه دروغ ووایاست.],,0.0,
+question,"Au collège, une élève se plaint de moqueries et d'insultes homophobes de la part d'autres élèves. Que doit faire l'équipe pédagogique ? [په کالج کې، یوه زده کوونکې د نورو زده کونکو لخوا د همجنس فوبیک ملنډې او سپکاوي شکایت کوي. تدریسي ټیم باید څه وکړي؟]",,,lvl1
+answer,"L'équipe pédagogique doit engager des mesures disciplinaires contre les auteurs, car l'homophobie constitue un manquement grave aux principes de la République et du vivre-ensemble. [ښوونکی ټیم باید د مرتکبینو په وړاندې انضباطي اقدام وکړي، ځکه چې هوموفوبیا د جمهوریت او ګډ ژوند اصولو څخه جدي سرغړونه ده.]",,1.0,
+answer,"L'équipe pédagogique doit tolérer l'incident, car la liberté d'expression des élèves est protégée. [د تدریس ټیم باید د پیښې برداشت وکړي، ځکه چې د زده کونکو د بیان ازادي خوندي ده.]",,0.0,
+answer,"L'équipe doit se contenter d'un simple rappel à l'ordre, car ce sont des affaires privées qui ne relèvent pas du domaine scolaire. [ټیم باید خپل ځان ته د امر کولو لپاره په ساده یادونې سره قناعت ورکړي، ځکه چې دا شخصي مسلې دي چې د ښوونځي په واک کې نه راځي.]",,0.0,
+question,Des adolescents détériorent les bancs du parc public. Quelle réaction citoyenne ? [تنکي ځوانان د عامه پارک بنچونه خرابوي. کوم د اتباعو غبرګون؟],,,lvl1
+answer,Considérer cela comme “jeu d’enfant”. [دا د ماشومانو د لوبې په توګه په پام کې ونیسئ.],,0.0,
+answer,Filmer et diffuser sur internet pour le buzz. [فلم او د بز لپاره په انټرنیټ نشر کړئ.],,0.0,
+answer,Signaler l’acte et sensibiliser au respect des biens communs. [د عمل راپور ورکړئ او د عامه توکو درناوي پوهاوی لوړ کړئ.],,1.0,
+question,"Dans une entreprise, le règlement intérieur interdit tout signe religieux pour des raisons de sécurité. Est-ce légal ? [په یوه شرکت کې، د کور قواعد د امنیتي دلایلو لپاره د هر ډول مذهبي نښې منع کوي. ایا دا قانوني دی؟]",,,lvl1
+answer,"Oui, seulement pour certaines religions. [هو، یوازې د ځینو مذهبونو لپاره.]",,0.0,
+answer,"Oui, si la restriction est justifiée par la nature du travail. [هو، که محدودیت د کار طبیعت لخوا توجیه شوی وي.]",,1.0,
+answer,"Non, toute interdiction est discriminatoire. [نه، هر ډول بندیز د تبعیض دی.]",,0.0,
+question,Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? [یو سړی په « کاغذ » کثافاتو کې کین اچوي. ایا دا جدي ده؟],,,lvl1
+answer,"Non, c’est toujours mieux que par terre. [نه، دا تل د ځمکې په پرتله ښه ده.]",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. [هو، د کثافاتو ناسمه جلا کول د بیا کارونې مخه نیسي.]",,1.0,
+answer,"Oui, seulement si quelqu’un la voit. [هو، یوازې که څوک یې وګوري.]",,0.0,
+question,Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? [یو سایټ د واک پرته د کاروونکي د اړیکو توضیحات راټولوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, si c’est pour la publicité. [هو، که دا د اعلاناتو لپاره وي.]",,0.0,
+answer,"Non, il faut le consentement clair de la personne. [نه، د سړي روښانه رضایت ته اړتیا ده.]",,1.0,
+answer,"Oui, si les données restent en Europe. [هو، که معلومات په اروپا کې پاتې شي.]",,0.0,
+question,Un voyageur transporte une arme blanche dans le métro “pour se défendre”. Est-ce légal ? [یو مسافر د خپل ځان د دفاع لپاره په فرعي سړک کې چاقو لیږدوي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, s’il ne s’en sert pas. [هو، که هغه یې نه کاروي.]",,0.0,
+answer,"Non, le port d’arme sans motif légitime est interdit. [نه، د قانوني دلیل پرته د وسلو لیږدول منع دي.]",,1.0,
+answer,"Oui, si elle reste cachée. [هو، که هغه پټ پاتې شي.]",,0.0,
+question,"Vous êtes témoin d'une violente dispute de couple dans la rue. L'un des partenaires pousse l'autre violemment, sans qu'il ne chute. N'intervenant pas, pouvez-vous être accusé de non-assistance à personne en danger ? [تاسو په کوڅه کې د جوړه جوړه د تاوتریخوالي شخړه وینئ. یو ملګری بل په زوره فشاروي، مګر هغه نه رالویږي. د مداخلې نه کولو سره، تاسو په خطر کې د یو شخص سره د مرستې نه کولو تورن کیدی شئ؟]",,,lvl1
+answer,"Non, car le délit exige que la personne soit confrontée à un péril certain et immédiat, ce qui n'est pas le cas ici (pas de chute ou de blessure apparente grave). [نه، ځکه چې جرم دې ته اړتیا لري چې سړی د یو ځانګړي او سمدستي خطر سره مخ شي، کوم چې دلته قضیه نه ده (هیڅ څرګند راټیټ یا جدي ټپي نه دی).]",,1.0,
+answer,"Oui, car le simple fait de ne pas alerter les secours ou d'intervenir est suffisant pour le délit de non-assistance. [هو، ځکه چې د مرستې په خبرتیا کې پاتې راتلل یا مداخله نه کول د نه مرستې جرم لپاره کافي دي.]",,0.0,
+answer,"Oui, car la loi oblige à intervenir dès qu'une violence est constatée en public. [هو، ځکه چې قانون مداخلې ته اړتیا لري کله چې په عامه توګه تاوتریخوالی وموندل شي.]",,0.0,
+question,"Lors d’un spectacle, un humoriste se moque d’un groupe religieux sans appel à la haine. Est-ce autorisé ? [د نندارې په جریان کې، یو کامیډین د کرکې غوښتنې پرته د مذهبي ډلې ملنډې وهي. ایا دا اجازه لري؟]",,,lvl1
+answer,"Oui, la satire est protégée si elle ne vise pas à humilier. [هو، طنز خوندي دی که دا د سپکولو موخه نه وي.]",,1.0,
+answer,"Non, on ne peut jamais plaisanter sur la religion. [نه، تاسو هیڅکله په مذهب ټوکې نشئ کولی.]",,0.0,
+answer,"Oui, même si cela provoque la violence. [هو، حتی که دا د تاوتریخوالي لامل شي.]",,0.0,
+question,Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? [یو کارګمارونکی په خپل مسلکي کمپیوټر کې د کارمند شخصي بریښنالیکونه لولي. ایا دا اجازه لري؟],,,lvl1
+answer,"Oui, car le matériel appartient à l’entreprise. [هو، ځکه چې تجهیزات د شرکت پورې اړه لري.]",,0.0,
+answer,"Non, les messages identifiés comme personnels sont protégés. [نه، د شخصي په توګه پیژندل شوي پیغامونه خوندي دي.]",,1.0,
+answer,"Oui, s’il ne les partage pas. [هو، که هغه یې شریک نه کړي.]",,0.0,
+question,Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? [یوه ښاریان خالي وخت لري او غواړي په محلي ژوند کې برخه واخلي. کوم نوښت د ورورولۍ څرګندونه کوي؟],,,lvl1
+answer,Aider seulement contre rémunération. [یوازې د معاش لپاره مرسته وکړئ.],,0.0,
+answer,S’engager comme bénévole dans une association. [په یوه ټولنه کې د رضاکار په توګه دخیل شئ.],,1.0,
+answer,Attendre que l’État fasse tout. [انتظار وکړئ چې دولت هرڅه وکړي.],,0.0,
+question,Un citoyen apprend un crime grave et garde le silence “pour éviter des ennuis”. Est-ce légal ? [یو تبعه د یوه جدي جرم په اړه پوهیږي او د ستونزو څخه مخنیوي لپاره خاموش پاتې کیږي. ایا دا قانوني دی؟],,,lvl1
+answer,"Oui, si le crime ne le concerne pas. [هو، که جرم هغه اندیښنه نلري.]",,0.0,
+answer,"Oui, s’il ne connaît pas les auteurs. [هو، که هغه لیکوالان نه پیژني.]",,0.0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. [نه، د جرم د نه راپور ورکولو سزا د قانون له مخې ورکول کیږي.]",,1.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? [یو چلوونکی د 0.7 ګرامه الکول فی لیتر وینې سره چک شوی. مناسب غبرګون څه دی؟]",,,lvl1
+answer,Tenter de négocier sur place. [په ځای کې د خبرو اترو هڅه وکړئ.],,0.0,
+answer,Fuir le contrôle. [د کنټرول څخه وتښتي.],,0.0,
+answer,Reconnaître l’infraction et accepter les sanctions prévues par la loi. [سرغړونه ومنئ او د قانون لخوا چمتو شوي جریمې ومنئ.],,1.0,
+question,Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? [اوسیدونکي د سایکل لارې جوړولو لپاره یو عریضه لاسلیک کوي. قانوني اغیز؟],,,lvl1
+answer,Elle peut être transmise à la collectivité mais ne l’oblige pas. [دا کیدی شي ټولنې ته ولیږدول شي مګر دا اړتیا نلري.],,1.0,
+answer,Elle crée immédiatement la piste. [دا سمدلاسه لار رامینځته کوي.],,0.0,
+answer,Elle remplace un vote municipal. [دا د ښاروالۍ رایې بدلوي.],,0.0,
+question,Des habitants veulent assister à un conseil municipal. Le maire refuse l’accès du public. Est-ce conforme ? [اوسیدونکي غواړي د ښار شورا په غونډه کې ګډون وکړي. ښاروال عامو خلکو ته د لاسرسي څخه انکار کوي. ایا دا مطابقت لري؟],,,lvl1
+answer,"Oui, si la salle est petite. [هو، که کوټه کوچنۍ وي.]",,0.0,
+answer,"Non, les séances du conseil municipal sont publiques sauf exception prévue par la loi. [نه، د ښار شورا غونډې عامه دي پرته لدې چې د قانون لخوا چمتو شوي استثناوې شتون ولري.]",,1.0,
+answer,"Oui, le maire décide librement. [هو، ښاروال په آزاده توګه پریکړه کوي.]",,0.0,

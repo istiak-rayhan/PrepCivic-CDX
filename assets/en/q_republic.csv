@@ -1,0 +1,597 @@
+type,text,placeholder,is_correct,level
+question,À quoi correspond la date du 14 juillet ? [What does the date of July 14 correspond to?],,,lvl1
+answer,Le jour de la signature de la Constitution [The day the Constitution was signed],,0.0,
+answer,La fête de la Révolution et de la Nation [The celebration of the Revolution and the Nation],,1.0,
+answer,La date de la fin de la Seconde Guerre mondiale [The date of the end of the Second World War],,0.0,
+question,Quel est l’un des symboles de la République française ? [What is one of the symbols of the French Republic?],,,lvl1
+answer,Le lion et la couronne [The lion and the crown],,0.0,
+answer,Le drapeau rouge et noir [The red and black flag],,0.0,
+answer,La Marianne [Marianne],,1.0,
+question,Le principe d’égalité signifie que : [The principle of equality means that:],,,lvl1
+answer,Tous les citoyens doivent avoir la même richesse et le même statut social. [All citizens must have the same wealth and the same social status.],,0.0,
+answer,"La loi est la même pour tous, sans distinction d'origine, de race ou de religion. [The law is the same for everyone, without distinction of origin, race, or religion.]",,1.0,
+answer,Seules les personnes nées en France sont égales devant la loi. [Only people born in France are equal before the law.],,0.0,
+question,"""Liberté, égalité, fraternité"", c’est : [""Liberty, equality, fraternity"", is:]",,,lvl1
+answer,Le titre de l'hymne national français. [The title of the French national anthem.],,0.0,
+answer,La devise de la République française. [The motto of the French Republic.],,1.0,
+answer,Le slogan d’un parti politique. [The slogan of a political party.],,0.0,
+question,"A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ? ?) [Do we have the right to publicly insult someone because they are different (disability, physical appearance, sex...)? ?)]",,,lvl1
+answer,"Oui, la liberté d'expression autorise toutes les paroles. [Yes, freedom of expression allows all words.]",,0.0,
+answer,"Non, car cela constitue une discrimination punie par la loi. [No, because this constitutes discrimination punished by law.]",,1.0,
+answer,"Oui, tant que l'insulte n'est pas écrite. [Yes, as long as the insult is not written.]",,0.0,
+question,Certains métiers peuvent-ils être réservés aux hommes ? [Can certain jobs be reserved for men?],,,lvl1
+answer,"Oui, dans le secteur de la défense nationale. [Yes, in the national defense sector.]",,0.0,
+answer,"Non, la loi garantit l’égalité professionnelle entre les femmes et les hommes. [No, the law guarantees professional equality between women and men.]",,1.0,
+answer,"Oui, les entreprises privées peuvent choisir librement leurs critères. [Yes, private companies can freely choose their criteria.]",,0.0,
+question,De quand date la Constitution de la Ve République ? [When does the Constitution of the Fifth Republic date from?],,,lvl1
+answer,1946 [1946],,0.0,
+answer,1870 [1870],,0.0,
+answer,1958 [1958],,1.0,
+question,Le régime de la France est : [The regime of France is:],,,lvl1
+answer,Une monarchie constitutionnelle [A constitutional monarchy],,0.0,
+answer,Un régime totalitaire [A totalitarian regime],,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. [An indivisible, secular, democratic, and social Republic.]",,1.0,
+question,Lequel de ces symboles représente officiellement la République française ? [Which of these symbols officially represents the French Republic?],,,lvl1
+answer,Le lys [The lily],,0.0,
+answer,La couronne royale [The royal crown],,0.0,
+answer,"Le drapeau tricolore (bleu, blanc, rouge)) [The tricolor flag (blue, white, red))]",,1.0,
+question,Où peut-on voir la devise de la République ? [Where can we see the motto of the Republic?],,,lvl1
+answer,Uniquement dans les musées nationaux. [Only in national museums.],,0.0,
+answer,Sur la majorité des produits fabriqués en France. [On the majority of products manufactured in France.],,0.0,
+answer,"Sur les bâtiments publics (mairies, écoles, préfectures...).।) [On public buildings (town halls, schools, prefectures...).।)]",,1.0,
+question,Quels sont des symboles officiels de la République française ? [What are official symbols of the French Republic?],,,lvl1
+answer,L'Aigle impérial et le Sceptre. [The Imperial Eagle and the Scepter.],,0.0,
+answer,"Le drapeau tricolore, la Marseillaise, Marianne. [The tricolor flag, the Marseillaise, Marianne.]",,1.0,
+answer,La fleur de lys et le chêne. [The fleur-de-lis and the oak.],,0.0,
+question,Qu’est-ce que l’égalité ? [What is equality?],,,lvl1
+answer,Le fait de ne plus avoir d'impôts à payer. [The fact of no longer having to pay taxes.],,0.0,
+answer,Le droit de chacun d’avoir le même métier que son voisin. [The right of everyone to have the same job as their neighbor.],,0.0,
+answer,Le fait d’être traité de la même manière devant la loi et la justice. [The fact of being treated in the same way before the law and justice.],,1.0,
+question,Que signifie la liberté ? [What does freedom mean?],,,lvl1
+answer,Le droit de faire absolument tout ce que l’on veut. [The right to do absolutely whatever one wants.],,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas aux autres. [The right to do whatever does not harm others.],,1.0,
+answer,Le droit d’insulter les représentants de l’État. [The right to insult the representatives of the State.],,0.0,
+question,"Que signifie le mot ""fraternité"" dans la devise française ? ?) [What does the word ""fraternity"" mean in the French motto? ?)]",,,lvl1
+answer,Le fait d’avoir seulement des frères et des sœurs dans sa famille. [The fact of only having brothers and sisters in one's family.],,0.0,
+answer,Le droit de voyager sans visa dans les autres pays d'Europe. [The right to travel without a visa in other European countries.],,0.0,
+answer,La solidarité et l'entraide entre tous les citoyens. [Solidarity and mutual aid between all citizens.],,1.0,
+question,Quel animal est un symbole de la France ? [Which animal is a symbol of France?],,,lvl1
+answer,Le lion [The lion],,0.0,
+answer,L'aigle [The eagle],,0.0,
+answer,Le coq [The rooster],,1.0,
+question,Quel est l’un des rôles des associations ? ?) [What is one of the roles of associations? ?)],,,lvl1
+answer,Remplacer l'État dans l'exercice de ses fonctions régaliennes. [To replace the State in the exercise of its sovereign functions.],,0.0,
+answer,Permettre aux citoyens de s’engager pour l'intérêt général. [To allow citizens to commit to the general interest.],,1.0,
+answer,Gérer le système de défense nationale. [To manage the national defense system.],,0.0,
+question,Quel est le nom de l'hymne national ? [What is the name of the national anthem?],,,lvl1
+answer,La Parisienne [La Parisienne],,0.0,
+answer,Le Chant du Départ [Le Chant du Départ],,0.0,
+answer,La Marseillaise [La Marseillaise],,1.0,
+question,Quel symbole de la République française est tricolore ? [Which symbol of the French Republic is tricolor?],,,lvl1
+answer,La Marianne [Marianne],,0.0,
+answer,Le drapeau [The flag],,1.0,
+answer,L'Hymne national [The National Anthem],,0.0,
+question,Quelle est la date de la fête nationale française ? [What is the date of the French national holiday?],,,lvl1
+answer,Le 1er mai [May 1st],,0.0,
+answer,Le 11 novembre [November 11th],,0.0,
+answer,Le 14 juillet [July 14th],,1.0,
+question,Quelle est la devise de la République française ? [What is the motto of the French Republic?],,,lvl1
+answer,"Unité, Justice, Travail [Unity, Justice, Work]",,0.0,
+answer,Honneur et Patrie [Honor and Fatherland],,0.0,
+answer,"Liberté, Égalité, Fraternité [Liberty, Equality, Fraternity]",,1.0,
+question,Quelle est la langue officielle de la République française ? [What is the official language of the French Republic?],,,lvl1
+answer,Le français et l'anglais [French and English],,0.0,
+answer,Le français et toutes les langues régionales [French and all regional languages],,0.0,
+answer,Le français [French],,1.0,
+question,Quelle est la place de la langue française dans la République ? [What is the place of the French language in the Republic?],,,lvl1
+answer,C'est la langue des élites et de l'administration. [It is the language of the elites and the administration.],,0.0,
+answer,C'est la langue privilégiée mais non obligatoire dans les services publics. [It is the preferred but not mandatory language in public services.],,0.0,
+answer,"C'est la langue de l'enseignement, du travail, des échanges et des services publics. [It is the language of education, work, exchanges, and public services.]",,1.0,
+question,Quelle liberté permet à chacun d’exprimer ses idées ? [Which freedom allows everyone to express their ideas?],,,lvl1
+answer,La liberté de culte [Freedom of worship],,0.0,
+answer,La liberté d'association [Freedom of association],,0.0,
+answer,La liberté d'expression [Freedom of expression],,1.0,
+question,Quelle proposition est correcte ? La liberté d'expression : [Which statement is correct? Freedom of expression:],,,lvl1
+answer,Est totale et ne connaît aucune limite en France. [Is total and knows no limits in France.],,0.0,
+answer,Est limitée par la loi et ne doit pas porter atteinte à l'ordre public et aux droits d'autrui. [Is limited by law and must not undermine public order and the rights of others.],,1.0,
+answer,Permet de publier de fausses informations dans la presse. [Allows publishing false information in the press.],,0.0,
+question,Quelles sont les couleurs du drapeau français ? [What are the colors of the French flag?],,,lvl1
+answer,"Rouge, Blanc, Vert [Red, White, Green]",,0.0,
+answer,"Jaune, Bleu, Rouge [Yellow, Blue, Red]",,0.0,
+answer,"Bleu, Blanc, Rouge [Blue, White, Red]",,1.0,
+question,Qu'est-ce que la Marseillaise ? [What is the Marseillaise?],,,lvl1
+answer,Un chant militaire sans importance. [An unimportant military song.],,0.0,
+answer,Un chant religieux chanté dans toutes les églises. [A religious song sung in all churches.],,0.0,
+answer,L'hymne national français. [The French national anthem.],,1.0,
+question,Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ? [What is traditionally organized on the Champs-Élysées on July 14 to celebrate the national holiday?],,,lvl1
+answer,Une course cycliste internationale. [An international cycling race.],,0.0,
+answer,Un grand concert de musique classique. [A grand classical music concert.],,0.0,
+answer,Un défilé militaire. [A military parade.],,1.0,
+question,Qui est Marianne ? [Who is Marianne?],,,lvl1
+answer,L'épouse du président de la République. [The wife of the President of the Republic.],,0.0,
+answer,La mère de la Déclaration des Droits de l'Homme et du Citoyen. [The mother of the Declaration of the Rights of Man and of the Citizen.],,0.0,
+answer,La figure symbolique de la République française. [The symbolic figure of the French Republic.],,1.0,
+question,Une personne peut-elle changer librement de religion ? [Can a person freely change religion?],,,lvl1
+answer,"Non, uniquement si sa nouvelle religion est reconnue par l'État. [No, only if their new religion is recognized by the State.]",,0.0,
+answer,"Non, le changement est soumis à l'autorisation du maire. [No, the change is subject to the mayor's authorization.]",,0.0,
+answer,"Oui, la liberté de conscience et de culte est garantie par la loi. [Yes, freedom of conscience and worship is guaranteed by law.]",,1.0,
+question,"""La France est une République indivisible, ..., démocratique et sociale"". Complétez cette phrase : [""France is an indivisible, ..., democratic, and social Republic"". Complete this sentence:]",,,lvl1
+answer,Humaniste [Humanist],,0.0,
+answer,Souveraine [Sovereign],,0.0,
+answer,Laïque [Secular],,1.0,
+question,En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ? [In what year was the law separating Church and State passed?],,,lvl1
+answer,1805 [1805],,0.0,
+answer,1905 [1905],,1.0,
+answer,1958 [1958],,0.0,
+question,Que permet le principe de laïcité ? [What does the principle of secularism allow?],,,lvl1
+answer,De n'autoriser qu'une seule religion sur le territoire national. [To authorize only one religion on the national territory.],,0.0,
+answer,D'interdire toute manifestation religieuse dans l'espace public. [To prohibit any religious manifestation in the public space.],,0.0,
+answer,D'assurer la liberté de conscience de chacun et la neutralité de l'État. [To ensure everyone's freedom of conscience and the State's neutrality.],,1.0,
+question,Quel droit est garanti par la laïcité ? [What right is guaranteed by secularism?],,,lvl1
+answer,Le droit d'avoir une religion officielle. [The right to have an official religion.],,0.0,
+answer,Le droit de limiter l'accès à certaines religions. [The right to limit access to certain religions.],,0.0,
+answer,"Le droit de ne pas croire, ou de choisir sa religion librement. [The right not to believe, or to freely choose one's religion.]",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ? [Why must the principle of secularism be respected in school?],,,lvl1
+answer,Pour éviter de déranger les enseignants. [To avoid disturbing the teachers.],,0.0,
+answer,Pour assurer la domination d'une religion sur les autres. [To ensure the domination of one religion over the others.],,0.0,
+answer,Pour garantir aux élèves la liberté de conscience et le respect de tous. [To guarantee students freedom of conscience and respect for all.],,1.0,
+question,Qu'est-ce que la laïcité ? [What is secularism?],,,lvl1
+answer,L'interdiction de pratiquer une religion. [The prohibition to practice a religion.],,0.0,
+answer,L'obligation d'avoir une religion d'État. [The obligation to have a state religion.],,0.0,
+answer,Un principe de séparation entre les Églises (religions) et l'État. ।) [A principle of separation between the Churches (religions) and the State. ।)],,1.0,
+question,Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ? [Can a child refuse to go to school for a religious reason?],,,lvl1
+answer,"Oui, si ses parents sont d'accord. [Yes, if his parents agree.]",,0.0,
+answer,Seulement s’il y a des examens importants ce jour-là. [Only if there are important exams that day.],,0.0,
+answer,"Non, l’instruction est obligatoire pour tous les enfants de 3 à 16 ans, quelle que soit la religion. [No, education is compulsory for all children from 3 to 16 years old, regardless of religion.]",,1.0,
+question,Une personne a-t-elle le droit de ne pas croire en une religion ? [Does a person have the right not to believe in a religion?],,,lvl1
+answer,"Non, toutes les personnes doivent avoir une religion en France. [No, all people must have a religion in France.]",,0.0,
+answer,Uniquement les personnes majeures. [Only adult persons.],,0.0,
+answer,"Oui, le droit de ne pas croire fait partie de la liberté de conscience garantie par la loi. [Yes, the right not to believe is part of the freedom of conscience guaranteed by law.]",,1.0,
+question,"Parmi les propositions suivantes, laquelle constitue une participation citoyenne ? [Among the following proposals, which constitutes citizen participation?]",,,lvl2
+answer,Payer ses impôts. [Paying one's taxes.],,0.0,
+answer,Demander un titre de séjour. ।) [Requesting a residence permit. ।)],,0.0,
+answer,Être bénévole dans une association. ।) [Being a volunteer in an association. ।)],,1.0,
+question,Que garantit la liberté d’expression ? [What does freedom of expression guarantee?],,,lvl2
+answer,Le droit de dire n'importe quoi sans conséquence. [The right to say anything without consequence.],,0.0,
+answer,Le droit de critiquer le gouvernement sans limite. [The right to criticize the government without limit.],,0.0,
+answer,Le droit de communiquer ses idées et ses opinions par tous les moyens. ।) [The right to communicate one's ideas and opinions by all means. ।)],,1.0,
+question,À quoi sert un titre de séjour ? ?) [What is a residence permit used for? ?)],,,lvl2
+answer,À obtenir gratuitement la nationalité française. [To obtain French nationality for free.],,0.0,
+answer,À payer les impôts. [To pay taxes.],,0.0,
+answer,À attester du droit à résider régulièrement en France pour les étrangers. [To attest to the right of foreigners to legally reside in France.],,1.0,
+question,La liberté de circulation permet à toute personne de : [Freedom of movement allows everyone to:],,,lvl2
+answer,S'installer uniquement dans la ville où elle est née. [Settle only in the city where they were born.],,0.0,
+answer,Voyager sans passeport dans le monde entier. [Travel without a passport anywhere in the world.],,0.0,
+answer,Se déplacer et s'établir librement sur l'ensemble du territoire français. [Move and settle freely throughout the French territory.],,1.0,
+question,"Pour retrouver les informations officielles sur les symboles de la République française, quel type de site internet est le plus fiable ? [To find official information on the symbols of the French Republic, what type of website is the most reliable?]",,,lvl2
+answer,Un réseau social comme Facebook. [A social network like Facebook.],,0.0,
+answer,Un blog personnel. [A personal blog.],,0.0,
+answer,Un site officiel du gouvernement (.gouv.fr ou .fr).।) [An official government website (.gouv.fr or .fr).।)],,1.0,
+question,"Complétez ces paroles de la Marseillaise : ""Aux armes […] ! Formez vos bataillons"" [Complete these lyrics of the Marseillaise: ""To arms [...]! Form your battalions""]",,,lvl2
+answer,Les enfants du pays [Children of the country],,0.0,
+answer,Le peuple [The people],,0.0,
+answer,Citoyens [Citizens],,1.0,
+question,"Complétez les paroles de la Marseillaise : ""Allons enfants de la patrie […]"" [Complete the lyrics of the Marseillaise: ""Let's go children of the fatherland [...]""]",,,lvl2
+answer,L'heure est venue [The time has come],,0.0,
+answer,La liberté nous appelle [Freedom calls us],,0.0,
+answer,Le jour de gloire est arrivé [The day of glory has arrived],,1.0,
+question,"En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut : [Applying individual freedom, which statement is correct? A person can:]",,,lvl2
+answer,Être emprisonnée sans jugement. [Be imprisoned without trial.],,0.0,
+answer,Être forcée de travailler. [Be forced to work.],,0.0,
+answer,Faire tout ce que la loi n'interdit pas. [Do whatever the law does not prohibit.],,1.0,
+question,"Concernant la pratique de la religion, quelle proposition est correcte ? [Concerning the practice of religion, which statement is correct?]",,,lvl2
+answer,L'État choisit les lieux de culte autorisés. [The State chooses authorized places of worship.],,0.0,
+answer,Le port d'un signe religieux est interdit partout en France. [Wearing a religious symbol is prohibited everywhere in France.],,0.0,
+answer,Chacun est libre de pratiquer sa religion dans les limites de l'ordre public. [Everyone is free to practice their religion within the limits of public order.],,1.0,
+question,"En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ? [As a parent, can one refuse to let one's child participate in sports classes at school because they are mixed?]",,,lvl2
+answer,"Oui, si l'établissement scolaire est privé. [Yes, if the school is private.]",,0.0,
+answer,"Oui, car la liberté religieuse le permet. [Yes, because religious freedom allows it.]",,0.0,
+answer,"Non, car la mixité dans les cours de sport s’impose à tous au nom du principe d’égalité. [No, because mixity in sports classes is mandatory for everyone in the name of the principle of equality.]",,1.0,
+question,Quels sont les trois principes qui composent la devise de la République française ? [What are the three principles that make up the motto of the French Republic?],,,lvl2
+answer,"Justice, Paix, Sûreté [Justice, Peace, Security]",,0.0,
+answer,"Dignité, Solidarité, Progrès [Dignity, Solidarity, Progress]",,0.0,
+answer,"Liberté, Égalité, Fraternité [Liberty, Equality, Fraternity]",,1.0,
+question,La répudiation de sa femme est : :) [The repudiation of one's wife is: :)] ,,,lvl2
+answer,Acceptée uniquement pour les mariages religieux. [Accepted only for religious marriages.],,0.0,
+answer,Autorisée si elle est pratiquée à l'étranger. [Authorized if practiced abroad.],,0.0,
+answer,"Interdite et sanctionnée par la loi, le divorce étant le seul mode de rupture légal. [Prohibited and punished by law, divorce being the only legal method of separation.]",,1.0,
+question,Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ? [Taxes are used to finance public spending. Which statement is correct?],,,lvl2
+answer,Seuls les citoyens français doivent payer des impôts. [Only French citizens must pay taxes.],,0.0,
+answer,Payer ses impôts est un choix personnel. [Paying one's taxes is a personal choice.],,0.0,
+answer,"Payer ses impôts est un devoir pour tous les résidents en France, selon leurs revenus. [Paying one's taxes is a duty for all residents in France, according to their income.]",,1.0,
+question,Peut-on brûler publiquement un drapeau français ? [Can one publicly burn a French flag?],,,lvl2
+answer,"Oui, car la liberté d'expression le permet. [Yes, because freedom of expression allows it.]",,0.0,
+answer,"Non, cela est considéré comme un outrage au symbole national. [No, this is considered an outrage to the national symbol.]",,1.0,
+answer,"Oui, sauf s'il est neuf. [Yes, unless it is new.]",,0.0,
+question,Que fait l’État pour lutter contre les discriminations ? [What does the State do to fight against discrimination?],,,lvl2
+answer,Il met en place des lois pour autoriser certaines discriminations positives. [It puts in place laws to authorize certain positive discriminations.],,0.0,
+answer,"Il a créé des institutions comme le Défenseur des droits, et applique des sanctions pénales. ।) [It has created institutions like the Defender of Rights, and applies penal sanctions. ।)]",,1.0,
+answer,"Il n'intervient pas, car c'est un problème privé. [It does not intervene, because it is a private problem.]",,0.0,
+question,Que représente Marianne ? [What does Marianne represent?],,,lvl2
+answer,L'héroïne de la Révolution française de 1789. [The heroine of the French Revolution of 1789.],,0.0,
+answer,La figure symbolique de la République et de ses valeurs. [The symbolic figure of the Republic and its values.],,1.0,
+answer,Le nom de la première loi votée par le Parlement. [The name of the first law passed by Parliament.],,0.0,
+question,Qu'est-ce que la liberté d'association ? ?) [What is freedom of association? ?)],,,lvl2
+answer,Le droit de circuler librement dans toute l'Europe. [The right to travel freely throughout Europe.],,0.0,
+answer,Le droit de s'associer avec un parti politique. [The right to associate with a political party.],,0.0,
+answer,"Le droit de créer une association ou de s’y joindre, sans autorisation préalable. [The right to create an association or join one, without prior authorization.]",,1.0,
+question,Qu'est-ce que la liberté ? [What is freedom?],,,lvl2
+answer,Le droit de faire tout ce qui est possible. [The right to do everything that is possible.],,0.0,
+answer,Le droit de faire tout ce qui ne nuit pas à autrui. [The right to do whatever does not harm others.],,1.0,
+answer,Le fait d'être exempté des impôts. [The fact of being exempt from taxes.],,0.0,
+question,Qu'est-ce que la Marseillaise ? [What is the Marseillaise?],,,lvl2
+answer,Le nom du drapeau français. [The name of the French flag.],,0.0,
+answer,L'hymne national français. [The French national anthem.],,1.0,
+answer,La devise de la République. [The motto of the Republic.],,0.0,
+question,Sur quel document peut-on voir Marianne ? [On what document can we see Marianne?],,,lvl2
+answer,Les publicités pour le tourisme. [Tourism advertisements.],,0.0,
+answer,Les manuels scolaires uniquement. [Only school textbooks.],,0.0,
+answer,"Les timbres, les pièces de monnaie et le logo officiel de la République. [Stamps, coins, and the official logo of the Republic.]",,1.0,
+question,Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ? [An employer refuses to hire women in his company. What does the law say?],,,lvl2
+answer,C'est autorisé s'il justifie que le travail est trop difficile. [It is authorized if he proves that the work is too difficult.],,0.0,
+answer,"C'est interdit et constitue une discrimination, punie par la loi. [It is prohibited and constitutes discrimination, punished by law.]",,1.0,
+answer,C'est autorisé uniquement dans les très petites entreprises. [It is authorized only in very small companies.],,0.0,
+question,Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?। ?) [One of the values of the republican motto is equality. What does this mean?। ?)],,,lvl2
+answer,Les citoyens ont les mêmes opinions politiques. [Citizens have the same political opinions.],,0.0,
+answer,Tous les citoyens sont égaux devant la loi et la justice. [All citizens are equal before the law and justice.],,1.0,
+answer,Les citoyens ont l'obligation de s'entraider. [Citizens have the obligation to help each other.],,0.0,
+question,Quelle est la place de la langue française dans la République ? [What is the place of the French language in the Republic?],,,lvl2
+answer,Elle n'est utilisée que dans l'administration. [It is used only in the administration.],,0.0,
+answer,Elle est une langue parmi d'autres. [It is one language among others.],,0.0,
+answer,"Elle est la langue de l'enseignement, du travail et des services publics, et la seule officielle. [It is the language of education, work, and public services, and the only official one.]",,1.0,
+question,Le régime de la France est : [The regime of France is:],,,lvl2
+answer,Une monarchie parlementaire. [A parliamentary monarchy.],,0.0,
+answer,Un État fédéral. [A federal state.],,0.0,
+answer,"Une République indivisible, laïque, démocratique et sociale. [An indivisible, secular, democratic, and social Republic.]",,1.0,
+question,Pourquoi le principe de laïcité doit-il être respecté à l'école ? [Why must the principle of secularism be respected in school?],,,lvl2
+answer,Pour que les élèves n'aient pas de religion. [So that students do not have a religion.],,0.0,
+answer,Pour donner la priorité à la religion chrétienne. [To give priority to the Christian religion.],,0.0,
+answer,"Pour garantir à tous les élèves la liberté de conscience et l'égalité, sans prosélytisme. [To guarantee all students freedom of conscience and equality, without proselytism.]",,1.0,
+question,"À l'école publique, qui peut porter des signes religieux très visibles ? [In public school, who can wear highly visible religious symbols?]",,,lvl2
+answer,Les élèves [Students],,0.0,
+answer,Les usagers et parents (dans le cadre de leurs visites ou réunions).।) [Users and parents (in the context of their visits or meetings).।)],,1.0,
+answer,Les enseignants [Teachers],,0.0,
+question,"Selon le principe de laïcité, que signifie la neutralité de l’État ? [According to the principle of secularism, what does the neutrality of the State mean?]",,,lvl2
+answer,L'État n'a aucune relation avec les citoyens. [The State has no relationship with citizens.],,0.0,
+answer,L’État ne prend pas parti en faveur d'une religion ou contre une religion. [The State does not take sides in favor of or against any religion.],,1.0,
+answer,L'État interdit toutes les religions. [The State prohibits all religions.],,0.0,
+question,Que peut faire un usager du service public dans une mairie ? [What can a user of a public service do in a town hall?],,,lvl2
+answer,Exiger que l'agent porte un signe religieux visible. [Demand that the agent wear a visible religious symbol.],,0.0,
+answer,"Être accueilli sans distinction d'origine, de religion ou de sexe. [Be welcomed without distinction of origin, religion, or sex.]",,1.0,
+answer,Exiger que l'agent parle uniquement une langue régionale. [Demand that the agent speak only a regional language.],,0.0,
+question,Qui doit respecter le principe de neutralité religieuse dans une préfecture ? ?) [Who must respect the principle of religious neutrality in a prefecture? ?)],,,lvl2
+answer,Uniquement les usagers des services publics. [Only users of public services.],,0.0,
+answer,Uniquement le préfet. [Only the prefect.],,0.0,
+answer,Tous les agents publics (fonctionnaires et contractuels).।) [All public agents (civil servants and contractors).।)],,1.0,
+question,La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ? [Does secularism require public agents to be neutral towards users?],,,lvl2
+answer,"Non, seulement l'impartialité. [No, only impartiality.]",,0.0,
+answer,"Non, ils peuvent exprimer leurs convictions religieuses. [No, they can express their religious convictions.]",,0.0,
+answer,"Oui, afin de garantir l'égalité de traitement de tous les usagers. [Yes, in order to guarantee equal treatment of all users.]",,1.0,
+question,Que garantit le principe de laïcité ? [What does the principle of secularism guarantee?],,,lvl2
+answer,Que l'État finance les Églises. [That the State finances the Churches.],,0.0,
+answer,La suppression de toutes les religions. [The suppression of all religions.],,0.0,
+answer,La liberté de conscience et la neutralité de l'État envers toutes les religions et convictions. [Freedom of conscience and the State's neutrality towards all religions and convictions.],,1.0,
+question,Que représente la laïcité ? [What does secularism represent?],,,lvl2
+answer,L'union des religions sous l'autorité de l'État. [The union of religions under the authority of the State.],,0.0,
+answer,La séparation de l'État et des organisations religieuses. [The separation of the State and religious organizations.],,1.0,
+answer,Un régime où une seule religion est dominante. [A regime where only one religion is dominant.],,0.0,
+question,Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ? ?) [What is prohibited by the Charter of Secularism in school? ?)],,,lvl2
+answer,Les débats sur les questions religieuses ou philosophiques. [Debates on religious or philosophical questions.],,0.0,
+answer,Les signes religieux discrets. [Discreet religious symbols.],,0.0,
+answer,Le prosélytisme et le port de signes religieux ostensibles par les élèves. [Proselytism and the wearing of conspicuous religious symbols by students.],,1.0,
+question,Que dit l'article 1er de la Constitution française ? [What does Article 1 of the French Constitution say?],,,lvl3
+answer,Que la France est une monarchie parlementaire. [That France is a parliamentary monarchy.],,0.0,
+answer,"Que la France est une République indivisible, laïque, démocratique et sociale. [That France is an indivisible, secular, democratic, and social Republic.]",,1.0,
+answer,Que la loi est l'expression de la volonté générale. [That the law is the expression of the general will.],,0.0,
+question,Sur quoi est fondée la République française ? [What is the French Republic founded on?],,,lvl3
+answer,Sur des lois que tous doivent respecter [On laws that everyone must respect],,1.0,
+answer,Sur des traditions religieuses [On religious traditions],,0.0,
+answer,Sur des coutumes orales [On oral customs],,0.0,
+question,"Qui a droit de concourir à la formation de la Loi, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [Who has the right to contribute to the formation of the Law, according to Article 6 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,Seuls les hommes riches [Only rich men],,0.0,
+answer,Les nobles et le clergé [The nobles and the clergy],,0.0,
+answer,"Tous les Citoyens, personnellement ou par représentants [All Citizens, personally or through representatives]",,1.0,
+question,Que garantit l’article 9 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [What does Article 9 of the Declaration of the Rights of Man and of the Citizen of 1789 guarantee?],,,lvl3
+answer,L’égalité des sexes [Equality of the sexes],,0.0,
+answer,La liberté de commerce [Freedom of commerce],,0.0,
+answer,La présomption d’innocence [The presumption of innocence],,1.0,
+question,Quel autre type de propos est interdit par la loi ? [What other type of speech is prohibited by law?],,,lvl3
+answer,Débats scientifiques [Scientific debates],,0.0,
+answer,Provocations à la haine [Provocations to hatred],,1.0,
+answer,Discours électoraux [Electoral speeches],,0.0,
+question,Quelle valeur essentielle de la République doit être respectée pour obtenir la nationalité française ? [Which essential value of the Republic must be respected to obtain French nationality?],,,lvl3
+answer,La liberté d’entreprendre [The freedom of enterprise],,0.0,
+answer,L’égalité entre les femmes et les hommes [Equality between women and men],,1.0,
+answer,La supériorité d’une religion [The superiority of one religion],,0.0,
+question,"Que peuvent faire les citoyens, en plus de voter, selon la loi ? [What can citizens do, in addition to voting, according to the law?]",,,lvl3
+answer,Être nommés juges [Be appointed as judges],,0.0,
+answer,Se présenter aux élections [Run for elections],,1.0,
+answer,Modifier la Constitution [Modify the Constitution],,0.0,
+question,"Comment la contribution commune doit-elle être répartie, selon l’article 13 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? ?) [How must the common contribution be distributed, according to Article 13 of the Declaration of the Rights of Man and of the Citizen of 1789? ?)]",,,lvl3
+answer,À parts égales entre tous [Equally among all],,0.0,
+answer,En raison des facultés de chacun [According to each person's means],,1.0,
+answer,Uniquement entre les pauvres [Only among the poor],,0.0,
+question,Quelles formes de liberté sont mentionnées à l’article 11 de la Déclaration de 1789 ? [What forms of freedom are mentioned in Article 11 of the Declaration of 1789?],,,lvl3
+answer,"Prier, se marier, travailler librement [Pray, marry, work freely]",,0.0,
+answer,"Parler, écrire, imprimer librement [Speak, write, print freely]",,1.0,
+answer,"Voyager, commercer, s’enrichir librement [Travel, trade, get rich freely]",,0.0,
+question,Quel droit est proclamé par l’article 11 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [Which right is proclaimed by Article 11 of the Declaration of the Rights of Man and of the Citizen of 1789?],,,lvl3
+answer,Le droit à la sécurité sociale [The right to social security],,0.0,
+answer,La libre communication des pensées et opinions [The free communication of thoughts and opinions],,1.0,
+answer,Le droit à l’éducation gratuite [The right to free education],,0.0,
+question,Sur quoi portent les règles collectives inscrites dans la loi ? [What do the collective rules inscribed in the law relate to?],,,lvl3
+answer,Sur les traditions religieuses [To religious traditions],,0.0,
+answer,Sur les coutumes familiales [To family customs],,0.0,
+answer,Sur la vie en société [To life in society],,1.0,
+question,Quel symbole de la République est présent dans toutes les mairies ? [Which symbol of the Republic is present in all town halls?],,,lvl3
+answer,L’arc de triomphe [The Arc de Triomphe],,0.0,
+answer,Le coq gaulois [The Gallic rooster],,0.0,
+answer,La Marianne [Marianne],,1.0,
+question,Quelle date correspond à la prise de la Bastille par le peuple de Paris ? [What date corresponds to the storming of the Bastille by the people of Paris?],,,lvl3
+answer,4 août 1789 [August 4, 1789],,0.0,
+answer,14 juillet 1790 [July 14, 1790],,0.0,
+answer,14 juillet 1789 [July 14, 1789],,1.0,
+question,"Quelles sont des conditions d’accès aux emplois publics, selon l’article 6 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [What are the conditions of access to public employment, according to Article 6 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,"La capacité, les vertus et les talents [Capacity, virtues and talents]",,1.0,
+answer,L’appartenance religieuse [Religious affiliation],,0.0,
+answer,La naissance et la fortune [Birth and wealth],,0.0,
+question,Que permet l’article 14 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 en matière de contribution publique ? [What does Article 14 of the Declaration of the Rights of Man and of the Citizen of 1789 allow regarding public contribution?],,,lvl3
+answer,"En suivre l’emploi et en déterminer la quotité, l’assiette, le recouvrement et la durée [To follow its use and to determine its quota, base, collection and duration]",,1.0,
+answer,La déléguer uniquement au roi [To delegate it only to the king],,0.0,
+answer,L’abolir définitivement [To abolish it definitively],,0.0,
+question,Quel droit l’article 17 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 proclame-t-il inviolable et sacré ? [Which right does Article 17 of the Declaration of the Rights of Man and of the Citizen of 1789 proclaim to be inviolable and sacred?],,,lvl3
+answer,La propriété [Property],,1.0,
+answer,Le travail [Work],,0.0,
+answer,La liberté d’expression [Freedom of expression],,0.0,
+question,Que crée l’article 12 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [What does Article 12 of the Declaration of the Rights of Man and of the Citizen of 1789 create?],,,lvl3
+answer,Une armée privée au service du roi [A private army serving the king],,0.0,
+answer,Une force publique instituée pour l’avantage de tous [A public force established for the advantage of all],,1.0,
+answer,Une force religieuse au service de l’Église [A religious force serving the Church],,0.0,
+question,Que protège l’article 10 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [What does Article 10 of the Declaration of the Rights of Man and of the Citizen of 1789 protect?],,,lvl3
+answer,Le droit de grève [The right to strike],,0.0,
+answer,"La liberté d’opinion, même religieuse [Freedom of opinion, even religious]",,1.0,
+answer,Le droit d’héritage [The right of inheritance],,0.0,
+question,Le vote en France est… [Voting in France is…],,,lvl3
+answer,Un privilège réservé [A reserved privilege],,0.0,
+answer,Une obligation [An obligation],,0.0,
+answer,Un droit [A right],,1.0,
+question,Qui est élu au suffrage universel en France ? [Who is elected by universal suffrage in France?],,,lvl3
+answer,"Le Président, les parlementaires et les maires [The President, parliamentarians and mayors]",,1.0,
+answer,Les juges et les préfets [Judges and prefects],,0.0,
+answer,Les recteurs et les ministres [Rectors and ministers],,0.0,
+question,La France condamne-t-elle toutes les discriminations possibles ? [Does France condemn all possible discriminations?],,,lvl3
+answer,"Oui, absolument toutes [Yes, absolutely all of them]",,0.0,
+answer,"Oui, sauf celles dans le sport [Yes, except those in sports]",,0.0,
+answer,"Non, seulement celles fondées sur un motif prévu par la loi [No, only those based on a ground provided by law]",,1.0,
+question,Quels droits naturels et imprescriptibles sont cités à l’article 2 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 ? [What natural and imprescriptible rights are cited in Article 2 of the Declaration of the Rights of Man and of the Citizen of 1789?],,,lvl3
+answer,"Religion, famille, sécurité, logement [Religion, family, security, housing]",,0.0,
+answer,"Liberté, propriété, sûreté, résistance à l’oppression [Liberty, property, security, resistance to oppression]",,1.0,
+answer,"Égalité, fraternité, travail, solidarité [Equality, fraternity, work, solidarity]",,0.0,
+question,Un employeur peut-il refuser d’embaucher un salarié en raison de ses origines ? [Can an employer refuse to hire an employee because of their origins?],,,lvl3
+answer,"Oui, avec l’accord des syndicats [Yes, with the agreement of the unions]",,0.0,
+answer,"Oui, si l’entreprise est privée [Yes, if the company is private]",,0.0,
+answer,"Non, c’est interdit [No, it is prohibited]",,1.0,
+question,"Quelle condition supplémentaire est nécessaire pour voter, en plus d’avoir 18 ans? [What additional condition is necessary to vote, besides being 18 years old?]",,,lvl3
+answer,Avoir un emploi [To have a job],,0.0,
+answer,Disposer de ses droits civils et politiques [To have civil and political rights],,1.0,
+answer,Payer des impôts [To pay taxes],,0.0,
+question,"À quelle époque a été composé l’hymne national, La Marseillaise? [When was the national anthem, La Marseillaise, composed?]",,,lvl3
+answer,À l’époque de la Révolution [During the Revolution],,1.0,
+answer,Au XXe siècle [In the 20th century],,0.0,
+answer,Sous Louis XIV [Under Louis XIV],,0.0,
+question,Quelles libertés fondamentales sont garanties en France? [What fundamental freedoms are guaranteed in France?],,,lvl3
+answer,"Liberté de pensée, de croyance, de s’exprimer, de se réunir [Freedom of thought, belief, expression, assembly]",,1.0,
+answer,Liberté de posséder un titre de noblesse [Freedom to hold a title of nobility],,0.0,
+answer,Liberté de commercer sans règles [Freedom to trade without rules],,0.0,
+question,La liberté d'expression en France est... [Freedom of expression in France is...],,,lvl3
+answer,Un droit fondamental avec des limites [A fundamental right with limits],,1.0,
+answer,Un droit absolu sans limite [An absolute right without limits],,0.0,
+answer,Non reconnue par la loi [Not recognized by law],,0.0,
+question,"Dans une République, au nom de qui gouvernent les dirigeants élus? [In a Republic, in whose name do elected leaders govern?]",,,lvl3
+answer,Au nom du président seul [In the name of the president alone],,0.0,
+answer,Au nom du peuple [In the name of the people],,1.0,
+answer,Au nom des partis politiques [In the name of political parties],,0.0,
+question,Dans quel but l'État peut-il restreindre le droit de manifester sa religion en public? [For what purpose can the State restrict the right to manifest one's religion in public?],,,lvl3
+answer,Pour empêcher toute croyance [To prevent any belief],,0.0,
+answer,Pour favoriser une religion [To favor a religion],,0.0,
+answer,Pour préserver l'ordre public [To preserve public order],,1.0,
+question,Que doivent respecter tous les citoyen(ne)s en France? [What must all citizens respect in France?],,,lvl3
+answer,Les lois et les règlements [Laws and regulations],,1.0,
+answer,Les traditions religieuses [Religious traditions],,0.0,
+answer,Seulement les coutumes locales [Only local customs],,0.0,
+question,"Quelles bornes limitent l'exercice des droits naturels, selon l'article 4 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What boundaries limit the exercise of natural rights, according to Article 4 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,Celles décidées par le gouvernement [Those decided by the government],,0.0,
+answer,Celles fixées par la Loi [Those set by Law],,1.0,
+answer,Celles imposées par la religion [Those imposed by religion],,0.0,
+question,Quel code définit les règles essentielles applicables entre les personnes? [Which code defines the essential rules applicable between people?],,,lvl3
+answer,Le code civil [The Civil Code],,1.0,
+answer,Le code électoral [The Electoral Code],,0.0,
+answer,Le code du travail [The Labor Code],,0.0,
+question,Que déclare l'article 16 de la Déclaration de 1789 à propos de la Constitution? [What does Article 16 of the Declaration of 1789 declare regarding the Constitution?],,,lvl3
+answer,"Sans garantie des droits et séparation des pouvoirs, il n'y a pas de Constitution [Without guarantee of rights and separation of powers, there is no Constitution]",,1.0,
+answer,La Constitution émane du roi seul [The Constitution emanates from the king alone],,0.0,
+answer,Toute société religieuse a automatiquement une Constitution [Any religious society automatically has a Constitution],,0.0,
+question,Quel site internet présente les principales règles et le fonctionnement des institutions? [Which website presents the main rules and functioning of the institutions?],,,lvl3
+answer,www.palais-elysee.fr [www.palais-elysee.fr],,0.0,
+answer,www.vie-publique.fr [www.vie-publique.fr],,1.0,
+answer,www.gouverbement.fr [www.gouverbement.fr],,0.0,
+question,Comment sont souvent regroupées les lois en France? [How are laws often grouped in France?],,,lvl3
+answer,En brochures publicitaires [In advertising brochures],,0.0,
+answer,En codes [In codes],,1.0,
+answer,En magazines [In magazines],,0.0,
+question,"Dans les années 1880, quelle liberté est garantie par une loi? [In the 1880s, which freedom was guaranteed by a law?]",,,lvl3
+answer,La liberté de commercer [Freedom of commerce],,0.0,
+answer,La liberté de chasser [Freedom to hunt],,0.0,
+answer,La liberté de la presse [Freedom of the press],,1.0,
+question,Que représentent les impôts et les cotisations sociales en France? [What do taxes and social contributions represent in France?],,,lvl3
+answer,Un moyen de récompenser les plus riches [A means of rewarding the richest],,0.0,
+answer,Une illustration de la fraternité [An illustration of fraternity],,1.0,
+answer,Une sanction contre les travailleurs [A sanction against workers],,0.0,
+question,"Que peut défendre la Loi, selon l'article 5 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What can the Law forbid, according to Article 5 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,Les croyances religieuses [Religious beliefs],,0.0,
+answer,Les actions nuisibles à la Société [Actions harmful to Society],,1.0,
+answer,Les opinions politiques [Political opinions],,0.0,
+question,De quelle époque date la Déclaration des Droits de l'Homme et du Citoyen? [From what era does the Declaration of the Rights of Man and of the Citizen date?],,,lvl3
+answer,Du Moyen Âge [From the Middle Ages],,0.0,
+answer,De la Révolution française de 1789 [From the French Revolution of 1789],,1.0,
+answer,De la Seconde Guerre mondiale [From the Second World War],,0.0,
+question,Quel système illustre le principe de fraternité depuis 1945? [What system has illustrated the principle of fraternity since 1945?],,,lvl3
+answer,L'armée nationale [The national army],,0.0,
+answer,Le système scolaire [The school system],,0.0,
+answer,La sécurité sociale [Social security],,1.0,
+question,Quelle règle a rappelé le Conseil constitutionnel en 2004? [Which rule did the Constitutional Council recall in 2004?],,,lvl3
+answer,Les croyants ont priorité sur les lois de la République [Believers have priority over the laws of the Republic],,0.0,
+answer,Nul ne peut se prévaloir de ses croyances religieuses pour s'affranchir des règles communes [No one can use their religious beliefs to exempt themselves from common rules],,1.0,
+answer,Les religions décident des règles de vie publique [Religions decide the rules of public life],,0.0,
+question,Que vise l'interdiction prévue par la loi du 15 mars 2004? [What does the prohibition under the law of March 15, 2004 aim at?],,,lvl3
+answer,Les signes ou tenues manifestant ostensiblement l'appartenance à une religion [Signs or clothing conspicuously manifesting religious affiliation],,1.0,
+answer,Toute forme de vêtement traditionnel [Any form of traditional clothing],,0.0,
+answer,Les symboles discrets portés sous les vêtements [Discreet symbols worn under clothing],,0.0,
+question,Qu'est-ce que l'État garantit en matière religieuse? [What does the State guarantee regarding religion?],,,lvl3
+answer,La liberté religieuse [Religious freedom],,1.0,
+answer,La supériorité de la religion majoritaire [The superiority of the majority religion],,0.0,
+answer,L'interdiction de changer de religion [The prohibition of changing religion],,0.0,
+question,Quel type d'apologie est interdit dans le cadre de la liberté d'expression? [What type of apology is prohibited under freedom of expression?],,,lvl3
+answer,La Révolution française [The French Revolution],,0.0,
+answer,Les découvertes scientifiques [Scientific discoveries],,0.0,
+answer,Crimes contre l'humanité [Crimes against humanity],,1.0,
+question,Que signifie le terme « ostensiblement » à propos des signes religieux à l'école? [What does the term "ostensibly" mean regarding religious symbols in school?],,,lvl3
+answer,De manière trop visible [In a too visible manner],,1.0,
+answer,De manière discrète [In a discreet manner],,0.0,
+answer,De manière secrète [In a secret manner],,0.0,
+question,"Dans quelles conditions peut-on être privé de sa propriété, selon l'article 17 de la Déclaration de 1789? [Under what conditions can one be deprived of their property, according to Article 17 of the Declaration of 1789?]",,,lvl3
+answer,Si la majorité des voisins le souhaite [If the majority of neighbors wish it],,0.0,
+answer,Si le roi le décide sans motif [If the king decides without cause],,0.0,
+answer,Si la nécessité publique l'exige et avec une juste et préalable indemnité [If public necessity demands it, and under the condition of a just and prior indemnity],,1.0,
+question,Que proclame l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What does Article 1 of the Declaration of the Rights of Man and of the Citizen of 1789 proclaim?],,,lvl3
+answer,Tous les citoyens doivent payer des impôts [All citizens must pay taxes],,0.0,
+answer,La monarchie est le régime naturel [Monarchy is the natural regime],,0.0,
+answer,Les hommes naissent et demeurent libres et égaux en droits [Men are born and remain free and equal in rights],,1.0,
+question,"Selon l'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789, sur quoi peuvent être fondées les distinctions sociales? [According to Article 1 of the Declaration of the Rights of Man and of the Citizen of 1789, on what can social distinctions be based?]",,,lvl3
+answer,Sur la naissance [On birth],,0.0,
+answer,Sur l'utilité commune [On common utility],,1.0,
+answer,Sur la richesse [On wealth],,0.0,
+question,Pourquoi l'école doit-elle être neutre face aux religions? [Why must schools be neutral towards religions?],,,lvl3
+answer,Parce qu'elle n'accueille que des mineurs [Because it only welcomes minors],,0.0,
+answer,Parce que c'est une institution publique qui forme tous les citoyens [Because it is a public institution that trains all citizens],,1.0,
+answer,Parce qu'elle dépend de l'Église [Because it depends on the Church],,0.0,
+question,Quelle fête a eu lieu le 14 juillet 1790? [What celebration took place on July 14, 1790?],,,lvl3
+answer,La fête des Vendanges [The Grape Harvest Festival],,0.0,
+answer,La fête du Travail [Labor Day],,0.0,
+answer,La fête de la Fédération [The Fête de la Fédération],,1.0,
+question,L'administration peut-elle refuser la nationalité française à une personne qui ne respecte pas l'égalité femmes-hommes? [Can the administration refuse French nationality to a person who does not respect gender equality?],,,lvl3
+answer,"Non, sauf si la personne a commis un crime [No, unless the person has committed a crime]",,0.0,
+answer,"Oui, même si elle est mariée avec un(e) Français(e) [Yes, even if they are married to a French person]",,1.0,
+answer,"Non, jamais [No, never]",,0.0,
+question,"En France, les personnes d'orientation sexuelle différente ont-elles moins de droits que les autres citoyens? [In France, do people of different sexual orientations have fewer rights than other citizens?]",,,lvl3
+answer,"Oui, mais seulement en matière de mariage [Yes, but only regarding marriage]",,0.0,
+answer,"Oui, elles ont moins de droits [Yes, they have fewer rights]",,0.0,
+answer,"Non, elles ont les mêmes droits et les mêmes devoirs [No, they have the same rights and duties]",,1.0,
+question,Que garantit l'article 7 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What does Article 7 of the Declaration of the Rights of Man and of the Citizen of 1789 guarantee?],,,lvl3
+answer,La possibilité d'être emprisonné sans jugement [The possibility of being imprisoned without trial],,0.0,
+answer,La primauté de la police sur la justice [The primacy of police over justice],,0.0,
+answer,Nul homme ne peut être arrêté ou détenu que selon la Loi [No man can be arrested or detained except according to the Law],,1.0,
+question,Quelle est l'une des raisons de l'interdiction des signes religieux ostensibles à l'école? [What is one of the reasons for banning conspicuous religious symbols in school?],,,lvl3
+answer,Protéger les mineurs contre les pressions de leurs camarades [To protect minors against pressure from their peers],,1.0,
+answer,Favoriser une seule religion officielle [To favor a single official religion],,0.0,
+answer,Empêcher toute pratique religieuse dans la société [To prevent any religious practice in society],,0.0,
+question,"Selon l'article 13 de la Déclaration de 1789, pourquoi une contribution commune est-elle indispensable? [According to Article 13 of the Declaration of 1789, why is a common contribution essential?]",,,lvl3
+answer,Pour l'entretien de la force publique et les dépenses d'administration [For the maintenance of the public force and administrative expenses],,1.0,
+answer,Pour les fêtes nationales [For national holidays],,0.0,
+answer,Pour financer la noblesse [To finance the nobility],,0.0,
+question,Que garantit la République à ses citoyens? [What does the Republic guarantee to its citizens?],,,lvl3
+answer,"Le respect des principes de liberté, d'égalité et de fraternité [Respect for the principles of liberty, equality, and fraternity]",,1.0,
+answer,La prospérité économique pour tous [Economic prosperity for all],,0.0,
+answer,La supériorité d'une religion [The superiority of one religion],,0.0,
+question,"De quelle époque date le drapeau tricolore bleu, blanc, rouge? [From what era does the blue, white, and red tricolor flag date?]",,,lvl3
+answer,De la Première Guerre mondiale [From the First World War],,0.0,
+answer,De la Révolution française [From the French Revolution],,1.0,
+answer,De l'Empire napoléonien [From the Napoleonic Empire],,0.0,
+question,Que condamne la France en matière de traitement entre personnes? [What does France condemn in terms of treatment between people?],,,lvl3
+answer,Les préférences sportives [Sports preferences],,0.0,
+answer,Les différences de goût personnels [Differences in personal taste],,0.0,
+answer,Les discriminations fondées sur un motif prévu par la loi [Discriminations based on a ground provided by law],,1.0,
+question,Que signifie le suffrage universel? [What does universal suffrage mean?],,,lvl3
+answer,"Tous les citoyens, hommes et femmes, peuvent voter [All citizens, men and women, can vote]",,1.0,
+answer,Seuls les contribuables peuvent voter [Only taxpayers can vote],,0.0,
+answer,Seuls les hommes peuvent voter [Only men can vote],,0.0,
+question,"Comment s'appelle le fait de traiter moins favorablement une personne à cause de ses origines, de sa religion ou de son sexe? [What is the act of treating a person less favorably because of their origins, religion, or sex called?]",,,lvl3
+answer,Une discrimination [Discrimination],,1.0,
+answer,Une coutume professionnelle [A professional custom],,0.0,
+answer,Une préférence légale [A legal preference],,0.0,
+question,La liberté d'expression est limitée afin de... [Freedom of expression is limited in order to...],,,lvl3
+answer,Empêcher toute critique politique [Prevent any political criticism],,0.0,
+answer,Protéger uniquement l'État [Protect only the State],,0.0,
+answer,Respecter les droits des autres [Respect the rights of others],,1.0,
+question,Quelle limite fixe l'article 10 de la Déclaration de 1789 à la liberté d'opinion? [What limit does Article 10 of the Declaration of 1789 set on freedom of opinion?],,,lvl3
+answer,L'approbation du gouvernement [Government approval],,0.0,
+answer,Le respect des traditions religieuses [Respect for religious traditions],,0.0,
+answer,Le respect de l'ordre public établi par la Loi [Respect for public order established by Law],,1.0,
+question,L'avènement de la République française a été... [The advent of the French Republic was...],,,lvl3
+answer,Décidé par un seul dirigeant [Decided by a single leader],,0.0,
+answer,Progressif et le fruit de plusieurs combats [Gradual and the result of several struggles],,1.0,
+answer,Instantané et sans opposition [Instantaneous and without opposition],,0.0,
+question,Que prévoit la loi française concernant les femmes et les hommes? [What does French law provide regarding women and men?],,,lvl3
+answer,Elle limite certains droits des femmes [It limits certain rights of women],,0.0,
+answer,Elle donne plus de droits aux hommes [It gives more rights to men],,0.0,
+answer,Elle leur accorde les mêmes droits [It grants them the same rights],,1.0,
+question,Comment se traduit la volonté de vivre ensemble des citoyens? [How is the citizens' desire to live together expressed?],,,lvl3
+answer,Par la compétition entre eux [Through competition between them],,0.0,
+answer,Par la solidarité entre eux [Through solidarity between them],,1.0,
+answer,Par l’isolement des individus [Through the isolation of individuals],,0.0,
+question,En quelle année la République française s'installe-t-elle de façon stable? [In what year was the French Republic stably established?],,,lvl3
+answer,1875 [1875],,1.0,
+answer,1945 [1945],,0.0,
+answer,1789 [1789],,0.0,
+question,Quelles personnes contribuent aux cotisations sociales en France? ?) [Which people contribute to social security contributions in France? ?)],,,lvl3
+answer,Seulement les salariés [Only employees],,0.0,
+answer,Seulement l'État [Only the State],,0.0,
+answer,"Employeurs, salariés et non-salariés [Employers, employees, and non-employees]",,1.0,
+question,"Où réside le principe de toute souveraineté, selon l'article 3 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [Where does the principle of all sovereignty reside, according to Article 3 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,Dans le Roi [In the King],,0.0,
+answer,Dans la Nation [In the Nation],,1.0,
+answer,Dans l'armée [In the army],,0.0,
+question,Qu'est-ce que le code pénal définit? ?) [What does the penal code define? ?)],,,lvl3
+answer,Les règles de politesse en société [The rules of politeness in society],,0.0,
+answer,Les infractions et les peines correspondantes [Offenses and the corresponding penalties],,1.0,
+answer,Les conditions de mariage [The conditions of marriage],,0.0,
+question,Quel type de propos est interdit par la loi? [What type of speech is prohibited by law?],,,lvl3
+answer,Critiques littéraires [Literary criticism],,0.0,
+answer,Opinions politiques différentes [Different political opinions],,0.0,
+answer,Injures et propos diffamatoires [Insults and defamatory remarks],,1.0,
+question,Sur quoi repose la France selon le principe de fraternité? [What does France rest upon according to the principle of fraternity?],,,lvl3
+answer,Sur la supériorité d'une religion [On the superiority of a religion],,0.0,
+answer,Sur la volonté de vivre ensemble des citoyens [On the citizens' desire to live together],,1.0,
+answer,Sur l'autorité d'un seul chef [On the authority of a single leader],,0.0,
+question,"Dans les années 1880, l'école publique devient... [In the 1880s, public schools became...]",,,lvl3
+answer,"Obligatoire, gratuite et laïque [Compulsory, free, and secular]",,1.0,
+answer,Payante pour les pauvres [Fee-paying for the poor],,0.0,
+answer,Réservée aux garçons [Reserved for boys],,0.0,
+question,"Que doit établir la Loi en matière de peines, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What must the Law establish regarding penalties, according to Article 8 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,Les peines décidées par le roi [Penalties decided by the king],,0.0,
+answer,Les peines les plus sévères possibles [The most severe penalties possible],,0.0,
+answer,Seulement des peines strictement nécessaires [Only strictly necessary penalties],,1.0,
+question,À partir de quel âge peut-on voter en France? [From what age can one vote in France?],,,lvl3
+answer,16 ans [16 years old],,0.0,
+answer,18 ans [18 years old],,1.0,
+answer,21 ans [21 years old],,0.0,
+question,"Quand peut-on être puni, selon l'article 8 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [When can one be punished, according to Article 8 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,Même si aucune loi n'existait au moment des faits [Even if no law existed at the time of the facts],,0.0,
+answer,Selon la volonté d'un supérieur [According to the will of a superior],,0.0,
+answer,Uniquement en vertu d'une Loi établie et promulguée avant le délit [Only by virtue of a Law established and promulgated prior to the offense],,1.0,
+question,Où peut-on consulter toutes les lois françaises en vigueur sur internet? [Where can one consult all French laws currently in force on the internet?],,,lvl3
+answer,Sur www.wikipedia.org [On www.wikipedia.org],,0.0,
+answer,Sur www.assemblee.fr [On www.assemblee.fr],,0.0,
+answer,Sur www.legifrance.gouv.fr [On www.legifrance.gouv.fr],,1.0,
+question,Quelle est la forme politique de la France? [What is the political form of France?],,,lvl3
+answer,Une démocratie [A democracy],,1.0,
+answer,Une monarchie [A monarchy],,0.0,
+answer,Une dictature [A dictatorship],,0.0,
+question,"Qu'est-ce que la Loi, selon l'article 6 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What is the Law, according to Article 6 of the Declaration of the Rights of Man and of the Citizen of 1789?]",,,lvl3
+answer,La décision d'un chef [The decision of a leader],,0.0,
+answer,L'expression de la volonté générale [The expression of the general will],,1.0,
+answer,La tradition des ancêtres [The tradition of ancestors],,0.0,
+question,Que proclame l'article 15 de la Déclaration des Droits de l'Homme et du Citoyen de 1789? [What does Article 15 of the Declaration of the Rights of Man and of the Citizen of 1789 proclaim?],,,lvl3
+answer,La Société a le droit de demander compte à tout Agent public [Society has the right to require an account from any public Agent],,1.0,
+answer,Le roi contrôle seul les agents publics [The king alone controls public agents],,0.0,
+answer,Les agents publics sont irresponsables [Public agents are unaccountable],,0.0,

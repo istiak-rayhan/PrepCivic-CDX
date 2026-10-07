@@ -1,0 +1,453 @@
+type,text,placeholder,is_correct,level
+question,"Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? (هل يسمح لجمعية رياضية مدعومة بفرض الصلاة قبل كل مباراة؟)",,,lvl1
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. (لا، يجب على الجمعية الممولة من الأموال العامة احترام الحياد.)",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. (نعم، إذا كان ذلك جزءًا من التقاليد المحلية.)",,0.0,
+answer,"Oui, si les adhérents sont d’accord. (نعم، إذا وافق الأعضاء.)",,0.0,
+question,"Une élève porte un voile pendant les cours. Quelle règle s’applique ? (طالبة ترتدي الحجاب أثناء الدروس. ما هي القاعدة التي تنطبق؟)",,,lvl1
+answer,"Les signes religieux ostensibles sont interdits dans les établissements publics. (يُحظر ارتداء الرموز الدينية الواضحة في المؤسسات العامة.)",,1.0,
+answer,"Autorisé pour les filles majeures. (مسموح به للفتيات البالغات.)",,0.0,
+answer,"Autorisé si l’élève reste discrète. (مسموح به إذا ظلت الطالبة كتومة.)",,0.0,
+question,"Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? (مواطن يترك فضلات كلبه على الرصيف. ما هي القاعدة التي تنطبق؟)",,,lvl1
+answer,"Couvrir avec du sable. (تغطيتها بالرمل.)",,0.0,
+answer,"Laisser sur place, la pluie nettoiera. (تركها في مكانها، فالمطر سينظفها.)",,0.0,
+answer,"Ramasser et jeter dans les poubelles prévues. (جمعها ورميها في سلال المهملات المخصصة.)",,1.0,
+question,"Un utilisateur partage un faux message d’alerte terroriste. Risque-t-il une sanction ? (مستخدم يشارك رسالة تنبيه إرهابية كاذبة. هل يواجه عقوبة؟)",,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. (نعم، نشر الأخبار الكاذبة يعاقب عليه القانون.)",,1.0,
+answer,"Oui, seulement si cela devient viral. (نعم، فقط إذا انتشر بشكل واسع.)",,0.0,
+answer,"Non, s’il supprime après. (لا، إذا قام بحذفه لاحقًا.)",,0.0,
+question,"Un passant photographie un inconnu dans la rue et publie la photo sans accord. Est-ce légal ? (مار يصور شخصاً غريباً في الشارع وينشر الصورة دون موافقته. هل هذا قانوني؟)",,,lvl1
+answer,"Non, le droit à l’image protège toute personne identifiable. (لا، الحق في الصورة يحمي أي شخص يمكن التعرف عليه.)",,1.0,
+answer,"Oui, si la photo est artistique. (نعم، إذا كانت الصورة فنية.)",,0.0,
+answer,"Oui, si elle ne montre rien de choquant. (نعم، إذا كانت لا تظهر شيئاً صادماً.)",,0.0,
+question,"Un voisin filme en permanence l’entrée de votre domicile. Quel est votre recours immédiat ? (جار يصور مدخل منزلك باستمرار. ما هو لجوؤك الفوري؟)",,,lvl1
+answer,"Il n’y a pas de recours. (لا يوجد لجوء قانوني.)",,0.0,
+answer,"Lui demander de réorienter la caméra puis saisir la CNIL ou la justice si nécessaire. (طلب إعادة توجيه الكاميرا منه ثم اللجوء إلى CNIL أو القضاء إذا لزم الأمر.)",,1.0,
+answer,"Couper les câbles de la caméra. (قطع أسلاك الكاميرا.)",,0.0,
+question,"Lors du 11 novembre, un élu prononce un discours religieux. Est-ce conforme ? (في 11 نوفمبر، ألقى مسؤول منتخب خطاباً دينياً. هل هذا مطابق للقانون؟)",,,lvl1
+answer,"Oui, pour honorer les croyants morts pour la France. (نعم، لتكريم المؤمنين الذين ماتوا من أجل فرنسا.)",,0.0,
+answer,"Oui, si personne ne proteste. (نعم، إذا لم يعترض أحد.)",,0.0,
+answer,"Non, les cérémonies publiques doivent rester neutres. (لا، يجب أن تظل المراسم العامة محايدة.)",,1.0,
+question,"Un élu refuse de déclarer ses intérêts financiers. Est-ce grave ? (مسؤول منتخب يرفض التصريح عن مصالحه المالية. هل هذا خطير؟)",,,lvl1
+answer,"Oui, la transparence est une obligation. (نعم، الشفافية واجبة.)",,1.0,
+answer,"Non, c’est une vie privée. (لا، إنها حياة خاصة.)",,0.0,
+answer,"Oui, seulement s’il gagne beaucoup. (نعم، فقط إذا كان يربح الكثير.)",,0.0,
+question,"Un maire veut pardonner une contravention à un ami. En a-t-il le droit ? (عمدة يريد إلغاء مخالفة لصديق. هل له الحق في ذلك؟)",,,lvl1
+answer,"Oui, par amitié. (نعم، بدافع الصداقة.)",,0.0,
+answer,"Non, seul le juge ou l’administration compétente peut. (لا، فقط القاضي أو الإدارة المختصة يمكنهما ذلك.)",,1.0,
+answer,"Oui, par amitié. (نعم، بدافع الصداقة.)",,0.0,
+question,"Un média publie la photo d’un suspect avec le mot coupable. Est-ce légal ? (وسيلة إعلام تنشر صورة مشتبه به مع كلمة مذنب. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, si le public veut savoir. (نعم، إذا كان الجمهور يريد المعرفة.)",,0.0,
+answer,"Oui, s’il est arrêté. (نعم، إذا تم القبض عليه.)",,0.0,
+answer,"Non, cela viole la présomption d’innocence. (لا، هذا ينتهك قرينة البراءة.)",,1.0,
+question,"Un internaute publie des propos incitant à la haine. Quelle réaction conforme ? (مستخدم إنترنت ينشر تصريحات تحرض على الكراهية. ما هو الرد المناسب؟)",,,lvl1
+answer,"Signaler et sanctionner ces propos. (الإبلاغ عن هذه التصريحات ومعاقبتها.)",,1.0,
+answer,"Effacer seulement s’il s’excuse. (المسح فقط إذا اعتذر.)",,0.0,
+answer,"Tolérer car c’est une opinion. (التسامح لأنها وجهة نظر.)",,0.0,
+question,"Vous êtes témoin d’un comportement suspect pouvant être lié à la radicalisation. Que faire ? (أنت شاهد على سلوك مشبوه قد يكون مرتبطاً بالتطرف. ماذا تفعل؟)",,,lvl1
+answer,"Enquêter vous-même. (التحقيق بنفسك.)",,0.0,
+answer,"Ne rien faire sauf danger immédiat. (عدم فعل شيء إلا في حالة وجود خطر مباشر.)",,0.0,
+answer,"Signaler via le numéro d’urgence ou la plateforme dédiée. (الإبلاغ عبر رقم الطوارئ أو المنصة المخصصة.)",,1.0,
+question,"Un employeur refuse une promotion à cause de l’orientation sexuelle. Quelle base légale ? (صاحب عمل يرفض ترقية بسبب الميول الجنسية. ما هو الأساس القانوني؟)",,,lvl1
+answer,"L’orientation sexuelle est un critère de discrimination interdit. (الميول الجنسية معيار تمييز محظور.)",,1.0,
+answer,"Il n’y a pas de discrimination. (لا يوجد تمييز.)",,0.0,
+answer,"Le salarié doit prouver que son orientation sexuelle n’a aucun lien avec ses compétences. (يجب على الموظف إثبات أن ميوله الجنسية ليس لها علاقة بمهاراته.)",,0.0,
+question,"Des personnes rient pendant la minute de silence du 11 novembre. Est-ce sanctionnable ? (أشخاص يضحكون خلال دقيقة الصمت في 11 نوفمبر. هل هذا يستوجب العقوبة؟)",,,lvl1
+answer,"Oui, seulement si c’est filmé. (نعم، فقط إذا تم تصويره.)",,0.0,
+answer,"Oui, c’est un outrage à la mémoire collective. (نعم، هذا إساءة للذاكرة الجماعية.)",,1.0,
+answer,"Non, s’ils sont jeunes. (لا، إذا كانوا صغاراً في السن.)",,0.0,
+question,"Vous voulez connaître les dépenses de votre mairie. Quel est votre droit ? (تريد معرفة نفقات بلديتك. ما هو حقك؟)",,,lvl1
+answer,"Passer obligatoirement par un avocat. (يجب بالضرورة الاستعانة بمحامٍ.)",,0.0,
+answer,"Vous n’avez pas ce droit. (ليس لديك هذا الحق.)",,0.0,
+answer,"Droit d’accès aux documents administratifs. (حق الوصول إلى الوثائق الإدارية.)",,1.0,
+question,"Un citoyen devient bénévole dans une association alimentaire. Quel principe illustre-t-il ? (مواطن يصبح متطوعاً في جمعية غذائية. أي مبدأ يجسده؟)",,,lvl1
+answer,"La neutralité. (الحياد.)",,0.0,
+answer,"L’égalité. (المساواة.)",,0.0,
+answer,"La fraternité. (الأخوة.)",,1.0,
+question,"Un promeneur capture des grenouilles pour les observer. Est-ce autorisé ? (متنزه يصطاد الضفادع لمراقبتها. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, pour usage personnel. (نعم، للاستخدام الشخصي.)",,0.0,
+answer,"Oui, s’il les relâche plus tard. (نعم، إذا أطلق سراحها لاحقاً.)",,0.0,
+answer,"Non, certaines espèces sont protégées. (لا، بعض الأنواع محمية.)",,1.0,
+question,"Une voisine âgée tombe dans le hall. Que devez-vous faire ? (جارة مسنة تسقط في الردهة. ماذا يجب أن تفعل؟)",,,lvl1
+answer,"Passer votre chemin. (تكمل طريقك.)",,0.0,
+answer,"Filmer la scène. (تصوير المشهد.)",,0.0,
+answer,"L’aider immédiatement et appeler les secours. (مساعدتها فوراً والاتصال بالإسعاف.)",,1.0,
+question,"Un parent demande une dispense de sport pour raison religieuse. Quelle réponse conforme ? (والد يطلب إعفاءً من الرياضة لسبب ديني. ما هو الرد المطابق؟)",,,lvl1
+answer,"Remplacer le sport par une étude surveillée. (استبدال الرياضة بدراسة تحت الإشراف.)",,0.0,
+answer,"Accorder une dispense permanente. (منح إعفاء دائم.)",,0.0,
+answer,"Expliquer que les cours sont obligatoires pour tous. (شرح أن الدروس إلزامية للجميع.)",,1.0,
+question,"Deux salariés ont des salaires différents pour le même poste. Quelle règle s’applique ? (موظفان لديهما رواتب مختلفة لنفس المنصب. ما هي القاعدة التي تنطبق؟)",,,lvl1
+answer,"L’entreprise peut fixer librement les salaires. (يمكن للشركة تحديد الرواتب بحرية.)",,0.0,
+answer,"Égalité de rémunération pour un travail égal. (المساواة في الأجر لعمل متساوٍ.)",,1.0,
+answer,"Différence normale selon le sexe. (فرق طبيعي حسب الجنس.)",,0.0,
+question,"À l’hôpital public, une infirmière refuse un patient pour sa religion. Quelle conduite respecte la laïcité ? (في مستشفى عام، ممرضة ترفض مريضاً بسبب دينه. أي سلوك يحترم العلمانية؟)",,,lvl1
+answer,"Choisir les patients selon sa religion. (اختيار المرضى حسب دينهم.)",,0.0,
+answer,"Soigner tous les patients sans distinction. (علاج جميع المرضى دون تمييز.)",,1.0,
+answer,"Soigner seulement ceux qui partagent ses convictions. (علاج فقط من يشاركونها قناعاتها.)",,0.0,
+question,"Parents séparés en désaccord sur l’école. Que dit la loi ? (والدان منفصلان مختلفان حول المدرسة. ماذا يقول القانون؟)",,,lvl1
+answer,"Les décisions importantes doivent être prises par les deux parents. (يجب اتخاذ القرارات الهامة من قبل كلا الوالدين.)",,1.0,
+answer,"Le juge décide toujours seul. (القاضي يقرر دائماً وحده.)",,0.0,
+answer,"La mère décide seule. (الأم تقرر وحدها.)",,0.0,
+question,"Une commune refuse une salle municipale pour des funérailles laïques. Est-ce légal ? (بلدية ترفض قاعة بلدية لجنازة علمانية. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, seules les cérémonies religieuses sont autorisées. (نعم، المراسم الدينية فقط هي المسموح بها.)",,0.0,
+answer,"Non, le service public doit traiter toutes les convictions également. (لا، يجب على الخدمة العامة معاملة جميع القناعات بالتساوي.)",,1.0,
+answer,"Oui, car les funérailles sont privées. (نعم، لأن الجنازات خاصة.)",,0.0,
+question,"Un cycliste circule la nuit sans éclairage sur une route non éclairée. Est-ce autorisé ? (راكب دراجة يسير ليلاً بدون إضاءة على طريق غير مضاء. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, s’il roule lentement. (نعم، إذا كان يقود ببطء.)",,0.0,
+answer,"Non, l’éclairage est obligatoire pour être visible. (لا، الإضاءة إلزامية ليكون مرئياً.)",,1.0,
+answer,"Oui, s’il porte des vêtements sombres. (نعم، إذا كان يرتدي ملابس داكنة.)",,0.0,
+question,"Un agent d’accueil d’une préfecture affiche un verset religieux sur son bureau. Est-ce conforme ? (موظف استقبال في محافظة يعرض آية دينية على مكتبه. هل هذا مطابق؟)",,,lvl1
+answer,"Non, la neutralité interdit tout affichage de conviction personnelle. (لا، الحياد يمنع أي عرض لقناعة شخصية.)",,1.0,
+answer,"Oui, si le public ne le remarque pas. (نعم، إذا لم يلاحظ الجمهور ذلك.)",,0.0,
+answer,"Oui, s’il s’agit d’un petit texte. (نعم، إذا كان نصاً صغيراً.)",,0.0,
+question,"Un salarié demande quelques minutes de pause pour prier sans perturber le travail. Quelle réponse conforme ? (موظف يطلب دقائق استراحة للصلاة دون تعطيل العمل. ما هو الرد المطابق؟)",,,lvl1
+answer,"L’employeur peut accepter si cela ne désorganise pas l’entreprise. (يمكن لصاحب العمل القبول إذا كان ذلك لا يخل بتنظيم الشركة.)",,1.0,
+answer,"Refuser toute demande religieuse par principe. (رفض أي طلب ديني من حيث المبدأ.)",,0.0,
+answer,"L’obliger à prier dans l’espace clients. (إجباره على الصلاة في مساحة العملاء.)",,0.0,
+question,"Un de vos voisins installe une caméra de surveillance qui filme de manière permanente l'entrée de votre domicile. Quel est votre recours légal immédiat ? (أحد جيرانك يثبت كاميرا مراقبة تصور مدخل منزلك بشكل دائم. ما هو لجوؤك القانوني الفوري؟)",,,lvl1
+answer,"Lui demander de réorienter sa caméra pour qu'elle ne filme que sa propriété, et en cas de refus, saisir la CNIL ou la justice. (طلب إعادة توجيه كاميرته لتصور ممتلكاته فقط، وفي حالة الرفض، اللجوء إلى CNIL أو القضاء.)",,1.0,
+answer,"Couper les câbles de la caméra, car elle porte atteinte à votre vie privée. (قطع أسلاك الكاميرا لأنها تنتهك خصوصيتك.)",,0.0,
+answer,"Il n'y a pas de recours, car les caméras privées sont totalement libres. (لا يوجد لجوء قانوني، لأن الكاميرات الخاصة حرة تماماً.)",,0.0,
+question,"Un automobiliste ne s’arrête pas au passage piéton. Est-ce autorisé ? (سائق سيارة لا يتوقف عند ممر المشاة. هل هذا مسموح به؟)",,,lvl1
+answer,"Non, il doit céder le passage. (لا، يجب عليه إعطاء الأولوية.)",,1.0,
+answer,"Oui, si personne n’est blessé. (نعم، إذا لم يصب أحد.)",,0.0,
+answer,"Oui, la route est prioritaire. (نعم، الطريق له الأولوية.)",,0.0,
+question,"Un maire décide d’installer une crèche de Noël dans le hall de la mairie. Dans quel cas est-ce légal ? (عمدة يقرر وضع مغارة عيد الميلاد في بهو البلدية. في أي حالة يكون هذا قانونياً؟)",,,lvl1
+answer,"Si la crèche a un caractère culturel ou festif et non religieux. (إذا كانت المغارة ذات طابع ثقافي أو احتفالي وليس دينياً.)",,1.0,
+answer,"Jamais, même pour célébrer la culture locale. (أبداً، حتى للاحتفال بالثقافة المحلية.)",,0.0,
+answer,"Toujours, car c’est une tradition. (دائماً، لأنها تقليد.)",,0.0,
+question,"Votre voisin construit une clôture qui empiète légèrement sur votre terrain. Quelle est la base de votre droit à exiger le retrait ? (جارك يبني سياجاً يتجاوز قليلاً على أرضك. ما هو أساس حقك في المطالبة بإزالته؟)",,,lvl1
+answer,"Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. (يمكنك المطالبة بإيجار لاستخدام هذا الجزء الصغير من أرضك.)",,0.0,
+answer,"Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. (حق الملكية مطلق ومقدس: حتى التجاوز الضئيل يجب إزالته.)",,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. (لا يمكنك فعل شيء لأن التجاوز صغير جداً لا يبرر اتخاذ إجراء قانوني.)",,0.0,
+question,"Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? (موقع يجمع بيانات المستخدمين دون إذن. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, si les données restent en Europe. (نعم، إذا ظلت البيانات في أوروبا.)",,0.0,
+answer,"Oui, si c’est pour la publicité. (نعم، إذا كان من أجل الإعلانات.)",,0.0,
+answer,"Non, il faut le consentement clair de la personne. (لا، يجب الحصول على موافقة صريحة من الشخص.)",,1.0,
+question,"Un journal publie un article critiquant le gouvernement. Peut-il être sanctionné ? (صحيفة تنشر مقالاً ينتقد الحكومة. هل يمكن معاقبتها؟)",,,lvl1
+answer,"Oui, si l’article dérange. (نعم، إذا كان المقال مزعجاً.)",,0.0,
+answer,"Oui, si le gouvernement le souhaite. (نعم، إذا أرادت الحكومة ذلك.)",,0.0,
+answer,"Non, la liberté de la presse est protégée dans le cadre de la loi. (لا، حرية الصحافة محمية في إطار القانون.)",,1.0,
+question,"Un enfant étranger résidant en France sans papiers souhaite être scolarisé. L’école peut-elle refuser ? (طفل أجنبي يقيم في فرنسا بدون أوراق ويرغب في الالتحاق بالمدرسة. هل يمكن للمدرسة الرفض؟)",,,lvl1
+answer,"Oui, s’il ne parle pas encore français. (نعم، إذا كان لا يتحدث الفرنسية بعد.)",,0.0,
+answer,"Non, tout enfant a droit à l’education en France. (لا، لكل طفل الحق في التعليم في فرنسا.)",,1.0,
+answer,"Oui, si ses parents n’ont pas de titre de séjour. (نعم، إذا لم يكن لدى والديه تصريح إقامة.)",,0.0,
+question,"Une candidate voilée postule dans un supermarché. L’employeur la rejette pour ce motif. Est-ce légal ? (مرشحة محجبة تتقدم لوظيفة في سوبر ماركت. صاحب العمل يرفضها لهذا السبب. هل هذا قانوني؟)",,,lvl1
+answer,"Non, c’est une discrimination fondée sur la religion. (لا، هذا تمييز على أساس الدين.)",,1.0,
+answer,"Oui, si les clients sont gênés. (نعم، إذا انزعج الزبائن.)",,0.0,
+answer,"Oui, car l’employeur refuse tous les signes religieux. (نعم، لأن صاحب العمل يرفض كل الرموز الدينية.)",,0.0,
+question,"Une voisine âgée chute dans l’escalier. Quelle conduite civique ? (جارة مسنة تسقط على الدرج. ما هو السلوك المدني؟)",,,lvl1
+answer,"Alerter les secours immédiatement. (تنبيه الإسعاف فوراً.)",,1.0,
+answer,"Filmer la scène pour preuve. (تصوير المشهد كدليل.)",,0.0,
+answer,"Ne rien faire, elle se relèvera. (عدم فعل شيء، ستنهض وحدها.)",,0.0,
+question,"Une commune refuse la location d’une salle municipale pour des funérailles laïques. Est-ce légal ? (بلدية ترفض تأجير قاعة بلدية لجنازة علمانية. هل هذا قانوني؟)",,,lvl1
+answer,"Non, le service public doit traiter également toutes convictions. (لا، يجب على الخدمة العامة معاملة جميع القناعات بالتساوي.)",,1.0,
+answer,"Oui, car les funérailles sont privées. (نعم، لأن الجنازات خاصة.)",,0.0,
+answer,"Oui, les cérémonies religieux seules sont autorisées. (نعم، المراسم الدينية فقط مسموح بها.)",,0.0,
+question,"Votre voisin construit une clôture sur son terrain, mais une petite partie empiète de quelques centimètres sur le vôtre. Quelle est la base de votre droit à exiger le retrait de cette partie ? (جارك يبني سياجاً على أرضه، لكن جزءاً صغيراً يتجاوز بضعة سنتيمترات على أرضك. ما هو أساس حقك في المطالبة بإزالة هذا الجزء؟)",,,lvl1
+answer,"Vous pouvez exiger un loyer pour l'utilisation de cette petite partie de votre terrain. (يمكنك المطالبة بإيجار لاستخدام هذا الجزء الصغير من أرضك.)",,0.0,
+answer,"Le droit de propriété est absolu et inviolable : même un empiètement minime doit être supprimé. (حق الملكية مطلق ومقدس: حتى التجاوز الضئيل يجب إزالته.)",,1.0,
+answer,"Vous ne pouvez rien faire, car l'empiètement est trop petit pour justifier une action en justice. (لا يمكنك فعل شيء لأن التجاوز صغير جداً لا يبرر اتخاذ إجراء قانوني.)",,0.0,
+question,"Sur un réseau social, un citoyen publie un photomontage satirique très offensant sur un responsable politique, mais sans appel à la violence. Le citoyen risque-t-il une condamnation ? (على وسائل التواصل الاجتماعي، ينشر مواطن صورا ساخرة مسيئة جداً لمسؤول سياسي، ولكن دون دعوة للعنف. هل يواجه المواطن إدانة؟)",,,lvl1
+answer,"Non, la satire est toujours protégée par la liberté d'expression, même si elle est jugée de mauvais goût. (لا، السخرية محمية دائماً بحرية التعبير، حتى لو اعتبرت سيئة الذوق.)",,0.0,
+answer,"Oui, car la loi interdit toute critique des responsables politiques sous quelque forme que ce soit. (نعم، لأن القانون يمنع أي انتقاد للمسؤولين السياسيين بأي شكل من الأشكال.)",,0.0,
+answer,"Le citoyen risque une condamnation pour injure publique, mais il pourra invoquer son droit à la satire politique. (يواجه المواطن خطر الإدانة بتهمة الإهانة العلنية، لكنه يمكنه التذرع بحقه في السخرية السياسية.)",,1.0,
+question,"Une association sportive subventionnée impose une prière avant chaque match. Est-ce autorisé ? (جمعية رياضية مدعومة تفرض الصلاة قبل كل مباراة. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, si les adhérents sont d’accord. (نعم، إذا وافق الأعضاء.)",,0.0,
+answer,"Non, une association financée par des fonds publics doit respecter la neutralité. (لا، يجب على الجمعية الممولة من الأموال العامة احترام الحياد.)",,1.0,
+answer,"Oui, si cela fait partie de la tradition locale. (نعم، إذا كان ذلك جزءًا من التقاليد المحلية.)",,0.0,
+question,"Lors d’une alerte inondation, certains habitants ignorent les consignes d’évacuation. Quelle attitude responsable ? (أثناء تنبيه من الفيضانات، يتجاهل بعض السكان تعليمات الإخلاء. ما هو السلوك المسؤول؟)",,,lvl1
+answer,"Suivre les instructions des autorités et aider les voisins vulnérables. (اتباع تعليمات السلطات ومساعدة الجيران الضعفاء.)",,1.0,
+answer,"Publier une vidéo sur internet pour alerter sans partir. (نشر فيديو على الإنترنت للتنبيه دون المغادرة.)",,0.0,
+answer,"Rester chez soi « pour protéger ses biens ». (البقاء في المنزل ""لحماية الممتلكات"".)",,0.0,
+question,"Une association culturelle exclut un membre pour ses opinions politiques radicales. Est-ce légal ? (جمعية ثقافية تستبعد عضواً بسبب آرائه السياسية المتطرفة. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, si cette possibilité est prévue dans les statuts de l’association. (نعم، إذا كان هذا الاحتمال منصوصاً عليه في النظام الأساسي للجمعية.)",,1.0,
+answer,"Non, car une fois membre l’exclusion est impossible. (لا، لأنه بمجرد أن تصبح عضواً، يكون الاستبعاد مستحيلاً.)",,0.0,
+answer,"Non, car toute exclusion pour opinions politiques est interdite. (لا، لأن أي استبعاد بسبب الآراء السياسية محظور.)",,0.0,
+question,"Un promeneur capture des papillons pour les collectionner. Est-ce autorisé ? (متنزه يصطاد الفراشات لجمعها. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, s’il les relâche après. (نعم، إذا أطلق سراحها بعد ذلك.)",,0.0,
+answer,"Oui, s’il les garde chez lui. (نعم، إذا احتفظ بها في منزله.)",,0.0,
+answer,"Non, certaines espèces sont protégées. (لا، بعض الأنواع محمية.)",,1.0,
+question,"Un homme refuse de s’adresser à une agente publique en raison de son sexe. Quelle marche à suivre ? (رجل يرفض التحدث إلى موظفة عامة بسبب جنسها. ما هي الإجراءات الواجب اتباعها؟)",,,lvl1
+answer,"L'agente doit rappeler la loi de 1905 et refuser la démarche. (يجب على الموظفة التذكير بقانون 1905 ورفض الإجراء.)",,0.0,
+answer,"L'agente informe que le service public ne peut être refusé pour ce motif et peut interrompre la démarche. (تخبر الموظفة أن الخدمة العامة لا يمكن رفضها لهذا السبب ويمكنها مقاطعة الإجراء.)",,1.0,
+answer,"L'agente doit demander à un collègue masculin d’assurer le service. (يجب على الموظفة أن تطلب من زميل ذكر تقديم الخدمة.)",,0.0,
+question,"Un restaurant refuse un client en fauteuil roulant pour raisons de place. Est-ce légal ? (مطعم يرفض زبوناً على كرسي متحرك لأسباب تتعلق بالمكان. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, si le restaurant est petit. (نعم، إذا كان المطعم صغيراً.)",,0.0,
+answer,"Non, refuser un client en raison de son handicap est interdit. (لا، يمنع رفض زبون بسبب إعاقته.)",,1.0,
+answer,"Oui, si le client vient seul. (نعم، إذا جاء الزبون بمفرده.)",,0.0,
+question,"Un voisin brûle ses déchets verts dans son jardin, provoquant une forte fumée. Quelle réaction conforme au civisme ? (جار يحرق نفاياته الخضراء في حديقته، مما يسبب دخاناً كثيفاً. ما هو الرد المطابق للمواطنة؟)",,,lvl1
+answer,"Lui rappeler que cette pratique est interdite et signaler à la mairie si nécessaire. (تذكيره بأن هذه الممارسة ممنوعة والإبلاغ للبلدية إذا لزم الأمر.)",,1.0,
+answer,"L’imiter pour “équilibrer les nuisances”. (تقليده ""لموازنة الإزعاج"".)",,0.0,
+answer,"Le laisser faire car c’est sa propriété. (تركه يفعل ذلك لأنها ملكيته.)",,0.0,
+question,"Lors d’un accident, des passants filment au lieu d’aider. Quelle règle morale et légale ? (أثناء وقوع حادث، يقوم المارة بالتصوير بدلاً من المساعدة. ما هي القاعدة الأخلاقية والقانونية؟)",,,lvl1
+answer,"Porter assistance en priorité. (تقديم المساعدة كأولوية.)",,1.0,
+answer,"Attendre que d’autres interviennent. (الانتظار حتى يتدخل الآخرون.)",,0.0,
+answer,"Filmer pour les réseaux. (التصوير من أجل الشبكات الاجتماعية.)",,0.0,
+question,"Quelle est l’obligation légale minimale pour tout propriétaire d’un véhicule terrestre à moteur en France, même s’il ne roule pas ? (ما هو الحد الأدنى للالتزام القانوني لأي مالك مركبة برية ذات محرك في فرنسا، حتى لو لم تكن تسير؟)",,,lvl1
+answer,"L’obligation de souscrire une assurance tous risques. (الالتزام بالاشتراك في تأمين شامل ضد جميع المخاطر.)",,0.0,
+answer,"Il n’y a pas d’obligation si le véhicule reste garé dans une propriété privée. (لا يوجد التزام إذا ظلت المركبة متوقفة في ملكية خاصة.)",,0.0,
+answer,"L’obligation de souscrire une assurance en responsabilité civile (au tiers). (الالتزام بالاشتراك في تأمين المسؤولية المدنية (ضد الغير).)",,1.0,
+question,"Dans la rue, vous voyez une personne blessée et inconsciente. Que devez-vous faire ? (في الشارع، ترى شخصاً مصاباً وفاقداً للوعي. ماذا يجب أن تفعل؟)",,,lvl1
+answer,"Continuer votre chemin. (تكمل طريقك.)",,0.0,
+answer,"Filmer pour garder une preuve. (التصوير للاحتفاظ بدليل.)",,0.0,
+answer,"Alerter les secours et sécuriser les lieux . (تنبيه الإسعاف وتأمين المكان.)",,1.0,
+question,"Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? (صاحب عمل يقرأ رسائل البريد الإلكتروني الشخصية لموظف على جهاز كمبيوتر العمل. هل هذا مسموح به؟)",,,lvl1
+answer,"Non, les messages identifiés comme personnels sont protégés. (لا، الرسائل المحددة كشخصية محمية.)",,1.0,
+answer,"Oui, car le matériel appartient à l’entreprise. (نعم، لأن المعدات تعود للشركة.)",,0.0,
+answer,"Oui, s’il ne les partage pas. (نعم، إذا لم يشاركها.)",,0.0,
+question,"Un pharmacien raconte la maladie d’un client à ses voisins. Est-ce légal ? (صيدلي يروي مرض زبون لجيرانه. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, s’il veut prévenir les autres. (نعم، إذا أراد تحذير الآخرين.)",,0.0,
+answer,"Non, il viole le secret professionnel. (لا، إنه ينتهك السر المهني.)",,1.0,
+answer,"Oui, si le client est d’accord après. (نعم، إذا وافق الزبون بعد ذلك.)",,0.0,
+question,"Que doit-on faire face aux ordres des policiers ou gendarmes ? (ماذا يجب أن نفعل تجاه أوامر رجال الشرطة أو الدرك؟)",,,lvl1
+answer,"Les négocier sur place. (التفاوض عليها في المكان.)",,0.0,
+answer,"Les contester immédiatement. (الاعتراض عليها فوراً.)",,0.0,
+answer,"Les respecter dans le cadre de la loi. (احترامها في إطار القانون.)",,1.0,
+question,"Des parents séparés sont en désaccord sur le choix de l’école de leur enfant. Comment la loi définit-elle l’exercice de l’autorité parentale dans cette situation ? (والدان منفصلان مختلفان حول اختيار مدرسة طفلهما. كيف يحدد القانون ممارسة السلطة الأبوية في هذه الحالة؟)",,,lvl1
+answer,"Les décisions importantes doivent être prises par les deux parents ensemble, même après la séparation. (يجب اتخاذ القرارات الهامة من قبل كلا الوالدين معاً، حتى بعد الانفصال.)",,1.0,
+answer,"La mère a toujours le dernier mot. (الأم لها دائماً الكلمة الأخيرة.)",,0.0,
+answer,"Le juge décide automatiquement. (القاضي يقرر تلقائياً.)",,0.0,
+question,"Quelle est l’attitude à avoir lorsque l’on est témoin de violences ? (ما هو السلوك الواجب اتباعه عند مشاهدة أعمال عنف؟)",,,lvl1
+answer,"Intervenir seul physiquement. (التدخل بدنياً بمفردك.)",,0.0,
+answer,"Ne rien faire. (عدم فعل شيء.)",,0.0,
+answer,"Alerter les secours ou les forces de l’ordre et aider dans la mesure du possible. (تنبيه الإسعاف أو قوات الأمن والمساعدة قدر الإمكان.)",,1.0,
+question,"Un internaute publie « Les [groupe X] sont dangereux, il faut les chasser ». Quelle réaction est conforme ? (مستخدم إنترنت ينشر ""مجموعة [X] خطرون، يجب طردهم"". ما هو الرد المناسب؟)",,,lvl1
+answer,"Signaler et sanctionner ces propos. (الإبلاغ عن هذه التصريحات ومعاقبتها.)",,1.0,
+answer,"Tolérer car c’est une opinion. (التسامح لأنها وجهة نظر.)",,0.0,
+answer,"Effacer seulement s’il s’excuse. (المسح فقط إذا اعتذر.)",,0.0,
+question,"Est-il toujours possible de divorcer ? (هل من الممكن دائماً الطلاق؟)",,,lvl1
+answer,"Oui, uniquement avec l’accord des familles. (نعم، فقط بموافقة العائلات.)",,0.0,
+answer,"Non, sauf en cas de faute grave. (لا، إلا في حالة الخطأ الجسيم.)",,0.0,
+answer,"Oui, le divorce est un droit reconnu par la loi. (نعم، الطلاق حق يعترف به القانون.)",,1.0,
+question,"Le recours à l’avortement est-il autorisé ? (هل اللجوء إلى الإجهاض مسموح به؟)",,,lvl1
+answer,"Non, il est interdit. (لا، إنه ممنوع.)",,0.0,
+answer,"Seulement avec l’accord du conjoint. (فقط بموافقة الزوج.)",,0.0,
+answer,"Oui, dans les conditions prévues par la loi. (نعم، ضمن الشروط التي ينص عليها القانون.)",,1.0,
+question,"Un travailleur indépendant refuse de cotiser à la sécurité sociale. Est-ce autorisé ? (عامل مستقل يرفض المساهمة في الضمان الاجتماعي. هل هذا مسموح به؟)",,,lvl1
+answer,"Non, les cotisations sont obligatoires pour financer la solidarité nationale. (لا، المساهمات إلزامية لتمويل التضامن الوطني.)",,1.0,
+answer,"Oui, s’il a une assurance privée. (نعم، إذا كان لديه تأمين خاص.)",,0.0,
+answer,"Oui, s’il n’est jamais malade. (نعم، إذا لم يمرض أبداً.)",,0.0,
+question,"Quel est un exemple d’assistance à personne en danger ? (ما هو مثال على مساعدة شخص في خطر؟)",,,lvl1
+answer,"Appeler les secours pour une personne blessée. (الاتصال بالإسعاف لشخص مصاب.)",,1.0,
+answer,"Quitter les lieux sans agir. (مغادرة المكان دون اتخاذ إجراء.)",,0.0,
+answer,"Filmer la scène. (تصوير المشهد.)",,0.0,
+question,"Deux femmes mariées françaises ont recours à la PMA. Comment l’enfant est-il rattaché légalement à la seconde mère ? (امرأتان فرنسيتان متزوجتان تلجآن إلى التلقيح الاصطناعي. كيف يتم ربط الطفل قانونياً بالأم الثانية؟)",,,lvl1
+answer,"La loi ne reconnaît pas la seconde mère. (القانون لا يعترف بالأم الثانية.)",,0.0,
+answer,"La seconde mère doit adopter l’enfant. (يجب على الأم الثانية تبني الطفل.)",,0.0,
+answer,"Les deux mères sont reconnues comme parents dès la naissance. (تُعرف الأمّان كوالدين منذ الولادة.)",,1.0,
+question,"Dans un immeuble, les résidents laissent les lumières communes allumées toute la nuit. Quelle attitude civique adopter ? (في مبنى، يترك السكان الأضواء المشتركة مضاءة طوال الليل. ما هو السلوك المدني الذي يجب تبنيه؟)",,,lvl1
+answer,"Ignorer le problème. (تجاهل المشكلة.)",,0.0,
+answer,"Retirer les ampoules de force. (نزع المصابيح بالقوة.)",,0.0,
+answer,"Proposer des capteurs ou des minuteries pour réduire le gaspillage. (اقتراح أجهزة استشعار أو مؤقتات لتقليل الهدر.)",,1.0,
+question,"Pour faire changer son état civil (prénom et sexe) sur ses documents officiels, une personne transgenre doit-elle obligatoirement avoir subi une opération chirurgicale ? (لتغيير حالتها المدنية (الاسم والجنس) في وثائقها الرسمية، هل يجب على الشخص المتحول جنسياً الخضوع لعملية جراحية بالضرورة؟)",,,lvl1
+answer,"Oui, c’est obligatoire. (نعم، هذا إلزامي.)",,0.0,
+answer,"Non, depuis 2017, aucune opération ou intervention médicale n’est exigée. (لا، منذ عام 2017، لا يشترط إجراء أي عملية أو تدخل طبي.)",,1.0,
+answer,"Oui, mais seulement une attestation psychiatrique. (نعم، ولكن فقط شهادة نفسية.)",,0.0,
+question,"Un citoyen condamné à payer une amende refuse de la payer par désaccord. Quelle attitude est conforme au droit ? (مواطن محكوم عليه بدفع غرامة يرفض دفعها لعدم موافقته. ما هو السلوك المطابق للقانون؟)",,,lvl1
+answer,"Se faire justice soi-même. (تطبيق العدالة بنفسك.)",,0.0,
+answer,"Exécuter la décision ou exercer un recours prévu par la loi. (تنفيذ القرار أو ممارسة اللجوء القانوني الذي ينص عليه القانون.)",,1.0,
+answer,"Ignorer la décision. (تجاهل القرار.)",,0.0,
+question,"Un voisin est accusé d’un vol mais n’a pas encore été jugé. Comment réagir ? (جار متهم بالسرقة ولكن لم يحاكم بعد. كيف ترد؟)",,,lvl1
+answer,"Attendre la décision de justice avant de le juger. (انتظار قرار العدالة قبل الحكم عليه.)",,1.0,
+answer,"Le considérer coupable immédiatement. (اعتباره مذنباً فوراً.)",,0.0,
+answer,"Publier son nom sur les réseaux sociaux. (نشر اسمه على وسائل التواصل الاجتماعي.)",,0.0,
+question,"Une grève des transports publics est annoncée. Quel dispositif permet d’informer les usagers à l’avance ? (أعلن عن إضراب في وسائل النقل العام. ما هو النظام الذي يسمح بإبلاغ المستخدمين مسبقاً؟)",,,lvl1
+answer,"Le droit de réquisition. (حق الاستدعاء.)",,0.0,
+answer,"Le service minimum avec publication des prévisions de circulation. (الحد الأدنى للخدمة مع نشر توقعات حركة المرور.)",,1.0,
+answer,"Une limitation légale du nombre de grévistes. (تحديد قانوني لعدد المضربين.)",,0.0,
+question,"Une personne reçoit un e-mail d’une « banque » demandant ses codes. Que doit-elle faire ? (شخص يتلقى بريداً إلكترونياً من ""بنك"" يطلب رموزه. ماذا يجب أن يفعل؟)",,,lvl1
+answer,"Répondre pour vérifier. (الرد للتحقق.)",,0.0,
+answer,"Ne pas répondre et signaler la fraude. (عدم الرد والإبلاغ عن الاحتيال.)",,1.0,
+answer,"Donner les codes si l’adresse semble officielle. (إعطاء الرموز إذا كان العنوان يبدو رسمياً.)",,0.0,
+question,"Lors d’un contrôle d’identité sans document, la police peut-elle vous emmener au poste ? (أثناء فحص الهوية بدون وثيقة، هل يمكن للشرطة اصطحابك إلى المركز؟)",,,lvl1
+answer,"Non, jamais. (لا، أبداً.)",,0.0,
+answer,"Oui, pour une vérification d’identité pouvant durer jusqu’à 4 heures. (نعم، للتحقق من الهوية يمكن أن يستمر لمدة تصل إلى 4 ساعات.)",,1.0,
+answer,"Non, elle doit vous laisser partir. (لا، يجب أن تسمح لك بالرحيل.)",,0.0,
+question,"Un habitant assiste à une réunion publique du conseil municipal. Peut-il s’exprimer ? (ساكن يحضر اجتماعاً عاماً للمجلس البلدي. هل يمكنه التعبير عن رأيه؟)",,,lvl1
+answer,"Oui, si le maire l’autorise selon les règles locales. (نعم، إذا سمح له العمدة وفقاً للقواعد المحلية.)",,1.0,
+answer,"Non, seuls les élus peuvent parler. (لا، الممثلون المنتخبون فقط يمكنهم التحدث.)",,0.0,
+answer,"Oui, librement et sans limite. (نعم، بحرية ودون حدود.)",,0.0,
+question,"Un restaurateur refuse de servir un couple homosexuel. Quelle est la règle ? (صاحب مطعم يرفض خدمة زوجين مثليين. ما هي القاعدة؟)",,,lvl1
+answer,"Autorisé si le restaurant est familial. (مسموح به إذا كان المطعم عائلياً.)",,0.0,
+answer,"C’est interdit, l’accès à un service ne peut dépendre de l’orientation sexuelle. (هذا ممنوع، لا يمكن أن يعتمد الحصول على خدمة على الميول الجنسية.)",,1.0,
+answer,"Autorisé s’il affiche ce refus. (مسموح به إذا عرض هذا الرفض علناً.)",,0.0,
+question,"Qui veille au maintien de l’ordre public ? (من يسهر على حفظ النظام العام؟)",,,lvl1
+answer,"Le Parlement. (البرلمان.)",,0.0,
+answer,"Les mairies. (البلديات.)",,0.0,
+answer,"La police et la gendarmerie. (الشرطة والدرك.)",,1.0,
+question,"Le respect des décisions de justice est-il obligatoire ? (هل احترام القرارات القضائية إلزامي؟)",,,lvl1
+answer,"Non, si on n’est pas d’accord. (لا، إذا لم نكن موافقين.)",,0.0,
+answer,"Oui, même en cas de désaccord, avec possibilité de recours légal. (نعم، حتى في حالة عدم الموافقة، مع إمكانية اللجوء القانوني.)",,1.0,
+answer,"Seulement pour les étrangers. (فقط للأجانب.)",,0.0,
+question,"Quelle proposition constitue une obligation ? (أي اقتراح يشكل التزاماً؟)",,,lvl1
+answer,"Respecter la loi. (احترام القانون.)",,1.0,
+answer,"Voter à chaque élection. (التصويت في كل انتخابات.)",,0.0,
+answer,"Adhérer à une association. (الانضمام إلى جمعية.)",,0.0,
+question,"Lors d’un contrôle légal, un passant refuse de décliner son identité. Quelle attitude est correcte ? (أثناء فحص قانوني، يرفض أحد المارة الكشف عن هويته. ما هو السلوك الصحيح؟)",,,lvl1
+answer,"Refuser au nom de la liberté individuelle. (الرفض باسم الحرية الفردية.)",,0.0,
+answer,"Reporter le contrôle à plus tard. (تأجيل الفحص لوقت لاحق.)",,0.0,
+answer,"Coopérer et présenter une pièce d’identité. (التعاون وتقديم وثيقة الهوية.)",,1.0,
+question,"Vous souhaitez connaître le détail des dépenses publiques de votre mairie. Quel est votre droit ? (ترغب في معرفة تفاصيل النفقات العامة لبلديتك. ما هو حقك؟)",,,lvl1
+answer,"Passer obligatoirement par un avocat. (يجب بالضرورة الاستعانة بمحامٍ.)",,0.0,
+answer,"Vous n’avez pas ce droit. (ليس لديك هذا الحق.)",,0.0,
+answer,"Le droit d’accès aux documents administratifs. (حق الوصول إلى الوثائق الإدارية.)",,1.0,
+question,"Une candidate voilée postule dans un supermarché ; l’employeur la rejette pour ce motif. Est-ce légal ? (مرشحة محجبة تتقدم لوظيفة في سوبر ماركت؛ صاحب العمل يرفضها لهذا السبب. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, car l’employeur refuse tous les signes religieux. (نعم، لأن صاحب العمل يرفض كل الرموز الدينية.)",,0.0,
+answer,"Oui, si les clients sont gênés. (نعم، إذا انزعج الزبائن.)",,0.0,
+answer,"Non, c’est une discrimination fondée sur la religion. (لا، هذا تمييز على أساس الدين.)",,1.0,
+question,"Un homme se présente à la mairie pour une démarche administrative et refuse de s'adresser à une agente publique en raison de son sexe. Quelle est la marche à suivre pour l'agente ? (رجل يأتي إلى البلدية لاتخاذ إجراء إداري ويرفض التحدث إلى موظفة عامة بسبب جنسها. ما هي الإجراءات التي يجب على الموظفة اتباعها؟)",,,lvl1
+answer,"L'agente doit lui rappeler la loi de 1905 sur la laïcité et refuser d'effectuer la démarche. (يجب على الموظفة تذكيره بقانون 1905 حول العلمانية ورفض القيام بالإجراء.)",,0.0,
+answer,"L'agente doit l'informer que le service public ne peut être rendu qu'au guichet qu'il refuse, et que son refus est une rupture du principe d'égalité. (يجب على الموظفة إبلاغه بأن الخدمة العامة لا يمكن تقديمها إلا في الشباك الذي يرفضه، وأن رفضه يعد خرقاً لمبدأ المساواة.)",,1.0,
+answer,"L'agente doit demander à un collègue masculin d'assurer le service pour éviter un conflit. (يجب على الموظفة أن تطلب من زميل ذكر تقديم الخدمة لتجنب الصراع.)",,0.0,
+question,"Un automobiliste voit une voiture accidentée mais poursuit sa route « pour ne pas être en retard ». Quelle attitude conforme ? (سائق يرى سيارة تعرضت لحادث لكنه يواصل طريقه ""لكي لا يتأخر"". ما هو السلوك المطابق؟)",,,lvl1
+answer,"Filmer et poster la vidéo. (تصوير الفيديو ونشره.)",,0.0,
+answer,"S’arrêter et prévenir les secours. (التوقف وتنبيه الإسعاف.)",,1.0,
+answer,"Poursuivre son trajet. (مواصلة رحلته.)",,0.0,
+question,"Une commune refuse de proposer un hébergement d’urgence à une famille sans abri en hiver. Est-ce conforme ? (بلدية ترفض تقديم سكن طوارئ لعائلة بلا مأوى في الشتاء. هل هذا مطابق؟)",,,lvl1
+answer,"Non, toute personne sans abri doit pouvoir accéder à un hébergement d’urgence. (لا، يجب أن يكون كل شخص بلا مأوى قادراً على الحصول على سكن طوارئ.)",,1.0,
+answer,"Oui, si la famille vient d’une autre région. (نعم، إذا كانت العائلة تأتي من منطقة أخرى.)",,0.0,
+answer,"Oui, si les centres sont pleins. (نعم، إذا كانت المراكز ممتلئة.)",,0.0,
+question,"Une entreprise déverse des solvants dans un ruisseau pour “économiser le traitement”. Quelle conséquence ? (شركة تفرغ مذيبات في جدول مائي ""لتوفير تكاليف المعالجة"". ما هي العواقب؟)",,,lvl1
+answer,"Toléré s’il s’agit d’une petite quantité. (مسموح به إذا كانت كمية صغيرة.)",,0.0,
+answer,"Autorisé sur terrain privé. (مسموح به في أرض خاصة.)",,0.0,
+answer,"C’est une infraction environnementale grave. (هذه مخالفة بيئية خطيرة.)",,1.0,
+question,"Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? (مواطنة لديها وقت فراغ وترغب في المشاركة في الحياة المحلية. أي مبادرة تجسد الأخوة؟)",,,lvl1
+answer,"S’engager comme bénévole dans une association. (الالتزام كمتطوعة في جمعية.)",,1.0,
+answer,"Aider seulement contre rémunération. (المساعدة فقط مقابل أجر.)",,0.0,
+answer,"Attendre que l’État fasse tout. (انتظار الدولة لتفعل كل شيء.)",,0.0,
+question,"Un utilisateur partage un faux message d’alerte “terroriste”. Risque-t-il une sanction ? (مستخدم يشارك رسالة تنبيه ""إرهابية"" كاذبة. هل يواجه عقوبة؟)",,,lvl1
+answer,"Oui, la diffusion de fausses nouvelles est punie. (نعم، نشر الأخبار الكاذبة يعاقب عليه القانون.)",,1.0,
+answer,"Non, s’il supprime après. (لا، إذا قام بحذفه لاحقاً.)",,0.0,
+answer,"Oui, seulement si cela devient viral. (نعم، فقط إذا انتشر بشكل واسع.)",,0.0,
+question,"Un locataire organise des barbecues collectifs sur le balcon malgré l’interdiction de la copropriété. Est-ce légal ? (مستأجر ينظم حفلات شواء جماعية على الشرفة رغم منع الملكية المشتركة. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, s’il invite les voisins. (نعم، إذا دعا الجيران.)",,0.0,
+answer,"Oui, si ce n’est pas fréquent. (نعم، إذا لم يكن ذلك متكرراً.)",,0.0,
+answer,"Non, le règlement intérieur s’impose à tous. (لا، اللوائح الداخلية تفرض على الجميع.)",,1.0,
+question,"Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? (شخص يرمي علبة صفيح في سلة المهملات المخصصة لـ ""الورق"". هل هذا خطير؟)",,,lvl1
+answer,"Non, c’est toujours mieux que par terre. (لا، إنه دائماً أفضل من رميها على الأرض.)",,0.0,
+answer,"Oui, seulement si quelqu’un la voit. (نعم، فقط إذا رآه شخص ما.)",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. (نعم، الفرز غير الصحيح يمنع إعادة التدوير.)",,1.0,
+question,"Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ? (مواطن يريد اختيار ما تستخدم فيه ضرائبه (المدارس وليس الجيش). هل هذا ممكن؟)",,,lvl1
+answer,"Oui, sur demande à la mairie. (نعم، بناءً على طلب للبلدية.)",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. (لا، الضريبة جماعية وغير مخصصة بشكل فردي.)",,1.0,
+answer,"Oui, en cochant la bonne case. (نعم، بتأشير المربع الصحيح.)",,0.0,
+question,"Une entreprise paie différemment deux salariés pour le même poste et la même ancienneté. Quelle règle s’applique ? (شركة تدفع أجراً مختلفاً لموظفين في نفس المنصب وبنفس الأقدمية. ما هي القاعدة التي تنطبق؟)",,,lvl1
+answer,"La différence est normale si les employés sont de sexe différent. (الفرق طبيعي إذا كان الموظفون من جنسين مختلفين.)",,0.0,
+answer,"L’entreprise peut fixer librement les salaires sans justification. (يمكن للشركة تحديد الرواتب بحرية دون تبرير.)",,0.0,
+answer,"L’égalité de rémunération pour un travail égal. (المساواة في الأجر لعمل متساوٍ.)",,1.0,
+question,"Sur un forum d'actualité, vous laissez un commentaire anonyme très agressif visant une personne publique, mais sans diffamation. Votre commentaire est-il protégé par la liberté d'expression ? (في منتدى إخباري، تترك تعليقاً مجهولاً عدوانياً للغاية يستهدف شخصية عامة، ولكن دون تشهير. هل تعليقك محمي بحرية التعبير؟)",,,lvl1
+answer,"Non, l'anonymat ne protège pas contre l'injure publique, et l'hébergeur pourra être contraint de communiquer votre identité. (لا، المجهولية لا تحمي من الإهانة العلنية، ويمكن إجبار المضيف على الكشف عن هويتك.)",,1.0,
+answer,"Oui, car la liberté d'expression en ligne est totale tant qu'on utilise un pseudonyme. (نعم، لأن حرية التعبير على الإنترنت كاملة طالما نستخدم اسماً مستعاراً.)",,0.0,
+answer,"Oui, car seule la presse est soumise à des lois strictes sur la diffamation et l'injure. (نعم، لأن الصحافة فقط هي التي تخضع لقوانين صارمة بشأن التشهير والإهانة.)",,0.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? (يتم فحص سائق وتبين أن لديه 0.7 غرام من الكحول لكل لتر من الدم. ما هو الرد الصحيح؟)",,,lvl1
+answer,"Tenter de négocier sur place. (محاولة التفاوض في المكان.)",,0.0,
+answer,"Fuir le contrôle. (الهروب من الفحص.)",,0.0,
+answer,"Reconnaître l’infraction et accepter les sanctions prévues par la loi. (الاعتراف بالمخالفة وقبول العقوبات التي ينص عليها القانون.)",,1.0,
+question,"Un collectif veut manifester demain sans déclaration préalable. Quelle démarche conforme ? (مجموعة تريد التظاهر غداً دون إعلان مسبق. ما هو الإجراء المطابق؟)",,,lvl1
+answer,"Bloquer la circulation pour attirer l’attention. (قطع حركة المرور لجذب الانتباه.)",,0.0,
+answer,"Manifester librement sans formalité. (التظاهر بحرية دون إجراءات رسمية.)",,0.0,
+answer,"Déclarer la manifestation et respecter l’ordre public. (الإعلان عن المظاهرة واحترام النظام العام.)",,1.0,
+question,"Un propriétaire refuse de louer à un couple étranger malgré un dossier solide. Est-ce autorisé ? (صاحب عقار يرفض التأجير لزوجين أجنبيين رغم وجود ملف قوي. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, car c’est son logement. (نعم، لأنه مسكنه.)",,0.0,
+answer,"Non, c’est une discrimination liée à l’origine. (لا، هذا تمييز مرتبط بالأصل.)",,1.0,
+answer,"Oui, si le loyer est augmenté. (نعم، إذا تم رفع الإيجار.)",,0.0,
+question,"Un dessinateur publie une caricature jugée offensante par un groupe religieux qui porte plainte pour blasphème. Quelle règle s’applique ? (رسام ينشر كاريكاتيراً اعتبرته مجموعة دينية مسيئاً وقدمت شكوى بتهمة التجديف. ما هي القاعدة التي تنطبق؟)",,,lvl1
+answer,"Le juge peut condamner pour offense aux croyants. (يمكن للقاضي الإدانة بتهمة الإساءة للمؤمنين.)",,0.0,
+answer,"Le blasphème n’est pas un délit en France ; seule l’incitation à la haine est punie. (التجديف ليس جريمة في فرنسا؛ فقط التحريض على الكراهية يعاقب عليه.)",,1.0,
+answer,"Toute moquerie de religion est interdite. (أي سخرية من الدين محظورة.)",,0.0,
+question,"Un passager monte dans le train sans billet “parce que tout le monde le fait”. Quelle attitude civique ? (راكب يصعد إلى القطار بدون تذكرة ""لأن الجميع يفعل ذلك"". ما هو السلوك المدني؟)",,,lvl1
+answer,"Se cacher du contrôleur. (الاختباء من المفتش.)",,0.0,
+answer,"Argumenter sur le prix trop élevé. (الاحتجاج على السعر المرتفع للغاية.)",,0.0,
+answer,"Acheter un billet et respecter les règles de transport. (شراء تذكرة واحترام قواعد النقل.)",,1.0,
+question,"Un donneur est refusé parce qu’il est homosexuel. Est-ce légal ? (يتم رفض متبرع لأنه مثلي الجنس. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, pour des raisons morales. (نعم، لأسباب أخلاقية.)",,0.0,
+answer,"Non, les critères doivent reposer uniquement sur la sécurité sanitaire. (لا، يجب أن تعتمد المعايير فقط على السلامة الصحية.)",,1.0,
+answer,"Oui, car le personnel choisit librement. (نعم، لأن الموظفين يختارون بحرية.)",,0.0,
+question,"Un contribuable refuse de payer ses impôts en disant “je n’utilise pas les services publics”. Est-ce recevable ? (دافع ضرائب يرفض دفع ضرائبه قائلاً ""أنا لا أستخدم الخدمات العامة"". هل هذا مقبول؟)",,,lvl1
+answer,"Oui, s’il n’a pas d’enfants scolarisés. (نعم، إذا لم يكن لديه أطفال في المدرسة.)",,0.0,
+answer,"Non, l’impôt finance le fonctionnement collectif. (لا، الضريبة تمول الأداء الجماعي.)",,1.0,
+answer,"Oui, s’il est né à l’étranger. (نعم، إذا وُلد في الخارج.)",,0.0,
+question,"Un citoyen laisse les déjections de son chien sur le trottoir. Quelle règle s’applique ? (مواطن يترك فضلات كلبه على الرصيف. ما هي القاعدة التي تنطبق؟)",,,lvl1
+answer,"Laisser sur place, « la pluie nettoiera ». (تركها في مكانها، ""المطر سينظفها"".)",,0.0,
+answer,"Couvrir avec du sable. (تغطيتها بالرمل.)",,0.0,
+answer,"Ramasser et jeter dans les poubelles prévues. (جمعها ورميها في سلال المهملات المخصصة.)",,1.0,
+question,"Un candidat à l'embauche se voit refuser le poste car il mentionne sur son CV qu'il est délégué syndical dans son entreprise actuelle. De quoi l'entreprise se rend-elle coupable ? (مرشح للوظيفة يُرفض منصبه لأنه ذكر في سيرته الذاتية أنه مندوب نقابي في شركته الحالية. بماذا تذنب الشركة؟)",,,lvl1
+answer,"Le refus est légitime, car l'employeur peut juger que l'engagement syndical nuit à la productivité. (الرفض شرعي، لأن صاحب العمل يمكنه تقدير أن الالتزام النقابي يضر بالإنتاجية.)",,0.0,
+answer,"Discrimination syndicale, un délit sévèrement puni par le Code du travail et le Code pénal. (تمييز نقابي، وهي جريمة يعاقب عليها القانون بشدة في قانون العمل وقانون العقوبات.)",,1.0,
+answer,"Rupture d'égalité de traitement, mais qui ne constitue pas une discrimination punissable. (خرق للمساواة في المعاملة، لكنه لا يشكل تمييزاً يعاقب عليه القانون.)",,0.0,
+question,"Un usager malentendant se présente à un guichet administratif sans interprète en langue des signes. L'agent public doit-il lui fournir une aide spécifique ? (مستخدم ضعيف السمع يأتي إلى شباك إداري دون مترجم لغة إشارة. هل يجب على الموظف العام تقديم مساعدة محددة له؟)",,,lvl1
+answer,"Non, l'usager doit se présenter avec les moyens nécessaires à sa compréhension. (لا، يجب على المستخدم الحضور بالوسائل اللازمة لفهمه.)",,0.0,
+answer,"L'administration a une obligation d'adaptation et de compensation pour garantir l'égalité d'accès au service pour les personnes handicapées. (الإدارة ملزمة بالتكيف والتعويض لضمان المساواة في الحصول على الخدمة للأشخاص ذوي الإعاقة.)",,1.0,
+answer,"Non, car les services publics n'ont pas l'obligation d'engager des interprètes. (لا، لأن الخدمات العامة ليست ملزمة بتوظيف مترجمين.)",,0.0,
+question,"Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? (سكان يوقعون عريضة لإنشاء مسار للدراجات. ما هو الأثر القانوني؟)",,,lvl1
+answer,"Elle crée immédiatement la piste. (إنها تنشئ المسار فوراً.)",,0.0,
+answer,"Elle remplace un vote municipal. (إنها تحل محل تصويت البلدية.)",,0.0,
+answer,"Elle peut être transmise à la collectivité mais ne l’oblige pas. (يمكن إرسالها إلى الجماعة المحلية ولكنها لا تلزمها.)",,1.0,
+question,"Un citoyen veut choisir à quoi sert son impôt (écoles mais pas armée). Est-ce possible ? (مواطن يريد اختيار ما تستخدم فيه ضرائبه (المدارس وليس الجيش). هل هذا ممكن؟)",,,lvl1
+answer,"Oui, en cochant la bonne case. (نعم، بتأشير المربع الصحيح.)",,0.0,
+answer,"Oui, sur demande à la mairie. (نعم، بناءً على طلب للبلدية.)",,0.0,
+answer,"Non, l’impôt est collectif et non affecté individuellement. (لا، الضريبة جماعية وغير مخصصة بشكل فردي.)",,1.0,
+question,"Un salarié malade reçoit une lettre de licenciement pour absence médicale justifiée. Est-ce légal ? (موظف مريض يتلقى خطاب فصل بسبب غياب طبي مبرر. هل هذا قانوني؟)",,,lvl1
+answer,"Non, le licenciement fondé sur l’état de santé est discriminatoire. (لا، الفصل القائم على الحالة الصحية هو تمييز.)",,1.0,
+answer,"Oui, dès qu’il dépasse une semaine d’arrêt. (نعم، بمجرد أن يتجاوز أسبوعاً من التوقف.)",,0.0,
+answer,"Oui, s’il est remplacé par quelqu’un de plus disponible. (نعم، إذا تم استبداله بشخص أكثر تفرغاً.)",,0.0,
+question,"Lors d'un entretien d'embauche, un recruteur vous pose une question sur votre âge sans lien avec les compétences requises. Quelle est votre option de réponse la plus appropriée, du point de vue légal ? (أثناء مقابلة عمل، يطرح عليك مسؤول التوظيف سؤالاً حول عمرك لا علاقة له بالمهارات المطلوبة. ما هو خيار الرد الأنسب من وجهة النظر القانونية؟)",,,lvl1
+answer,"Rappeler poliment que l'âge est un critère de discrimination interdit et demander en quoi cette question est pertinente pour le poste. (التذكير بأدب بأن العمر معيار تمييز محظور والسؤال عن مدى صلة هذا السؤال بالمنصب.)",,1.0,
+answer,"Répondre que le Code du travail interdit de poser cette question, sous peine d'annulation de l'entretien. (الرد بأن قانون العمل يمنع طرح هذا السؤال، تحت طائلة إلغاء المقابلة.)",,0.0,
+answer,"Mentir sur son âge pour éviter d'être pénalisé. (الكذب بشأن العمر لتجنب التعرض للضرر.)",,0.0,
+question,"Au collège, une élève se plaint de moqueries et d'insultes homophobes de la part d'autres élèves. Que doit faire l'équipe pédagogique ? (في المدرسة الإعدادية، تشتكي طالبة من سخرية وإهانات معادية للمثليين من قبل طلاب آخرين. ماذا يجب أن يفعل الفريق التربوي؟)",,,lvl1
+answer,"L'équipe pédagogique doit engager des mesures disciplinaires contre les auteurs, car l'homophobie constitue un manquement grave aux principes de la République et du vivre-ensemble. (يجب على الفريق التربوي اتخاذ تدابير تأديبية ضد الجناة، لأن رهاب المثلية يشكل انتهاكاً خطيراً لمبادئ الجمهورية والعيش المشترك.)",,1.0,
+answer,"L'équipe pédagogique doit tolérer l'incident, car la liberté d'expression des élèves est protégée. (يجب على الفريق التربوي التسامح مع الحادث، لأن حرية التعبير للطلاب محمية.)",,0.0,
+answer,"L'équipe doit se contenter d'un simple rappel à l'ordre, car ce sont des affaires privées qui ne relèvent pas du domaine scolaire. (يجب على الفريق الاكتفاء بتذكير بسيط بالنظام، لأن هذه شؤون خاصة لا تقع ضمن النطاق المدرسي.)",,0.0,
+question,"Des adolescents détériorent les bancs du parc public. Quelle réaction citoyenne ? (مراهقون يتلفون مقاعد الحديقة العامة. ما هو رد الفعل المدني؟)",,,lvl1
+answer,"Considérer cela comme “jeu d’enfant”. (اعتبار ذلك ""لعب أطفال"".)",,0.0,
+answer,"Filmer et diffuser sur internet pour le buzz. (التصوير والنشر على الإنترنت من أجل الشهرة.)",,0.0,
+answer,"Signaler l’acte et sensibiliser au respect des biens communs. (الإبلاغ عن الفعل والتوعية باحترام الممتلكات العامة.)",,1.0,
+question,"Dans une entreprise, le règlement intérieur interdit tout signe religieux pour des raisons de sécurité. Est-ce légal ? (في شركة، تمنع اللوائح الداخلية أي رموز دينية لأسباب أمنية. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, seulement pour certaines religions. (نعم، فقط لبعض الأديان.)",,0.0,
+answer,"Oui, si la restriction est justifiée par la nature du travail. (نعم، إذا كان القيد مبرراً بطبيعة العمل.)",,1.0,
+answer,"Non, toute interdiction est discriminatoire. (لا، أي حظر هو تمييزي.)",,0.0,
+question,"Une personne jette une canette dans la poubelle “papier”. Est-ce grave ? (شخص يرمي علبة صفيح في سلة المهملات المخصصة لـ ""الورق"". هل هذا خطير؟)",,,lvl1
+answer,"Non, c’est toujours mieux que par terre. (لا، إنه دائماً أفضل من رميها على الأرض.)",,0.0,
+answer,"Oui, le tri incorrect empêche le recyclage. (نعم، الفرز غير الصحيح يمنع إعادة التدوير.)",,1.0,
+answer,"Oui, seulement si quelqu’un la voit. (نعم، فقط إذا رآه شخص ما.)",,0.0,
+question,"Un site collecte les coordonnées d’usagers sans autorisation. Est-ce légal ? (موقع يجمع بيانات المستخدمين دون إذن. هل هذا قانوني؟)",,,lvl1
+answer,"Oui, si c’est pour la publicité. (نعم، إذا كان من أجل الإعلانات.)",,0.0,
+answer,"Non, il faut le consentement clair de la personne. (لا، يجب الحصول على موافقة صريحة من الشخص.)",,1.0,
+answer,"Oui, si les données restent en Europe. (نعم، إذا ظلت البيانات في أوروبا.)",,0.0,
+question,"Un voyageur transporte une arme blanche dans le métro “pour se défendre”. Est-ce légal ? (مسافر يحمل سلاحاً أبيض في المترو ""للدفاع عن نفسه"". هل هذا قانوني؟)",,,lvl1
+answer,"Oui, s’il ne s’en sert pas. (نعم، إذا لم يستخدمه.)",,0.0,
+answer,"Non, le port d’arme sans motif légitime est interdit. (لا، حمل السلاح دون سبب مشروع محظور.)",,1.0,
+answer,"Oui, si elle reste cachée. (نعم، إذا ظل مخفياً.)",,0.0,
+question,"Vous êtes témoin d'une violente dispute de couple dans la rue. L'un des partenaires pousse l'autre violemment, sans qu'il ne chute. N'intervenant pas, pouvez-vous être accusé de non-assistance à personne en danger ? (أنت شاهد على شجار عنيف بين زوجين في الشارع. يقوم أحد الشريكين بدفع الآخر بعنف، دون أن يسقط. إذا لم تتدخل، هل يمكن اتهامك بعدم تقديم المساعدة لشخص في خطر؟)",,,lvl1
+answer,"Non, car le délit exige que la personne soit confrontée à un péril certain et immédiat, ce qui n'est pas le cas ici (pas de chute ou de blessure apparente grave). (لا، لأن الجريمة تتطلب أن يواجه الشخص خطراً مؤكداً وفورياً، وهو ما ليس عليه الحال هنا (لا يوجد سقوط أو إصابة ظاهرة خطيرة).)",,1.0,
+answer,"Oui, car le simple fait de ne pas alerter les secours ou d'intervenir est suffisant pour le délit de non-assistance. (نعم، لأن مجرد عدم تنبيه الإسعاف أو التدخل كافٍ لجريمة عدم تقديم المساعدة.)",,0.0,
+answer,"Oui, car la loi oblige à intervenir dès qu'une violence est constatée en public. (نعم، لأن القانون يلزم بالتدخل بمجرد ملاحظة عنف في مكان عام.)",,0.0,
+question,"Lors d’un spectacle, un humoriste se moque d’un groupe religieux sans appel à la haine. Est-ce autorisé ? (خلال عرض، يسخر كوميدي من مجموعة دينية دون دعوة للكراهية. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, la satire est protégée si elle ne vise pas à humilier. (نعم، السخرية محمية إذا لم تكن تهدف إلى الإهانة.)",,1.0,
+answer,"Non, on ne peut jamais plaisanter sur la religion. (لا، لا يمكن أبداً المزاح حول الدين.)",,0.0,
+answer,"Oui, même si cela provoque la violence. (نعم، حتى لو تسبب ذلك في العنف.)",,0.0,
+question,"Un employeur lit les mails personnels d’un salarié sur son ordinateur professionnel. Est-ce autorisé ? (صاحب عمل يقرأ رسائل البريد الإلكتروني الشخصية لموظف على جهاز كمبيوتر العمل. هل هذا مسموح به؟)",,,lvl1
+answer,"Oui, car le matériel appartient à l’entreprise. (نعم، لأن المعدات تعود للشركة.)",,0.0,
+answer,"Non, les messages identifiés comme personnels sont protégés. (لا، الرسائل المحددة كشخصية محمية.)",,1.0,
+answer,"Oui, s’il ne les partage pas. (نعم، إذا لم يشاركها.)",,0.0,
+question,"Une citoyenne dispose de temps libre et souhaite s’impliquer dans la vie locale. Quelle initiative illustre la fraternité ? (مواطنة لديها وقت فراغ وترغب في المشاركة في الحياة المحلية. أي مبادرة تجسد الأخوة؟)",,,lvl1
+answer,"Aider seulement contre rémunération. (المساعدة فقط مقابل أجر.)",,0.0,
+answer,"S’engager comme bénévole dans une association. (الالتزام كمتطوعة في جمعية.)",,1.0,
+answer,"Attendre que l’État fasse tout. (انتظار الدولة لتفعل كل شيء.)",,0.0,
+question,"Un citoyen apprend un crime grave et garde le silence “pour éviter des ennuis”. Est-ce légal ? (مواطن يعلم بجريمة خطيرة ويلتزم الصمت ""لتجنب المتاعب"". هل هذا قانوني؟)",,,lvl1
+answer,"Oui, si le crime ne le concerne pas. (نعم، إذا كانت الجريمة لا تخصه.)",,0.0,
+answer,"Oui, s’il ne connaît pas les auteurs. (نعم، إذا كان لا يعرف الجناة.)",,0.0,
+answer,"Non, la non-dénonciation de crime est punie par la loi. (لا، عدم التبليغ عن جريمة يعاقب عليه القانون.)",,1.0,
+question,"Un conducteur est contrôlé avec 0,7 g d’alcool par litre de sang. Quelle est la bonne réaction ? (يتم فحص سائق وتبين أن لديه 0.7 غرام من الكحول لكل لتر من الدم. ما هو الرد الصحيح؟)",,,lvl1
+answer,"Tenter de négocier sur place. (محاولة التفاوض في المكان.)",,0.0,
+answer,"Fuir le contrôle. (الهروب من الفحص.)",,0.0,
+answer,"Reconnaître l’infraction et accepter les sanctions prévues par la loi. (الاعتراف بالمخالفة وقبول العقوبات التي ينص عليها القانون.)",,1.0,
+question,"Des habitants signent une pétition pour créer une piste cyclable. Effet juridique ? (سكان يوقعون عريضة لإنشاء مسار للدراجات. ما هو الأثر القانوني؟)",,,lvl1
+answer,"Elle peut être transmise à la collectivité mais ne l’oblige pas. (يمكن إرسالها إلى الجماعة المحلية ولكنها لا تلزمها.)",,1.0,
+answer,"Elle crée immédiatement la piste. (إنها تنشئ المسار فوراً.)",,0.0,
+answer,"Elle remplace un vote municipal. (إنها تحل محل تصويت البلدية.)",,0.0,
+question,"Des habitants veulent assister à un conseil municipal. Le maire refuse l’accès du public. Est-ce conforme ? (سكان يريدون حضور اجتماع مجلس بلدي. العمدة يرفض دخول الجمهور. هل هذا مطابق؟)",,,lvl1
+answer,"Oui, si la salle est petite. (نعم، إذا كانت القاعة صغيرة.)",,0.0,
+answer,"Non, les séances du conseil municipal sont publiques sauf exception prévue par la loi. (لا، جلسات المجلس البلدي علنية إلا في استثناءات ينص عليها القانون.)",,1.0,
+answer,"Oui, le maire décide librement. (نعم، العمدة يقرر بحرية.)",,0.0,

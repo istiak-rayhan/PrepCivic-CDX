@@ -1,0 +1,449 @@
+Type,Text,Placeholder,IsCorrect,Level
+question,Comment s’appelle la Constitution actuelle de la France ? [د فرانسې اوسنی اساسي قانون څه نومېږي؟],,,lvl1
+answer,La Constitution de 1946 [د ۱۹۴۶ کال اساسي قانون],,0.0,
+answer,La Constitution de la Ve République [د پنځم جمهوریت اساسي قانون],,1.0,
+answer,La Charte des droits fondamentaux [د بنسټیزو حقونو منشور],,0.0,
+question,Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ? [هغه متن څه نومېږي چې په فرانسه کې د مېشتو کسانو حقونه او دندې بیانوي؟],,,lvl1
+answer,Le Code du travail [د کار قانون],,0.0,
+answer,La Charte des droits fondamentaux de l'Union européenne [د اروپایي ټولنې د بنسټیزو حقونو منشور],,0.0,
+answer,La Déclaration des droits de l'homme et du citoyen [د انسان او تبعه د حقونو اعلامیه],,1.0,
+question,"Concernant les droits individuels, quelle proposition est correcte ? [د فردي حقونو په اړه، کوم وړاندیز سم دی؟]",,,lvl1
+answer,Ils sont illimités. [دوی بې حده (نامحدود) دي.],,0.0,
+answer,Ils sont subordonnés aux intérêts religieux. [دوی مذهبي ګټو ته تابع دي.],,0.0,
+answer,"Ils sont limités par la loi et ne doivent pas nuire aux autres. [دوی د قانون لخوا محدود دي او باید نورو ته زیان ونه رسوي.]",,1.0,
+question,De quelle année date la Déclaration des droits de l’homme et du citoyen ? [د انسان او تبعه د حقونو اعلامیه د کوم کال ده؟],,,lvl1
+answer,1958 [۱۹۵۸],,0.0,
+answer,1789 [۱۷۸۹],,1.0,
+answer,1905 [۱۹۰۵],,0.0,
+question,Lequel de ces droits est un droit fondamental ? [له دې حقونو څخه کوم یو بنسټیز حق دی؟],,,lvl1
+answer,Le droit d'ignorer la loi. [د قانون څخه د سترګې پټولو حق.],,0.0,
+answer,Le droit de propriété collective. [د ډله ییز ملکیت حق.],,0.0,
+answer,Le droit d'aller et venir (liberté de circulation). [د تګ او راتګ حق (د ګرځېدو ازادي).],,1.0,
+question,"Parmi ces textes, lequel garantit les droits et libertés en France ? [په دې متنونو کې، کوم یو په فرانسه کې حقونه او ازادۍ تضمینوي؟]",,,lvl1
+answer,Le Code de la route [د ترافیکو قانون],,0.0,
+answer,La Constitution [اساسي قانون],,1.0,
+answer,Le règlement intérieur d'une entreprise [د یو شرکت کورني مقررات],,0.0,
+question,Qui a écrit la Déclaration des droits de la femme et de la citoyenne en 1791 ? [په ۱۷۹۱ کال کې د ښځو او ښځینه اتباعو د حقونو اعلامیه چا لیکلې؟],,,lvl1
+answer,Marie Curie [ماري کوري],,0.0,
+answer,Olympe de Gouges [اولمپ دي ګوژ],,1.0,
+answer,Simone Veil [سیمون ویل],,0.0,
+question,Que signifie le principe de l'égalité devant la loi ? [د قانون پر وړاندې د برابرۍ د اصل مانا څه ده؟],,,lvl1
+answer,Chaque citoyen a les mêmes droits et devoirs. [هر تبعه ورته حقونه او دندې لري.],,1.0,
+answer,Les riches ont plus de droits. [بډایه خلک ډیر حقونه لري.],,0.0,
+answer,Les lois changent selon les personnes. [قوانین د اشخاصو په پام کې نیولو سره بدلیږي.],,0.0,
+question,Quel texte protège la liberté d'expression en France ? [په فرانسه کې کوم متن د بیان ازادي خوندي کوي؟],,,lvl1
+answer,Le dictionnaire [قاموس],,0.0,
+answer,La Déclaration des droits de l'homme et du citoyen [د انسان او تبعه د حقونو اعلامیه],,1.0,
+answer,Le livret de famille [د کورنۍ کتابچه],,0.0,
+question,Qu'est-ce que le droit de vote ? [د رایې ورکولو حق څه شی دی؟],,,lvl1
+answer,Le droit de choisir ses représentants. [د خپلو استازو د ټاکلو حق.],,1.0,
+answer,Le droit de ne pas payer d'impôts. [د مالیاتو نه ورکولو حق.],,0.0,
+answer,Le droit de voyager sans passeport. [بې له پاسپورټه د سفر کولو حق.],,0.0,
+question,"En France, qui peut voter aux élections nationales ? [په فرانسه کې، څوک کولی شي په ملي ټاکنو کې رایه ورکړي؟]",,,lvl1
+answer,Tous les résidents. [ټول اوسېدونکي.],,0.0,
+answer,Les citoyens français majeurs. [هغه فرانسوي اتباع چې قانوني عمر ته رسیدلي وي.],,1.0,
+answer,Seuls les propriétaires terriens. [یوازې د ځمکې خاوندان.],,0.0,
+question,Qu'est-ce que la laïcité en France ? [په فرانسه کې لایسیت (بې طرفي) څه شی دی؟],,,lvl1
+answer,L'obligation de pratiquer une religion. [د مذهب د عملي کولو مکلفیت.],,0.0,
+answer,La neutralité de l'État vis-à-vis des religions. [د مذهبونو په وړاندې د دولت بې طرفي.],,1.0,
+answer,L'interdiction de toutes les religions. [د ټولو مذهبونو منع کول.],,0.0,
+question,La liberté de conscience permet de : [د وجدان ازادي اجازه ورکوي چې:],,,lvl1
+answer,Croire ou ne pas croire en une religion. [په یو مذهب باور ولرئ یا باور ونه لرئ.],,1.0,
+answer,Imposer sa religion aux autres. [خپل مذهب په نورو وتپئ.],,0.0,
+answer,Ne pas respecter les lois de la République. [د جمهوریت قوانینو ته درناوی ونه کړئ.],,0.0,
+question,Quel est un devoir du citoyen français ? [د فرانسوي تبعه یوه دنده څه ده؟],,,lvl1
+answer,Participer à la défense du pays si nécessaire. [که اړتیا وي د هیواد په دفاع کې برخه اخیستل.],,1.0,
+answer,Avoir une voiture. [موټر لرل.],,0.0,
+answer,Partir en vacances chaque année. [هر کال په رخصتۍ تلل.],,0.0,
+question,"Le respect de la loi est : [د قانون درناوی دی:]",,,lvl1
+answer,Facultatif. [اختیاري.],,0.0,
+answer,Obligatoire pour tous. [د ټولو لپاره فرض/اجباري.],,1.0,
+answer,Réservé aux policiers. [یوازې د پولیسو لپاره.],,0.0,
+question,Quel droit permet de se réunir pacifiquement ? [کوم حق د سوله ییزې غونډې اجازه ورکوي؟],,,lvl1
+answer,Le droit de grève. [د کاربندیز (اعتصاب) حق.],,0.0,
+answer,La liberté de réunion. [د غونډې ازادي.],,1.0,
+answer,Le droit au secret. [د محرمیت حق.],,0.0,
+question,"La fraternité, c'est : [ورورګلوي دا ده:]",,,lvl1
+answer,La haine des autres. [له نورو څخه کرکه.],,0.0,
+answer,"La solidarité entre les citoyens. [د اتباعو ترمنځ پیوستون.]",,1.0,
+answer,L'obligation de vivre en famille. [په کورنۍ کې د ژوند کولو مکلفیت.],,0.0,
+question,Peut-on être discriminé pour ses opinions politiques ? [ایا څوک د خپلو سیاسي نظرونو له امله له تبعیض سره مخ کیدی شي؟],,,lvl1
+answer,"Oui, c'est normal. [هو، دا عادي خبره ده.]",,0.0,
+answer,"Non, c'est interdit par la loi. [نه، دا د قانون لخوا منع ده.]",,1.0,
+answer,Seulement pendant les élections. [یوازې د ټاکنو پر مهال.],,0.0,
+question,La liberté de la presse signifie que : [د مطبوعاتو د ازادۍ مانا دا ده چې:],,,lvl1
+answer,Les journalistes peuvent écrire librement dans le respect de la loi. [خبریالان کولی شي د قانون په رڼا کې په آزاده توګه ولیکي.],,1.0,
+answer,Le gouvernement décide de ce qui est publié. [حکومت پریکړه کوي چې څه باید خپاره شي.],,0.0,
+answer,Tous les journaux doivent être gratuits. [ټولې ورځپاڼې باید وړیا وي.],,0.0,
+question,"Le droit de propriété est : [د ملکیت حق دی:]",,,lvl1
+answer,Un droit fondamental. [یو بنسټیز حق.],,1.0,
+answer,Un droit réservé à l'État. [هغه حق چې یوازې د دولت لپاره ځانګړی شوی دی.],,0.0,
+answer,Interdit en France. [په فرانسه کې منع دی.],,0.0,
+question,"La protection de l'environnement est : [د چاپیریال ساتنه ده:]",,,lvl1
+answer,Uniquement l'affaire des scientifiques. [یوازې د ساینس پوهانو کار.],,0.0,
+answer,Un devoir pour chaque citoyen. [د هر تبعه دنده.],,1.0,
+answer,Une option inutile. [یو بې ګټې انتخاب.],,0.0,
+question,Un citoyen peut-il contester une décision de l'administration ? [ایا یو تبعه کولی شي د ادارې پریکړه ننګوي (اعتراض پرې وکړي)؟],,,lvl1
+answer,"Non, l'administration a toujours raison. [نه، اداره تل سمه وي.]",,0.0,
+answer,"Oui, devant un tribunal administratif. [هو، په اداري محکمه کې.]",,1.0,
+answer,Seulement s'il connaît le maire. [یوازې که هغه ښاروال پیژني.],,0.0,
+question,"La sécurité est : [امنیت دی:]",,,lvl1
+answer,Un droit et une responsabilité collective. [یو حق او ډله ییز مسؤلیت.],,1.0,
+answer,La responsabilité exclusive de la police. [د پولیسو ځانګړی مسؤلیت.],,0.0,
+answer,Inutile dans une démocratie. [په ډیموکراسۍ کې بې ګټې.],,0.0,
+question,"L'accès à l'éducation est : [زدکړو ته لاسرسی دی:]",,,lvl1
+answer,Un droit pour tous les enfants. [د ټولو ماشومانو حق.],,1.0,
+answer,Réservé aux familles riches. [د شتمنو کورنیو لپاره ځانګړی شوی.],,0.0,
+answer,Facultatif jusqu'à 16 ans. [تر ۱۶ کلنۍ پورې اختیاري.],,0.0,
+question,La liberté de culte permet de : [د عبادت ازادي اجازه ورکوي چې:],,,lvl1
+answer,Pratiquer la religion de son choix. [د خپلې خوښې مذهب عملي کړئ.],,1.0,
+answer,Forcer les autres à changer de religion. [نور مذهب بدلولو ته اړ کول.],,0.0,
+answer,Ignorer les lois civiles. [مدني قوانینو ته پام نه کول.],,0.0,
+question,Qu'est-ce qu'une République ? [جمهوریت څه شی دی؟],,,lvl2
+answer,Un pays dirigé par un roi. [هغه هیواد چې مشري یې پاچا کوي.],,0.0,
+answer,Un système où le chef de l'État n'est pas héréditaire. [هغه سیسټم چې د هیواد مشر پکې میراثي نه وي.],,1.0,
+answer,Un pays sans lois. [بې قانونه هیواد.],,0.0,
+question,Qu'est-ce que la solidarité nationale ? [ملي پیوستون څه شی دی؟],,,lvl2
+answer,"L'aide mutuelle entre citoyens (ex: impôts, sécurité sociale). [د اتباعو ترمنځ دوه اړخیزه مرسته (لکه مالیات، ټولنیزه بیمه).]",,1.0,
+answer,Le refus d'aider les autres. [له نورو سره د مرستې کولو څخه انکار.],,0.0,
+answer,Une taxe pour les touristes. [د سیلانیانو لپاره مالیه.],,0.0,
+question,"Le droit de grève est : [د اعتصاب حق دی:]",,,lvl2
+answer,Interdit en France. [په فرانسه کې منع دی.],,0.0,
+answer,Un droit constitutionnel sous certaines conditions. [د ځینو شرایطو لاندې یو قانوني حق.],,1.0,
+answer,Uniquement pour les fonctionnaires. [یوازې د دولتي کارمندانو لپاره.],,0.0,
+question,Le secret des correspondances protège : [د لیکونو محرمیت ساتنه کوي له:],,,lvl2
+answer,La vie privée des individus. [د اشخاصو شخصي ژوند.],,1.0,
+answer,Les secrets de l'État uniquement. [یوازې د دولت رازونه.],,0.0,
+answer,Rien du tout. [هیڅ نه.],,0.0,
+question,La présomption d'innocence signifie : [د بې ګناهۍ فرضیه مانا دا ده:],,,lvl2
+answer,Qu'on est coupable jusqu'à preuve du contraire. [دا چې یو څوک تر هغه ګناهګار دی چې برعکس یې ثابت نشي.],,0.0,
+answer,"Qu'on est considéré innocent tant qu'on n'est pas jugé coupable. [دا چې یو څوک بې ګناه ګڼل کیږي تر هغه چې د هغه ګناه ثابته شوې نه وي.]",,1.0,
+answer,Que la police ne peut jamais arrêter personne. [دا چې پولیس هیڅکله څوک نشي نیولی.],,0.0,
+question,"L'égalité homme-femme est : [د ښځې او نارینه برابري ده:]",,,lvl2
+answer,Un principe fondamental de la République. [د جمهوریت یو بنسټیز اصل.],,1.0,
+answer,Une recommandation facultative. [یو اختیاري وړاندیز.],,0.0,
+answer,Appliquée uniquement dans les entreprises. [یوازې په شرکتونو کې پلي کیږي.],,0.0,
+question,Un citoyen doit-il payer des impôts ? [ایا یو تبعه باید مالیه ورکړي؟],,,lvl2
+answer,"Non, c'est un choix. [نه، دا یو انتخاب دی.]",,0.0,
+answer,"Oui, pour financer les services publics. [هو، د عامه خدماتو د تمویل لپاره.]",,1.0,
+answer,"Seulement s'il est d'accord avec le gouvernement. [یوازې که هغه د حکومت سره موافق وي.]",,0.0,
+question,Quel est le rôle du défenseur des droits ? [د حقونو د مدافع رول څه دی؟],,,lvl2
+answer,"Protéger les citoyens contre les erreurs de l'administration. [د ادارې د تېروتنو په وړاندې د اتباعو ساتنه.]",,1.0,
+answer,Défendre uniquement les avocats. [یوازې له مدافع وکیلانو دفاع کول.],,0.0,
+answer,Rédiger les lois. [د قوانینو لیکل.],,0.0,
+question,Qu'est-ce que le devoir de mémoire ? [د یاد ساتلو دنده څه ده؟],,,lvl2
+answer,Oublier le passé. [ماضي هیرول.],,0.0,
+answer,Se souvenir des événements historiques importants. [مهم تاریخي پیښې په یاد ساتل.],,1.0,
+answer,Apprendre l'histoire d'autres pays uniquement. [یوازې د نورو هیوادونو تاریخ زده کول.],,0.0,
+question,La protection sociale est financée par : [ټولنیزه ساتنه تمویل کیږي د:],,,lvl2
+answer,Les dons anonymes. [د نامعلومو کسانو د بسپنې له لارې.],,0.0,
+answer,Les cotisations et les impôts. [د حقونو او مالیاتو له لارې.],,1.0,
+answer,La vente de produits français à l'étranger. [په بهر کې د فرانسوي محصولاتو د پلور له لارې.],,0.0,
+question,"En France, la torture est : [په فرانسه کې شکنجه ده:]",,,lvl2
+answer,Autorisée dans certains cas. [په ځینو مواردو کې اجازه لري.],,0.0,
+answer,Strictement interdite. [په کلکه منع ده.],,1.0,
+answer,Utilisée par la police uniquement. [یوازې د پولیسو لخوا کارول کیږي.],,0.0,
+question,"Chaque personne a droit au respect de sa vie privée. Cela inclut : [هر څوک د خپل شخصي ژوند د درناوي حق لري. په دې کې شامل دي:]",,,lvl2
+answer,L'image et le domicile. [عکس او استوګنځی.],,1.0,
+answer,Uniquement le compte bancaire. [یوازې د بانکي حساب.],,0.0,
+answer,"Rien, la vie privée n'existe pas. [هیڅ نه، شخصي ژوند شتون نلري.]",,0.0,
+question,La liberté d'association permet de : [د اتحادیې ازادي اجازه ورکوي چې:],,,lvl2
+answer,"Créer un groupe pour une cause commune (sport, culture, etc.). [د یوې ګډې موخې لپاره یو ګروپ جوړ کړئ (سپورټ، کلتور، او نور).]",,1.0,
+answer,Forcer les gens à s'inscrire. [خلک نوم لیکنې ته اړ کول.],,0.0,
+answer,Manifester violemment. [تاوتریخجنه مظاهره کول.],,0.0,
+question,Le droit à la santé signifie que : [روغتیا ته د لاسرسي حق مانا دا ده چې:],,,lvl2
+answer,Tout le monde doit être médecin. [هرڅوک باید ډاکټر وي.],,0.0,
+answer,L'État veille à l'accès aux soins pour tous. [دولت د ټولو لپاره روغتیایي خدمتونو ته د لاسرسي پاملرنه کوي.],,1.0,
+answer,Les médicaments sont gratuits pour les riches. [درمل د شتمنو لپاره وړیا دي.],,0.0,
+question,Qu'est-ce qu'un citoyen européen ? [اروپایی تبعه څه شی دی؟],,,lvl2
+answer,Une personne ayant la nationalité d'un pays membre de l'UE. [هغه څوک چې د اروپايي ټولنې د غړي هیواد تابعیت لري.],,1.0,
+answer,Toute personne habitant en Europe. [هر هغه څوک چې په اروپا کې اوسیږي.],,0.0,
+answer,Uniquement les Français. [یوازې فرانسويان.],,0.0,
+question,"La fraternité implique d'aider : [ورورګلوي د مرستې کولو معنی لري له:]",,,lvl2
+answer,Les personnes les plus vulnérables. [خورا زیان منونکي خلک.],,1.0,
+answer,Uniquement sa propre famille. [یوازې خپله کورنۍ.],,0.0,
+answer,"Personne, chacun pour soi. [هیڅوک نه، هر څوک د ځان لپاره.]",,0.0,
+question,Peut-on être arrêté sans motif légal ? [ایا څوک له قانوني دلیله پرته نیول کیدی شي؟],,,lvl2
+answer,"Oui, si la police le souhaite. [هو، که پولیس وغواړي.]",,0.0,
+answer,"Non, la liberté individuelle est protégée. [نه، فردي ازادي خوندي ده.]",,1.0,
+answer,Seulement la nuit. [یوازې د شپې.],,0.0,
+question,"La loi est la même pour tous. Cela signifie : [قانون د ټولو لپاره یو شان دی. دا پدې مانا ده:]",,,lvl2
+answer,Pas de privilèges selon la naissance ou la richesse. [د زیږون یا شتمنۍ له مخې هیڅ امتیاز نشته.],,1.0,
+answer,Les célébrités ne vont pas en prison. [مشهور کسان زندان ته نه ځي.],,0.0,
+answer,Les élus ne respectent pas la loi. [منتخب استازي قانون ته درناوی نه کوي.],,0.0,
+question,"La dignité humaine est : [انساني کرامت دی:]",,,lvl2
+answer,Négociable. [د خبرو اترو وړ.],,0.0,
+answer,Inviolable. [نه سرغړونکی (مقدس).],,1.0,
+answer,Réservée aux citoyens français. [یوازې د فرانسوي اتباعو لپاره ځانګړی شوی.],,0.0,
+question,Le droit d'asile est accordé à : [د پناه اخیستو حق ورکول کیږي:],,,lvl2
+answer,Toute personne persécutée pour ses opinions ou son origine. [هر هغه څوک چې د خپل نظر یا اصل له امله ځورول کیږي.],,1.0,
+answer,Ceux qui veulent faire du tourisme. [هغه څوک چې غواړي سیاحت وکړي.],,0.0,
+answer,Ceux qui ne veulent pas travailler. [هغه څوک چې نه غواړي کار وکړي.],,0.0,
+question,La République française est une démocratie car : [د فرانسې جمهوریت یو ډیموکراسي ده ځکه:],,,lvl2
+answer,Le peuple exerce le pouvoir par ses représentants. [خلک د خپلو استازو له لارې واک کاروي.],,1.0,
+answer,Un seul chef décide de tout. [یو مشر د هر څه پریکړه کوي.],,0.0,
+answer,"Il n'y a pas de lois. [هیڅ قوانین نشته.]",,0.0,
+question,"Le respect d'autrui inclut : [د نورو درناوی په دې کې شامل دی:]",,,lvl2
+answer,Le refus de la violence et des insultes. [د تاوتریخوالي او سپکاوي ردول.],,1.0,
+answer,"L'obligation d'être d'accord avec tout le monde. [د هر چا سره د موافقې مکلفیت.]",,0.0,
+answer,La surveillance des voisins. [د ګاونډیانو څارنه.],,0.0,
+question,"Le mariage en France est : [په فرانسه کې واده دی:]",,,lvl2
+answer,Un acte religieux uniquement. [یوازې یو مذهبي عمل.],,0.0,
+answer,Un acte civil obligatoire avant toute cérémonie religieuse. [د هر ډول مذهبي مراسمو دمخه یو لازمي مدني عمل.],,1.0,
+answer,Interdit entre personnes de même sexe. [د ورته جنس د خلکو ترمنځ منع دی.],,0.0,
+question,La liberté de pensée permet de : [د فکر ازادي اجازه ورکوي چې:],,,lvl2
+answer,Avoir ses propres convictions. [خپل باورونه ولرئ.],,1.0,
+answer,Forcer les autres à penser comme soi. [نور اړ کول چې ستاسو په څیر فکر وکړي.],,0.0,
+answer,Ne pas respecter les règles de politesse. [د اخلاقو اصولو ته درناوی نه کول.],,0.0,
+question,Un étranger vivant en France a-t-il des devoirs ? [ایا په فرانسه کې میشت یو بهرنی دندې (مکلفیتونه) لري؟],,,lvl2
+answer,"Non, seulement des droits. [نه، یوازې حقونه لري.]",,0.0,
+answer,"Oui, il doit respecter les lois de la République. [هو، هغه باید د جمهوریت قوانینو ته درناوی وکړي.]",,1.0,
+answer,"Seulement s'il veut devenir français. [یوازې که هغه وغواړي فرانسوي شي.]",,0.0,
+question,Le devoir de défense nationale concerne : [د ملي دفاع دنده په چا پورې اړه لري:],,,lvl2
+answer,Uniquement les militaires de métier. [یوازې مسلکي سرتیري.],,0.0,
+answer,Tous les citoyens en cas de menace grave. [د جدي ګواښ په صورت کې ټول اتباع.],,1.0,
+answer,Les pays voisins. [ګاونډی هیوادونه.],,0.0,
+question,"La protection de l'enfance est : [د ماشومتوب ساتنه ده:]",,,lvl3
+answer,Une priorité de la République. [د جمهوریت لومړیتوب.],,1.0,
+answer,La responsabilité exclusive des parents. [یوازې د مور او پلار مسؤلیت.],,0.0,
+answer,Inexistante en France. [په فرانسه کې شتون نلري.],,0.0,
+question,"Le droit au logement est : [د اوسېدو د ځای (کور) حق دی:]",,,lvl3
+answer,Un objectif de valeur constitutionnelle. [د اساسي قانون یو ارزښتناک هدف.],,1.0,
+answer,Garanti immédiatement pour tous dans un château. [د ټولو لپاره سمدستي په یوه کلا کې تضمین شوی.],,0.0,
+answer,Inutile. [بې ګټې.],,0.0,
+question,"L'assistance aux personnes en danger est : [په خطر کې د خلکو سره مرسته کول دي:]",,,lvl3
+answer,Un choix personnel. [یو شخصي انتخاب.],,0.0,
+answer,"Une obligation légale (non-assistance à personne en danger). [قانوني مکلفیت (په خطر کې له شخص سره مرسته نه کول جرم دی).]",,1.0,
+answer,Interdite. [منع ده.],,0.0,
+question,"Le suffrage universel signifie : [عمومي رایه ورکول مانا دا ده:]",,,lvl3
+answer,"Que tout le monde peut voter, sans distinction. [دا چې هرڅوک کولی شي پرته له کوم توپیر څخه رایه ورکړي.]",,1.0,
+answer,Que seuls les hommes votent. [دا چې یوازې نارینه رایه ورکوي.],,0.0,
+answer,Que le vote est payant. [دا چې د رایې ورکولو لپاره پیسې ورکول کیږي.],,0.0,
+question,La souveraineté nationale appartient au : [ملي حاکمیت د چا دی:],,,lvl3
+answer,Peuple. [ولس (خلک).],,1.0,
+answer,Président uniquement. [یوازې د ولسمشر.],,0.0,
+answer,Roi. [پاچا.],,0.0,
+question,La liberté d'entreprendre permet de : [د سوداګرۍ پیل کولو ازادي اجازه ورکوي چې:],,,lvl3
+answer,Créer sa propre entreprise. [خپل شرکت جوړ کړئ.],,1.0,
+answer,Ne pas payer ses employés. [خپلو کارمندانو ته معاش نه ورکول.],,0.0,
+answer,Vendre des produits interdits. [منع شوي محصولات وپلورئ.],,0.0,
+question,"L'école publique en France est : [په فرانسه کې دولتي ښوونځی دی:]",,,lvl3
+answer,"Laïque, gratuite et obligatoire. [بې طرفه (لاییک)، وړیا او لازمي.]",,1.0,
+answer,Payante et religieuse. [پیسې اخیستونکی او مذهبي.],,0.0,
+answer,Réservée aux garçons. [یوازې د هلکانو لپاره ځانګړی شوی.],,0.0,
+question,"La solidarité face aux catastrophes naturelles est : [د طبیعي پیښو په وړاندې پیوستون دی:]",,,lvl3
+answer,Une forme de fraternité nationale. [د ملي ورورګلوی یو ډول.],,1.0,
+answer,Chaque personne se débrouille seule. [هر څوک په خپله هڅه کوي.],,0.0,
+answer,Le problème des autres. [د نورو ستونزه.],,0.0,
+question,Un citoyen peut-il être expulsé de France ? [ایا یو فرانسوي تبعه له فرانسې څخه ایستل کیدی شي؟],,,lvl3
+answer,"Oui, s'il se conduit mal. [هو، که هغه بد چلند وکړي.]",,0.0,
+answer,"Non, un citoyen ne peut pas être expulsé de son propre pays. [نه، یو تبعه نشي کولی له خپل هیواد څخه وشړل شي.]",,1.0,
+answer,"Seulement s'il n'a pas payé ses impôts. [یوازې که هغه خپل مالیات نه وي ورکړي.]",,0.0,
+question,"La devise de la France est : [د فرانسې شعار دی:]",,,lvl1
+answer,"Travail, Famille, Patrie. [کار، کورنۍ، وطن.]",,0.0,
+answer,"Liberté, Égalité, Fraternité. [ازادي، برابري، ورورګلوي.]",,1.0,
+answer,Paix et Prospérité. [سوله او سوکالي.],,0.0,
+question,"Le drapeau français a trois couleurs : [د فرانسې بیرغ درې رنګونه لري:]",,,lvl1
+answer,"Bleu, blanc, rouge. [آبي، سپین، سور.]",,1.0,
+answer,"Vert, jaune, rouge. [شین، ژیړ، سور.]",,0.0,
+answer,"Noir, blanc, rouge. [تور، سپین، سور.]",,0.0,
+question,"L'hymne national de la France est : [د فرانسې ملي سرود دی:]",,,lvl1
+answer,L'Ode à la joie. [د خوښۍ سندره (L'Ode à la joie).],,0.0,
+answer,La Marseillaise. [لا مارسیلیز (La Marseillaise).],,1.0,
+answer,Le Chant du départ. [د تګ سندره (Le Chant du départ).],,0.0,
+question,"La fête nationale française a lieu le : [د فرانسې ملي ورځ لمانځل کیږي په:]",,,lvl1
+answer,1er mai. [د می په لومړۍ نیټه.],,0.0,
+answer,14 juillet. [د جولای په ۱۴مه نېټه.],,1.0,
+answer,11 novembre. [د نومبر په ۱۱مه نېټه.],,0.0,
+question,"Le buste de femme coiffée d'un bonnet phrygien s'appelle : [د هغه ښځې مجسمه چې فریګیان خولۍ یې په سر ده، څه نومېږي:]",,,lvl1
+answer,Jeanne d'Arc. [ژان ډارک (Jeanne d'Arc).],,0.0,
+answer,Marianne. [ماریان (Marianne).],,1.0,
+answer,La Joconde. [مونا لیزا (La Joconde).],,0.0,
+question,"La France est une République indivisible. Cela signifie : [فرانسه یو نه ویشل کیدونکی جمهوریت دی. دا پدې مانا ده:]",,,lvl1
+answer,Que la loi est la même sur tout le territoire. [دا چې قانون په ټوله سیمه کې یو شان دی.],,1.0,
+answer,Que la France est divisée en plusieurs royaumes. [دا چې فرانسه په څو پاچاهیو ویشل شوې ده.],,0.0,
+answer,Que chaque ville peut avoir ses propres lois. [دا چې هر ښار کولی شي خپل قوانین ولري.],,0.0,
+question,"La langue de la République est : [د جمهوریت ژبه ده:]",,,lvl1
+answer,L'anglais. [انګلیسي.],,0.0,
+answer,Le français. [فرانسوي.],,1.0,
+answer,Le latin. [لاتیني.],,0.0,
+question,"Le Président de la République est élu pour : [د جمهوریت ولسمشر د څومره وخت لپاره ټاکل کیږي:]",,,lvl1
+answer,4 ans. [۴ کاله.],,0.0,
+answer,5 ans. [۵ کاله.],,1.0,
+answer,7 ans. [۷ کاله.],,0.0,
+question,Où siège le Parlement français ? [د فرانسې پارلمان چیرته موقعیت لري؟],,,lvl1
+answer,À l'Élysée. [په ایلیزي (Élysée) کې.],,0.0,
+answer,À l'Assemblée nationale et au Sénat. [په ملي شورا او سنا کې.],,1.0,
+answer,À la mairie de Paris. [د پاریس په ښاروالۍ کې.],,0.0,
+question,Qui vote les lois en France ? [په فرانسه کې قوانین څوک تصویبوي؟],,,lvl1
+answer,Le Président. [ولسمشر.],,0.0,
+answer,Le Parlement. [پارلمان.],,1.0,
+answer,La police. [پولیس.],,0.0,
+question,"Le Premier ministre est nommé par : [لومړی وزیر د چا لخوا ټاکل کیږي:]",,,lvl1
+answer,Le peuple. [ولس (خلک).],,0.0,
+answer,Le Président de la République. [د جمهوریت ولسمشر.],,1.0,
+answer,Les députés. [وکیلان (دیپاتیان).],,0.0,
+question,Quel est le rôle du Conseil constitutionnel ? [د اساسي قانون د شورا رول څه دی؟],,,lvl1
+answer,Vérifier que les lois respectent la Constitution. [دا تاییدول چې قوانین د اساسي قانون درناوی کوي.],,1.0,
+answer,Commander l'armée. [د اردو قومانده کول.],,0.0,
+answer,Percevoir les impôts. [د مالیاتو راټولول.],,0.0,
+question,Qu'est-ce qu'une commune ? [کمیون (Commune) څه شی دی؟],,,lvl1
+answer,La plus petite division administrative (ville ou village). [تر ټولو کوچنی اداري واحد (ښار یا کلی).],,1.0,
+answer,Un type de fromage. [د پنیر یو ډول.],,0.0,
+answer,Une association sportive. [یوه ورزشي ټولنه.],,0.0,
+question,Qui dirige la mairie ? [د ښاروالۍ مشري څوک کوي؟],,,lvl1
+answer,Le Préfet. [پریفېټ (Préfet).],,0.0,
+answer,Le Maire. [ښاروال (Le Maire).],,1.0,
+answer,Le Député. [وکیل (Député).],,0.0,
+question,Quel document est nécessaire pour voter ? [د رایې ورکولو لپاره کوم سند ته اړتیا ده؟],,,lvl1
+answer,Une carte de bibliothèque. [د کتابتون کارت.],,0.0,
+answer,Une pièce d'identité. [د پیژندنې یو سند (تذکره یا پاسپورټ).],,1.0,
+answer,Un bulletin de salaire. [د معاش پاڼه.],,0.0,
+question,"Les élections municipales servent à élire : [د ښاروالۍ ټاکنې د چا د ټاکلو لپاره کیږي:]",,,lvl1
+answer,Les conseillers municipaux et le maire. [د ښاروالۍ شورا غړي او ښاروال.],,1.0,
+answer,Le Président de la République. [د جمهوریت ولسمشر.],,0.0,
+answer,Les députés européens. [د اروپا وکیلان.],,0.0,
+question,"En France, la justice est : [په فرانسه کې عدالت دی:]",,,lvl1
+answer,Indépendante du pouvoir politique. [له سیاسي واک څخه خپلواک.],,1.0,
+answer,Sous les ordres du Président. [د ولسمشر تر امر لاندې.],,0.0,
+answer,Payante pour les victimes. [د قربانیانو لپاره د پیسو په بدل کې.],,0.0,
+question,Quelle est la fonction d'un juge ? [د قاضي دنده څه ده؟],,,lvl1
+answer,Arrêter les criminels. [د مجرمینو نیول.],,0.0,
+answer,Trancher les litiges et appliquer la loi. [د شخړو هوارول او د قانون پلي کول.],,1.0,
+answer,Écrire les lois. [د قوانینو لیکل.],,0.0,
+question,"Un avocat sert à : [د مدافع وکیل کار دا دی چې:]",,,lvl1
+answer,Accuser les gens. [په خلکو تور پورې کول.],,0.0,
+answer,Conseiller et défendre une personne devant la justice. [په محکمه کې د یو کس مشوره ورکول او دفاع کول.],,1.0,
+answer,Rendre le verdict. [حکم ورکول.],,0.0,
+question,Peut-on se faire justice soi-même ? [ایا یو څوک کولی شي پخپله قانون پلي کړي (شخصي غچ واخلي)؟],,,lvl1
+answer,"Oui, si on est pressé. [هو، که څوک بیړه ولري.]",,0.0,
+answer,"Non, c'est interdit ; seule la justice peut sanctionner. [نه، دا منع ده؛ یوازې عدالت کولی شي سزا ورکړي.]",,1.0,
+answer,Seulement pour les petits problèmes. [یوازې د کوچنیو ستونزو لپاره.],,0.0,
+question,Quel est le rôle de la police et de la gendarmerie ? [د پولیسو او جندرمرۍ رول څه دی؟],,,lvl1
+answer,Assurer la sécurité et l'ordre public. [د امنیت او عامه نظم ډاډمن کول.],,1.0,
+answer,Décider des lois. [د قوانینو په اړه پریکړه کول.],,0.0,
+answer,Punir les citoyens directement. [اتباعو ته مستقیمه سزا ورکول.],,0.0,
+question,"La France fait partie de : [فرانسه د دې برخې ده:]",,,lvl1
+answer,L'Union européenne. [اروپایي ټولنه.],,1.0,
+answer,L'Union soviétique. [شوروي اتحاد.],,0.0,
+answer,Les États-Unis. [متحده ایالات.],,0.0,
+question,Combien de pays sont membres de l'Union européenne ? [اروپایي ټولنه څو غړي هیوادونه لري؟],,,lvl1
+answer,12 [۱۲],,0.0,
+answer,27 [۲۷],,1.0,
+answer,50 [۵۰],,0.0,
+question,Quelle est la monnaie de la France ? [د فرانسې پیسې (پولي واحد) څه شی دی؟],,,lvl1
+answer,Le Franc. [فرانک.],,0.0,
+answer,L'Euro. [یورو.],,1.0,
+answer,Le Dollar. [ډالر.],,0.0,
+question,Où siège la Commission européenne ? [د اروپا کمیسیون چیرته موقعیت لري؟],,,lvl2
+answer,À Paris. [په پاریس کې.],,0.0,
+answer,À Bruxelles. [په بروکسل کې.],,1.0,
+answer,À Londres. [په لندن کې.],,0.0,
+question,"Le drapeau européen est : [د اروپا بیرغ دی:]",,,lvl2
+answer,Bleu avec 12 étoiles jaunes. [آبي رنګ د دولسو ژیړ ستورو سره.],,1.0,
+answer,Rouge avec une étoile. [سور رنګ د یو ستوري سره.],,0.0,
+answer,Blanc avec un cercle bleu. [سپین رنګ د یوې آبي دایرې سره.],,0.0,
+question,La libre circulation dans l'espace Schengen permet de : [په شینګین سیمه کې د ازاد تګ راتګ اجازه ورکوي چې:],,,lvl2
+answer,Voyager sans contrôle aux frontières entre les pays membres. [د غړو هیوادونو ترمنځ له سرحدي کنټرول پرته سفر وکړئ.],,1.0,
+answer,Déménager sans prévenir personne. [بې له دې چې چا ته خبر ورکړئ خپل ځای بدل کړئ.],,0.0,
+answer,Ne pas avoir de passeport. [پاسپورټ نه لرل.],,0.0,
+question,"Le Parlement européen est élu par : [د اروپا پارلمان د چا لخوا ټاکل کیږي:]",,,lvl2
+answer,Les citoyens des pays membres. [د غړو هیوادونو د اتباعو لخوا.],,1.0,
+answer,Les rois d'Europe. [د اروپا د پاچاهانو لخوا.],,0.0,
+answer,Le Président américain. [د امریکا د ولسمشر لخوا.],,0.0,
+question,Quel est l'un des buts de l'Union européenne ? [د اروپایي ټولنې یو له اهدافو څخه څه شی دی؟],,,lvl2
+answer,Faire la guerre. [جګړه کول.],,0.0,
+answer,Maintenir la paix et la prospérité économique. [د سولې او اقتصادي سوکالۍ ساتل.],,1.0,
+answer,Supprimer les langues nationales. [ملي ژبې له منځه وړل.],,0.0,
+question,Qu'est-ce que la journée défense et citoyenneté (JDC) ? [د دفاع او تابعیت ورځ (JDC) څه شی دی؟],,,lvl2
+answer,Une journée d'information sur les droits et devoirs du citoyen. [د تبعه د حقونو او دندو په اړه د معلوماتو یوه ورځ.],,1.0,
+answer,Un entraînement militaire obligatoire de deux ans. [د دوو کلونو اجباري نظامي روزنه.],,0.0,
+answer,Une fête au village. [په کلي کې یو جشن.],,0.0,
+question,"Le recensement est obligatoire à : [سرشمېرنه په کوم عمر کې فرض/لازمي ده:]",,,lvl2
+answer,16 ans. [۱۶ کلنۍ کې.],,1.0,
+answer,18 ans. [۱۸ کلنۍ کې.],,0.0,
+answer,21 ans. [۲۱ کلنۍ کې.],,0.0,
+question,Un citoyen peut-il devenir juré lors d'un procès ? [ایا یو تبعه د محاکمې پرمهال منصف (جوري) کیدی شي؟],,,lvl2
+answer,"Oui, s'il est tiré au sort. [هو، که د پچې اچونې له لارې وټاکل شي.]",,1.0,
+answer,"Non, seuls les juges décident. [نه، یوازې قاضیان پریکړه کوي.]",,0.0,
+answer,"Seulement s'il est policier. [یوازې که هغه پولیس وي.]",,0.0,
+question,"La solidarité fiscale signifie : [مالیاتي پیوستون مانا دا ده:]",,,lvl2
+answer,Que chacun paie selon ses moyens pour le bien commun. [دا چې هر څوک د عامه ښېګڼې لپاره د خپل توان سره سم پیسې ورکوي.],,1.0,
+answer,Que personne ne paie d'impôts. [دا چې هیڅوک مالیه نه ورکوي.],,0.0,
+answer,Que les impôts sont les mêmes pour les pauvres et les riches. [دا چې مالیات د غریبو او شتمنو لپاره یو شان دي.],,0.0,
+question,"Respecter les règles de civilité (politesse, calme) est : [د مدني اصولو درناوی (اخلاق، ارامتیا) دی:]",,,lvl2
+answer,Un signe de respect envers les autres citoyens. [د نورو اتباعو په وړاندې د درناوي نښه.],,1.0,
+answer,Une perte de temps. [د وخت ضایع کول.],,0.0,
+answer,Interdit par la loi. [د قانون لخوا منع شوی.],,0.0,
+question,"En cas d'urgence, quel numéro appeler pour la police ? [د بېړنۍ اړتیا په صورت کې، د پولیسو لپاره کومې شمېرې ته زنګ ووهئ؟]",,,lvl2
+answer,17 [۱۷],,1.0,
+answer,18 [۱۸],,0.0,
+answer,15 [۱۵],,0.0,
+question,Quel numéro appeler pour les pompiers ? [د اور وژنې لپاره کومې شمېرې ته زنګ ووهئ؟],,,lvl2
+answer,17 [۱۷],,0.0,
+answer,18 [۱۸],,1.0,
+answer,112 [۱۱۲],,0.0,
+question,"Le numéro d'urgence européen unique est le : [د اروپا ځانګړې بېړنۍ شمېره ده:]",,,lvl2
+answer,911 [۹۱۱],,0.0,
+answer,112 [۱۱۲],,1.0,
+answer,555 [۵۵۵],,0.0,
+question,"Voter est : [رایه ورکول دي:]",,,lvl2
+answer,Un droit et un devoir moral. [یو حق او اخلاقي دنده.],,1.0,
+answer,Uniquement une corvée. [یوازې یو جبري کار.],,0.0,
+answer,Obligatoire sous peine d'amende. [لازمي او که نه جریمه لري.],,0.0,
+question,"S'engager dans une association est une façon de : [په یوه ټولنه کې برخه اخیستل یوه لاره ده چې:]",,,lvl2
+answer,Gagner beaucoup d'argent. [ډیرې پیسې وګټئ.],,0.0,
+answer,Participer à la vie de la cité. [د ښار په ژوند کې برخه واخلئ.],,1.0,
+answer,Éviter de travailler. [له کار کولو ډډه وکړئ.],,0.0,
+question,"La liberté de manifester doit se faire : [د مظاهرې ازادي باید ترسره شي:]",,,lvl3
+answer,Sans déclaration préalable. [بې له مخکینۍ خبرتیا.],,0.0,
+answer,Dans le respect de l'ordre public et après déclaration. [د عامه نظم په پام کې نیولو سره او له خبرتیا وروسته.],,1.0,
+answer,En utilisant la violence. [د تاوتریخوالي په کارولو سره.],,0.0,
+question,"Le respect des symboles de la République est : [د جمهوریت د نښو درناوی دی:]",,,lvl3
+answer,Une marque d'attachement aux valeurs communes. [له ګډو ارزښتونو سره د تړاو نښه.],,1.0,
+answer,Inutile. [بې ګټې.],,0.0,
+answer,Seulement pour les militaires. [یوازې د پوځیانو لپاره.],,0.0,
+question,"La France est une République sociale. Cela signifie : [فرانسه یو ټولنیز جمهوریت دی. دا پدې مانا ده:]",,,lvl3
+answer,Que l'État aide les plus démunis et protège les travailleurs. [دا چې دولت له بې وزلو سره مرسته کوي او د کارګرانو ساتنه کوي.],,1.0,
+answer,Que tout le monde doit vivre en groupe. [دا چې هرڅوک باید په ګروپي ډول ژوند وکړي.],,0.0,
+answer,Que les réseaux sociaux sont obligatoires. [دا چې ټولنیزې شبکې لازمي دي.],,0.0,
+question,Qui est le chef des armées en France ? [په فرانسه کې د وسله والو ځواکونو مشر څوک دی؟],,,lvl3
+answer,Le ministre de la Défense. [د دفاع وزیر.],,0.0,
+answer,Le Président de la République. [د جمهوریت ولسمشر.],,1.0,
+answer,Un général. [یو جنرال.],,0.0,
+question,Comment sont choisis les députés ? [وکیلان (دپاتیان) څنګه ټاکل کیږي؟],,,lvl3
+answer,Par le Président. [د ولسمشر لخوا.],,0.0,
+answer,Par le suffrage universel direct. [د مستقیمو عامه رایو له لارې.],,1.0,
+answer,Par tirage au sort. [د پچې اچونې له لارې.],,0.0,
+question,"Quelle est la durée du mandat d'un maire ? [د ښاروال د کار دوره څومره ده؟]",,,lvl3
+answer,5 ans. [۵ کاله.],,0.0,
+answer,6 ans. [۶ کاله.],,1.0,
+answer,10 ans. [۱۰ کاله.],,0.0,
+question,"Le Premier ministre dirige : [لومړی وزیر مشري کوي د:]",,,lvl3
+answer,Le gouvernement. [حکومت.],,1.0,
+answer,Le Sénat. [سنا.],,0.0,
+answer,Les tribunaux. [محکمې.],,0.0,
+question,"L'école est obligatoire pour tous les enfants résidant en France de : [په فرانسه کې د میشتو ټولو ماشومانو لپاره ښوونځی لازمي دی له:]",,,lvl3
+answer,6 à 16 ans. [له ۶ تر ۱۶ کلنۍ پورې.],,0.0,
+answer,3 à 16 ans. [له ۳ تر ۱۶ کلنۍ پورې.],,1.0,
+answer,5 à 18 ans. [له ۵ تر ۱۸ کلنۍ پورې.],,0.0,
+question,Un journal critique le gouvernement. Peut-il être sanctionné ? [یوه ورځپاڼه پر حکومت نیوکه کوي. ایا هغه سزا کیدی شي؟],,,lvl3
+answer,"Oui, si le gouvernement le décide. [هو، که حکومت پریکړه وکړي.]",,0.0,
+answer,"Oui, si l’article dérange. [هو، که مقاله د ناراحتۍ لامل شي.]",,0.0,
+answer,"Non, la liberté de la presse est protégée par la loi. [نه، د مطبوعاتو ازادي د قانون لخوا خوندي ده.]",,1.0,
+question,"Concernant les réseaux sociaux, quelle règle est correcte ? [د ټولنیزو شبکو په اړه, کومه قاعده سمه ده؟]",,,lvl3
+answer,Tout est autorisé sur internet. [په انټرنیټ کې هر څه اجازه لري.],,0.0,
+answer,Les lois ne s’appliquent pas en ligne. [قوانین په انلاین بڼه نه پلي کیږي.],,0.0,
+answer,La liberté d’expression s’exerce dans le respect de la loi. [د بیان ازادي د قانون په رڼا کې کارول کیږي.],,1.0,
+question,"Lors d’une cérémonie officielle, un élu refuse de se lever pour l’hymne européen. Est-ce un droit ? [د رسمي مراسمو پرمهال, یو ټاکل شوی استازی د اروپا ملي سرود ته له دریدو ډډه کوي. ایا دا یو حق دی؟]",,,lvl3
+answer,"Oui, c’est une liberté personnelle. [هو، دا یو شخصي ازادي ده.]",,0.0,
+answer,"Non, le respect des symboles relève du civisme. [نه، د نښو درناوی د مدني اخلاقو برخه ده.]",,1.0,
+answer,"Oui, s’il n’aime pas la musique. [هو، که هغه موسیقي نه خوښوي.]",,0.0,
+question,Publier les coordonnées d’un voisin sur les réseaux sociaux sans son accord. Est-ce légal ? [د یو ګاونډي د اړیکو معلومات په ټولنیزو شبکو کې د هغه له اجازې پرته خپرول. ایا دا قانوني دی؟],,,lvl3
+answer,"Oui, si elles sont publiques. [هو، که هغه عامه وي.]",,0.0,
+answer,"Oui, si on supprime après. [هو، که وروسته یې پاک کړي.]",,0.0,
+answer,"Non, la diffusion de données personnelles est interdite. [نه، د شخصي معلوماتو خپرول منع دي.]",,1.0,
+question,Un patron impose sept jours de travail par semaine. Est-ce autorisé ? [یو مالک په اونۍ کې اوه ورځې کار تپي. ایا دا جواز لري؟],,,lvl3
+answer,"Oui, si le salarié accepte. [هو، که کارمند یې ومني.]",,0.0,
+answer,"Oui, s’il paie plus. [هو، که هغه ډیرې پیسې ورکړي.]",,0.0,
+answer,"Non, le repos hebdomadaire est un droit. [نه، د اونۍ رخصتي یو حق دی.]",,1.0,
