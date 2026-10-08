@@ -9,6 +9,10 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:purchases_flutter/purchases_flutter.dart';
 import 'package:prepcivic_app/services/question_text.dart';
+import 'package:prepcivic_app/services/session_repository.dart';
+import 'package:prepcivic_app/auth_wrapper.dart';
+import 'package:prepcivic_app/screens/quiz/result_screen.dart';
+import 'package:prepcivic_app/firebase_options.dart';
 import 'package:prepcivic_app/services/database_helper.dart';
 import 'package:prepcivic_app/services/account_deletion_service.dart';
 import 'package:prepcivic_app/services/question_csv.dart';
@@ -19,6 +23,38 @@ import 'package:prepcivic_app/services/database_service.dart';
 import 'package:prepcivic_app/models/question_model.dart';
 import 'package:prepcivic_app/screens/practice/practice_quiz_screen.dart';
 import 'package:prepcivic_app/screens/premium/subscription_screen.dart';
+
+class MemorySessions extends SessionRepository {
+  final SessionIdentity? initial;
+  final bool guest;
+  final String access;
+  final changes = StreamController<SessionIdentity?>();
+  int tierCalls = 0;
+  bool fail = false;
+  Completer<String>? pending;
+  MemorySessions(this.initial, {this.guest = false, this.access = 'free'});
+  @override
+  Stream<SessionIdentity?> get identities async* {
+    yield initial;
+    yield* changes.stream;
+  }
+
+  @override
+  Future<bool> isGuest() async => guest;
+  @override
+  Future<String> tier() async {
+    tierCalls++;
+    if (fail) throw StateError('Store connection failed');
+    return pending == null ? access : await pending!.future;
+  }
+}
+
+AuthWrapper sessionScreen(MemorySessions sessions) => AuthWrapper(
+  sessions: sessions,
+  mainBuilder: (_, tier) => Scaffold(body: Text('Access: $tier')),
+  onboardingBuilder: (_) => const Scaffold(body: Text('Onboarding')),
+  loginBuilder: (_) => const Scaffold(body: Text('Verify login')),
+);
 
 class FileTranslations extends AssetLoader {
   const FileTranslations();
@@ -123,6 +159,7 @@ class MemoryBilling extends BillingClient {
   String? mirroredTier;
   CustomerInfo info = customer('access_basic');
   bool cancel = false;
+  bool billingUnavailable = false;
   Completer<Offerings>? pending;
   MemoryBilling(this.data);
   @override
@@ -130,7 +167,12 @@ class MemoryBilling extends BillingClient {
   @override
   Future<void> identify() async {}
   @override
-  Future<Offerings> offerings() => pending?.future ?? Future.value(data);
+  Future<Offerings> offerings() async {
+    if (billingUnavailable)
+      throw PlatformException(code: '3', message: 'Billing unavailable');
+    return pending?.future ?? Future.value(data);
+  }
+
   @override
   Future<CustomerInfo> purchase(Package package) async {
     purchases++;
@@ -397,6 +439,142 @@ void main() {
     },
   );
 
+  test('Dart Android Firebase configuration matches the native client', () {
+    final native = jsonDecode(
+      File('android/app/google-services.json').readAsStringSync(),
+    );
+    final client = (native['client'] as List).singleWhere(
+      (c) =>
+          c['client_info']['android_client_info']['package_name'] ==
+          'com.torcdigital.prepcivique',
+    );
+    expect(
+      DefaultFirebaseOptions.android.projectId,
+      native['project_info']['project_id'],
+    );
+    expect(
+      DefaultFirebaseOptions.android.messagingSenderId,
+      native['project_info']['project_number'],
+    );
+    expect(
+      DefaultFirebaseOptions.android.appId,
+      client['client_info']['mobilesdk_app_id'],
+    );
+    expect(
+      DefaultFirebaseOptions.android.apiKey,
+      client['api_key'][0]['current_key'],
+    );
+    expect(
+      DefaultFirebaseOptions.ios.projectId,
+      DefaultFirebaseOptions.android.projectId,
+    );
+    expect(
+      DefaultFirebaseOptions.ios.iosBundleId,
+      'com.torcdigital.prepcivique',
+    );
+  });
+
+  for (final access in ['free', '2_years', '10_years', 'nationality']) {
+    testWidgets('returning verified account restores exact $access access', (
+      tester,
+    ) async {
+      final sessions = MemorySessions(
+        const SessionIdentity('user', emailVerified: true),
+        access: access,
+      );
+      addTearDown(sessions.changes.close);
+      await show(tester, sessionScreen(sessions));
+      expect(find.text('Access: $access'), findsOneWidget);
+      expect(sessions.tierCalls, 1);
+    });
+  }
+
+  testWidgets('returning paid guest keeps RevenueCat access', (tester) async {
+    final sessions = MemorySessions(null, guest: true, access: 'nationality');
+    addTearDown(sessions.changes.close);
+    await show(tester, sessionScreen(sessions));
+    expect(find.text('Access: nationality'), findsOneWidget);
+  });
+
+  testWidgets('new visitor enters onboarding without querying purchases', (
+    tester,
+  ) async {
+    final sessions = MemorySessions(null);
+    addTearDown(sessions.changes.close);
+    await show(tester, sessionScreen(sessions));
+    expect(find.text('Onboarding'), findsOneWidget);
+    expect(sessions.tierCalls, 0);
+  });
+
+  testWidgets(
+    'unverified account cannot bypass the email login gate on restart',
+    (tester) async {
+      final sessions = MemorySessions(
+        const SessionIdentity('user', emailVerified: false),
+      );
+      addTearDown(sessions.changes.close);
+      await show(tester, sessionScreen(sessions));
+      expect(find.text('Verify login'), findsOneWidget);
+      expect(sessions.tierCalls, 0);
+    },
+  );
+
+  testWidgets('late purchase lookup cannot restore a signed-out account', (
+    tester,
+  ) async {
+    final sessions = MemorySessions(
+      const SessionIdentity('user', emailVerified: true),
+    )..pending = Completer<String>();
+    addTearDown(sessions.changes.close);
+    await tester.pumpWidget(MaterialApp(home: sessionScreen(sessions)));
+    await tester.pump();
+    sessions.changes.add(null);
+    await tester.pumpAndSettle();
+    expect(find.text('Onboarding'), findsOneWidget);
+    sessions.pending!.complete('nationality');
+    await tester.pumpAndSettle();
+    expect(find.text('Onboarding'), findsOneWidget);
+    expect(find.text('Access: nationality'), findsNothing);
+  });
+
+  testWidgets('failed session restoration can retry', (tester) async {
+    final sessions = MemorySessions(
+      const SessionIdentity('user', emailVerified: true),
+    )..fail = true;
+    addTearDown(sessions.changes.close);
+    await show(tester, sessionScreen(sessions));
+    expect(find.text('Réessayer'), findsOneWidget);
+    sessions.fail = false;
+    await tester.tap(find.text('Réessayer'));
+    await tester.pumpAndSettle();
+    expect(find.text('Access: free'), findsOneWidget);
+  });
+
+  for (final restart in [true, false]) {
+    testWidgets(
+      'result ${restart ? 'restart' : 'dashboard'} dismisses only the result route',
+      (tester) async {
+        var restarts = 0;
+        var dashboards = 0;
+        await show(
+          tester,
+          ResultScreen(
+            score: 8,
+            totalQuestions: 10,
+            onRestart: () => restarts++,
+            onDashboard: () => dashboards++,
+          ),
+        );
+        final button = find.byType(restart ? ElevatedButton : OutlinedButton);
+        await tester.ensureVisible(button);
+        await tester.tap(button);
+        await tester.pumpAndSettle();
+        expect(restarts, restart ? 1 : 0);
+        expect(dashboards, restart ? 0 : 1);
+        expect(find.text('Open'), findsOneWidget);
+      },
+    );
+  }
   testWidgets(
     'small screen with enlarged text keeps purchase and restore reachable',
     (tester) async {
@@ -465,6 +643,28 @@ void main() {
       expect(find.text('Question 1/10'), findsOneWidget);
       expect(find.text('Question 2-1 ?'), findsOneWidget);
       expect(find.byIcon(Icons.check_circle), findsNothing);
+    },
+  );
+
+  testWidgets(
+    'unavailable device billing gives store guidance instead of a connection error',
+    (tester) async {
+      final billing = MemoryBilling(const Offerings({}))
+        ..billingUnavailable = true;
+      await show(tester, SubscriptionScreen(billing: billing));
+      expect(
+        find.textContaining('Vérifiez votre connexion à la boutique'),
+        findsOneWidget,
+      );
+      expect(
+        tester.widget<ElevatedButton>(find.byType(ElevatedButton)).onPressed,
+        isNull,
+      );
+      billing.billingUnavailable = false;
+      billing.data = offering([plan('pkg_2_4_year')]);
+      await tester.tap(find.text('Réessayer'));
+      await tester.pumpAndSettle();
+      expect(find.text('29,99 €'), findsOneWidget);
     },
   );
 

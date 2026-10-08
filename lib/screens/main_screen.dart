@@ -22,24 +22,40 @@ class MainScreen extends StatefulWidget {
 
 class _MainScreenState extends State<MainScreen> {
   int _currentIndex = 0;
+  late String _accessTier;
+  bool _refreshingAccess = false;
   bool _checkingUpsell = false;
   Timer? _upsellTimer; // 🌟 The Timer instance
 
   // Build tabs dynamically
   List<Widget> get _tabs => [
-    HomeTab(userPackage: widget.userPackage),
-    CategorySelectionScreen(userPackage: widget.userPackage),
+    HomeTab(userPackage: _accessTier),
+    CategorySelectionScreen(userPackage: _accessTier),
     QuizScreen(
       topicTitle: 'mock_exam'.tr(),
       onDashboard: () => setState(() => _currentIndex = 0),
     ),
-    ProfileTab(userPackage: widget.userPackage),
+    ProfileTab(userPackage: _accessTier, isActive: _currentIndex == 3),
   ];
 
   @override
   void initState() {
     super.initState();
+    _accessTier = widget.userPackage;
     _startUpsellTimer();
+  }
+
+  Future<void> _refreshAccess() async {
+    if (_refreshingAccess) return;
+    _refreshingAccess = true;
+    try {
+      final tier = await PurchaseService.currentTier();
+      if (!mounted) return;
+      if (tier != _accessTier) setState(() => _accessTier = tier);
+      if (tier != 'free') _upsellTimer?.cancel();
+    } finally {
+      _refreshingAccess = false;
+    }
   }
 
   @override
@@ -165,7 +181,10 @@ class _MainScreenState extends State<MainScreen> {
         ),
         child: BottomNavigationBar(
           currentIndex: _currentIndex,
-          onTap: (index) => setState(() => _currentIndex = index),
+          onTap: (index) {
+            setState(() => _currentIndex = index);
+            _refreshAccess();
+          },
           type: BottomNavigationBarType.fixed,
           backgroundColor: Colors.white,
           elevation: 0,

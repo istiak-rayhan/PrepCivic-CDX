@@ -70,7 +70,7 @@ Do not guess package assignments from prices or array order. If the dashboard ID
 
 ## Validation
 
-- 18 Flutter regression tests pass, including full ten-question review and continuation, empty/unknown offerings, retry, real store price display, cancellation, missing entitlement, restoration, CSV parsing, duplicate filtering, local account naming/isolation, deletion ordering and small-screen enlarged-text payment controls. Purchases are simulated through an injected billing client; these are not Apple transactions.
+- 31 Flutter regression tests pass, including full ten-question review and continuation, empty/unknown offerings, retry, real store price display, cancellation, missing entitlement, restoration, CSV parsing, duplicate filtering, local account naming/isolation, deletion ordering and small-screen enlarged-text payment controls. Purchases are simulated through an injected billing client; these are not Apple transactions.
 - 26 checks execute the app's selection SQL in SQLite against all six supplied French categories (854 source questions). They verify within-session uniqueness, previous-session exclusion, least-seen priority and mastered-question exclusion, and preservation of local progress against stale cloud snapshots.
 - Static analysis: no errors or warnings; informational lint/deprecation suggestions remain. See `ANALYSIS.txt`.
 - Android debug build succeeds. See `BUILD_RESULTS.txt`.
@@ -89,7 +89,7 @@ dart run tools/audit_translation_matching.dart
 flutter build apk --debug
 ```
 
-On macOS, use the same project, run `flutter pub get`, install the iOS pods if required, open `ios/Runner.xcworkspace`, use your existing signing configuration, and build a new TestFlight build with an unused build number. Do not reuse the original ZIP's build number `+6` for an upload already accepted by App Store Connect. Existing store releases are unchanged.
+On macOS, use the same project, run `flutter pub get`, install the iOS pods if required, open `ios/Runner.xcworkspace`, use your existing signing configuration, and build a new TestFlight build with an unused build number. Use a build number greater than the latest build in App Store Connect; the current source `+9` is not a guarantee of uniqueness. Existing store releases are unchanged.
 
 TestFlight acceptance checks: complete ten free practice questions, review forward/back without score changes; buy each plan with a sandbox tester; confirm the expected entitlement and paid practice/mock access; restart the app; restore after reinstall; test cancellation and network failures; test login/logout and a second account; check all six languages including RTL layouts and missing-translation fallbacks.
 
@@ -100,3 +100,13 @@ The updated debug build was installed and launched successfully on the existing 
 ## Independent CDX repository
 
 This audited source is maintained separately as `PrepCivic-CDX`. The original app source/ZIP and original GitHub repository are not modified by creation of this copy. Application/store identifiers remain unchanged so Codemagic can build updates for the existing PrepCivic app.
+
+## CDX refinement after reviewing PrepCivic_app (8 October 2026)
+
+Compared against `PrepCivic_app` commit `30673a7e75eb8c4c64b4cba3b8d043a759847b63`. Its Android Firebase project correction was already present in CDX and is now covered by a test against the native configuration. Its additional Android OAuth client field on iOS is not required by this app’s email/password authentication and was not copied.
+
+The useful startup intent is implemented through one shared session gate: no hardcoded citizenship/paid label, verified accounts restore their exact RevenueCat tier, returning guests retain purchased access, unverified accounts return to login, failures support retry, and an old lookup cannot reinstate an account after logout. Successful login clears guest mode. Profile access/stats refresh on returning to the profile tab. Paid mock preparation no longer waits for an unrelated free-attempt profile read.
+
+CDX keeps the single-pop restart/dashboard behavior; the other repository’s double-pop navigation was not imported. The result page scrolls on short screens and safely handles an empty score denominator. Billing-not-allowed errors now explain device/account store availability rather than suggesting only a network failure.
+
+Source version is now `1.0.0+9`. Codemagic must still assign a unique build number greater than the latest build actually uploaded to App Store Connect. No Apple product settings, signing, production rules or store releases were changed. Missing translated content and backend findings above remain open; local improvements are not a claim of complete App Store readiness.

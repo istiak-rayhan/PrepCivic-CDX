@@ -93,11 +93,12 @@ class _QuizScreenState extends State<QuizScreen> {
 
     try {
       User? currentUser = FirebaseAuth.instance.currentUser;
-      if (currentUser != null) {
+      if (currentUser != null && isMockTest && _userTier == 'free') {
         DocumentSnapshot userDoc = await FirebaseFirestore.instance
             .collection('users')
             .doc(currentUser.uid)
-            .get();
+            .get()
+            .timeout(const Duration(seconds: 15));
 
         if (userDoc.exists) {
           var data = userDoc.data() as Map<String, dynamic>;

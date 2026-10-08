@@ -166,5 +166,7 @@
   "quick_quiz": "Quick quiz",
   "start_random_test": "Start a random test",
   "confirm_password": "Confirm your password",
-  "delete_failed": "Account deletion could not be completed. Check your connection and try again."
+  "delete_failed": "Account deletion could not be completed. Check your connection and try again.",
+  "session_load_error": "Could not restore your session. Please try again.",
+  "billing_not_supported": "Purchases are unavailable on this device or account. Check your store sign-in."
 }

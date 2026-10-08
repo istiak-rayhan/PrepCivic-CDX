@@ -11,7 +11,12 @@ import '../premium/subscription_screen.dart';
 
 class ProfileTab extends StatefulWidget {
   final String userPackage;
-  const ProfileTab({super.key, required this.userPackage});
+  final bool isActive;
+  const ProfileTab({
+    super.key,
+    required this.userPackage,
+    this.isActive = true,
+  });
 
   @override
   State<ProfileTab> createState() => _ProfileTabState();
@@ -34,6 +39,15 @@ class _ProfileTabState extends State<ProfileTab> {
     _loadAllData();
   }
 
+  @override
+  void didUpdateWidget(covariant ProfileTab oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if ((!oldWidget.isActive && widget.isActive) ||
+        oldWidget.userPackage != widget.userPackage) {
+      _loadAllData();
+    }
+  }
+
   Future<void> _loadAllData() async {
     try {
       // 1. 🌟 FETCH SQLITE DATA FIRST (Works for everyone, logged in or not!)
@@ -50,7 +64,8 @@ class _ProfileTabState extends State<ProfileTab> {
         DocumentSnapshot userDoc = await FirebaseFirestore.instance
             .collection('users')
             .doc(user!.uid)
-            .get();
+            .get()
+            .timeout(const Duration(seconds: 15));
 
         if (userDoc.exists) {
           var userData = userDoc.data() as Map<String, dynamic>?;
@@ -63,7 +78,8 @@ class _ProfileTabState extends State<ProfileTab> {
             .collection('users')
             .doc(user!.uid)
             .collection('mock_scores')
-            .get();
+            .get()
+            .timeout(const Duration(seconds: 15));
 
         int totalTests = cloudResults.docs.length;
         double totalScorePercentage = 0;

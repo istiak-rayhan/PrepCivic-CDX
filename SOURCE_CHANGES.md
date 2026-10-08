@@ -28,11 +28,14 @@
 - Added: `lib/services/purchase_service.dart`
 - Added: `lib/services/question_csv.dart`
 - Added: `lib/services/question_text.dart`
+- Added: `lib/services/session_repository.dart`
 - Added: `test/regression_test.dart`
 - Added: `tools/audit_assets.py`
 - Added: `tools/audit_translation_matching.dart`
 - Added: `tools/package_source.py`
 - Added: `tools/verify_selection_sql.py`
+- Changed: `.gitignore`
+- Changed: `README.md`
 - Changed: `analysis_options.yaml`
 - Changed: `android/gradle.properties`
 - Changed: `android/settings.gradle.kts`
@@ -58,6 +61,7 @@
 - Changed: `lib/screens/dashboard/profile_tab.dart`
 - Changed: `lib/screens/main_screen.dart`
 - Changed: `lib/screens/onboarding/language_screen.dart`
+- Changed: `lib/screens/onboarding/splash_screen.dart`
 - Changed: `lib/screens/practice/category_selection_screen.dart`
 - Changed: `lib/screens/practice/practice_quiz_screen.dart`
 - Changed: `lib/screens/premium/subscription_screen.dart`

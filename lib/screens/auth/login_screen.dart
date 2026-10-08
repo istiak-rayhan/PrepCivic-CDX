@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import '../../services/purchase_service.dart';
 import 'package:easy_localization/easy_localization.dart';
-import '../main_screen.dart';
+import '../../auth_wrapper.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'register_screen.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -54,14 +54,13 @@ class _LoginScreenState extends State<LoginScreen> {
         return; // Stop execution right here
       }
 
-      final userPackage = await PurchaseService.currentTier();
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setBool('isGuest', false);
 
       if (mounted) {
         Navigator.pushAndRemoveUntil(
           context,
-          MaterialPageRoute(
-            builder: (_) => MainScreen(userPackage: userPackage),
-          ),
+          MaterialPageRoute(builder: (_) => const AuthWrapper()),
           (route) => false,
         );
       }
@@ -76,6 +75,13 @@ class _LoginScreenState extends State<LoginScreen> {
     } finally {
       if (mounted) setState(() => _isLoading = false);
     }
+  }
+
+  @override
+  void dispose() {
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
   }
 
   // 🌟 NEW: FORGOT PASSWORD FLOW

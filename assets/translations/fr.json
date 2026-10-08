@@ -166,5 +166,7 @@
   "quick_quiz": "Quiz rapide",
   "start_random_test": "Commencer un test aléatoire",
   "confirm_password": "Confirmez votre mot de passe",
-  "delete_failed": "La suppression n’a pas pu être terminée. Vérifiez votre connexion et réessayez."
+  "delete_failed": "La suppression n’a pas pu être terminée. Vérifiez votre connexion et réessayez.",
+  "session_load_error": "Impossible de restaurer votre session. Réessayez.",
+  "billing_not_supported": "Les achats sont indisponibles sur cet appareil ou ce compte. Vérifiez votre connexion à la boutique."
 }

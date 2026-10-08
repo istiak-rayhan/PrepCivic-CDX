@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:firebase_auth/firebase_auth.dart'; // 🌟 ADDED FOR AUTO-LOGIN
-import 'package:shared_preferences/shared_preferences.dart'; // 🌟 ADDED FOR GUEST CHECK
 
 import '../../auth_wrapper.dart';
 import '../../services/database_helper.dart';
-import '../main_screen.dart'; // 🌟 ADDED FOR DIRECT ROUTING
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -53,41 +50,12 @@ class _SplashScreenState extends State<SplashScreen>
       await Future.delayed(Duration(milliseconds: remaining));
     }
 
-    // ==========================================================
-    // 🌟 PRODUCTION-GRADE AUTO-LOGIN LOGIC
-    // ==========================================================
-    User? user = FirebaseAuth.instance.currentUser;
-    final prefs = await SharedPreferences.getInstance();
-    bool isGuest = prefs.getBool('isGuest') ?? false;
-
-    // 🌟 FIX 1: Async Gap Warning Solved
     if (!mounted) return;
-
-    if (user != null) {
-      print("✅ Auto-Login Success: Routing to MainScreen");
-      Navigator.pushReplacement(
-        context,
-        // 🌟 FIX 2: Added the required 'userPackage' parameter
-        MaterialPageRoute(
-          builder: (context) => const MainScreen(userPackage: 'citizenship'),
-        ),
-      );
-    } else if (isGuest) {
-      print("✅ Guest Session Found: Routing to MainScreen (Free)");
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(
-          builder: (context) => const MainScreen(userPackage: 'free'),
-        ),
-      );
-    } else {
-      print("🔒 No Session Found: Routing to AuthWrapper");
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (context) => const AuthWrapper()),
-      );
-    }
-    // ==========================================================
+    // Restore the account or guest through the same verified access gate.
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (_) => const AuthWrapper()),
+    );
   }
 
   @override

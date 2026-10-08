@@ -87,7 +87,17 @@ class _SubscriptionScreenState extends State<SubscriptionScreen> {
       });
     } catch (error) {
       debugPrint('RevenueCat offerings failed: $error');
-      if (mounted) setState(() => _packageError = 'packages_load_error');
+      if (mounted) {
+        final unavailableBilling =
+            error is PlatformException &&
+            PurchasesErrorHelper.getErrorCode(error) ==
+                PurchasesErrorCode.purchaseNotAllowedError;
+        setState(
+          () => _packageError = unavailableBilling
+              ? 'billing_not_supported'
+              : 'packages_load_error',
+        );
+      }
     } finally {
       if (mounted) setState(() => _isLoading = false);
     }

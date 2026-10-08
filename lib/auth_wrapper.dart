@@ -1,64 +1,110 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/firebase_auth.dart';
-import 'services/purchase_service.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-
+import 'package:easy_localization/easy_localization.dart';
+import 'services/session_repository.dart';
 import 'screens/main_screen.dart';
 import 'screens/onboarding/onboarding_screen.dart';
+import 'screens/auth/login_screen.dart';
 
-class AuthWrapper extends StatelessWidget {
-  const AuthWrapper({super.key});
+class AuthWrapper extends StatefulWidget {
+  final SessionRepository sessions;
+  final Widget Function(BuildContext, String)? mainBuilder;
+  final WidgetBuilder? onboardingBuilder;
+  final WidgetBuilder? loginBuilder;
+  const AuthWrapper({
+    super.key,
+    this.sessions = const FirebaseSessionRepository(),
+    this.mainBuilder,
+    this.onboardingBuilder,
+    this.loginBuilder,
+  });
+  @override
+  State<AuthWrapper> createState() => _AuthWrapperState();
+}
 
-  Future<bool> _checkIfGuest() async {
-    final prefs = await SharedPreferences.getInstance();
-    return prefs.getBool('isGuest') ?? false;
-  }
+enum _Destination { loading, onboarding, login, main, error }
+
+class _AuthWrapperState extends State<AuthWrapper> {
+  StreamSubscription<SessionIdentity?>? _subscription;
+  SessionIdentity? _identity;
+  int _generation = 0;
+  String _tier = 'free';
+  _Destination _destination = _Destination.loading;
 
   @override
-  Widget build(BuildContext context) {
-    return StreamBuilder<User?>(
-      stream: FirebaseAuth.instance.authStateChanges(),
-      builder: (context, authSnapshot) {
-        if (authSnapshot.connectionState == ConnectionState.waiting) {
-          return const Scaffold(
-            body: Center(child: CircularProgressIndicator()),
-          );
-        }
-
-        // SCENARIO 1: NOT LOGGED INTO FIREBASE
-        if (!authSnapshot.hasData) {
-          return FutureBuilder<bool>(
-            future: _checkIfGuest(),
-            builder: (context, guestSnapshot) {
-              if (guestSnapshot.connectionState == ConnectionState.waiting) {
-                return const Scaffold(
-                  body: Center(child: CircularProgressIndicator()),
-                );
-              }
-              // If they clicked "Free" previously, send to app as free user
-              if (guestSnapshot.data == true) {
-                return const MainScreen(userPackage: 'free');
-              }
-              // Otherwise, start from the very beginning (Intro/Splash)
-              return const OnboardingScreen();
-            },
-          );
-        }
-
-        // Account profiles are presentation data; RevenueCat determines access.
-        return FutureBuilder<String>(
-          key: ValueKey(authSnapshot.data!.uid),
-          future: PurchaseService.currentTier(),
-          builder: (context, tierSnapshot) {
-            if (tierSnapshot.connectionState == ConnectionState.waiting) {
-              return const Scaffold(
-                body: Center(child: CircularProgressIndicator()),
-              );
-            }
-            return MainScreen(userPackage: tierSnapshot.data ?? 'free');
-          },
-        );
+  void initState() {
+    super.initState();
+    _subscription = widget.sessions.identities.listen(
+      (identity) {
+        _identity = identity;
+        _resolve(identity);
+      },
+      onError: (Object error) {
+        _generation++;
+        if (mounted) setState(() => _destination = _Destination.error);
       },
     );
   }
+
+  Future<void> _resolve(SessionIdentity? identity) async {
+    final generation = ++_generation;
+    setState(() => _destination = _Destination.loading);
+    try {
+      var destination = _Destination.main;
+      var tier = 'free';
+      if (identity != null && !identity.emailVerified) {
+        destination = _Destination.login;
+      } else if (identity == null && !await widget.sessions.isGuest()) {
+        destination = _Destination.onboarding;
+      } else {
+        // Both returning accounts and guests can own RevenueCat purchases.
+        tier = await widget.sessions.tier();
+      }
+      if (!mounted || generation != _generation) return;
+      setState(() {
+        _tier = tier;
+        _destination = destination;
+      });
+    } catch (error) {
+      debugPrint('Session restoration failed: $error');
+      if (mounted && generation == _generation) {
+        setState(() => _destination = _Destination.error);
+      }
+    }
+  }
+
+  @override
+  void dispose() {
+    _generation++;
+    _subscription?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) => switch (_destination) {
+    _Destination.loading => const Scaffold(
+      body: Center(child: CircularProgressIndicator()),
+    ),
+    _Destination.onboarding =>
+      widget.onboardingBuilder?.call(context) ?? const OnboardingScreen(),
+    _Destination.login =>
+      widget.loginBuilder?.call(context) ?? const LoginScreen(),
+    _Destination.main =>
+      widget.mainBuilder?.call(context, _tier) ??
+          MainScreen(userPackage: _tier),
+    _Destination.error => Scaffold(
+      body: Center(
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text('session_load_error'.tr(), textAlign: TextAlign.center),
+            TextButton(
+              onPressed: () => _resolve(_identity),
+              child: Text('retry'.tr()),
+            ),
+          ],
+        ),
+      ),
+    ),
+  };
 }

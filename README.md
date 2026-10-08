@@ -8,7 +8,7 @@ Repository name: `PrepCivic-CDX`. The application name, Firebase configuration, 
 
 Read [AUDIT.md](AUDIT.md) for the implemented fixes, remaining findings and TestFlight acceptance checks. [SOURCE_CHANGES.md](SOURCE_CHANGES.md) lists changes against the supplied original ZIP.
 
-Local validation: 18 Flutter regression tests and 26 SQLite checks passed; static analysis had no errors or warnings; Android debug build succeeded. Native iOS builds and real Apple purchases still require Codemagic/macOS and TestFlight validation.
+Local validation: 31 Flutter regression tests and 26 SQLite checks passed; static analysis had no errors or warnings; Android debug build succeeded. Native iOS builds and real Apple purchases still require Codemagic/macOS and TestFlight validation.
 
 ## Development
 
@@ -22,4 +22,4 @@ flutter analyze
 
 Use the existing Codemagic signing/publishing configuration, bundle ID `com.torcdigital.prepcivique`, and a fresh build number above the latest App Store Connect build. The iOS deployment target is 15.0. Keep private keys, signing files and account credentials in Codemagic secrets, outside Git.
 
-The app source still has version `1.0.0+6`; set a new build number in CI before upload.
+The app source still has version `1.0.0+9`; set a new build number in CI before upload.
