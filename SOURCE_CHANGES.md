@@ -74,3 +74,7 @@
 - Changed: `lib/services/encryption_service.dart`
 - Changed: `pubspec.lock`
 - Changed: `pubspec.yaml`
+
+- Added: `lib/services/bundled_quiz_bank.dart`
+
+- Added: `lib/services/quiz_repository.dart`

@@ -1,27 +1,35 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:easy_localization/easy_localization.dart';
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import '../../models/question_model.dart';
-import '../../services/database_service.dart';
-import '../../services/purchase_service.dart';
+import '../../services/quiz_repository.dart';
 import 'result_screen.dart';
 import '../premium/subscription_screen.dart';
 
 class QuizScreen extends StatefulWidget {
   final String topicTitle;
   final VoidCallback? onDashboard;
+  final QuizRepository repository;
+  final bool? isMockExam;
 
-  const QuizScreen({super.key, required this.topicTitle, this.onDashboard});
+  const QuizScreen({
+    super.key,
+    required this.topicTitle,
+    this.onDashboard,
+    this.repository = const LocalQuizRepository(),
+    this.isMockExam,
+  });
 
   @override
   State<QuizScreen> createState() => _QuizScreenState();
 }
 
 class _QuizScreenState extends State<QuizScreen> {
-  final DatabaseService _dbService = DatabaseService();
+  QuizAccess _access = const QuizAccess('free');
+  bool get _isMock =>
+      widget.isMockExam ??
+      (widget.topicTitle == 'mock_exam'.tr() ||
+          widget.topicTitle == 'Examen Blanc (Mock Test)');
   List<QuestionModel> _questions = [];
   bool _isLoading = true;
 
@@ -37,9 +45,6 @@ class _QuizScreenState extends State<QuizScreen> {
   Timer? _timer;
   DateTime? _deadline;
   int _timeLeft = 45 * 60; // 45 minutes
-
-  String _userTier = 'free';
-  bool _hasTakenFreeMock = false;
 
   @override
   void initState() {
@@ -83,51 +88,15 @@ class _QuizScreenState extends State<QuizScreen> {
 
     _isSubmitting = false;
     _needsPremium = false;
-    _hasTakenFreeMock = false;
-    _userTier = await PurchaseService.currentTier();
-    if (!mounted) return;
-
-    bool isMockTest =
-        widget.topicTitle == 'mock_exam'.tr() ||
-        widget.topicTitle == 'Examen Blanc (Mock Test)';
-
     try {
-      User? currentUser = FirebaseAuth.instance.currentUser;
-      if (currentUser != null && isMockTest && _userTier == 'free') {
-        DocumentSnapshot userDoc = await FirebaseFirestore.instance
-            .collection('users')
-            .doc(currentUser.uid)
-            .get()
-            .timeout(const Duration(seconds: 15));
-
-        if (userDoc.exists) {
-          var data = userDoc.data() as Map<String, dynamic>;
-          _hasTakenFreeMock = data['has_taken_free_mock'] ?? false;
-          int bonusMocks = data['bonus_mocks'] ?? 0;
-
-          if (isMockTest && _userTier == 'free' && _hasTakenFreeMock) {
-            if (bonusMocks <= 0) {
-              _needsPremium = true;
-            }
-          }
-        }
-      }
-
-      if (currentUser == null && isMockTest && _userTier == 'free') {
-        final prefs = await SharedPreferences.getInstance();
-        _hasTakenFreeMock = prefs.getBool('guest_free_mock_used') ?? false;
-        _needsPremium = _hasTakenFreeMock;
-      }
-
-      List<QuestionModel> fetchedQuestions = [];
-
-      if (isMockTest) {
-        fetchedQuestions = await _dbService.getAllQuestions();
-      } else {
-        String moduleName = widget.topicTitle.toLowerCase();
-        fetchedQuestions = await _dbService.getQuestionsForModule(moduleName);
-      }
-
+      _access = await widget.repository.access(_isMock);
+      if (!mounted) return;
+      _needsPremium = _isMock && _access.needsPremium;
+      var fetchedQuestions = await widget.repository.questions(
+        _isMock,
+        widget.topicTitle,
+      );
+      final isMockTest = _isMock;
       if (fetchedQuestions.isNotEmpty) {
         fetchedQuestions.shuffle();
         int limit = isMockTest ? 40 : 10;
@@ -206,7 +175,7 @@ class _QuizScreenState extends State<QuizScreen> {
               if (result == true && mounted) {
                 setState(() {
                   _needsPremium = false;
-                  _userTier = 'premium';
+                  _access = const QuizAccess('premium');
                   _isStarted = true;
                 });
                 _startTimer();
@@ -263,37 +232,13 @@ class _QuizScreenState extends State<QuizScreen> {
     );
 
     try {
-      await _dbService.saveQuizScore(
+      await widget.repository.record(
+        _isMock,
         widget.topicTitle,
+        _access,
         _score,
         _questions.length,
       );
-
-      bool isMockTest =
-          widget.topicTitle == 'mock_exam'.tr() ||
-          widget.topicTitle == 'Examen Blanc (Mock Test)';
-      if (isMockTest && _userTier == 'free') {
-        User? currentUser = FirebaseAuth.instance.currentUser;
-        if (currentUser != null) {
-          final userDocRef = FirebaseFirestore.instance
-              .collection('users')
-              .doc(currentUser.uid);
-          if (!_hasTakenFreeMock) {
-            await userDocRef
-                .set({'has_taken_free_mock': true}, SetOptions(merge: true))
-                .timeout(const Duration(seconds: 15));
-          } else {
-            await userDocRef
-                .set({
-                  'bonus_mocks': FieldValue.increment(-1),
-                }, SetOptions(merge: true))
-                .timeout(const Duration(seconds: 15));
-          }
-        } else {
-          final prefs = await SharedPreferences.getInstance();
-          await prefs.setBool('guest_free_mock_used', true);
-        }
-      }
     } catch (e) {
       print("❌ DevOps Error saving quiz score/metadata: $e");
     } finally {

@@ -70,7 +70,7 @@ Do not guess package assignments from prices or array order. If the dashboard ID
 
 ## Validation
 
-- 31 Flutter regression tests pass, including full ten-question review and continuation, empty/unknown offerings, retry, real store price display, cancellation, missing entitlement, restoration, CSV parsing, duplicate filtering, local account naming/isolation, deletion ordering and small-screen enlarged-text payment controls. Purchases are simulated through an injected billing client; these are not Apple transactions.
+- 36 Flutter regression tests pass, including full ten-question review and continuation, empty/unknown offerings, retry, real store price display, cancellation, missing entitlement, restoration, CSV parsing, duplicate filtering, local account naming/isolation, deletion ordering and small-screen enlarged-text payment controls. Purchases are simulated through an injected billing client; these are not Apple transactions.
 - 26 checks execute the app's selection SQL in SQLite against all six supplied French categories (854 source questions). They verify within-session uniqueness, previous-session exclusion, least-seen priority and mastered-question exclusion, and preservation of local progress against stale cloud snapshots.
 - Static analysis: no errors or warnings; informational lint/deprecation suggestions remain. See `ANALYSIS.txt`.
 - Android debug build succeeds. See `BUILD_RESULTS.txt`.
@@ -89,7 +89,7 @@ dart run tools/audit_translation_matching.dart
 flutter build apk --debug
 ```
 
-On macOS, use the same project, run `flutter pub get`, install the iOS pods if required, open `ios/Runner.xcworkspace`, use your existing signing configuration, and build a new TestFlight build with an unused build number. Use a build number greater than the latest build in App Store Connect; the current source `+9` is not a guarantee of uniqueness. Existing store releases are unchanged.
+On macOS, use the same project, run `flutter pub get`, install the iOS pods if required, open `ios/Runner.xcworkspace`, use your existing signing configuration, and build a new TestFlight build with an unused build number. Use a build number greater than the latest build in App Store Connect; the current source `+10` is not a guarantee of uniqueness. Existing store releases are unchanged.
 
 TestFlight acceptance checks: complete ten free practice questions, review forward/back without score changes; buy each plan with a sandbox tester; confirm the expected entitlement and paid practice/mock access; restart the app; restore after reinstall; test cancellation and network failures; test login/logout and a second account; check all six languages including RTL layouts and missing-translation fallbacks.
 
@@ -109,4 +109,15 @@ The useful startup intent is implemented through one shared session gate: no har
 
 CDX keeps the single-pop restart/dashboard behavior; the other repository’s double-pop navigation was not imported. The result page scrolls on short screens and safely handles an empty score denominator. Billing-not-allowed errors now explain device/account store availability rather than suggesting only a network failure.
 
-Source version is now `1.0.0+9`. Codemagic must still assign a unique build number greater than the latest build actually uploaded to App Store Connect. No Apple product settings, signing, production rules or store releases were changed. Missing translated content and backend findings above remain open; local improvements are not a claim of complete App Store readiness.
+Source version is now `1.0.0+10`. Codemagic must still assign a unique build number greater than the latest build actually uploaded to App Store Connect. No Apple product settings, signing, production rules or store releases were changed. Missing translated content and backend findings above remain open; local improvements are not a claim of complete App Store readiness.
+
+
+## Mock exam and Google Play emulator correction (8 October 2026)
+
+The failing mock requests logged Firestore `permission-denied`. Practice used local data, but mock questions depended on the cloud collection. Mock exams now load and validate the six existing bundled mock-bank CSVs, filter repeated French stems, shuffle a 40-question session, and retain the free/paid attempt gate. Account-scoped local attempt state remains available when the profile cannot be read; this is a client fallback, not server enforcement. Cloud rules still need a separate backend audit. Dashboard routes explicitly identify mock exams so changing the interface language cannot misclassify them.
+
+Five added tests cover the real bundled bank, malformed answer blocks, mock startup, retry recovery, and free/paid/bonus access. All 36 regression tests and 26 SQL checks pass. The mock pool remains French, matching the supplied mock bank; multilingual practice is unchanged.
+
+The new `PrepCivic_Play` emulator uses the official API 35 Google Play system image. ADB confirms a genuine `Phonesky.apk` Play Store (version 41.3.25), unlike the old emulator's LicenseChecker stub. Google account login alone does not add Play billing to a Google APIs-only image. Live billing still requires signing into this Play Store with a Google Play license tester account; no transaction has been verified or store release uploaded. See [Android AVD setup](https://developer.android.com/studio/run/managing-avds) and [Google Play Billing testing](https://developer.android.com/google/play/billing/test).
+
+Android version code 10 was installed successfully on `PrepCivic_Play` (`emulator-5556`). The old emulator had been closed by installation time; its data was not cleared. Play Store sign-in and live billing checks are left for the account owner.

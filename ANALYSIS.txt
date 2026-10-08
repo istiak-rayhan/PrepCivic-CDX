@@ -1,87 +1,93 @@
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\main.dart|22|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\main.dart|25|5|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\main.dart|49|5|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\main.dart|51|5|5|Don't invoke 'print' in production code.
-INFO|LINT|USE_BUILD_CONTEXT_SYNCHRONOUSLY|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\auth\\login_screen.dart|148|40|7|Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check.
-INFO|LINT|USE_BUILD_CONTEXT_SYNCHRONOUSLY|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\auth\\login_screen.dart|157|40|7|Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\auth\\login_screen.dart|301|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\auth\\register_screen.dart|283|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\course_tab.dart|39|45|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\dashboard_screen.dart|62|7|5|Don't invoke 'print' in production code.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\dashboard_screen.dart|255|34|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|PREFER_FINAL_FIELDS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\home_tab.dart|21|8|25|The private field _isCheckingAccess could be 'final'.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\home_tab.dart|98|52|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\home_tab.dart|112|47|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\home_tab.dart|137|53|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\home_tab.dart|237|30|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|112|7|5|Don't invoke 'print' in production code.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|127|9|143|Use 'const' with the constructor to improve performance.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|128|20|101|Use 'const' with the constructor to improve performance.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|136|11|5|'Share' is deprecated and shouldn't be used. Use SharePlus instead.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|136|17|5|'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|244|53|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|283|49|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|313|49|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|522|57|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\profile_tab.dart|579|41|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\quiz_tab.dart|53|42|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\dashboard\\quiz_tab.dart|183|42|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|UNNECESSARY_TO_LIST_IN_SPREADS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\debug_check_screen.dart|80|26|6|Unnecessary use of 'toList' in a spread.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS_IN_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\home\\home_screen.dart|8|3|10|Constructors in '@immutable' classes should be declared as 'const'.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\home\\home_screen.dart|59|13|9|Statements in an if should be enclosed in a block.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\home\\home_screen.dart|82|9|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\home\\home_screen.dart|84|9|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\home\\home_screen.dart|88|5|5|Don't invoke 'print' in production code.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\main_screen.dart|74|9|7|Statements in an if should be enclosed in a block.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\main_screen.dart|176|35|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\onboarding\\package_screen.dart|140|38|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\onboarding\\package_screen.dart|151|34|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\onboarding\\splash_screen.dart|39|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\onboarding\\splash_screen.dart|41|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\onboarding\\splash_screen.dart|43|7|5|Don't invoke 'print' in production code.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\category_selection_screen.dart|123|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\category_selection_screen.dart|135|28|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\practice_quiz_screen.dart|97|9|103|Statements in an if should be enclosed in a block.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\practice_quiz_screen.dart|234|27|50|Use 'const' with the constructor to improve performance.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\practice_quiz_screen.dart|246|25|49|Use 'const' with the constructor to improve performance.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\practice_quiz_screen.dart|249|28|175|Use 'const' with the constructor to improve performance.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\practice_quiz_screen.dart|396|42|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\practice\\practice_quiz_screen.dart|460|21|34|Statements in an if should be enclosed in a block.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\premium\\subscription_screen.dart|432|38|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|PREFER_CONST_CONSTRUCTORS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\premium\\subscription_screen.dart|454|26|160|Use 'const' with the constructor to improve performance.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\quiz\\mock_test_topics.dart|44|48|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\quiz\\quiz_screen.dart|146|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\quiz\\quiz_screen.dart|298|7|5|Don't invoke 'print' in production code.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\quiz\\quiz_screen.dart|391|38|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\quiz\\quiz_screen.dart|429|41|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\settings\\settings_screen.dart|275|33|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\settings\\settings_screen.dart|297|28|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\settings\\settings_screen.dart|298|38|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\stats\\stats_screen.dart|34|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\stats\\stats_screen.dart|65|7|5|Don't invoke 'print' in production code.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\stats\\stats_screen.dart|166|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|HINT|DEPRECATED_MEMBER_USE|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\screens\\stats\\stats_screen.dart|252|51|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_helper.dart|183|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_helper.dart|413|13|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|43|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|51|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|55|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|64|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|73|9|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|77|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|81|7|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|108|9|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|110|9|5|Don't invoke 'print' in production code.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\lib\\services\\database_service.dart|113|7|5|Don't invoke 'print' in production code.
-INFO|LINT|PREFER_CONST_LITERALS_TO_CREATE_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|144|5|2|Use 'const' literals as arguments to constructors of '@immutable' classes.
-INFO|LINT|PREFER_CONST_LITERALS_TO_CREATE_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|145|5|2|Use 'const' literals as arguments to constructors of '@immutable' classes.
-INFO|LINT|PREFER_CONST_LITERALS_TO_CREATE_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|146|5|2|Use 'const' literals as arguments to constructors of '@immutable' classes.
-INFO|LINT|PREFER_CONST_LITERALS_TO_CREATE_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|147|5|2|Use 'const' literals as arguments to constructors of '@immutable' classes.
-INFO|LINT|PREFER_CONST_LITERALS_TO_CREATE_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|150|5|2|Use 'const' literals as arguments to constructors of '@immutable' classes.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|172|7|67|Statements in an if should be enclosed in a block.
-INFO|LINT|PREFER_CONST_LITERALS_TO_CREATE_IMMUTABLES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\test\\regression_test.dart|193|47|2|Use 'const' literals as arguments to constructors of '@immutable' classes.
-INFO|LINT|AVOID_RELATIVE_LIB_IMPORTS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\tools\\audit_translation_matching.dart|3|8|35|Can't use a relative path to import a library in 'lib'.
-INFO|LINT|AVOID_RELATIVE_LIB_IMPORTS|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\tools\\audit_translation_matching.dart|4|8|36|Can't use a relative path to import a library in 'lib'.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\tools\\audit_translation_matching.dart|25|13|29|Statements in an if should be enclosed in a block.
-INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\tools\\audit_translation_matching.dart|29|13|17|Statements in an if should be enclosed in a block.
-INFO|LINT|AVOID_PRINT|C:\\Works\\test_project\\ray~\\prepcivic-audit\\PrepCivic-CDX\\tools\\audit_translation_matching.dart|47|9|5|Don't invoke 'print' in production code.
+Analyzing PrepCivic-CDX...
+
+   info - lib\main.dart:22:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\main.dart:25:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\main.dart:49:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\main.dart:51:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\auth\login_screen.dart:148:40 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - lib\screens\auth\login_screen.dart:157:40 - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check. Guard a 'State.context' use with a 'mounted' check on the State, and other BuildContext use with a 'mounted' check on the BuildContext. - use_build_context_synchronously
+   info - lib\screens\auth\login_screen.dart:301:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\auth\register_screen.dart:283:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\course_tab.dart:39:45 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\dashboard_screen.dart:62:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\dashboard\dashboard_screen.dart:255:34 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\home_tab.dart:21:8 - The private field _isCheckingAccess could be 'final'. Try making the field 'final'. - prefer_final_fields
+   info - lib\screens\dashboard\home_tab.dart:99:52 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\home_tab.dart:113:47 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\home_tab.dart:138:53 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\home_tab.dart:238:30 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:112:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\dashboard\profile_tab.dart:127:9 - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation. - prefer_const_constructors
+   info - lib\screens\dashboard\profile_tab.dart:128:20 - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation. - prefer_const_constructors
+   info - lib\screens\dashboard\profile_tab.dart:136:11 - 'Share' is deprecated and shouldn't be used. Use SharePlus instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:136:17 - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:244:53 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:283:49 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:313:49 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:522:57 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\profile_tab.dart:579:41 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\quiz_tab.dart:53:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\dashboard\quiz_tab.dart:183:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\debug_check_screen.dart:80:26 - Unnecessary use of 'toList' in a spread. Try removing the invocation of 'toList'. - unnecessary_to_list_in_spreads
+   info - lib\screens\home\home_screen.dart:8:3 - Constructors in '@immutable' classes should be declared as 'const'. Try adding 'const' to the constructor declaration. - prefer_const_constructors_in_immutables
+   info - lib\screens\home\home_screen.dart:59:13 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - lib\screens\home\home_screen.dart:82:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\home\home_screen.dart:84:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\home\home_screen.dart:88:5 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\main_screen.dart:75:9 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - lib\screens\main_screen.dart:177:35 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\onboarding\package_screen.dart:140:38 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\onboarding\package_screen.dart:151:34 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\onboarding\splash_screen.dart:39:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\onboarding\splash_screen.dart:41:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\onboarding\splash_screen.dart:43:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\practice\category_selection_screen.dart:123:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\practice\category_selection_screen.dart:135:28 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\practice\practice_quiz_screen.dart:97:9 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - lib\screens\practice\practice_quiz_screen.dart:234:27 - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation. - prefer_const_constructors
+   info - lib\screens\practice\practice_quiz_screen.dart:246:25 - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation. - prefer_const_constructors
+   info - lib\screens\practice\practice_quiz_screen.dart:249:28 - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation. - prefer_const_constructors
+   info - lib\screens\practice\practice_quiz_screen.dart:396:42 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\practice\practice_quiz_screen.dart:460:21 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - lib\screens\premium\subscription_screen.dart:432:38 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\premium\subscription_screen.dart:454:26 - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation. - prefer_const_constructors
+   info - lib\screens\quiz\mock_test_topics.dart:44:48 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\quiz\quiz_screen.dart:115:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\quiz\quiz_screen.dart:243:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\quiz\quiz_screen.dart:336:38 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\quiz\quiz_screen.dart:374:41 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\settings\settings_screen.dart:275:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\settings\settings_screen.dart:297:28 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\settings\settings_screen.dart:298:38 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\stats\stats_screen.dart:34:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\stats\stats_screen.dart:65:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\screens\stats\stats_screen.dart:166:44 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\stats\stats_screen.dart:252:51 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\services\database_helper.dart:183:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_helper.dart:413:13 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:43:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:51:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:55:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:64:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:73:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:77:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:81:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:108:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:110:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\database_service.dart:113:7 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+   info - lib\services\quiz_repository.dart:76:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - test\regression_test.dart:181:5 - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal. - prefer_const_literals_to_create_immutables
+   info - test\regression_test.dart:182:5 - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal. - prefer_const_literals_to_create_immutables
+   info - test\regression_test.dart:183:5 - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal. - prefer_const_literals_to_create_immutables
+   info - test\regression_test.dart:184:5 - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal. - prefer_const_literals_to_create_immutables
+   info - test\regression_test.dart:187:5 - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal. - prefer_const_literals_to_create_immutables
+   info - test\regression_test.dart:209:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - test\regression_test.dart:230:47 - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal. - prefer_const_literals_to_create_immutables
+   info - test\regression_test.dart:714:7 - Use 'const' for final variables initialized to a constant value. Try replacing 'final' with 'const'. - prefer_const_declarations
+   info - tools\audit_translation_matching.dart:3:8 - Can't use a relative path to import a library in 'lib'. Try fixing the relative path or changing the import to a 'package:' import. - avoid_relative_lib_imports
+   info - tools\audit_translation_matching.dart:4:8 - Can't use a relative path to import a library in 'lib'. Try fixing the relative path or changing the import to a 'package:' import. - avoid_relative_lib_imports
+   info - tools\audit_translation_matching.dart:25:13 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - tools\audit_translation_matching.dart:29:13 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - tools\audit_translation_matching.dart:47:9 - Don't invoke 'print' in production code. Try using a logging framework. - avoid_print
+
+89 issues found.

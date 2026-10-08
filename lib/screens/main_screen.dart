@@ -33,6 +33,7 @@ class _MainScreenState extends State<MainScreen> {
     CategorySelectionScreen(userPackage: _accessTier),
     QuizScreen(
       topicTitle: 'mock_exam'.tr(),
+      isMockExam: true,
       onDashboard: () => setState(() => _currentIndex = 0),
     ),
     ProfileTab(userPackage: _accessTier, isActive: _currentIndex == 3),

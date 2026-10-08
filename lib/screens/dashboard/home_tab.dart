@@ -40,7 +40,8 @@ class _HomeTabState extends State<HomeTab> {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (c) => QuizScreen(topicTitle: 'mock_exam'.tr()),
+        builder: (c) =>
+            QuizScreen(topicTitle: 'mock_exam'.tr(), isMockExam: true),
       ),
     );
   }

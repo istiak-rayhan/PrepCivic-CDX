@@ -9,6 +9,9 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:purchases_flutter/purchases_flutter.dart';
 import 'package:prepcivic_app/services/question_text.dart';
+import 'package:prepcivic_app/services/bundled_quiz_bank.dart';
+import 'package:prepcivic_app/services/quiz_repository.dart';
+import 'package:prepcivic_app/screens/quiz/quiz_screen.dart';
 import 'package:prepcivic_app/services/session_repository.dart';
 import 'package:prepcivic_app/auth_wrapper.dart';
 import 'package:prepcivic_app/screens/quiz/result_screen.dart';
@@ -23,6 +26,40 @@ import 'package:prepcivic_app/services/database_service.dart';
 import 'package:prepcivic_app/models/question_model.dart';
 import 'package:prepcivic_app/screens/practice/practice_quiz_screen.dart';
 import 'package:prepcivic_app/screens/premium/subscription_screen.dart';
+
+class MemoryQuiz extends QuizRepository {
+  QuizAccess state = const QuizAccess('free');
+  int saves = 0;
+  int loads = 0;
+  bool fail = false;
+  @override
+  Future<QuizAccess> access(bool isMock) async => state;
+  @override
+  Future<List<QuestionModel>> questions(bool isMock, String topic) async {
+    loads++;
+    if (fail) throw StateError('Question load failure');
+    return List.generate(
+      40,
+      (i) => QuestionModel(
+        id: '$i',
+        questionText: 'Mock question ${i + 1}',
+        options: ['Right', 'Wrong', 'Other'],
+        correctAnswerIndex: 0,
+      ),
+    );
+  }
+
+  @override
+  Future<void> record(
+    bool isMock,
+    String topic,
+    QuizAccess access,
+    int score,
+    int total,
+  ) async {
+    saves++;
+  }
+}
 
 class MemorySessions extends SessionRepository {
   final SessionIdentity? initial;
@@ -646,6 +683,104 @@ void main() {
     },
   );
 
+  test('all six bundled mock banks contain valid distinct questions', () {
+    final questions = <QuestionModel>[];
+    for (final file in BundledQuizBank.files.entries) {
+      final csv = File('assets/mock_test/${file.key}').readAsStringSync();
+      final parsed = BundledQuizBank.parse(csv, file.key, file.value);
+      expect(parsed, isNotEmpty);
+      expect(
+        parsed.every(
+          (q) =>
+              q.options.length >= 2 &&
+              q.correctAnswerIndex >= 0 &&
+              q.correctAnswerIndex < q.options.length,
+        ),
+        isTrue,
+      );
+      questions.addAll(parsed);
+    }
+    final distinct = DatabaseService.uniqueQuestions(questions);
+    expect(distinct.length, greaterThan(700));
+    expect(
+      distinct.map((q) => QuestionText.key(q.questionText!)).toSet().length,
+      distinct.length,
+    );
+  });
+
+  test(
+    'malformed answer blocks are omitted instead of marking option zero correct',
+    () {
+      final csv =
+          'type,text,placeholder,is_correct,level\nquestion,Invalid,,,lvl1\nanswer,A,,0,\nanswer,B,,0,\nquestion,Valid,,,lvl1\nanswer,C,,0,\nanswer,D,,1,\n';
+      final result = BundledQuizBank.parse(csv, 'test.csv', 'test');
+      expect(result.length, 1);
+      expect(result.single.questionText, 'Valid');
+      expect(result.single.correctAnswerIndex, 1);
+    },
+  );
+
+  testWidgets(
+    'mock loads forty questions and starts without Firebase question access',
+    (tester) async {
+      final repo = MemoryQuiz();
+      await show(
+        tester,
+        QuizScreen(
+          topicTitle: 'Examen Blanc',
+          isMockExam: true,
+          repository: repo,
+        ),
+      );
+      expect(find.text('40 Questions'), findsOneWidget);
+      expect(find.text('Could not load questions'), findsNothing);
+      await tester.tap(find.byType(ElevatedButton));
+      await tester.pump();
+      expect(find.textContaining('Mock question '), findsOneWidget);
+      expect(repo.loads, 1);
+      await tester.pumpWidget(const SizedBox());
+    },
+  );
+
+  testWidgets('mock retries an actual bank error and recovers', (tester) async {
+    final repo = MemoryQuiz()..fail = true;
+    await show(
+      tester,
+      QuizScreen(
+        topicTitle: 'Examen Blanc',
+        isMockExam: true,
+        repository: repo,
+      ),
+    );
+    expect(find.text('Réessayer'), findsOneWidget);
+    repo.fail = false;
+    await tester.tap(find.text('Réessayer'));
+    await tester.pumpAndSettle();
+    expect(find.text('40 Questions'), findsOneWidget);
+  });
+
+  test('offline bank does not waive the free mock limit or paid access', () {
+    expect(
+      const QuizAccess('free', hasTakenFreeMock: true).needsPremium,
+      isTrue,
+    );
+    expect(
+      const QuizAccess(
+        'free',
+        hasTakenFreeMock: true,
+        bonusMocks: 1,
+      ).needsPremium,
+      isFalse,
+    );
+    expect(
+      const QuizAccess('nationality', hasTakenFreeMock: true).needsPremium,
+      isFalse,
+    );
+    expect(
+      LocalQuizRepository.usedKey('alice'),
+      isNot(LocalQuizRepository.usedKey('bob')),
+    );
+  });
   testWidgets(
     'unavailable device billing gives store guidance instead of a connection error',
     (tester) async {

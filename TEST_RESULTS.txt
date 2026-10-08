@@ -105,7 +105,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:00 +12: returning verified account restores exact 2_years access
+00:02 +12: returning verified account restores exact 2_years access
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -116,7 +116,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:00 +13: returning verified account restores exact 10_years access
+00:02 +13: returning verified account restores exact 10_years access
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -127,7 +127,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +14: returning verified account restores exact nationality access
+00:02 +14: returning verified account restores exact nationality access
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -138,7 +138,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +15: returning paid guest keeps RevenueCat access
+00:02 +15: returning paid guest keeps RevenueCat access
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -149,7 +149,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +16: new visitor enters onboarding without querying purchases
+00:03 +16: new visitor enters onboarding without querying purchases
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -160,7 +160,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +17: unverified account cannot bypass the email login gate on restart
+00:03 +17: unverified account cannot bypass the email login gate on restart
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -171,8 +171,8 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +18: late purchase lookup cannot restore a signed-out account
-00:01 +19: failed session restoration can retry
+00:03 +18: late purchase lookup cannot restore a signed-out account
+00:03 +19: failed session restoration can retry
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -184,7 +184,7 @@ Try `flutter pub outdated` for more information.
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 Session restoration failed: Bad state: Store connection failed
-00:01 +20: result restart dismisses only the result route
+00:03 +20: result restart dismisses only the result route
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -195,7 +195,7 @@ Session restoration failed: Bad state: Store connection failed
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +21: result dashboard dismisses only the result route
+00:03 +21: result dashboard dismisses only the result route
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -206,7 +206,7 @@ Session restoration failed: Bad state: Store connection failed
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:01 +22: small screen with enlarged text keeps purchase and restore reachable
+00:03 +22: small screen with enlarged text keeps purchase and restore reachable
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -218,7 +218,7 @@ Session restoration failed: Bad state: Store connection failed
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat package pkg_2_4_year, product ios.product
-00:01 +23: review starts at question one, retains answers and cannot rescore
+00:04 +23: review starts at question one, retains answers and cannot rescore
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -229,7 +229,7 @@ RevenueCat package pkg_2_4_year, product ios.product
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:02 +24: paid continuation resets the score and excludes prior questions
+00:05 +24: paid continuation resets the score and excludes prior questions
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -240,7 +240,33 @@ RevenueCat package pkg_2_4_year, product ios.product
 [90m[🌎 Easy Localization] [DEBUG] Build[0m
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
-00:03 +25: unavailable device billing gives store guidance instead of a connection error
+00:06 +25: all six bundled mock banks contain valid distinct questions
+00:06 +26: malformed answer blocks are omitted instead of marking option zero correct
+00:06 +27: mock loads forty questions and starts without Firebase question access
+[90m[🌎 Easy Localization] [DEBUG] Start[0m
+[90m[🌎 Easy Localization] [DEBUG] Init state[0m
+[32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
+[90m[🌎 Easy Localization] [DEBUG] Build[0m
+[90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
+[90m[🌎 Easy Localization] [DEBUG] Init provider[0m
+[90m[🌎 Easy Localization] [DEBUG] Load Localization Delegate[0m
+[90m[🌎 Easy Localization] [DEBUG] Build[0m
+[90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
+[90m[🌎 Easy Localization] [DEBUG] Init provider[0m
+00:07 +28: mock retries an actual bank error and recovers
+[90m[🌎 Easy Localization] [DEBUG] Start[0m
+[90m[🌎 Easy Localization] [DEBUG] Init state[0m
+[32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
+[90m[🌎 Easy Localization] [DEBUG] Build[0m
+[90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
+[90m[🌎 Easy Localization] [DEBUG] Init provider[0m
+[90m[🌎 Easy Localization] [DEBUG] Load Localization Delegate[0m
+[90m[🌎 Easy Localization] [DEBUG] Build[0m
+[90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
+[90m[🌎 Easy Localization] [DEBUG] Init provider[0m
+❌ Error in QuizScreen _loadData: Bad state: Question load failure
+00:07 +29: offline bank does not waive the free mock limit or paid access
+00:07 +30: unavailable device billing gives store guidance instead of a connection error
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -253,7 +279,7 @@ RevenueCat package pkg_2_4_year, product ios.product
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat offerings failed: PlatformException(3, Billing unavailable, null, null)
 RevenueCat package pkg_2_4_year, product ios.product
-00:03 +26: empty offering disables payment; retry recovers and uses store price
+00:07 +31: empty offering disables payment; retry recovers and uses store price
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -266,7 +292,7 @@ RevenueCat package pkg_2_4_year, product ios.product
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat: no current offering. Available offering IDs:
 RevenueCat package pkg_2_4_year, product ios.product
-00:03 +27: unknown package IDs stay unavailable instead of pretending to load
+00:07 +32: unknown package IDs stay unavailable instead of pretending to load
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -278,7 +304,7 @@ RevenueCat package pkg_2_4_year, product ios.product
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat package wrong_id, product ios.product
-00:03 +28: a purchase without the expected entitlement explains pending access
+00:07 +33: a purchase without the expected entitlement explains pending access
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -291,7 +317,7 @@ RevenueCat package wrong_id, product ios.product
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat package pkg_2_4_year, product ios.product
 Purchase returned without expected entitlement access_basic; active: ()
-00:03 +29: restore mirrors the highest tier and unlocks guest access
+00:07 +34: restore mirrors the highest tier and unlocks guest access
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -303,7 +329,7 @@ Purchase returned without expected entitlement access_basic; active: ()
 [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat: no current offering. Available offering IDs:
-00:03 +30: cancelled purchases stay on the paywall without an error alert
+00:08 +35: cancelled purchases stay on the paywall without an error alert
 [90m[🌎 Easy Localization] [DEBUG] Start[0m
 [90m[🌎 Easy Localization] [DEBUG] Init state[0m
 [32m[🌎 Easy Localization] [INFO] Start locale loaded fr[0m
@@ -316,5 +342,5 @@ RevenueCat: no current offering. Available offering IDs:
 [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
 RevenueCat package pkg_2_4_year, product ios.product
 RevenueCat purchase failed: PurchasesErrorCode.purchaseCancelledError; Cancelled
-00:03 +31: (tearDownAll)
-00:03 +31: All tests passed!
+00:08 +36: (tearDownAll)
+00:08 +36: All tests passed!
