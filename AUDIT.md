@@ -121,3 +121,10 @@ Five added tests cover the real bundled bank, malformed answer blocks, mock star
 The new `PrepCivic_Play` emulator uses the official API 35 Google Play system image. ADB confirms a genuine `Phonesky.apk` Play Store (version 41.3.25), unlike the old emulator's LicenseChecker stub. Google account login alone does not add Play billing to a Google APIs-only image. Live billing still requires signing into this Play Store with a Google Play license tester account; no transaction has been verified or store release uploaded. See [Android AVD setup](https://developer.android.com/studio/run/managing-avds) and [Google Play Billing testing](https://developer.android.com/google/play/billing/test).
 
 Android version code 10 was installed successfully on `PrepCivic_Play` (`emulator-5556`). The old emulator had been closed by installation time; its data was not cleared. Play Store sign-in and live billing checks are left for the account owner.
+
+
+## Latest Android runtime test and release source
+
+The owner-tested Google Play emulator session loaded 784 distinct bundled mock questions twice and reported a successful Firebase score save. In the later session, Google Play billing connected with country code BD and RevenueCat built offerings containing all three expected products, with store prices BDT 4,900 / 6,500 / 8,100. Earlier billing-unavailable messages predated that successful session. No app crash or Firestore permission-denied error was observed in the later captured session. A completed purchase/restore and native iOS build remain unverified. Database initialization took about 24 seconds on this emulator and needs performance investigation.
+
+The release source is `istiak-rayhan/PrepCivic-CDX`, branch `main`. New commits use the main GitHub account's noreply identity. Historical commits keep their original authors. Git commit attribution does not determine Codemagic repository access or build queue scheduling. Use an unused build number greater than the latest App Store Connect build before upload.
